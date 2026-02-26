@@ -22,59 +22,59 @@
 | **First Appearance** | Chapter 1 (mentioned); Chapter 2 (on-page) |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Rachel Small is the mother of Samantha "Sam" Small, the series protagonist, and the wife of Benjamin "Ben" Small. She works as a librarian for the City of Philadelphia, a position that grants her research skills, institutional knowledge, and access to archival materials that prove unexpectedly valuable to Sam's investigations. Rachel manages bipolar disorder with medication, a condition she has expressed concern Sam may have inherited.
+Rachel Small is the mother of Samantha "Sam" Small, the series protagonist, and the wife of Benjamin "Ben" Small. She works as a librarian for the City of Philadelphia, a position that grants her research skills, institutional knowledge, and access to archival materials that prove unexpectedly valuable to Sam's investigations. Rachel manages bipolar disorder with medication, a condition she has expressed concern Sam may have inherited.
 
-    Rachel was born Rachel de Leon, the daughter of Camilla de Leon and Victor Blanc. Her upbringing was turbulent; Camilla had a "rotating carousel" of boyfriends, and Victor -- a long-haul trucker with antisocial personality disorder traits -- was physically abusive before abandoning the family when Rachel was young. Rachel grew up in what Camilla described as a home of "passion, learning, and conflict," and was herself a "firecracker" in her youth. She attended Drexel University, where she met Ben. Rachel has maintained an extremely tense relationship with her mother Camilla throughout her adult life and had completely cut Victor out of her existence until his unexpected arrival in Philadelphia during Arc 13.
+Rachel was born Rachel de Leon, the daughter of Camilla de Leon and Victor Blanc. Her upbringing was turbulent; Camilla had a "rotating carousel" of boyfriends, and Victor -- a long-haul trucker with antisocial personality disorder traits -- was physically abusive before abandoning the family when Rachel was young. Rachel grew up in what Camilla described as a home of "passion, learning, and conflict," and was herself a "firecracker" in her youth. She attended Drexel University, where she met Ben. Rachel has maintained an extremely tense relationship with her mother Camilla throughout her adult life and had completely cut Victor out of her existence until his unexpected arrival in Philadelphia during Arc 13.
 
-    Rachel was aware of Sam's metahuman abilities from the beginning, co-signing Sam's provisional Juvenile License to Utilize Metahuman Abilities (JLUMA) alongside Ben in August 2023. She initially occupied a supportive but anxious parental role, raising practical concerns about insurance, scheduling, and college applications when Liberty Belle recruited Sam for the Young Defenders. Over the course of the series, Rachel evolved from a worried parent into a formidable political organizer, founding the Parents of Powered Kids Coalition in response to Maya Richardson's anti-vigilante legislation and ultimately helping defeat that legislation at the state level.
+Rachel was aware of Sam's metahuman abilities from the beginning, co-signing Sam's provisional Juvenile License to Utilize Metahuman Abilities (JLUMA) alongside Ben in August 2023. She initially occupied a supportive but anxious parental role, raising practical concerns about insurance, scheduling, and college applications when Liberty Belle recruited Sam for the Young Defenders. Over the course of the series, Rachel evolved from a worried parent into a formidable political organizer, founding the Parents of Powered Kids Coalition in response to Maya Richardson's anti-vigilante legislation and ultimately helping defeat that legislation at the state level.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file.
+No official PERKS assessment on file.
 
-    **Abilities**
+### Abilities
 
-    - None. Rachel is a baseline human with no metahuman powers.
+- None. Rachel is a baseline human with no metahuman powers.
 
-    **Limitations**
+### Limitations
 
-    - As an unpowered civilian, Rachel has no enhanced durability, combat ability, or any other superhuman traits.
+- As an unpowered civilian, Rachel has no enhanced durability, combat ability, or any other superhuman traits.
 
-    **Training & Skills**
+### Training & Skills
 
-    - **Library Science and Archival Research** -- Professional expertise in information retrieval, cataloging, digitization, and metadata management. Oversees the Morrison Collection digitization project at the Philadelphia Public Library, which contains 40 years of superhuman history.
-    - **Political Organizing** -- Demonstrated ability to build and coordinate a multi-state coalition of parents with powered children, managing logistics, messaging, communications networks, and legislative testimony strategy.
-    - **Legal Knowledge** -- Displayed unexpected understanding of juvenile contract voidability during Rogue Wave negotiations, surprising both Sam and the criminal organization's leadership.
-    - **Crisis Management** -- Exhibited practiced evacuation and emergency protocols during the Shrike crisis, demonstrating calm decisiveness under extreme pressure.
-    - **Investigative Support** -- Serves as a conduit for intelligence gathering through coalition work, facilitating contacts such as Nina de la Cruz and coordinating with legal counsel like Jerry Caldwell.
+- **Library Science and Archival Research** -- Professional expertise in information retrieval, cataloging, digitization, and metadata management. Oversees the Morrison Collection digitization project at the Philadelphia Public Library, which contains 40 years of superhuman history.
+- **Political Organizing** -- Demonstrated ability to build and coordinate a multi-state coalition of parents with powered children, managing logistics, messaging, communications networks, and legislative testimony strategy.
+- **Legal Knowledge** -- Displayed unexpected understanding of juvenile contract voidability during Rogue Wave negotiations, surprising both Sam and the criminal organization's leadership.
+- **Crisis Management** -- Exhibited practiced evacuation and emergency protocols during the Shrike crisis, demonstrating calm decisiveness under extreme pressure.
+- **Investigative Support** -- Serves as a conduit for intelligence gathering through coalition work, facilitating contacts such as Nina de la Cruz and coordinating with legal counsel like Jerry Caldwell.
 
-??? warning "Personality"
+## Personality
 
-    Rachel is more emotionally expressive and openly protective than her husband Ben, serving as the "good cop" to his more analytical "bad cop" approach in parenting. She wears her worry and her love on her sleeve, and her reactions to Sam's injuries and close calls are visceral and immediate. She manages bipolar disorder with medication and has voiced concern that Sam may have inherited the condition. Rachel enjoys wine -- she became noticeably intoxicated during the family's first Shabbat dinner at Pop-pop Moe's house -- and secretly reads genre fiction.
+Rachel is more emotionally expressive and openly protective than her husband Ben, serving as the "good cop" to his more analytical "bad cop" approach in parenting. She wears her worry and her love on her sleeve, and her reactions to Sam's injuries and close calls are visceral and immediate. She manages bipolar disorder with medication and has voiced concern that Sam may have inherited the condition. Rachel enjoys wine -- she became noticeably intoxicated during the family's first Shabbat dinner at Pop-pop Moe's house -- and secretly reads genre fiction.
 
-    Beneath the warmth and worry, Rachel possesses a pragmatic streak and a capacity for strategic thinking that emerges decisively when her family is threatened. Rather than merely opposing Sam's vigilante activities, she takes a more realistic view than Ben, recognizing that outright prohibition is futile and instead working to establish boundaries that manage risk. When Maya Richardson threatened her at her workplace, Rachel did not cower; she stood her ground, implied Richardson looked old, and channeled her anger into founding a political movement. Her testimony at the Pennsylvania state senate hearings was instrumental in defeating anti-vigilante legislation, and her coalition spread to fourteen cities across the Northeast. She installed motion sensors on Sam's windows not to prevent her from leaving, but to know when she left -- a distinction that reveals her understanding that control is less effective than awareness.
+Beneath the warmth and worry, Rachel possesses a pragmatic streak and a capacity for strategic thinking that emerges decisively when her family is threatened. Rather than merely opposing Sam's vigilante activities, she takes a more realistic view than Ben, recognizing that outright prohibition is futile and instead working to establish boundaries that manage risk. When Maya Richardson threatened her at her workplace, Rachel did not cower; she stood her ground, implied Richardson looked old, and channeled her anger into founding a political movement. Her testimony at the Pennsylvania state senate hearings was instrumental in defeating anti-vigilante legislation, and her coalition spread to fourteen cities across the Northeast. She installed motion sensors on Sam's windows not to prevent her from leaving, but to know when she left -- a distinction that reveals her understanding that control is less effective than awareness.
 
-    Rachel carries deep trauma from her childhood with Victor Blanc. His unexpected appearance in Arc 13 triggered visible terror and emotional collapse, and she explicitly forbade Sam from contacting him. Her fear that Sam might inherit Victor's antisocial tendencies informs much of her protective behavior and contextualizes her approach to parenting a daughter with violent capabilities.
+Rachel carries deep trauma from her childhood with Victor Blanc. His unexpected appearance in Arc 13 triggered visible terror and emotional collapse, and she explicitly forbade Sam from contacting him. Her fear that Sam might inherit Victor's antisocial tendencies informs much of her protective behavior and contextualizes her approach to parenting a daughter with violent capabilities.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Samantha "Sam" Small | Daughter | Deeply protective but increasingly pragmatic about Sam's vigilante life. Provides research support, political cover, and investigative assistance. |
-    | Benjamin "Ben" Small | Husband | Partners in parenting; Rachel is the emotional counterbalance to Ben's analytical approach. They attended Drexel University together. |
-    | Morris "Pop-pop Moe" Small | Father-in-law | Cordial relationship. Moe often mediates household tensions and provides wisdom and support. |
-    | Camilla de Leon | Mother | Extremely tense relationship with deep unspecified history. Camilla supported Rachel's decision to testify against Richardson's legislation. |
-    | Victor Blanc | Father (estranged) | Rachel cut Victor entirely out of her life after his abuse and abandonment. His unexpected arrival in Philadelphia triggered profound terror and emotional collapse. |
-    | Maya Richardson (Mrs. Zenith) | Adversary | Richardson threatened Rachel at her library workplace; Rachel retaliated by founding a political coalition, publicly embarrassing Richardson at her own town hall, and testifying to prevent the anti-vigilante ordinance from becoming statewide law. |
-    | Director Hayes | Supervisor | Rachel's boss at the library. Hayes is the second cousin of Darnell Hayes (Mr. Nothing), though no one in the story is aware of this coincidence. |
-    | Jordan Westwood (Safeguard) | Daughter's friend | Welcomed Jordan warmly to the family home, serving cheesecake and making well-meaning conversation during their first visit. |
-    | Nina de la Cruz | Coalition contact | Rachel facilitates Nina's exit from the Kingdom-connected Crescent nightclub through coalition work, helping her pursue a Temple University administrative position. |
-    | Maggie O'Brien (Flashpoint) | Daughter's mentee | Rachel has interacted with Maggie's mother; the two were seen talking on the front stoop after Sam and Maggie returned from patrol. |
-    | Mrs. Keller | Library colleague | Co-worker who warned Rachel that Councilwoman Richardson had arrived for a surprise visit at the South Branch Library. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Samantha "Sam" Small | Daughter | Deeply protective but increasingly pragmatic about Sam's vigilante life. Provides research support, political cover, and investigative assistance. |
+| Benjamin "Ben" Small | Husband | Partners in parenting; Rachel is the emotional counterbalance to Ben's analytical approach. They attended Drexel University together. |
+| Morris "Pop-pop Moe" Small | Father-in-law | Cordial relationship. Moe often mediates household tensions and provides wisdom and support. |
+| Camilla de Leon | Mother | Extremely tense relationship with deep unspecified history. Camilla supported Rachel's decision to testify against Richardson's legislation. |
+| Victor Blanc | Father (estranged) | Rachel cut Victor entirely out of her life after his abuse and abandonment. His unexpected arrival in Philadelphia triggered profound terror and emotional collapse. |
+| Maya Richardson (Mrs. Zenith) | Adversary | Richardson threatened Rachel at her library workplace; Rachel retaliated by founding a political coalition, publicly embarrassing Richardson at her own town hall, and testifying to prevent the anti-vigilante ordinance from becoming statewide law. |
+| Director Hayes | Supervisor | Rachel's boss at the library. Hayes is the second cousin of Darnell Hayes (Mr. Nothing), though no one in the story is aware of this coincidence. |
+| Jordan Westwood (Safeguard) | Daughter's friend | Welcomed Jordan warmly to the family home, serving cheesecake and making well-meaning conversation during their first visit. |
+| Nina de la Cruz | Coalition contact | Rachel facilitates Nina's exit from the Kingdom-connected Crescent nightclub through coalition work, helping her pursue a Temple University administrative position. |
+| Maggie O'Brien (Flashpoint) | Daughter's mentee | Rachel has interacted with Maggie's mother; the two were seen talking on the front stoop after Sam and Maggie returned from patrol. |
+| Mrs. Keller | Library colleague | Co-worker who warned Rachel that Councilwoman Richardson had arrived for a surprise visit at the South Branch Library. |
 
 ## Arc Appearances
 
@@ -175,28 +175,13 @@
     Arrives home to find Sam crying after the Songbird bounty hunter attack (Ch. 237). Delivers the "Watching History Syndrome" speech when Sam confesses to being Megalodon -- describes the experience of watching your kid and knowing they are going to be in a history book one day (Ch. 242). Does not gasp at Sam's injuries anymore, reflecting how normalized the violence has become. Her acceptance of Megalodon is framed not as permission but as acknowledgment that the terms of the situation have been accepted by all parties. Continues coalition work with a state legislator on a powered youth protection act (referenced in phone calls throughout the arc). Mentioned alongside Ben as hosting Maxwell Martinez during his three-month recovery.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Rachel's boss at the library, Director Hayes, is the second cousin of Darnell Hayes (Mr. Nothing of the Kingdom of Keys). No character in the story is aware of this coincidence, and it is confirmed to have no plot relevance.
-    - She microwaves water for tea as her typical method, but unusually used a kettle when Liberty Belle visited their home.
-    - She became noticeably intoxicated during the family's first on-page Shabbat dinner at Pop-pop Moe's house, needing to lie down on the couch.
-    - Social media dubbed her husband "Gun DILF" and later "Gun Dad" after he shot Rush Order to protect Sam, making Rachel "Gun Dad's wife" -- a label she strategically leveraged at Richardson's town hall.
-    - Victor Blanc recalls Rachel's wedding as the last time he saw her, where he got into a fistfight and drank at the edges of the celebration.
-    - She and Camilla de Leon have an extremely strained relationship, though Camilla unexpectedly supported Rachel's decision to testify against Richardson's legislation and offered financial support if Rachel faced professional consequences.
-    - Rachel attended Drexel University, which Shrike later targeted with dead animal threats during his campaign against Sam.
-    - Her line about treating people as people rather than intelligence assets -- delivered during the Nina de la Cruz outreach -- encapsulates her moral compass throughout the series.
-
-## Sources
-
-
-- character reference guide.txt -- Core biographical details, personality, occupation, family role, and relationship dynamics.
-- THE FACTSHEET.txt -- General worldbuilding context for LUMA/JLUMA system and power classifications.
-- THE CANON DOCUMENT 1 & 2.txt -- First mention in Chapter 1 (JLUMA consent), first on-page appearance in Chapter 2 (Shabbat dinner, intoxication), Chapter 4 (Liberty Belle recruitment, practical concerns).
-- THE CANON DOCUMENT 3 & 4.txt -- Chapter 14 (hospital visits after Sam's injuries), Chapter 27 (Jordan's dinner visit, cheesecake, family dynamics), Chapter 28 (home attack, broom defense, evacuation), Chapter 29 (phone call from New Jersey), Arc 2 synopsis (family references), Chapter 62 (hospital bedside, bipolar disorder concerns).
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt -- Chapter 65 (Camilla confrontation, hospital tension), Chapter 68 (birthday gathering), Chapter 69 (homecoming to rebuilt house), Chapter 71 (Passover Seder preparations), Interlude RS.1 (Rachel's POV: fears about Sam, Victor, dinner with Moe).
-- THE CANON DOCUMENT 6 & 7.txt -- Chapter 108 (Rosh Hashanah dinner family gathering), trial preparation dinner discussions, Chapter 126 (conversation with Sam about limits).
-- THE CANON DOCUMENT 8 AND 9.txt -- Chapter 144 (school fire aftermath), Chapter 145 (hospital arrival), Chapter 150 (driving Sam and Kate to physical therapy).
-- THE CANON DOCUMENT 10 AND 11.txt -- Chapter 159 (suspension aftermath), Chapters 165-168 (birthday, family discussions, PI office meeting with Akilah and Devonte, precinct contact Diana).
-- THE CANON DOCUMENT 12 AND 13.txt -- Interlude RS.3 (Richardson library confrontation, decision to fight back), Chapter 186 (family meeting about threats, driving Sam to track Elias), Chapter 188-189 (hospital after Ben's shooting, "Gun DILF" fallout, agreement to pause Bloodhound), Interlude RS/DC/JF (parents' support group organizing, coalition building, motion sensors), Chapter 190-192 (town hall preparation, coalition reveal, family confrontation and new boundaries), Interlude VB.2 (mentioned as Victor's estranged daughter), Chapters 193-196 (library volunteering, Morrison Collection introduction, coalition testimony at Harrisburg hearings, senate victory 11-9), Chapter 198-199 (Victor Blanc's arrival, terror and emotional collapse, forbids Sam contact), Chapter 200-201 (Victor letter, Shrike crisis coordination).
-- THE CANON DOCUMENT 14 AND 15.txt -- Chapter 204-206 (Shrike evacuation, Rogue Wave negotiation conditions, smoking confrontation, legal knowledge), Chapter 209-210 (hospital vigil, boundary negotiations), Chapter 213 (family therapy with Dr. Kaplan), Chapter 215-216 (post-cardiac arrest support, Nina de la Cruz outreach, coalition intelligence work), Chapter 218 (Music Hall attack response).
-- THE CANON DOCUMENT 16 AND 17.txt -- Chapter 233 (community center grand opening, coalition phone calls), Chapter 235 (helping Nina with Temple job exit strategy), Chapter 237 (arrives home to find Sam crying after Songbird attack), Chapter 242 ("Watching History Syndrome" speech upon learning about Megalodon, acceptance without permission, coalition work with state legislator on powered youth protection act).
+- Rachel's boss at the library, Director Hayes, is the second cousin of Darnell Hayes (Mr. Nothing of the Kingdom of Keys). No character in the story is aware of this coincidence, and it is confirmed to have no plot relevance.
+- She microwaves water for tea as her typical method, but unusually used a kettle when Liberty Belle visited their home.
+- She became noticeably intoxicated during the family's first on-page Shabbat dinner at Pop-pop Moe's house, needing to lie down on the couch.
+- Social media dubbed her husband "Gun DILF" and later "Gun Dad" after he shot Rush Order to protect Sam, making Rachel "Gun Dad's wife" -- a label she strategically leveraged at Richardson's town hall.
+- Victor Blanc recalls Rachel's wedding as the last time he saw her, where he got into a fistfight and drank at the edges of the celebration.
+- She and Camilla de Leon have an extremely strained relationship, though Camilla unexpectedly supported Rachel's decision to testify against Richardson's legislation and offered financial support if Rachel faced professional consequences.
+- Rachel attended Drexel University, which Shrike later targeted with dead animal threats during his campaign against Sam.
+- Her line about treating people as people rather than intelligence assets -- delivered during the Nina de la Cruz outreach -- encapsulates her moral compass throughout the series.

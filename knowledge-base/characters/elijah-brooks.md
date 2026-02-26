@@ -22,59 +22,59 @@
 | **First Appearance** | Chapter 5 (mentioned); Chapter 15 (on-page) |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Elijah Brooks was a professional boxer and boxing coach before his metahuman powers manifested, an event that effectively ended his fighting career. The sudden ability to create independent duplicates of himself rendered competitive boxing impossible, forcing him to find a new purpose. He channeled his discipline and combat expertise into superhero work, joining the Delaware Valley Defenders where he served as second-in-command under Liberty Belle.
+Elijah Brooks was a professional boxer and boxing coach before his metahuman powers manifested, an event that effectively ended his fighting career. The sudden ability to create independent duplicates of himself rendered competitive boxing impossible, forcing him to find a new purpose. He channeled his discipline and combat expertise into superhero work, joining the Delaware Valley Defenders where he served as second-in-command under Liberty Belle.
 
-    Following Liberty Belle's death at the hands of Chernobyl and the subsequent loss of Professor Franklin, Elijah became the effective operational leader of the Delaware Valley Defenders. His early years of heroism were marked by recklessness, including a traumatic mission in which three of his clones were killed, one of them tortured to death. This experience profoundly shaped his philosophy, driving him to prioritize systems, structure, and discipline over the charismatic, freeform approach favored by Belle.
+Following Liberty Belle's death at the hands of Chernobyl and the subsequent loss of Professor Franklin, Elijah became the effective operational leader of the Delaware Valley Defenders. His early years of heroism were marked by recklessness, including a traumatic mission in which three of his clones were killed, one of them tortured to death. This experience profoundly shaped his philosophy, driving him to prioritize systems, structure, and discipline over the charismatic, freeform approach favored by Belle.
 
-    In the summer of 2025, Elijah took on a new role as Sam Small's personal combat trainer after an unexpectedly candid conversation at DVD headquarters in which he shared his backstory and offered to spar with her. Over the following months, he trained Sam in boxing fundamentals, tactical thinking, creative power integration, and the importance of functioning while exhausted. His mentorship proved instrumental in Sam's development as a fighter and leader.
+In the summer of 2025, Elijah took on a new role as Sam Small's personal combat trainer after an unexpectedly candid conversation at DVD headquarters in which he shared his backstory and offered to spar with her. Over the following months, he trained Sam in boxing fundamentals, tactical thinking, creative power integration, and the importance of functioning while exhausted. His mentorship proved instrumental in Sam's development as a fighter and leader.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file.
+No official PERKS assessment on file.
 
-    **Abilities**
+### Abilities
 
-    - **Self-Duplication** - Can create up to twelve independent clones of himself. Each clone operates autonomously with its own decision-making capability and lasts up to twenty-four hours before expiring.
-    - **Memory Absorption** - Upon a clone's expiration or voluntary recall, Elijah absorbs all knowledge and memories the clone accumulated during its existence. This effectively allows him to be in multiple places at once and gather intelligence from numerous sources simultaneously.
-    - **Consciousness Transfer ("Seat" Transfer)** - If Elijah's primary body dies, his consciousness instantly transfers to his oldest active clone with full continuity of experience. He refers to his active consciousness as his "seat." This ability renders him extremely difficult to kill permanently as long as at least one clone exists.
+- **Self-Duplication** - Can create up to twelve independent clones of himself. Each clone operates autonomously with its own decision-making capability and lasts up to twenty-four hours before expiring.
+- **Memory Absorption** - Upon a clone's expiration or voluntary recall, Elijah absorbs all knowledge and memories the clone accumulated during its existence. This effectively allows him to be in multiple places at once and gather intelligence from numerous sources simultaneously.
+- **Consciousness Transfer ("Seat" Transfer)** - If Elijah's primary body dies, his consciousness instantly transfers to his oldest active clone with full continuity of experience. He refers to his active consciousness as his "seat." This ability renders him extremely difficult to kill permanently as long as at least one clone exists.
 
-    **Limitations**
+### Limitations
 
-    - **Clone Cap** - Limited to a maximum of twelve simultaneous clones.
-    - **Clone Duration** - Each clone expires after twenty-four hours if not recalled.
-    - **Clone Vulnerability** - Clones can be injured, tortured, and killed. The trauma and memories from these experiences transfer back to Elijah, causing psychological harm.
-    - **No Power Stacking** - His clones do not appear to possess any enhanced physical abilities beyond those of a well-trained human; they share his baseline physical capabilities.
+- **Clone Cap** - Limited to a maximum of twelve simultaneous clones.
+- **Clone Duration** - Each clone expires after twenty-four hours if not recalled.
+- **Clone Vulnerability** - Clones can be injured, tortured, and killed. The trauma and memories from these experiences transfer back to Elijah, causing psychological harm.
+- **No Power Stacking** - His clones do not appear to possess any enhanced physical abilities beyond those of a well-trained human; they share his baseline physical capabilities.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Former professional boxer and boxing coach with expert-level hand-to-hand combat skills. Vastly outmatches Sam Small in sparring, demonstrating superior technique, reach control, and ring craft.
-    - Highly skilled tactical thinker who emphasizes disciplined, methodical approaches to crisis situations, including surveillance planning and coordinated team operations.
-    - Described as one of the smartest non-supergenius humans alive.
-    - Experienced in training and mentoring young metahumans, with a coaching style that emphasizes fundamentals, endurance, creative power application, and functioning under exhaustion.
+- Former professional boxer and boxing coach with expert-level hand-to-hand combat skills. Vastly outmatches Sam Small in sparring, demonstrating superior technique, reach control, and ring craft.
+- Highly skilled tactical thinker who emphasizes disciplined, methodical approaches to crisis situations, including surveillance planning and coordinated team operations.
+- Described as one of the smartest non-supergenius humans alive.
+- Experienced in training and mentoring young metahumans, with a coaching style that emphasizes fundamentals, endurance, creative power application, and functioning under exhaustion.
 
-??? warning "Personality"
+## Personality
 
-    Elijah is strict, demanding, and outwardly emotionless, particularly in professional settings. He speaks in clipped, efficient sentences and rarely wastes words, valuing discipline and structure above all else. He carries the weight of leadership with visible stress, and his by-the-book approach to heroism frequently puts him at philosophical odds with more impulsive or charismatic figures. He has clashed with colleagues over matters of protocol, recruitment, and how to handle young heroes' personal lives.
+Elijah is strict, demanding, and outwardly emotionless, particularly in professional settings. He speaks in clipped, efficient sentences and rarely wastes words, valuing discipline and structure above all else. He carries the weight of leadership with visible stress, and his by-the-book approach to heroism frequently puts him at philosophical odds with more impulsive or charismatic figures. He has clashed with colleagues over matters of protocol, recruitment, and how to handle young heroes' personal lives.
 
-    Beneath the rigid exterior, Elijah reveals a more human side when coaching. Boxing brings out his sense of humor, and he becomes noticeably less tense when teaching. He has demonstrated genuine concern for Sam's wellbeing, giving her his jacket after Liberty Belle's death and later offering her combat training with no strings attached. He is capable of surprising vulnerability, as shown when he shared the story of his clones' deaths with Sam. He harbors deep respect for Liberty Belle despite their philosophical disagreements, and he acknowledged that Sam reminds him of Belle, a comparison he appeared to find both amusing and meaningful.
+Beneath the rigid exterior, Elijah reveals a more human side when coaching. Boxing brings out his sense of humor, and he becomes noticeably less tense when teaching. He has demonstrated genuine concern for Sam's wellbeing, giving her his jacket after Liberty Belle's death and later offering her combat training with no strings attached. He is capable of surprising vulnerability, as shown when he shared the story of his clones' deaths with Sam. He harbors deep respect for Liberty Belle despite their philosophical disagreements, and he acknowledged that Sam reminds him of Belle, a comparison he appeared to find both amusing and meaningful.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Samantha Small (Bloodhound) | Mentee / Trainee | Trains Sam in boxing and tactical thinking throughout Summer 2025. Initially stern and distant, their relationship evolves into mutual respect. Gave Sam his jacket after Belle's death. Told Sam she reminds him of Belle. |
-    | Liberty Belle (Diane Williams) | Former leader (deceased) | Served as her second-in-command. Disagreed with her freeform, charisma-driven leadership approach, preferring systems and structure. Despite their differences, respected her deeply. |
-    | Bianca Agnelli (Fury Forge) | Colleague | Fellow DVD senior member. They clash over differing attitudes, with Bianca being more passionate and impulsive compared to Elijah's by-the-book tendencies. |
-    | Kwame Adjei (Bulwark) | Colleague | Fellow DVD senior member. Kwame occupies a middle ground between Fury Forge's cowboy tendencies and Multiplex's inflexibility. |
-    | Councilman Jamal Davis | Colleague / Civilian liaison | Works alongside Jamal on DVD operations. Jamal mediates between Elijah and other team members during disputes. |
-    | Clara Parker | Colleague | DVD legal advisor. Shares Elijah's preference for working within established systems and expressed similar reservations about outside recruitment. |
-    | Nurse Sylvia | Colleague | DVD medical staff. Sylvia has overridden Elijah's authority when medical concerns demand it, and she serves as a moderating voice between his strict training regimen and Sam's wellbeing. |
-    | Captain Plasma (Rodney Greene) | Colleague | Fellow DVD member who departed for a New York assignment. Elijah arranged a sparring match between Plasma and Sam as a training exercise before Plasma's departure. |
-    | Crossroads (Maxwell Martinez) | Colleague (promoted) | Former Young Defender promoted to the senior team. Works alongside Elijah on operations and training. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Samantha Small (Bloodhound) | Mentee / Trainee | Trains Sam in boxing and tactical thinking throughout Summer 2025. Initially stern and distant, their relationship evolves into mutual respect. Gave Sam his jacket after Belle's death. Told Sam she reminds him of Belle. |
+| Liberty Belle (Diane Williams) | Former leader (deceased) | Served as her second-in-command. Disagreed with her freeform, charisma-driven leadership approach, preferring systems and structure. Despite their differences, respected her deeply. |
+| Bianca Agnelli (Fury Forge) | Colleague | Fellow DVD senior member. They clash over differing attitudes, with Bianca being more passionate and impulsive compared to Elijah's by-the-book tendencies. |
+| Kwame Adjei (Bulwark) | Colleague | Fellow DVD senior member. Kwame occupies a middle ground between Fury Forge's cowboy tendencies and Multiplex's inflexibility. |
+| Councilman Jamal Davis | Colleague / Civilian liaison | Works alongside Jamal on DVD operations. Jamal mediates between Elijah and other team members during disputes. |
+| Clara Parker | Colleague | DVD legal advisor. Shares Elijah's preference for working within established systems and expressed similar reservations about outside recruitment. |
+| Nurse Sylvia | Colleague | DVD medical staff. Sylvia has overridden Elijah's authority when medical concerns demand it, and she serves as a moderating voice between his strict training regimen and Sam's wellbeing. |
+| Captain Plasma (Rodney Greene) | Colleague | Fellow DVD member who departed for a New York assignment. Elijah arranged a sparring match between Plasma and Sam as a training exercise before Plasma's departure. |
+| Crossroads (Maxwell Martinez) | Colleague (promoted) | Former Young Defender promoted to the senior team. Works alongside Elijah on operations and training. |
 
 ## Arc Appearances
 
@@ -175,25 +175,11 @@
     Part of the DVD team assisting in the search operation for Shrike, the escaped Daedalus inmate targeting Bloodhound.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - The canon document for Book 2 mistakenly labels Multiplex as a "Young Defender" in one instance, though he is consistently an adult member of the Delaware Valley Defenders throughout the story.
-    - His consciousness transfer ability, which he calls his "seat," makes him one of the most difficult-to-kill heroes in the story, as he effectively has multiple lives running at all times.
-    - His philosophical disagreement with Liberty Belle about mentoring methods is a recurring thematic thread. Belle favored inspiration and charisma; Elijah believes in systems and structure. Sam's development under both influences represents a synthesis of the two approaches.
-    - His training mantra emphasizes functioning while exhausted, encapsulated in the phrase "powers fail, skills don't."
-    - He is described as really liking boxing, and more of his personality emerges when coaching, where he develops a genuine sense of humor.
-    - His offer to train Sam came with "no strings" attached, a notable gesture given his typically guarded and professional demeanor.
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, personality description, power mechanics, philosophical views, current status, and relationship to Sam.
-- THE CANON DOCUMENT 1 & 2.txt - First mention via locker (Chapter 5), first physical appearance (Chapter 15) reviewing Kingdom footage, surveillance suggestion, driving Sam to Lily's house (Book 2).
-- THE CANON DOCUMENT 3 & 4.txt - Briefing on Phreaks crisis (Book 3), Spinelli interrogation, evacuation during Chernobyl crisis (Book 4), arrival at refinery after Belle's death, giving Sam his jacket.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Will reading attendance, warning about inheritance contest, hospital security detail with clones, birthday party appearance.
-- THE CANON DOCUMENT 6 & 7.txt - Interlude BA.1 featuring Elijah discussing trial and recruitment, Jump crisis meetings, LOVE Park response, courthouse protest argument, post-attack debriefing and search-and-rescue coordination.
-- THE CANON DOCUMENT 8 AND 9.txt - Zoo heist involvement (saving Sam, acknowledging her correct instinct), debrief participation, hospital interview after arson, coordination during city-wide Aaron search.
-- THE CANON DOCUMENT 10 AND 11.txt - Pivotal backstory revelation and training offer (Chapter 166), intensive multi-week combat training arc (Chapters 169-170), power integration coaching, Instant Armor development support, DVD confrontation over Sam's recklessness (Chapter 177).
-- THE CANON DOCUMENT 12 AND 13.txt - Continued training, Captain Plasma sparring arrangement (Chapter 178), Sam teaching his techniques to others, referenced throughout Sam's combat encounters, resumed training post-injury.
-- THE CANON DOCUMENT 14 AND 15.txt - Referenced regarding youth program awareness, Ben Small's stance comparison, Shrike search participation.
-- THE CANON DOCUMENT 16 AND 17.txt - Referenced as part of the DVD senior team in arc summaries.
+- The canon document for Book 2 mistakenly labels Multiplex as a "Young Defender" in one instance, though he is consistently an adult member of the Delaware Valley Defenders throughout the story.
+- His consciousness transfer ability, which he calls his "seat," makes him one of the most difficult-to-kill heroes in the story, as he effectively has multiple lives running at all times.
+- His philosophical disagreement with Liberty Belle about mentoring methods is a recurring thematic thread. Belle favored inspiration and charisma; Elijah believes in systems and structure. Sam's development under both influences represents a synthesis of the two approaches.
+- His training mantra emphasizes functioning while exhausted, encapsulated in the phrase "powers fail, skills don't."
+- He is described as really liking boxing, and more of his personality emerges when coaching, where he develops a genuine sense of humor.
+- His offer to train Sam came with "no strings" attached, a notable gesture given his typically guarded and professional demeanor.

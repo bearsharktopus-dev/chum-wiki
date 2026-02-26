@@ -22,62 +22,62 @@
 | **First Appearance** | Chapter 3 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Tasha Reynolds is one of Sam Small's closest friends from middle school. She was part of Sam's original friend group alongside Kate Smith, Marcus Johnson, Lilly Rodriguez, and Jenna Nguyen. An intellectual and avid reader, Tasha was described as the group's analytical mind and "mother hen" from early on. Her mother, Natalie Reynolds, is a nurse at Temple Health, and her father, James Reynolds, is an academic. Tasha's upbringing in a medically oriented household fostered her interest in physiology, anatomy, and emergency medicine.
+Tasha Reynolds is one of Sam Small's closest friends from middle school. She was part of Sam's original friend group alongside Kate Smith, Marcus Johnson, Lilly Rodriguez, and Jenna Nguyen. An intellectual and avid reader, Tasha was described as the group's analytical mind and "mother hen" from early on. Her mother, Natalie Reynolds, is a nurse at Temple Health, and her father, James Reynolds, is an academic. Tasha's upbringing in a medically oriented household fostered her interest in physiology, anatomy, and emergency medicine.
 
-    Before joining the Auditors, Tasha was a member of Kate Smith's vigilante outfit known as Team Mayfly, where she served in a technical support capacity. Team Mayfly operated as a non-powered vigilante squad in Northeast Philadelphia, using improvised gadgets, drones, and coordination rather than superhuman abilities. When Sam discovered Team Mayfly's existence and its overlap with her own circle of friends, the team was folded into Sam's operations, with its members restricted to reconnaissance and technical support rather than field combat.
+Before joining the Auditors, Tasha was a member of Kate Smith's vigilante outfit known as Team Mayfly, where she served in a technical support capacity. Team Mayfly operated as a non-powered vigilante squad in Northeast Philadelphia, using improvised gadgets, drones, and coordination rather than superhuman abilities. When Sam discovered Team Mayfly's existence and its overlap with her own circle of friends, the team was folded into Sam's operations, with its members restricted to reconnaissance and technical support rather than field combat.
 
-    Tasha transitioned into the Auditors as Sam's primary civilian support operative, providing field medicine, logistics, communications monitoring, and intelligence analysis. During the Shrike crisis in late September 2025, she was formally given the codename "Lighthouse" by Sam for her role as the team's communications and surveillance coordinator. She later debuted a custom costume consisting of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone equipped with a red LED light.
+Tasha transitioned into the Auditors as Sam's primary civilian support operative, providing field medicine, logistics, communications monitoring, and intelligence analysis. During the Shrike crisis in late September 2025, she was formally given the codename "Lighthouse" by Sam for her role as the team's communications and surveillance coordinator. She later debuted a custom costume consisting of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone equipped with a red LED light.
 
-    In November 2025, Tasha was seriously injured during a Kingdom of Keys attack on the Tacony Music Hall. A Kingdom contractor known as Garbage Day dislocated her shoulder in a calculated act of intimidation. Despite being in severe pain and shock, Tasha demonstrated remarkable composure by secretly planting a BugTag tracker on the attacker during the confrontation, providing the Auditors with critical intelligence on the operative's location. Her shoulder required 4-6 weeks in a sling followed by physical therapy, and as of early 2026 it remains approximately ninety percent healed.
+In November 2025, Tasha was seriously injured during a Kingdom of Keys attack on the Tacony Music Hall. A Kingdom contractor known as Garbage Day dislocated her shoulder in a calculated act of intimidation. Despite being in severe pain and shock, Tasha demonstrated remarkable composure by secretly planting a BugTag tracker on the attacker during the confrontation, providing the Auditors with critical intelligence on the operative's location. Her shoulder required 4-6 weeks in a sling followed by physical therapy, and as of early 2026 it remains approximately ninety percent healed.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file. Tasha Reynolds is a baseline human with no metahuman abilities.
+No official PERKS assessment on file. Tasha Reynolds is a baseline human with no metahuman abilities.
 
-    **Abilities**
+### Abilities
 
-    - **N/A** - Tasha possesses no superhuman powers. Her contributions to the Auditors are entirely skill-based.
+- **N/A** - Tasha possesses no superhuman powers. Her contributions to the Auditors are entirely skill-based.
 
-    **Limitations**
+### Limitations
 
-    - **No Superhuman Durability** - As a baseline human, Tasha is vulnerable to injury in ways her powered teammates are not. This was demonstrated when Garbage Day deliberately targeted her as the weakest physical link during the Music Hall attack.
-    - **Non-Combatant** - Tasha is not trained for direct combat and relies on her teammates for physical protection during field operations.
+- **No Superhuman Durability** - As a baseline human, Tasha is vulnerable to injury in ways her powered teammates are not. This was demonstrated when Garbage Day deliberately targeted her as the weakest physical link during the Music Hall attack.
+- **Non-Combatant** - Tasha is not trained for direct combat and relies on her teammates for physical protection during field operations.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Field medicine and emergency care training, influenced by her mother's nursing career and her own interest in anatomy and physiology.
-    - Communications and intelligence coordination, including police scanner monitoring, drone operation, traffic camera surveillance, and radio communications management.
-    - Mechanical engineering aptitude, demonstrated by her construction of a custom pepper spray dispenser and her technical contributions to Team Mayfly's gadget arsenal.
-    - Research and investigation skills, including property records analysis, social media cross-referencing, and open-source intelligence gathering. Led the Auditors' investigation into the Songbirds, identifying the organization as an astroturfed radicalization pipeline rather than an organic grassroots movement.
-    - Drone operation and surveillance, utilizing small drones for overwatch during field operations including the Shrike confrontation and Alex Kirby's warehouse raid.
+- Field medicine and emergency care training, influenced by her mother's nursing career and her own interest in anatomy and physiology.
+- Communications and intelligence coordination, including police scanner monitoring, drone operation, traffic camera surveillance, and radio communications management.
+- Mechanical engineering aptitude, demonstrated by her construction of a custom pepper spray dispenser and her technical contributions to Team Mayfly's gadget arsenal.
+- Research and investigation skills, including property records analysis, social media cross-referencing, and open-source intelligence gathering. Led the Auditors' investigation into the Songbirds, identifying the organization as an astroturfed radicalization pipeline rather than an organic grassroots movement.
+- Drone operation and surveillance, utilizing small drones for overwatch during field operations including the Shrike confrontation and Alex Kirby's warehouse raid.
 
-??? warning "Personality"
+## Personality
 
-    Tasha is practical, blunt, and deeply loyal. She is often the most cautious voice in any planning discussion, advocating for restraint and risk assessment before committing to action. Once a decision is made, however, she commits fully to supporting her team. She speaks directly with little embellishment and is not afraid to call out her friends, including Sam, when she believes they are being reckless. Her manner has been described as that of a "mother hen," fussing over the physical well-being of those around her.
+Tasha is practical, blunt, and deeply loyal. She is often the most cautious voice in any planning discussion, advocating for restraint and risk assessment before committing to action. Once a decision is made, however, she commits fully to supporting her team. She speaks directly with little embellishment and is not afraid to call out her friends, including Sam, when she believes they are being reckless. Her manner has been described as that of a "mother hen," fussing over the physical well-being of those around her.
 
-    Beneath her composed and analytical exterior, Tasha privately struggles with self-harm, a fact she conceals by consistently wearing long sleeves and sweaters. Not even Sam was aware of this until the Garbage Day attack, when Sam noticed old scars on Tasha's forearms. Tasha deflected the topic, indicating she was not ready to discuss it. She has a fondness for insects, slugs, and other creatures most people find unsettling. She also possesses a sharp, dry wit and is capable of pointed humor when the situation calls for it.
+Beneath her composed and analytical exterior, Tasha privately struggles with self-harm, a fact she conceals by consistently wearing long sleeves and sweaters. Not even Sam was aware of this until the Garbage Day attack, when Sam noticed old scars on Tasha's forearms. Tasha deflected the topic, indicating she was not ready to discuss it. She has a fondness for insects, slugs, and other creatures most people find unsettling. She also possesses a sharp, dry wit and is capable of pointed humor when the situation calls for it.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Close Friend / Team Leader | One of Sam's oldest friends from middle school. Provides medical care, intelligence support, and emotional grounding. Knows Sam well enough to challenge her directly. |
-    | Kate Smith (Soot) | Friend / Former Team Leader | Was a member of Kate's Team Mayfly before transitioning to the Auditors. |
-    | Jordan Westwood (Safeguard) | Teammate / Colleague | Worked alongside Jordan during the Auditors' formative period at the Tacony Music Hall. |
-    | Maggie O'Brien (Flashpoint) | Teammate / Friend | Fellow Auditor. Maggie once attempted to teach Tasha basic boxing techniques during training sessions. |
-    | Lily Chen (Blink) | Teammate / Friend | Fellow Auditor. Works in coordination with Lily during field operations. |
-    | Amelia Li (Gossamer) | Teammate / Friend | Fellow Auditor. Collaborates on intelligence and logistics. |
-    | Natalie Reynolds | Mother | Nurse at Temple Health. Arrived at the hospital in scrubs during Tasha's shoulder dislocation. |
-    | James Reynolds | Father | Academic. Visibly angry upon learning of Tasha's injury, the first time Sam had ever seen him display that emotion. |
-    | Marcus Johnson | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
-    | Lilly Rodriguez | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
-    | Jenna Nguyen | Friend | Fellow member of Sam's middle school friend group. |
-    | Jason Reynolds (Rampart) | Distant Relative | Approximately third or fourth cousins. The connection is currently treated as a coincidence. |
-    | Councilman Jamal Davis | Ally | Davis considers the Kingdom's attack on Tasha, a civilian noncombatant, to be a serious crossed line and has been motivated to take action against Maya Richardson as a result. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Close Friend / Team Leader | One of Sam's oldest friends from middle school. Provides medical care, intelligence support, and emotional grounding. Knows Sam well enough to challenge her directly. |
+| Kate Smith (Soot) | Friend / Former Team Leader | Was a member of Kate's Team Mayfly before transitioning to the Auditors. |
+| Jordan Westwood (Safeguard) | Teammate / Colleague | Worked alongside Jordan during the Auditors' formative period at the Tacony Music Hall. |
+| Maggie O'Brien (Flashpoint) | Teammate / Friend | Fellow Auditor. Maggie once attempted to teach Tasha basic boxing techniques during training sessions. |
+| Lily Chen (Blink) | Teammate / Friend | Fellow Auditor. Works in coordination with Lily during field operations. |
+| Amelia Li (Gossamer) | Teammate / Friend | Fellow Auditor. Collaborates on intelligence and logistics. |
+| Natalie Reynolds | Mother | Nurse at Temple Health. Arrived at the hospital in scrubs during Tasha's shoulder dislocation. |
+| James Reynolds | Father | Academic. Visibly angry upon learning of Tasha's injury, the first time Sam had ever seen him display that emotion. |
+| Marcus Johnson | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
+| Lilly Rodriguez | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
+| Jenna Nguyen | Friend | Fellow member of Sam's middle school friend group. |
+| Jason Reynolds (Rampart) | Distant Relative | Approximately third or fourth cousins. The connection is currently treated as a coincidence. |
+| Councilman Jamal Davis | Ally | Davis considers the Kingdom's attack on Tasha, a civilian noncombatant, to be a serious crossed line and has been motivated to take action against Maya Richardson as a result. |
 
 ## Arc Appearances
 
@@ -172,27 +172,13 @@
     Attends the community center grand opening, where she debuts her Lighthouse costume for the first time. Receives a copy of the center keys alongside Sam, Maggie, and Lily. Conducts deep-dive research into the Songbirds from the center office, cross-referencing neighborhood watch Facebook groups with Songbird event photos to identify the radicalization pipeline. Discovers that Mike D'Ambrosio had zero anti-powered online presence before October, confirming the Songbirds as an astroturfed operation. Provides intelligence support during Auditors' Faraday room briefings. Assigned deep Songbird research including forums, money trail, and drone surveillance. Reports Songbird presence at the community center during a shelter-in-place incident. Calls 911 from school bathroom during the Songbird confrontation at the center.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Her codename "Lighthouse" was suggested by Sam during planning for the Shrike confrontation, with Sam explaining: "You guide us, keep us from crashing on the rocks." Tasha accepted it over her initial reluctance to take any codename at all.
-    - She is distantly related to Jason Reynolds (Rampart) of the Delaware Valley Defenders, approximately third or fourth cousins, though this is currently treated as a coincidence given that Jason is white.
-    - Her mother Natalie works as a nurse at Temple Health, and her father James is an academic.
-    - She has a fondness for bugs, slugs, and other creatures that most people find unsettling.
-    - Her Lighthouse costume debuted in Chapter 234 and consists of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone with a blinking red LED.
-    - She privately struggles with self-harm, concealed by consistently wearing long sleeves and sweaters. Sam discovered old scars on her forearms during the Garbage Day attack but Tasha deflected discussion of the topic.
-    - Councilman Jamal Davis considers the attack on Tasha to be a particularly egregious crossed line because she is a civilian noncombatant, and it has motivated his willingness to pursue action against Maya Richardson.
-    - On Team Mayfly, she was listed as "technical support," while the other members used insect-themed codenames (Mite, Ant, Moth, Wasp).
-
-## Sources
-
-
-- character reference guide.txt - Core character description, personality, current status, relationships, codename, Team Mayfly history, self-harm detail, and interests.
-- THE CANON DOCUMENT 1 & 2.txt - First appearance in Chapter 3 basketball scene, Book 2 mentions as supportive friend.
-- THE CANON DOCUMENT 3 & 4.txt - Hospital visits, supportive messages during Sam's recovery.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Team Mayfly introduction and role as technical support, pepper spray dispenser engineering, recovery visit to Sam, team consolidation events.
-- THE CANON DOCUMENT 6 & 7.txt - Presence at team meetings, planning sessions, Halloween party attendance, homecoming operation involvement, mapping fire locations during Aaron McKinley crisis, fire extinguisher use at Music Hall.
-- THE CANON DOCUMENT 8 AND 9.txt - Crescent nightclub aftermath medical care, zoo investigation with Sam, CPS interview at Music Hall, team planning sessions, training with Sam and Maggie, combined team operations.
-- THE CANON DOCUMENT 10 AND 11.txt - Team meetings, intelligence support, Kingdom confrontation support, field operations coordination, communications role during Rogue Wave operations, research and monitoring duties, end-of-arc team restructuring.
-- THE CANON DOCUMENT 12 AND 13.txt - Boxing training, civilian reconnaissance patrols, withdrawal episode assistance, library research, communications coordination during Marathon/Rogue Wave operations, intelligence identification, recruitment monitoring, Rogue Wave broadcast analysis, remote support during city patrol restrictions.
-- THE CANON DOCUMENT 14 AND 15.txt - Lighthouse codename origin, Shrike crisis communications and drone operation, hospital visits, Songbird research, Silverstein investigation, Music Hall attack by Garbage Day, shoulder dislocation, BugTag tracker planting, hospital treatment, recovery and remote support, Alex Kirby raid overwatch, drone operation, Songbird investigation deepening, community center operations, mentorship program support, Daedalus escapee research.
-- THE CANON DOCUMENT 16 AND 17.txt - Community center grand opening and Lighthouse costume debut, Songbird investigation from center office, Faraday room briefings, Songbird pipeline identification, 911 call during center confrontation.
+- Her codename "Lighthouse" was suggested by Sam during planning for the Shrike confrontation, with Sam explaining: "You guide us, keep us from crashing on the rocks." Tasha accepted it over her initial reluctance to take any codename at all.
+- She is distantly related to Jason Reynolds (Rampart) of the Delaware Valley Defenders, approximately third or fourth cousins, though this is currently treated as a coincidence given that Jason is white.
+- Her mother Natalie works as a nurse at Temple Health, and her father James is an academic.
+- She has a fondness for bugs, slugs, and other creatures that most people find unsettling.
+- Her Lighthouse costume debuted in Chapter 234 and consists of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone with a blinking red LED.
+- She privately struggles with self-harm, concealed by consistently wearing long sleeves and sweaters. Sam discovered old scars on her forearms during the Garbage Day attack but Tasha deflected discussion of the topic.
+- Councilman Jamal Davis considers the attack on Tasha to be a particularly egregious crossed line because she is a civilian noncombatant, and it has motivated his willingness to pursue action against Maya Richardson.
+- On Team Mayfly, she was listed as "technical support," while the other members used insect-themed codenames (Mite, Ant, Moth, Wasp).

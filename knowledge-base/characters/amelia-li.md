@@ -22,73 +22,73 @@
 | **First Appearance** | Chapter 5 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Amelia Li is a fourth-generation Chinese-American who lives with her family in Chinatown, Philadelphia. She manifested a Brain-type power granting her an extraordinary intuitive understanding of textiles, weaving, and material science. Her parents have been reluctant to acknowledge her powers, and their disapproval of her superhero activities has remained a persistent source of tension throughout her career. Her initial PERKS assessment in 2018 noted her reticence about sharing personal details and a strong inclination toward people-pleasing, traits that have continued to define her interpersonal dynamics.
+Amelia Li is a fourth-generation Chinese-American who lives with her family in Chinatown, Philadelphia. She manifested a Brain-type power granting her an extraordinary intuitive understanding of textiles, weaving, and material science. Her parents have been reluctant to acknowledge her powers, and their disapproval of her superhero activities has remained a persistent source of tension throughout her career. Her initial PERKS assessment in 2018 noted her reticence about sharing personal details and a strong inclination toward people-pleasing, traits that have continued to define her interpersonal dynamics.
 
-    Following her activation, Amelia was approved for a JLUMA (Juvenile License for the Unsupervised Metahuman Activity) due to her negligible collateral damage potential. She joined the Young Defenders and adopted the codename Gossamer on the recommendation of a friend. On the team, she served primarily as the costumier and field medic, designing costumes and equipment for her teammates while providing first aid during operations. She also began contributing her skills to the adult Delaware Valley Defenders.
+Following her activation, Amelia was approved for a JLUMA (Juvenile License for the Unsupervised Metahuman Activity) due to her negligible collateral damage potential. She joined the Young Defenders and adopted the codename Gossamer on the recommendation of a friend. On the team, she served primarily as the costumier and field medic, designing costumes and equipment for her teammates while providing first aid during operations. She also began contributing her skills to the adult Delaware Valley Defenders.
 
-    When anti-vigilante legislation passed in March 2025 and the Young Defenders faced dissolution, Amelia initially expressed a desire to leave superhero work and focus on civilian life. However, she reversed course and instead joined the Auditors, the independent team founded by Sam Small and Jordan Westwood. She set up a dedicated workspace at the Tacony Music Hall with medical supplies and equipment, officially becoming the team's quartermaster. Her JLUMA was upgraded to a full LUMA in 2023.
+When anti-vigilante legislation passed in March 2025 and the Young Defenders faced dissolution, Amelia initially expressed a desire to leave superhero work and focus on civilian life. However, she reversed course and instead joined the Auditors, the independent team founded by Sam Small and Jordan Westwood. She set up a dedicated workspace at the Tacony Music Hall with medical supplies and equipment, officially becoming the team's quartermaster. Her JLUMA was upgraded to a full LUMA in 2023.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    | Field | Value |
-    |-------|-------|
-    | **Classification** | B4/S/M/R |
-    | **Category** | Brain |
-    | **Power Ranking** | 4/10 |
-    | **Control** | 10/10 |
-    | **Hostility** | 0/10 |
-    | **Collateral Damage** | 0/10 |
-    | **Threat Level** | 1/10 |
+| Field | Value |
+|-------|-------|
+| **Classification** | B4/S/M/R |
+| **Category** | Brain |
+| **Power Ranking** | 4/10 |
+| **Control** | 10/10 |
+| **Hostility** | 0/10 |
+| **Collateral Damage** | 0/10 |
+| **Threat Level** | 1/10 |
 
-    **Abilities**
+### Abilities
 
-    - **Intuitive Textile Understanding** - Possesses an innate, intuitive grasp of textiles, weaving, tailoring, and material science as it relates to fabric and clothing. This understanding is experiential and intuitive rather than theoretical; she cannot explain or teach the underlying principles to others.
-    - **Anomalous Muscle Memory** - Her power provides exceptional muscle memory for complex textile-related tasks. She can perform intricate work without conscious planning or visual aid, and her muscle memory functions equally through any medium (needle and thread, sewing machine, or other tools) as long as at least one hand is on one of the objects being manipulated.
-    - **Structural Analysis (Textile-Analogous)** - Her understanding extends to structures that behave like textiles or can be conceived of as thread-related or strands under tension, including ropes, steel cables, nets, sails, knots, suspension bridges, and bullwhips. She can assess load-bearing structures and identify structural weak points.
-    - **Medical Application** - Can perform complex medical tasks analogous to weaving or tailoring, such as suturing wounds and tying tourniquets, with minimal instruction.
-    - **Anomalous Textile Creation** - Has developed the ability to create textiles with properties that defy conventional material science, including self-repairing fabrics, fabrics that actively circulate air, and materials with designated weak points for tactical purposes. She does not fully understand how she produces these effects.
-    - **Whip Mastery** - Has secretly trained herself to use bullwhips with remarkable precision, leveraging her intuitive understanding of structures under tension. She currently possesses four anomalous whips, including at least one that produces sparking effects.
+- **Intuitive Textile Understanding** - Possesses an innate, intuitive grasp of textiles, weaving, tailoring, and material science as it relates to fabric and clothing. This understanding is experiential and intuitive rather than theoretical; she cannot explain or teach the underlying principles to others.
+- **Anomalous Muscle Memory** - Her power provides exceptional muscle memory for complex textile-related tasks. She can perform intricate work without conscious planning or visual aid, and her muscle memory functions equally through any medium (needle and thread, sewing machine, or other tools) as long as at least one hand is on one of the objects being manipulated.
+- **Structural Analysis (Textile-Analogous)** - Her understanding extends to structures that behave like textiles or can be conceived of as thread-related or strands under tension, including ropes, steel cables, nets, sails, knots, suspension bridges, and bullwhips. She can assess load-bearing structures and identify structural weak points.
+- **Medical Application** - Can perform complex medical tasks analogous to weaving or tailoring, such as suturing wounds and tying tourniquets, with minimal instruction.
+- **Anomalous Textile Creation** - Has developed the ability to create textiles with properties that defy conventional material science, including self-repairing fabrics, fabrics that actively circulate air, and materials with designated weak points for tactical purposes. She does not fully understand how she produces these effects.
+- **Whip Mastery** - Has secretly trained herself to use bullwhips with remarkable precision, leveraging her intuitive understanding of structures under tension. She currently possesses four anomalous whips, including at least one that produces sparking effects.
 
-    **Limitations**
+### Limitations
 
-    - **Material Scope** - Her powers apply only to threads, ropes, steel cables, fabrics, clothes, nets, sails, knots, and structures behaving like textiles. Rigid materials such as concrete, non-textile metals, plastics, glass, and electronic components are entirely outside her scope.
-    - **Contact Required** - Physical contact or proximity to the material is necessary for her power to manifest effectively. She has limited capability in understanding patterns or structures through indirect means such as pictures or videos.
-    - **Non-Combative Origin** - Her powers are not inherently offensive or defensive. Her combat effectiveness depends on equipment she has prepared in advance, particularly her whips and custom gear.
-    - **Inexplicable Mechanisms** - She cannot explain how she creates her anomalous textiles, which limits her ability to replicate or teach her techniques. Her creations have been described as "microscope breakers" because their properties defy analysis.
+- **Material Scope** - Her powers apply only to threads, ropes, steel cables, fabrics, clothes, nets, sails, knots, and structures behaving like textiles. Rigid materials such as concrete, non-textile metals, plastics, glass, and electronic components are entirely outside her scope.
+- **Contact Required** - Physical contact or proximity to the material is necessary for her power to manifest effectively. She has limited capability in understanding patterns or structures through indirect means such as pictures or videos.
+- **Non-Combative Origin** - Her powers are not inherently offensive or defensive. Her combat effectiveness depends on equipment she has prepared in advance, particularly her whips and custom gear.
+- **Inexplicable Mechanisms** - She cannot explain how she creates her anomalous textiles, which limits her ability to replicate or teach her techniques. Her creations have been described as "microscope breakers" because their properties defy analysis.
 
-    **Training & Skills**
+### Training & Skills
 
-    - First aid and field medicine training, including bandaging, suturing, and CPR. Served as the Young Defenders' field medic during operations.
-    - Skilled in boxing and sparring, having trained with teammates and corrected Sam Small's technique during recovery training sessions.
-    - Proficient whip combatant, self-taught through her power's extension to structures under tension.
-    - Experienced costume and equipment designer, having produced costumes and tactical gear for the Young Defenders, Delaware Valley Defenders, and Auditors across multiple years.
+- First aid and field medicine training, including bandaging, suturing, and CPR. Served as the Young Defenders' field medic during operations.
+- Skilled in boxing and sparring, having trained with teammates and corrected Sam Small's technique during recovery training sessions.
+- Proficient whip combatant, self-taught through her power's extension to structures under tension.
+- Experienced costume and equipment designer, having produced costumes and tactical gear for the Young Defenders, Delaware Valley Defenders, and Auditors across multiple years.
 
-??? warning "Personality"
+## Personality
 
-    Amelia is methodical, detail-oriented, and somewhat maternal toward younger team members. She speaks with authority on technical matters related to her expertise but harbors vulnerability about the perceived inadequacy of her powers, questioning what value "super-tailoring" holds in a superhero context. She is compulsively people-pleasing, a trait that PERKS officers noted as early as her first assessment in 2018 and one that has only become more reflexive over the years. This tendency is rooted in a difficult relationship with her parents, who have never fully accepted her superhero activities.
+Amelia is methodical, detail-oriented, and somewhat maternal toward younger team members. She speaks with authority on technical matters related to her expertise but harbors vulnerability about the perceived inadequacy of her powers, questioning what value "super-tailoring" holds in a superhero context. She is compulsively people-pleasing, a trait that PERKS officers noted as early as her first assessment in 2018 and one that has only become more reflexive over the years. This tendency is rooted in a difficult relationship with her parents, who have never fully accepted her superhero activities.
 
-    Beneath her agreeable exterior, Amelia possesses a secret venomous side that she works hard to suppress. Sam Small, the narrator and her team leader, is completely unaware of this aspect of her personality. Amelia has grown increasingly confident in her abilities and her role on the Auditors, enjoying the opportunities to operate in the field and observing how her power continues to evolve with further understanding. She is capable of asking pointed, difficult questions when the moment demands it, as demonstrated when she challenged Sam for treating herself as merely a messenger rather than a leader.
+Beneath her agreeable exterior, Amelia possesses a secret venomous side that she works hard to suppress. Sam Small, the narrator and her team leader, is completely unaware of this aspect of her personality. Amelia has grown increasingly confident in her abilities and her role on the Auditors, enjoying the opportunities to operate in the field and observing how her power continues to evolve with further understanding. She is capable of asking pointed, difficult questions when the moment demands it, as demonstrated when she challenged Sam for treating herself as merely a messenger rather than a leader.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Teammate / Friend | Designed Sam's original Bloodhound costume and has continued to create and upgrade her gear across multiple iterations. Trains with Sam and provides emotional support. |
-    | Devonte Harris (Playback/Ventriloquist) | Former romantic interest | Had a romantic relationship that ended because of incompatible expectations around intimacy and religion. |
-    | Lily Chen (Blink) | Teammate | Fellow Auditor and former Young Defenders member. Joined the Auditors alongside Amelia. |
-    | Maggie O'Brien (Flashpoint) | Teammate | Fellow Auditor whom Amelia works alongside on field operations. |
-    | Tasha Reynolds (Lighthouse) | Teammate | Fellow Auditor providing civilian and medical support. |
-    | Jordan Westwood (Safeguard) | Teammate | Co-founder of the Auditors. Works with Amelia on equipment fitting and mission planning. |
-    | Derek Taylor (Bloodhound II) | Teammate | Amelia provided Derek with a modified Bloodhound costume when he assumed the Bloodhound II identity. |
-    | Maxwell Martinez (Crossroads) | Former teammate | Served together on the Young Defenders; Crossroads mandated first aid training that Amelia delivered. |
-    | Akilah Washington (Puppeteer/Marionette) | Former teammate | Served together on the Young Defenders under Akilah's leadership. |
-    | Officer M. Reynolds | PERKS interviewing officer | Conducted Amelia's PERKS assessments from 2018 through 2023, consistently noting her people-pleasing tendencies. |
-    | Dr. Leonard Harris | Power assessor | Conducted a detailed analysis of Amelia's textile manipulation powers in June 2022. |
-    | Amelia's parents | Family | Disapprove of her superhero activities. The difficult relationship underlies her compulsive people-pleasing. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Teammate / Friend | Designed Sam's original Bloodhound costume and has continued to create and upgrade her gear across multiple iterations. Trains with Sam and provides emotional support. |
+| Devonte Harris (Playback/Ventriloquist) | Former romantic interest | Had a romantic relationship that ended because of incompatible expectations around intimacy and religion. |
+| Lily Chen (Blink) | Teammate | Fellow Auditor and former Young Defenders member. Joined the Auditors alongside Amelia. |
+| Maggie O'Brien (Flashpoint) | Teammate | Fellow Auditor whom Amelia works alongside on field operations. |
+| Tasha Reynolds (Lighthouse) | Teammate | Fellow Auditor providing civilian and medical support. |
+| Jordan Westwood (Safeguard) | Teammate | Co-founder of the Auditors. Works with Amelia on equipment fitting and mission planning. |
+| Derek Taylor (Bloodhound II) | Teammate | Amelia provided Derek with a modified Bloodhound costume when he assumed the Bloodhound II identity. |
+| Maxwell Martinez (Crossroads) | Former teammate | Served together on the Young Defenders; Crossroads mandated first aid training that Amelia delivered. |
+| Akilah Washington (Puppeteer/Marionette) | Former teammate | Served together on the Young Defenders under Akilah's leadership. |
+| Officer M. Reynolds | PERKS interviewing officer | Conducted Amelia's PERKS assessments from 2018 through 2023, consistently noting her people-pleasing tendencies. |
+| Dr. Leonard Harris | Power assessor | Conducted a detailed analysis of Amelia's textile manipulation powers in June 2022. |
+| Amelia's parents | Family | Disapprove of her superhero activities. The difficult relationship underlies her compulsive people-pleasing. |
 
 ## Arc Appearances
 
@@ -183,29 +183,14 @@
     Dons the villain persona "Stingray" alongside Sam's "Remora" to intercept Alice-as-Maya during a constituent outreach event. Her sparking whip scatters Kingdom soldiers and engages Patriot. Continues operating with the Auditors.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Her codename Gossamer was adopted on the recommendation of an unspecified friend.
-    - Her PERKS interviewing officer, M. Reynolds, assessed her across six separate years (2018 through 2023) and consistently noted her people-pleasing tendencies, describing them as "almost reflexive" by 2022.
-    - Her power assessment was conducted by Dr. Leonard Harris, the same specialist who assessed Akilah Washington's powers.
-    - Her PERKS classification code B4/S/M/R indicates Brain-type, power level 4, affecting Self, Mental in nature, operating at Room-sized radius.
-    - She had a romantic relationship with Devonte Harris (Playback) that ended because he would not have sex before marriage due to his Christian faith, and neither of them wanted to get married.
-    - She designed the original Bloodhound costume that gave Sam Small her superhero identity.
-    - Her anomalous textiles have been described as "microscope breakers" because their properties cannot be explained through conventional material science analysis.
-    - She uses a scooter as her primary mode of transportation, which has served as the Auditors' extraction vehicle on multiple occasions.
-    - Her temporary villain persona "Stingray" was used during an undercover operation against the Kingdom of Keys in Book 16.
-
-## Sources
-
-
-- superhuman-entity-report-amelia-gossamer-li.txt - PERKS classification, power mechanics and limitations, assessment history, officer comments from 2018-2023, and detailed power assessment by Dr. Leonard Harris.
-- character reference guide.txt - Current alias (Gossamer), affiliation with the Auditors, personality description, power details including whip development, relationship with Devonte, and current status.
-- THE CANON DOCUMENT 1 & 2.txt - Book 1 and Book 2 arc events including costume design for Sam, team introduction, nightclub mission equipment, and post-mission debrief.
-- THE CANON DOCUMENT 3 & 4.txt - Book 3 and Book 4 arc events including medic role during South Street battle and arrival at refinery after Liberty Belle's death.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Book 5 arc events including funeral comfort, hospital visits, and recovery training with Sam.
-- THE CANON DOCUMENT 6 & 7.txt - Book 6 and Book 7 arc events including team debates and restructuring discussions.
-- THE CANON DOCUMENT 8 AND 9.txt - Book 8 and Book 9 arc events including joining the Auditors and Pennsport marina operation.
-- THE CANON DOCUMENT 10 AND 11.txt - Book 10 and Book 11 arc events including stealth costume reveals, whip debut, and surveillance work.
-- THE CANON DOCUMENT 12 AND 13.txt - Book 12 and Book 13 arc events including winterized costume fitting and Brainwash persona at Lardner's Point.
-- THE CANON DOCUMENT 14 AND 15.txt - Book 14 and Book 15 arc events including Opera House mission, suit repairs, town hall extraction, and new costume delivery.
-- THE CANON DOCUMENT 16 AND 17.txt - Book 16 arc events including the Stingray villain persona operation and continued Auditors activity.
+- Her codename Gossamer was adopted on the recommendation of an unspecified friend.
+- Her PERKS interviewing officer, M. Reynolds, assessed her across six separate years (2018 through 2023) and consistently noted her people-pleasing tendencies, describing them as "almost reflexive" by 2022.
+- Her power assessment was conducted by Dr. Leonard Harris, the same specialist who assessed Akilah Washington's powers.
+- Her PERKS classification code B4/S/M/R indicates Brain-type, power level 4, affecting Self, Mental in nature, operating at Room-sized radius.
+- She had a romantic relationship with Devonte Harris (Playback) that ended because he would not have sex before marriage due to his Christian faith, and neither of them wanted to get married.
+- She designed the original Bloodhound costume that gave Sam Small her superhero identity.
+- Her anomalous textiles have been described as "microscope breakers" because their properties cannot be explained through conventional material science analysis.
+- She uses a scooter as her primary mode of transportation, which has served as the Auditors' extraction vehicle on multiple occasions.
+- Her temporary villain persona "Stingray" was used during an undercover operation against the Kingdom of Keys in Book 16.

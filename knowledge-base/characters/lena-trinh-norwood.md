@@ -22,62 +22,62 @@
 | **First Appearance** | Chapter 25 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Lena Trinh-Norwood holds a PhD and worked as a genetic engineering researcher prior to joining the Kingdom of Keys. Before her recruitment, she operated out of a laboratory where she conducted research alongside her companion Scylla, an already-existing chimera of her own creation. Despite her evident brilliance, the conventional academic world frustrated her - the combination of ethical review boards, bureaucratic grant processes, and the indignity of supplementing her income with barista work left her deeply dissatisfied. She possessed metahuman abilities that allowed her to combine living organisms in ways that defied conventional biology, but mainstream science offered no legitimate outlet for this talent.
+Lena Trinh-Norwood holds a PhD and worked as a genetic engineering researcher prior to joining the Kingdom of Keys. Before her recruitment, she operated out of a laboratory where she conducted research alongside her companion Scylla, an already-existing chimera of her own creation. Despite her evident brilliance, the conventional academic world frustrated her - the combination of ethical review boards, bureaucratic grant processes, and the indignity of supplementing her income with barista work left her deeply dissatisfied. She possessed metahuman abilities that allowed her to combine living organisms in ways that defied conventional biology, but mainstream science offered no legitimate outlet for this talent.
 
-    In approximately December 2021, Mrs. Zenith (Maya Richardson) and Mr. Bomb visited Trinh-Norwood's laboratory on behalf of the Kingdom of Keys. They bypassed security using Mr. Bomb's explosive powers and expressed interest in her unique abilities and research. Before departing, they planted an explosive device disguised as a cigarette that was linked to Trinh-Norwood and would detonate if certain conditions were not met. Burdened with this coercive device, she traveled through snowy streets with Scylla to a meeting at a bar owned by the Kingdom. There, Zenith and Bomb outlined their proposal: unlimited resources and freedom to pursue her research without ethical constraints, in exchange for creating genetically modified creatures for the organization. Trinh-Norwood accepted the offer, adopting the moniker "Dr. Xenograft," and resolved to push the boundaries of her work unshackled by conventional morality. Though the recruitment involved an element of coercion, Trinh-Norwood has consistently framed her decision as a pragmatic one - a steady paycheck and unfettered scientific freedom simply beat hustling for grants.
+In approximately December 2021, Mrs. Zenith (Maya Richardson) and Mr. Bomb visited Trinh-Norwood's laboratory on behalf of the Kingdom of Keys. They bypassed security using Mr. Bomb's explosive powers and expressed interest in her unique abilities and research. Before departing, they planted an explosive device disguised as a cigarette that was linked to Trinh-Norwood and would detonate if certain conditions were not met. Burdened with this coercive device, she traveled through snowy streets with Scylla to a meeting at a bar owned by the Kingdom. There, Zenith and Bomb outlined their proposal: unlimited resources and freedom to pursue her research without ethical constraints, in exchange for creating genetically modified creatures for the organization. Trinh-Norwood accepted the offer, adopting the moniker "Dr. Xenograft," and resolved to push the boundaries of her work unshackled by conventional morality. Though the recruitment involved an element of coercion, Trinh-Norwood has consistently framed her decision as a pragmatic one - a steady paycheck and unfettered scientific freedom simply beat hustling for grants.
 
-    Within the Philadelphia branch of the Kingdom, Trinh-Norwood rose to become the de facto head of the organization's drug operations, developing both Hypeman and Vysera. Her role expanded well beyond creature creation into pharmacology and strategic planning, making her one of the most operationally significant members of the branch.
+Within the Philadelphia branch of the Kingdom, Trinh-Norwood rose to become the de facto head of the organization's drug operations, developing both Hypeman and Vysera. Her role expanded well beyond creature creation into pharmacology and strategic planning, making her one of the most operationally significant members of the branch.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file.
+No official PERKS assessment on file.
 
-    **Abilities**
+### Abilities
 
-    - **Chimeric Fusion ("Xenografting")** - Can combine two animals into a single stable, sterile hybrid organism. The process operates on what Trinh-Norwood herself describes as "mad scientist rules," allowing her to match selected anatomical components in a modular, "lego style" fashion. The resulting chimeras combine chosen physical traits from both source organisms into a functional whole. The granularity and precision of this process scales directly with her knowledge of each animal's anatomy - the more she understands about a species, the more finely she can control which traits are selected, combined, or omitted.
-    - **Consciousness Merging** - When two living animals are combined, their consciousnesses merge into a new gestalt consciousness that is neither wholly one nor the other. If one of the source animals is dead at the time of fusion, the surviving animal's consciousness assumes sole ownership of the new body. Trinh-Norwood prefers to work with one dead and one living specimen, as she finds the philosophical implications of true gestalt consciousness deeply uncomfortable.
-    - **Chimera Stability** - Her creations are biologically stable and viable long-term. Chimeras function as coherent organisms rather than deteriorating or rejecting their combined components. They are, however, sterile and cannot reproduce.
+- **Chimeric Fusion ("Xenografting")** - Can combine two animals into a single stable, sterile hybrid organism. The process operates on what Trinh-Norwood herself describes as "mad scientist rules," allowing her to match selected anatomical components in a modular, "lego style" fashion. The resulting chimeras combine chosen physical traits from both source organisms into a functional whole. The granularity and precision of this process scales directly with her knowledge of each animal's anatomy - the more she understands about a species, the more finely she can control which traits are selected, combined, or omitted.
+- **Consciousness Merging** - When two living animals are combined, their consciousnesses merge into a new gestalt consciousness that is neither wholly one nor the other. If one of the source animals is dead at the time of fusion, the surviving animal's consciousness assumes sole ownership of the new body. Trinh-Norwood prefers to work with one dead and one living specimen, as she finds the philosophical implications of true gestalt consciousness deeply uncomfortable.
+- **Chimera Stability** - Her creations are biologically stable and viable long-term. Chimeras function as coherent organisms rather than deteriorating or rejecting their combined components. They are, however, sterile and cannot reproduce.
 
-    **Limitations**
+### Limitations
 
-    - Trinh-Norwood's power requires physical access to both source animals.
-    - The quality and precision of her fusions are directly limited by her anatomical knowledge - species she is less familiar with produce cruder results.
-    - Her creations are sterile and cannot breed.
-    - Chimeras left near Mr. Antithesis appear to be adversely affected, implying that his power negation abilities may destabilize or harm organisms created through metahuman powers. This is why Scylla was left outside during Trinh-Norwood's meeting with him.
-    - Trinh-Norwood herself has no combat-oriented metahuman abilities; she is physically a baseline human.
+- Trinh-Norwood's power requires physical access to both source animals.
+- The quality and precision of her fusions are directly limited by her anatomical knowledge - species she is less familiar with produce cruder results.
+- Her creations are sterile and cannot breed.
+- Chimeras left near Mr. Antithesis appear to be adversely affected, implying that his power negation abilities may destabilize or harm organisms created through metahuman powers. This is why Scylla was left outside during Trinh-Norwood's meeting with him.
+- Trinh-Norwood herself has no combat-oriented metahuman abilities; she is physically a baseline human.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Holds a PhD, with extensive academic training in zoology, biology, genetics, and pharmacokinetics.
-    - Exceptional knowledge of animal anatomy across a wide range of species, which directly enhances the precision of her power.
-    - Highly skilled in animal husbandry, care, and training. Animals respond positively to her even without the use of her metahuman abilities - she possesses a natural aptitude for understanding and managing animal behavior.
-    - Developed sophisticated pharmacological compounds including Hypeman (Compound J-237) and Vysera (daxerimab), demonstrating advanced expertise in drug design, biochemistry, and pharmacokinetics.
-    - Understands the inner workings of Rogue Wave's Jump drug at a molecular level, including its compound architecture, delivery system requirements, and failure modes.
+- Holds a PhD, with extensive academic training in zoology, biology, genetics, and pharmacokinetics.
+- Exceptional knowledge of animal anatomy across a wide range of species, which directly enhances the precision of her power.
+- Highly skilled in animal husbandry, care, and training. Animals respond positively to her even without the use of her metahuman abilities - she possesses a natural aptitude for understanding and managing animal behavior.
+- Developed sophisticated pharmacological compounds including Hypeman (Compound J-237) and Vysera (daxerimab), demonstrating advanced expertise in drug design, biochemistry, and pharmacokinetics.
+- Understands the inner workings of Rogue Wave's Jump drug at a molecular level, including its compound architecture, delivery system requirements, and failure modes.
 
-??? warning "Personality"
+## Personality
 
-    Trinh-Norwood is haughty, precise, and unapologetically pedantic. She speaks with the careful word choice of someone who considers language a tool of accuracy rather than social bonding. She is extremely autistic, particularly in matters relating to animals, and this manifests as both her greatest professional strength and her most pronounced social liability. She insists - with considerable irritation - on being referred to as a mad *zoologist*, not a mad *scientist*, a distinction she considers meaningful and non-negotiable. She has been observed becoming visibly distracted by a dying ficus plant during a strategic leadership meeting, and she engages in sarcastic exchanges with colleagues that suggest she views most people as operating at a lower intellectual register than herself.
+Trinh-Norwood is haughty, precise, and unapologetically pedantic. She speaks with the careful word choice of someone who considers language a tool of accuracy rather than social bonding. She is extremely autistic, particularly in matters relating to animals, and this manifests as both her greatest professional strength and her most pronounced social liability. She insists - with considerable irritation - on being referred to as a mad *zoologist*, not a mad *scientist*, a distinction she considers meaningful and non-negotiable. She has been observed becoming visibly distracted by a dying ficus plant during a strategic leadership meeting, and she engages in sarcastic exchanges with colleagues that suggest she views most people as operating at a lower intellectual register than herself.
 
-    One of Trinh-Norwood's most notable traits is her frequent failure to recognize social cues related to intimidation and threat. She often refuses to be cowed by dangerous individuals not out of bravery but because she is genuinely too socially unaware to register that she should be frightened. This quality makes her interactions with figures like Mr. Antithesis and Mr. Tyrannosaur distinctly different from those of her colleagues, who typically display appropriate deference or fear. Despite her general social detachment, she demonstrates scientific curiosity that can override her dismissiveness - when confronted with the existence of the Fly drug, she initially scoffed at the possibility of power-granting pills but quickly shifted to genuine scientific interest.
+One of Trinh-Norwood's most notable traits is her frequent failure to recognize social cues related to intimidation and threat. She often refuses to be cowed by dangerous individuals not out of bravery but because she is genuinely too socially unaware to register that she should be frightened. This quality makes her interactions with figures like Mr. Antithesis and Mr. Tyrannosaur distinctly different from those of her colleagues, who typically display appropriate deference or fear. Despite her general social detachment, she demonstrates scientific curiosity that can override her dismissiveness - when confronted with the existence of the Fly drug, she initially scoffed at the possibility of power-granting pills but quickly shifted to genuine scientific interest.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Maya Richardson (Mrs. Zenith) | Superior / Recruiter | Zenith recruited Trinh-Norwood into the Kingdom alongside Mr. Bomb. Zenith serves as the acting boss of the Philadelphia branch, and the two interact regularly on operational matters. Accompanied Trinh-Norwood to the meeting with Mr. Antithesis following Operation Ivory. |
-    | Blake Matthews (Mr. Tyrannosaur) | Colleague / Romantic tension | The two do not particularly like each other and engage in frequent sarcastic exchanges. However, there is acknowledged sexual tension between them. Tyrannosaur consults her on paleontological literature to improve his combat effectiveness with his dinosaur transformation, though he needs her to translate the more technical material. |
-    | Trent Fairfax (Mr. Antithesis) | Superior (Kingdom leadership) | Trinh-Norwood reported directly to Mr. Antithesis following the failed Operation Ivory, presenting Hypeman to justify her continued value. He rewarded her with a raise and profit-sharing but warned that future failures would not be tolerated. His power negation abilities appear to adversely affect her chimeric creations. |
-    | Mr. Nothing (Darnell) | Colleague | Captured during Operation Ivory alongside Mudslide. Later coordinated with Trinh-Norwood on rebuilding Hypeman production in Camden after his liberation. |
-    | Mr. Polygraph | Colleague | Fellow Philadelphia branch operative. Present during the Fly crisis discussion at Kingdom headquarters. Assigned to coordinate with Trinh-Norwood on Hypeman production. |
-    | Mrs. Heartbeat | Colleague | Operated alongside Trinh-Norwood during Kingdom operations. Escaped the zoo heist with some of the stolen poison dart frogs. |
-    | Sam Small (Bloodhound) | Adversary | Encountered Sam during the Crescent nightclub infiltration, where she sicced Scylla on her. Later met Sam unexpectedly at the Philadelphia Zoo, engaging in a surprisingly civil conversation about animals before warning her to be careful. Her chimeric creatures attacked Sam's home. |
-    | Scylla | Companion animal | An immortal greyhound-lobster chimera and Trinh-Norwood's constant companion. Armored and combat-capable, trained to a high degree. Present with her from before she joined the Kingdom. |
-    | Darwin | Pet | A glow-in-the-dark axolotl. Not a combat pet. |
-    | Rogue Wave / Daisy Zhen | Indirect connection | Trinh-Norwood reverse-engineered aspects of Rogue Wave's Jump drug to create Hypeman, and cultured cells from Daisy Zhen to produce an analogous Compound B. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Maya Richardson (Mrs. Zenith) | Superior / Recruiter | Zenith recruited Trinh-Norwood into the Kingdom alongside Mr. Bomb. Zenith serves as the acting boss of the Philadelphia branch, and the two interact regularly on operational matters. Accompanied Trinh-Norwood to the meeting with Mr. Antithesis following Operation Ivory. |
+| Blake Matthews (Mr. Tyrannosaur) | Colleague / Romantic tension | The two do not particularly like each other and engage in frequent sarcastic exchanges. However, there is acknowledged sexual tension between them. Tyrannosaur consults her on paleontological literature to improve his combat effectiveness with his dinosaur transformation, though he needs her to translate the more technical material. |
+| Trent Fairfax (Mr. Antithesis) | Superior (Kingdom leadership) | Trinh-Norwood reported directly to Mr. Antithesis following the failed Operation Ivory, presenting Hypeman to justify her continued value. He rewarded her with a raise and profit-sharing but warned that future failures would not be tolerated. His power negation abilities appear to adversely affect her chimeric creations. |
+| Mr. Nothing (Darnell) | Colleague | Captured during Operation Ivory alongside Mudslide. Later coordinated with Trinh-Norwood on rebuilding Hypeman production in Camden after his liberation. |
+| Mr. Polygraph | Colleague | Fellow Philadelphia branch operative. Present during the Fly crisis discussion at Kingdom headquarters. Assigned to coordinate with Trinh-Norwood on Hypeman production. |
+| Mrs. Heartbeat | Colleague | Operated alongside Trinh-Norwood during Kingdom operations. Escaped the zoo heist with some of the stolen poison dart frogs. |
+| Sam Small (Bloodhound) | Adversary | Encountered Sam during the Crescent nightclub infiltration, where she sicced Scylla on her. Later met Sam unexpectedly at the Philadelphia Zoo, engaging in a surprisingly civil conversation about animals before warning her to be careful. Her chimeric creatures attacked Sam's home. |
+| Scylla | Companion animal | An immortal greyhound-lobster chimera and Trinh-Norwood's constant companion. Armored and combat-capable, trained to a high degree. Present with her from before she joined the Kingdom. |
+| Darwin | Pet | A glow-in-the-dark axolotl. Not a combat pet. |
+| Rogue Wave / Daisy Zhen | Indirect connection | Trinh-Norwood reverse-engineered aspects of Rogue Wave's Jump drug to create Hypeman, and cultured cells from Daisy Zhen to produce an analogous Compound B. |
 
 ## Arc Appearances
 
@@ -154,30 +154,17 @@
     Her current status is described as "Busy." Vysera continues to be used in NSRA experimental trials, and Elias Franklin (Chimera) begins investigating the drug, suspecting it is derived from Snake Oil's Jump research.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Trinh-Norwood is insistent on the distinction between "mad zoologist" and "mad scientist," considering the latter inaccurate and the former a point of professional pride.
-    - Within the Kingdom's alphabetical naming convention, she holds the "X" designation (Mrs. Xenograft / Mrs. X), though she prefers "Dr." to "Mrs." given her doctoral credentials.
-    - Her companion Scylla is named after the sea monster from Greek mythology - a multi-limbed creature that was itself a hybrid of different animals.
-    - Darwin, her glow-in-the-dark axolotl, is presumably named after Charles Darwin, the father of evolutionary biology.
-    - She became distracted by a dying ficus plant during a high-level Kingdom strategy meeting about the Fly drug crisis.
-    - The poison dart frogs stolen during Operation Ivory were a key ingredient in her development of Hypeman, as their toxins - when combined with bee hybrids - create stable power-enhancing compounds.
-    - Vysera's generic name, daxerimab, follows the "-mab" suffix convention used for monoclonal antibody drugs, suggesting Trinh-Norwood designed it as a biological pharmaceutical rather than a simple chemical compound.
-    - She is one of only a few Kingdom operatives to have had a direct, civil conversation with Sam Small outside of combat, during their unexpected zoo encounter.
-    - LTN.1 reveals that before joining the Kingdom, Trinh-Norwood was supplementing her research income with barista work, a detail that underscores the gulf between her intellectual capabilities and her financial circumstances.
-    - LTN.2 reveals Trinh-Norwood's deep understanding of Rogue Wave's Jump drug at a molecular level, including failure modes that cause users to "fold in on themselves" -- knowledge she leveraged to create a superior product in Hypeman.
-    - Her identification of a missing corridor in the Daedalus blueprints during BM.3 demonstrates analytical competence that extends well beyond biology and pharmacology.
-    - The coercive element of her recruitment in LTN.1 -- an explosive device disguised as a cigarette that detonates if conditions are not met -- is never fully resolved in the narrative. Whether the device was ever deactivated or whether she remains under its threat is left ambiguous.
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, personality, powers, relationships with Mr. Tyrannosaur, current status, and drug creation (Hypeman, Vysera).
-- THE CANON DOCUMENT 1 & 2.txt - First appearance at Crescent nightclub (Chapters 25-26), chimera attack on the Small home (Chapters 27-28), and Arc 2 synopsis identifying her as a Kingdom operative.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Blake Matthews interlude (BM.1) depicting Kingdom headquarters dynamics, Fly crisis discussion, and interpersonal relationships.
-- THE CANON DOCUMENT 6 & 7.txt - Origin interlude (LTN.1) detailing recruitment by the Kingdom in December 2021.
-- THE CANON DOCUMENT 8 AND 9.txt - Zoo encounter (Chapter 126), Operation Ivory and the zoo heist, LTN.2 interlude presenting Hypeman to Mr. Antithesis, Arc 8 and 9 synopses.
-- THE CANON DOCUMENT 10 AND 11.txt - Hypeman distribution and its role in Sam's survival and subsequent withdrawal symptoms across Arcs 10-11.
-- THE CANON DOCUMENT 12 AND 13.txt - Continued Hypeman references, assignment to rebuild production in Camden (Interlude MR.7).
-- THE CANON DOCUMENT 14 AND 15.txt - Hypeman used by Shrike, Vysera trial introduction (DT.2 interlude), Daedalus operation planning.
-- THE CANON DOCUMENT 16 AND 17.txt - Daedalus prison break planning meeting, identification of blueprint discrepancy, ongoing Vysera trial references.
+- Trinh-Norwood is insistent on the distinction between "mad zoologist" and "mad scientist," considering the latter inaccurate and the former a point of professional pride.
+- Within the Kingdom's alphabetical naming convention, she holds the "X" designation (Mrs. Xenograft / Mrs. X), though she prefers "Dr." to "Mrs." given her doctoral credentials.
+- Her companion Scylla is named after the sea monster from Greek mythology - a multi-limbed creature that was itself a hybrid of different animals.
+- Darwin, her glow-in-the-dark axolotl, is presumably named after Charles Darwin, the father of evolutionary biology.
+- She became distracted by a dying ficus plant during a high-level Kingdom strategy meeting about the Fly drug crisis.
+- The poison dart frogs stolen during Operation Ivory were a key ingredient in her development of Hypeman, as their toxins - when combined with bee hybrids - create stable power-enhancing compounds.
+- Vysera's generic name, daxerimab, follows the "-mab" suffix convention used for monoclonal antibody drugs, suggesting Trinh-Norwood designed it as a biological pharmaceutical rather than a simple chemical compound.
+- She is one of only a few Kingdom operatives to have had a direct, civil conversation with Sam Small outside of combat, during their unexpected zoo encounter.
+- LTN.1 reveals that before joining the Kingdom, Trinh-Norwood was supplementing her research income with barista work, a detail that underscores the gulf between her intellectual capabilities and her financial circumstances.
+- LTN.2 reveals Trinh-Norwood's deep understanding of Rogue Wave's Jump drug at a molecular level, including failure modes that cause users to "fold in on themselves" -- knowledge she leveraged to create a superior product in Hypeman.
+- Her identification of a missing corridor in the Daedalus blueprints during BM.3 demonstrates analytical competence that extends well beyond biology and pharmacology.
+- The coercive element of her recruitment in LTN.1 -- an explosive device disguised as a cigarette that detonates if conditions are not met -- is never fully resolved in the narrative. Whether the device was ever deactivated or whether she remains under its threat is left ambiguous.

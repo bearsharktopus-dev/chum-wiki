@@ -22,54 +22,54 @@
 | **First Appearance** | Chapter 1 (mentioned); Chapter 2 (on-page) |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Benjamin "Ben" Small grew up in New York City during the chaotic 1980s, a period before the organized superhero community had fully established itself. This upbringing instilled in him a pragmatic awareness of urban danger and self-reliance. His father, Morris "Pop-Pop Moe" Small, a civil engineer who co-founded Horvath-Small Ltd., taught Ben to shoot at age twenty-one, imparting a philosophy that power of any kind is neither good nor bad but depends entirely on when, why, and how it is used. This worldview was further shaped by the family's connection to the Holocaust - Ben's grandmother Leah was a survivor, and her experience informed Moe's conviction that ordinary people must sometimes be prepared to protect themselves when no hero is available.
+Benjamin "Ben" Small grew up in New York City during the chaotic 1980s, a period before the organized superhero community had fully established itself. This upbringing instilled in him a pragmatic awareness of urban danger and self-reliance. His father, Morris "Pop-Pop Moe" Small, a civil engineer who co-founded Horvath-Small Ltd., taught Ben to shoot at age twenty-one, imparting a philosophy that power of any kind is neither good nor bad but depends entirely on when, why, and how it is used. This worldview was further shaped by the family's connection to the Holocaust - Ben's grandmother Leah was a survivor, and her experience informed Moe's conviction that ordinary people must sometimes be prepared to protect themselves when no hero is available.
 
-    In his younger years, Ben was a metalhead and leftist activist. He attended Drexel University in Philadelphia, where he met Rachel (nee de Leon), his future wife. At some point he had a physical altercation with Rachel's estranged father, Victor Blanc, which contributed to Victor's disconnection from the family. Ben eventually channeled his activist energy into systemic work, becoming a city planner focused on improving Philadelphia's zoning laws and urban infrastructure from within the system. He and Rachel settled in Mayfair, where they raised their daughter Samantha.
+In his younger years, Ben was a metalhead and leftist activist. He attended Drexel University in Philadelphia, where he met Rachel (nee de Leon), his future wife. At some point he had a physical altercation with Rachel's estranged father, Victor Blanc, which contributed to Victor's disconnection from the family. Ben eventually channeled his activist energy into systemic work, becoming a city planner focused on improving Philadelphia's zoning laws and urban infrastructure from within the system. He and Rachel settled in Mayfair, where they raised their daughter Samantha.
 
-    Ben's life changed dramatically when Sam gained shark-based powers after a boating accident in the summer of 2023. He and Rachel provided parental consent for Sam's provisional Juvenile License to Utilize Metahuman Abilities (JLUMA). From that point forward, Ben found himself navigating the impossible tension between wanting to protect his daughter and respecting her growing independence as a superhero. His home was destroyed by the Kingdom of Keys during an attack by Mr. T-Rex and Mrs. Z, though Ben had the foresight to carry "superhero insurance" on the property in addition to standard homeowner's coverage. The house was rebuilt, and the family returned to Mayfair, but the attack underscored the escalating consequences of Sam's double life.
+Ben's life changed dramatically when Sam gained shark-based powers after a boating accident in the summer of 2023. He and Rachel provided parental consent for Sam's provisional Juvenile License to Utilize Metahuman Abilities (JLUMA). From that point forward, Ben found himself navigating the impossible tension between wanting to protect his daughter and respecting her growing independence as a superhero. His home was destroyed by the Kingdom of Keys during an attack by Mr. T-Rex and Mrs. Z, though Ben had the foresight to carry "superhero insurance" on the property in addition to standard homeowner's coverage. The house was rebuilt, and the family returned to Mayfair, but the attack underscored the escalating consequences of Sam's double life.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file. Ben Small is a baseline human with no metahuman abilities.
+No official PERKS assessment on file. Ben Small is a baseline human with no metahuman abilities.
 
-    **Abilities**
+### Abilities
 
-    N/A - Ben possesses no superpowers.
+N/A - Ben possesses no superpowers.
 
-    **Limitations**
+### Limitations
 
-    - Baseline human durability, strength, and reflexes.
-    - Sustained a gunshot wound during the South Street confrontation with Rush Order in July 2025, requiring surgery and an extended recovery period involving wheelchair use, then a cane, and eventually physical therapy.
+- Baseline human durability, strength, and reflexes.
+- Sustained a gunshot wound during the South Street confrontation with Rush Order in July 2025, requiring surgery and an extended recovery period involving wheelchair use, then a cane, and eventually physical therapy.
 
-    **Training & Skills**
+### Training & Skills
 
-    - **Firearms Proficiency** - Trained by Pop-Pop Moe at age twenty-one. Maintains a monthly practice routine at the Philadelphia Sportsmen's Association. Owns a Smith & Wesson M&P Shield, which he stores in a biometric safe with ammunition kept separately. His shooting stance resembles a boxing form, and he clusters shots near center target with consistent accuracy.
-    - **City Planning Expertise** - Professional knowledge of Philadelphia's zoning, infrastructure, commercial corridors, sewer systems, and urban development patterns. This expertise has directly aided Sam's operations, including providing city planning maps, survey maps, infrastructure overlays, and sewer plans for the Mayfair, Tacony, and Northeast Philadelphia areas. He once corrected the Auditors' prediction model for Kingdom of Keys territorial expansion, identifying that the organization would follow commercial corridors rather than spreading radially.
-    - **Gun Safety Instruction** - Taught Sam basic firearms safety principles from an early age: never touch, tell an adult, treat every firearm as loaded.
-    - **Cooking** - Known for his kugel (a sweet noodle casserole), spaghetti, and participation in family Shabbat dinners and Seder preparations.
+- **Firearms Proficiency** - Trained by Pop-Pop Moe at age twenty-one. Maintains a monthly practice routine at the Philadelphia Sportsmen's Association. Owns a Smith & Wesson M&P Shield, which he stores in a biometric safe with ammunition kept separately. His shooting stance resembles a boxing form, and he clusters shots near center target with consistent accuracy.
+- **City Planning Expertise** - Professional knowledge of Philadelphia's zoning, infrastructure, commercial corridors, sewer systems, and urban development patterns. This expertise has directly aided Sam's operations, including providing city planning maps, survey maps, infrastructure overlays, and sewer plans for the Mayfair, Tacony, and Northeast Philadelphia areas. He once corrected the Auditors' prediction model for Kingdom of Keys territorial expansion, identifying that the organization would follow commercial corridors rather than spreading radially.
+- **Gun Safety Instruction** - Taught Sam basic firearms safety principles from an early age: never touch, tell an adult, treat every firearm as loaded.
+- **Cooking** - Known for his kugel (a sweet noodle casserole), spaghetti, and participation in family Shabbat dinners and Seder preparations.
 
-??? warning "Personality"
+## Personality
 
-    Ben is analytical, methodical, and somewhat emotionally detached in his communication style, traits the narrative attributes to undiagnosed autism spectrum characteristics. He speaks carefully and deliberately, mixing dry humor with genuine concern in a way that can appear reserved but conceals deep feeling. His approach to problems is systematic - he gravitates toward structural and institutional solutions rather than reactive ones, a tendency reflected in both his professional work and his parenting philosophy. He frames his city planning career as a form of systemic protection, contrasting it with the reactive nature of gun ownership or vigilantism.
+Ben is analytical, methodical, and somewhat emotionally detached in his communication style, traits the narrative attributes to undiagnosed autism spectrum characteristics. He speaks carefully and deliberately, mixing dry humor with genuine concern in a way that can appear reserved but conceals deep feeling. His approach to problems is systematic - he gravitates toward structural and institutional solutions rather than reactive ones, a tendency reflected in both his professional work and his parenting philosophy. He frames his city planning career as a form of systemic protection, contrasting it with the reactive nature of gun ownership or vigilantism.
 
-    Beneath the measured exterior, Ben cares profoundly about his family's safety and struggles with fear he rarely articulates directly. He has expressed insecurity about his own career compared to Sam's heroism and has argued with Pop-Pop Moe about whether his primary duty is to protect his daughter or to support her choices. He understands Sam's self-destructive tendencies from his own past experiences as an activist and metalhead - a background that gives him unique insight into her compulsive drive to fix things, even at personal cost. His conversations with Sam frequently center on the difference between fixing problems and dealing with people, and on the importance of living long enough to see one's work through.
+Beneath the measured exterior, Ben cares profoundly about his family's safety and struggles with fear he rarely articulates directly. He has expressed insecurity about his own career compared to Sam's heroism and has argued with Pop-Pop Moe about whether his primary duty is to protect his daughter or to support her choices. He understands Sam's self-destructive tendencies from his own past experiences as an activist and metalhead - a background that gives him unique insight into her compulsive drive to fix things, even at personal cost. His conversations with Sam frequently center on the difference between fixing problems and dealing with people, and on the importance of living long enough to see one's work through.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Samantha "Sam" Small (Bloodhound) | Daughter | Knows about her superhero activities. Initially resistant, evolved to measured support with restrictions. Took Sam to the gun range, teaches her about systemic versus reactive problem-solving. Shot Rush Order to protect her. |
-    | Rachel Small | Wife | Partners in navigating Sam's vigilante life. Ben tends toward analytical detachment while Rachel is more emotionally expressive. They present a united front despite differing approaches, sometimes functioning as "bad cop" and "good cop." |
-    | Morris "Pop-Pop Moe" Small | Father | Moe taught Ben to shoot and instilled his philosophy about power and self-reliance. They have argued about Sam's heroism - Ben fears for her safety while Moe encourages her calling. Their relationship is loving but carries unresolved tension. |
-    | Victor Blanc | Father-in-law (estranged) | Had a physical altercation with Victor that contributed to the estrangement. When Victor appeared at the Small home uninvited, Ben placed a gun and magazine on the kitchen table as a precaution and watched tensely from the kitchen doorway. |
-    | Dean Carver (Rush Order) | Adversary | Shot Rush Order during the South Street confrontation. Rush Order subsequently placed Ben under Rogue Wave's "protection" and released a public video framing Ben's actions as exemplifying Rogue Wave's philosophy of individual empowerment. |
-    | Niles Nolan (Shrike) | Adversary | Confronted Shrike with his firearm during the home invasion but was neutralized when Shrike threatened to activate hidden spikes throughout the house. |
-    | Jordan Westwood (Safeguard) | Daughter's teammate | Jordan defended Sam's heroism at the hospital, stating she was "more a hero than anyone else I've met." Ben has come to accept the Auditors as part of Sam's life. |
-    | Dr. Eleanor Kaplan | Family therapist | Facilitates family therapy sessions addressing Sam's retirement, Ben's gun ownership, and the family's overlapping anxieties about safety and control. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Samantha "Sam" Small (Bloodhound) | Daughter | Knows about her superhero activities. Initially resistant, evolved to measured support with restrictions. Took Sam to the gun range, teaches her about systemic versus reactive problem-solving. Shot Rush Order to protect her. |
+| Rachel Small | Wife | Partners in navigating Sam's vigilante life. Ben tends toward analytical detachment while Rachel is more emotionally expressive. They present a united front despite differing approaches, sometimes functioning as "bad cop" and "good cop." |
+| Morris "Pop-Pop Moe" Small | Father | Moe taught Ben to shoot and instilled his philosophy about power and self-reliance. They have argued about Sam's heroism - Ben fears for her safety while Moe encourages her calling. Their relationship is loving but carries unresolved tension. |
+| Victor Blanc | Father-in-law (estranged) | Had a physical altercation with Victor that contributed to the estrangement. When Victor appeared at the Small home uninvited, Ben placed a gun and magazine on the kitchen table as a precaution and watched tensely from the kitchen doorway. |
+| Dean Carver (Rush Order) | Adversary | Shot Rush Order during the South Street confrontation. Rush Order subsequently placed Ben under Rogue Wave's "protection" and released a public video framing Ben's actions as exemplifying Rogue Wave's philosophy of individual empowerment. |
+| Niles Nolan (Shrike) | Adversary | Confronted Shrike with his firearm during the home invasion but was neutralized when Shrike threatened to activate hidden spikes throughout the house. |
+| Jordan Westwood (Safeguard) | Daughter's teammate | Jordan defended Sam's heroism at the hospital, stating she was "more a hero than anyone else I've met." Ben has come to accept the Auditors as part of Sam's life. |
+| Dr. Eleanor Kaplan | Family therapist | Facilitates family therapy sessions addressing Sam's retirement, Ben's gun ownership, and the family's overlapping anxieties about safety and control. |
 
 ## Arc Appearances
 
@@ -176,29 +176,14 @@
     Deduces Sam is Megalodon through Mr. Donovan's neighborhood inquiries about the new shark-themed vigilante -- "He didn't put it together. But I did" (Ch. 242). Offers updated maps including 1920s survey maps with sewer reroutes and spots a construction detour on Cottman Avenue for Sam's diagrammed patrol route. Participates in the family negotiation of Megalodon patrol terms: diagrammed route, bail points, home by ten, text check-ins. Growing a beard since he shot Rush Order. Tells Sam "You look like a superhero" when she returns from her first real Megalodon patrol (Ch. 243). Present during the Elena Morales confession broadcast. Drives Sam to the Tacony Community Center grand opening. Mentioned alongside Rachel as hosting Maxwell Martinez during his three-month recovery.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Ben's social media nickname "Gun Dad" (and the more irreverent "Gun DILF") trended after bystander video of the South Street confrontation went viral. News media also used "Gun Dad" in subsequent coverage.
-    - Gun sales in Philadelphia spiked 300% following the "Gun Dad" incident, with Rachel and her mother Camilla debating the implications of Ben's actions becoming a symbol for armed civilian resistance.
-    - Rush Order, the Rogue Wave speedster Ben shot, developed a strange respect for Ben rather than resentment, and publicly declared him under Rogue Wave's protection.
-    - Ben's gun, a Smith & Wesson M&P Shield, is stored in a biometric safe with ammunition kept separately - a detail explored extensively during family therapy and the gun range chapter.
-    - His famous kugel (sweet noodle casserole) is mentioned as a comfort food he prepares before difficult family conversations.
-    - Victor Blanc, Rachel's estranged father, struggled to remember Ben's name when contacted by a mysterious texter, highlighting how disconnected Victor had become from the family.
-    - Ben mentioned the Divine Lorraine renovation during Sam's hospital birthday celebration, reflecting his professional interest in Philadelphia landmarks and urban development.
-    - Pop-Pop Moe's philosophy that Ben passes to Sam - "Sometimes there won't be a superhero around, Benjy. Sometimes there's just you" - serves as a thematic throughline for Ben's character and his decision to intervene on South Street.
-    - Ben attended Drexel University, where he met Rachel. Shrike targeted the university during his campaign of intimidation against Sam, among other schools associated with the Small family.
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, personality traits, occupation, family role, and relationship to Sam's superhero activities.
-- THE CANON DOCUMENT 1 & 2.txt - First mention in Chapter 1 (parental consent for JLUMA), first on-page appearance in Chapter 2 (family dinner, established as city planner), Kingdom of Keys home attack and "superhero insurance" reveal.
-- THE CANON DOCUMENT 3 & 4.txt - Hospital scenes during Sam's Chernobyl recovery, argument with Pop-Pop Moe about Sam's heroism, Sam's 15th birthday, homecoming after hospital discharge, Passover Seder leadership.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Kugel preparation before testimony discussion, phone call after Phreaks' courthouse attack.
-- THE CANON DOCUMENT 6 & 7.txt - Rosh Hashanah dinner, family dynamics during Arc 7.
-- THE CANON DOCUMENT 8 AND 9.txt - RS.1 interlude (dinner with Rachel and Moe discussing Sam's zoo battle), Arc 10 conversation with Sam about self-destructive tendencies.
-- THE CANON DOCUMENT 10 AND 11.txt - Birthday, spaghetti dinner, Chambers & Woo consultation, Kate/Soot investigation scenes, financial support for Smiths' relocation, family scenes through Arc 11.
-- THE CANON DOCUMENT 12 AND 13.txt - South Street confrontation with Rush Order (Chapter 188), hospital recovery (Chapter 189), "Gun Dad" media phenomenon, family boundary negotiations (Chapter 192), RS.3 interlude, Arc 13 recovery, Victor Blanc confrontation, Shrike home invasion, Liberty Belle notebooks, Harrisburg trip, Arc 13 character development summary.
-- THE CANON DOCUMENT 14 AND 15.txt - Family therapy with Dr. Kaplan (Chapter 213), gun range visit (Chapter 214), city planning expertise aiding operations, mentorship program hosting, Music Hall attack aftermath, Nina de la Cruz meeting, Kingdom expansion model correction, legal hearing accompaniment, Alex Kirby pickup.
-- THE CANON DOCUMENT 16 AND 17.txt - Elena Morales confession viewing, community center grand opening, ongoing family and logistical support, Valentine's Day scene.
-- THE FACTSHEET.txt - General worldbuilding context (PERKS system, LUMA licensing).
+- Ben's social media nickname "Gun Dad" (and the more irreverent "Gun DILF") trended after bystander video of the South Street confrontation went viral. News media also used "Gun Dad" in subsequent coverage.
+- Gun sales in Philadelphia spiked 300% following the "Gun Dad" incident, with Rachel and her mother Camilla debating the implications of Ben's actions becoming a symbol for armed civilian resistance.
+- Rush Order, the Rogue Wave speedster Ben shot, developed a strange respect for Ben rather than resentment, and publicly declared him under Rogue Wave's protection.
+- Ben's gun, a Smith & Wesson M&P Shield, is stored in a biometric safe with ammunition kept separately - a detail explored extensively during family therapy and the gun range chapter.
+- His famous kugel (sweet noodle casserole) is mentioned as a comfort food he prepares before difficult family conversations.
+- Victor Blanc, Rachel's estranged father, struggled to remember Ben's name when contacted by a mysterious texter, highlighting how disconnected Victor had become from the family.
+- Ben mentioned the Divine Lorraine renovation during Sam's hospital birthday celebration, reflecting his professional interest in Philadelphia landmarks and urban development.
+- Pop-Pop Moe's philosophy that Ben passes to Sam - "Sometimes there won't be a superhero around, Benjy. Sometimes there's just you" - serves as a thematic throughline for Ben's character and his decision to intervene on South Street.
+- Ben attended Drexel University, where he met Rachel. Shrike targeted the university during his campaign of intimidation against Sam, among other schools associated with the Small family.

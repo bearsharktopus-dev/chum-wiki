@@ -22,70 +22,70 @@
 | **First Appearance** | Chapter 5 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Maxwell Martinez applied for a JLUMA (Juvenile Licensed Use of Metahuman Abilities) in 2020, presenting a unique cognitive ability to predict discrete outcomes of inflection points. His initial attempts at independent heroism resulted in more than a few injuries, but these early setbacks helped him develop a more realistic understanding of his capabilities. After receiving his juvenile license, he joined the Young Defenders and quickly proved himself a valuable team member thanks to his strategic thinking and predictive powers.
+Maxwell Martinez applied for a JLUMA (Juvenile Licensed Use of Metahuman Abilities) in 2020, presenting a unique cognitive ability to predict discrete outcomes of inflection points. His initial attempts at independent heroism resulted in more than a few injuries, but these early setbacks helped him develop a more realistic understanding of his capabilities. After receiving his juvenile license, he joined the Young Defenders and quickly proved himself a valuable team member thanks to his strategic thinking and predictive powers.
 
-    When Puppeteer was admitted for inpatient psychiatric treatment in 2023, Maxwell stepped into the role of acting leader of the Young Defenders. He demonstrated strong leadership during this period, recruiting Sam Small and Jordan Westwood for an undercover mission at the Crescent nightclub to gather intelligence on the Kingdom of Keys. His tenure as acting leader was noted positively by his PERKS interviewing officer, who predicted he would be tapped for a formal leadership role following Puppeteer's graduation.
+When Puppeteer was admitted for inpatient psychiatric treatment in 2023, Maxwell stepped into the role of acting leader of the Young Defenders. He demonstrated strong leadership during this period, recruiting Sam Small and Jordan Westwood for an undercover mission at the Crescent nightclub to gather intelligence on the Kingdom of Keys. His tenure as acting leader was noted positively by his PERKS interviewing officer, who predicted he would be tapped for a formal leadership role following Puppeteer's graduation.
 
-    Maxwell graduated from the Young Defenders to the adult Delaware Valley Defenders roster after a period of team restructuring prompted by Councilman Jamal Davis. He continued to serve as a tactical coordinator and dispatcher for the team. In late 2025, while providing intelligence support for Sam Small's operations against the Kingdom of Keys, Maxwell was attacked at his apartment by Mrs. Heartbeat, a Kingdom assassin. He survived the brutal assault -- which left him with multiple gunshot wounds and stab wounds -- only through the use of his precognitive abilities, managing to send Sam a warning text before his phone was destroyed. He subsequently relocated to the Small family home to recover, as it was considered the most heavily surveilled location in Philadelphia.
+Maxwell graduated from the Young Defenders to the adult Delaware Valley Defenders roster after a period of team restructuring prompted by Councilman Jamal Davis. He continued to serve as a tactical coordinator and dispatcher for the team. In late 2025, while providing intelligence support for Sam Small's operations against the Kingdom of Keys, Maxwell was attacked at his apartment by Mrs. Heartbeat, a Kingdom assassin. He survived the brutal assault -- which left him with multiple gunshot wounds and stab wounds -- only through the use of his precognitive abilities, managing to send Sam a warning text before his phone was destroyed. He subsequently relocated to the Small family home to recover, as it was considered the most heavily surveilled location in Philadelphia.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    | Field | Value |
-    |-------|-------|
-    | **Classification** | B6/S/M/V |
-    | **Category** | Brain |
-    | **Power Ranking** | N/A (narrative description only; no numerical score provided) |
-    | **Control** | 8/10 |
-    | **Hostility** | 1/10 |
-    | **Collateral Damage** | 0/10 |
-    | **Threat Level** | 3/10 |
+| Field | Value |
+|-------|-------|
+| **Classification** | B6/S/M/V |
+| **Category** | Brain |
+| **Power Ranking** | N/A (narrative description only; no numerical score provided) |
+| **Control** | 8/10 |
+| **Hostility** | 1/10 |
+| **Collateral Damage** | 0/10 |
+| **Threat Level** | 3/10 |
 
-    **Abilities**
+### Abilities
 
-    - **Discrete Outcome Prediction** - Perceives and predicts outcomes of inflection points where a decision or action results in a limited set of discrete outcomes. Works best with binary choices (e.g., coin flips) and remains effective up to six possible outcomes. Beyond six, predictions become unreliable.
-    - **Accelerated Perception** - Perceives future events at a rate approximately 201.67 times faster than normal. A few seconds of concentration can yield insights into outcomes occurring minutes to hours ahead.
-    - **Multi-Sensory Visions** - Predictions are experienced in the mind's eye but encompass all senses, providing a comprehensive perception of potential outcomes. He can function normally while experiencing future visions, though this was difficult when his powers first manifested.
-    - **Precommitment Exploitation** - Uses information theory and precommitment strategies to extract maximum value from his predictions. Carries coins at all times to flip, reading the outcomes from both sides simultaneously to decide on future actions. This technique effectively doubles the information gained from each use of his power.
-    - **Overclocking** - Can push his abilities into a continuous future-vision state approximately two to three seconds ahead of real time. This grants significant combat advantages, allowing him to anticipate and react to attacks before they occur. Whether this is a specialized form of his primary power or a secondary ability remains undetermined.
+- **Discrete Outcome Prediction** - Perceives and predicts outcomes of inflection points where a decision or action results in a limited set of discrete outcomes. Works best with binary choices (e.g., coin flips) and remains effective up to six possible outcomes. Beyond six, predictions become unreliable.
+- **Accelerated Perception** - Perceives future events at a rate approximately 201.67 times faster than normal. A few seconds of concentration can yield insights into outcomes occurring minutes to hours ahead.
+- **Multi-Sensory Visions** - Predictions are experienced in the mind's eye but encompass all senses, providing a comprehensive perception of potential outcomes. He can function normally while experiencing future visions, though this was difficult when his powers first manifested.
+- **Precommitment Exploitation** - Uses information theory and precommitment strategies to extract maximum value from his predictions. Carries coins at all times to flip, reading the outcomes from both sides simultaneously to decide on future actions. This technique effectively doubles the information gained from each use of his power.
+- **Overclocking** - Can push his abilities into a continuous future-vision state approximately two to three seconds ahead of real time. This grants significant combat advantages, allowing him to anticipate and react to attacks before they occur. Whether this is a specialized form of his primary power or a secondary ability remains undetermined.
 
-    **Limitations**
+### Limitations
 
-    - **Temporal Clarity Degradation** - Predictions are most accurate and detailed within the first 15 minutes of future sight. Clarity decreases sharply beyond this point, becoming vague after 30 minutes and entirely incomprehensible after 2 hours of perceived time.
-    - **Discrete Outcome Cap** - Accuracy is highest with binary choices and decreases as the number of potential outcomes increases, becoming unreliable beyond six discrete possibilities.
-    - **Overclocking Strain** - Using the overclocked ability causes significant physical strain, typically resulting in nosebleeds or eye bleeds due to a manifestation of the bracing effect. Extended use risks internal hemorrhage.
-    - **Mental Concentration** - The ability requires significant concentration, with effectiveness reduced in high-stress or distracting environments.
-    - **Non-Interactive Visions** - Visions are strictly observational. He cannot interact with or alter events within his visions, though he can change his current plans based on what he foresees.
+- **Temporal Clarity Degradation** - Predictions are most accurate and detailed within the first 15 minutes of future sight. Clarity decreases sharply beyond this point, becoming vague after 30 minutes and entirely incomprehensible after 2 hours of perceived time.
+- **Discrete Outcome Cap** - Accuracy is highest with binary choices and decreases as the number of potential outcomes increases, becoming unreliable beyond six discrete possibilities.
+- **Overclocking Strain** - Using the overclocked ability causes significant physical strain, typically resulting in nosebleeds or eye bleeds due to a manifestation of the bracing effect. Extended use risks internal hemorrhage.
+- **Mental Concentration** - The ability requires significant concentration, with effectiveness reduced in high-stress or distracting environments.
+- **Non-Interactive Visions** - Visions are strictly observational. He cannot interact with or alter events within his visions, though he can change his current plans based on what he foresees.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Trained in tactical planning, field leadership, and mission coordination through years of service with the Young Defenders and Delaware Valley Defenders.
-    - Strong background in information theory, which he applies intuitively to maximize the effectiveness of his predictive abilities.
-    - Athletic and physically capable, though not a primary combatant.
-    - Currently attending college, likely at the University of Pennsylvania.
+- Trained in tactical planning, field leadership, and mission coordination through years of service with the Young Defenders and Delaware Valley Defenders.
+- Strong background in information theory, which he applies intuitively to maximize the effectiveness of his predictive abilities.
+- Athletic and physically capable, though not a primary combatant.
+- Currently attending college, likely at the University of Pennsylvania.
 
-??? warning "Personality"
+## Personality
 
-    Maxwell is extremely quiet, thoughtful, and responsible, carrying himself with a soft-spoken politeness that some find slightly eerie. He is extraordinarily decisive despite being a precognitive -- a contradiction of the typical "indecisive seer" archetype. He uses his powers to navigate social encounters, gathering information from branches of conversation that never actually occur, though he will voluntarily stop doing so if it makes someone uncomfortable. He self-imposes strict personal limits on the use of his abilities out of a strong sense of honor and ethics.
+Maxwell is extremely quiet, thoughtful, and responsible, carrying himself with a soft-spoken politeness that some find slightly eerie. He is extraordinarily decisive despite being a precognitive -- a contradiction of the typical "indecisive seer" archetype. He uses his powers to navigate social encounters, gathering information from branches of conversation that never actually occur, though he will voluntarily stop doing so if it makes someone uncomfortable. He self-imposes strict personal limits on the use of his abilities out of a strong sense of honor and ethics.
 
-    He is deeply religious as a Catholic, though he does not discuss his faith in professional contexts. Maxwell struggles privately with the increasing demands to use his power for official purposes but keeps this tension to himself. He is a steadfast ally who places great trust in those he believes in, particularly Sam Small, and is always willing to back her judgment even when it conflicts with established protocol. His character flaws are subtle and difficult to identify without extended close contact.
+He is deeply religious as a Catholic, though he does not discuss his faith in professional contexts. Maxwell struggles privately with the increasing demands to use his power for official purposes but keeps this tension to himself. He is a steadfast ally who places great trust in those he believes in, particularly Sam Small, and is always willing to back her judgment even when it conflicts with established protocol. His character flaws are subtle and difficult to identify without extended close contact.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Teammate / Ally | Steadfast supporter of Sam across multiple teams. Recruited her for the Crescent nightclub mission. Helped track Aaron McKinley using his precognition. Provided emotional support and Socratic counsel during her retirement crisis. Currently recovering at the Small family home. |
-    | Lilly | Second Cousin | Related through family; Sam discovered the connection at a pre-Halloween party at Lilly's home. |
-    | Akilah Washington (Puppeteer/Marionette) | Former teammate | Assumed acting leadership of the Young Defenders during Akilah's psychiatric treatment. |
-    | Illya Fedorov (Chernobyl) | Complex | Used his precognitive abilities to warn Illya against joining the courthouse battle, preventing Deathgirl from copying his powers. Showed trust by flipping a coin for Illya. |
-    | Lily Chen (Blink) | Former teammate | Blink comforted him during the team confrontation when Puppeteer assaulted Sam. |
-    | Jordan Westwood (Safeguard) | Ally | Recruited Jordan alongside Sam for the Kingdom investigation. Recognized Jordan's costume at the party and deduced their identity as Safeguard. |
-    | Officer Laura Daniels | PERKS interviewing officer | Conducted assessments across four years (2020-2023), noting consistent growth and likely leadership potential. |
-    | Dr. Leonard Harris | PERKS power assessor | Conducted the detailed power assessment in March 2023. |
-    | Mrs. Heartbeat | Adversary | Kingdom of Keys assassin who attacked him at his apartment, leaving him with severe injuries. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Teammate / Ally | Steadfast supporter of Sam across multiple teams. Recruited her for the Crescent nightclub mission. Helped track Aaron McKinley using his precognition. Provided emotional support and Socratic counsel during her retirement crisis. Currently recovering at the Small family home. |
+| Lilly | Second Cousin | Related through family; Sam discovered the connection at a pre-Halloween party at Lilly's home. |
+| Akilah Washington (Puppeteer/Marionette) | Former teammate | Assumed acting leadership of the Young Defenders during Akilah's psychiatric treatment. |
+| Illya Fedorov (Chernobyl) | Complex | Used his precognitive abilities to warn Illya against joining the courthouse battle, preventing Deathgirl from copying his powers. Showed trust by flipping a coin for Illya. |
+| Lily Chen (Blink) | Former teammate | Blink comforted him during the team confrontation when Puppeteer assaulted Sam. |
+| Jordan Westwood (Safeguard) | Ally | Recruited Jordan alongside Sam for the Kingdom investigation. Recognized Jordan's costume at the party and deduced their identity as Safeguard. |
+| Officer Laura Daniels | PERKS interviewing officer | Conducted assessments across four years (2020-2023), noting consistent growth and likely leadership potential. |
+| Dr. Leonard Harris | PERKS power assessor | Conducted the detailed power assessment in March 2023. |
+| Mrs. Heartbeat | Adversary | Kingdom of Keys assassin who attacked him at his apartment, leaving him with severe injuries. |
 
 ## Arc Appearances
 
@@ -186,29 +186,14 @@
     Recovering from injuries at the Small family home; shoulder reaches 85% mobility. Delivers the "load-bearing life" diagnosis to Sam after her Faraday cage breakdown, identifying that her retirement was a fiction because she had built a life where stepping back would cause everything to collapse. Provides his final coin-flip assist to help Sam decide to call Agent Ford, catalyzing the Bellwether raid. Attends the community center opening representing the DVDs. Departs the Small home at arc's end with "You built something good. Let it work," returning to his dorm and normal life.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - He carries coins with him at all times to use as props for his predictive abilities, flipping them to create binary inflection points.
-    - His PERKS assessment was originally a JLUMA in 2020, with his first year as a licensed holder in 2021.
-    - His power assessment was conducted by Dr. Leonard Harris, a specialist in metahuman power assessment for the National Superhuman Response Agency.
-    - He attended a pre-Halloween party at Lilly's house dressed as Superman, where Sam discovered he was Lilly's second cousin.
-    - His PERKS interviewing officer, Laura Daniels, assessed him across four years (2020-2023) and consistently noted his growth and leadership potential.
-    - He drives a rusty old sedan described as likely a family car that predates him.
-    - He perceives future events at a rate of approximately 201.67 times faster than normal -- a notably precise measurement.
-    - The character reference guide describes him as someone whose character flaws are "really hard to see without living in his head."
-    - He quotes "No Country for Old Men" to Sam: "If the rule you followed brought you to this, of what use was the rule?"
-
-## Sources
-
-
-- superhuman-entity-report-maxwell-crossroads-martinez.txt - PERKS classification, power mechanics and limitations, assessment history, officer comments, and detailed power assessment by Dr. Leonard Harris.
-- character reference guide.txt - Current alias, affiliation with Delaware Valley Defenders, personality description, current status, relationships, and biographical details.
-- THE CANON DOCUMENT 1 & 2.txt - Book 1 and Book 2 arc events including team introduction, acting leadership, and Crescent nightclub mission.
-- THE CANON DOCUMENT 3 & 4.txt - Book 3 and Book 4 arc events including Chernobyl crisis coordination and Liberty Belle's death aftermath.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Book 5 arc events including Fly drug briefing and Ricochet battle reprimand.
-- THE CANON DOCUMENT 6 & 7.txt - Book 6 and Book 7 arc events including South Street battle, courthouse interstice with Chernobyl, and graduation to DVDs.
-- THE CANON DOCUMENT 8 AND 9.txt - Book 8 and Book 9 arc events including zoo operations and Aaron McKinley tracking.
-- THE CANON DOCUMENT 10 AND 11.txt - Book 10 and Book 11 arc events including DVD meetings and Daedalus intelligence.
-- THE CANON DOCUMENT 12 AND 13.txt - Book 12 and Book 13 arc events including Kingdom investigation support.
-- THE CANON DOCUMENT 14 AND 15.txt - Book 14 and Book 15 arc events including Kingdom gambit coordination, Sam's rescue, fugitive operations support, and Mrs. Heartbeat assassination attempt.
-- THE CANON DOCUMENT 16 AND 17.txt - Book 16 arc events including recovery at Small home, community center attendance, emotional support for Sam, and observations on Argus Corps.
+- He carries coins with him at all times to use as props for his predictive abilities, flipping them to create binary inflection points.
+- His PERKS assessment was originally a JLUMA in 2020, with his first year as a licensed holder in 2021.
+- His power assessment was conducted by Dr. Leonard Harris, a specialist in metahuman power assessment for the National Superhuman Response Agency.
+- He attended a pre-Halloween party at Lilly's house dressed as Superman, where Sam discovered he was Lilly's second cousin.
+- His PERKS interviewing officer, Laura Daniels, assessed him across four years (2020-2023) and consistently noted his growth and leadership potential.
+- He drives a rusty old sedan described as likely a family car that predates him.
+- He perceives future events at a rate of approximately 201.67 times faster than normal -- a notably precise measurement.
+- The character reference guide describes him as someone whose character flaws are "really hard to see without living in his head."
+- He quotes "No Country for Old Men" to Sam: "If the rule you followed brought you to this, of what use was the rule?"

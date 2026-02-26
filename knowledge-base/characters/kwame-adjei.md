@@ -22,56 +22,56 @@
 | **First Appearance** | Chapter 5 (mentioned via locker); Chapter 15 (first on-page appearance) |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Kwame Adjei is an immigrant from Ghana who operates as Bulwark, a member of the adult roster of the Delaware Valley Defenders in Philadelphia. Little is known about his life prior to joining the team or the circumstances of his power activation. He is described as physically imposing yet possessing a gentle demeanor, and he speaks with a heavy accent, notably avoiding compound words entirely in his speech.
+Kwame Adjei is an immigrant from Ghana who operates as Bulwark, a member of the adult roster of the Delaware Valley Defenders in Philadelphia. Little is known about his life prior to joining the team or the circumstances of his power activation. He is described as physically imposing yet possessing a gentle demeanor, and he speaks with a heavy accent, notably avoiding compound words entirely in his speech.
 
-    Bulwark serves as one of the core field operatives of the Delaware Valley Defenders alongside Multiplex, Fury Forge, and others, under the organizational leadership of Councilman Jamal Davis and the legal guidance of Clara Parker. He occupies a temperamental middle ground within the team's internal dynamics, positioned between Fury Forge's impulsive, aggressive tendencies and Multiplex's rigid adherence to protocol. His first significant on-page action occurred during the Kingdom of Keys' attack on Sam Small's family home in Arc 2, where he arrived in time to battle Mr. T-Rex in dinosaur form and drive the villain away.
+Bulwark serves as one of the core field operatives of the Delaware Valley Defenders alongside Multiplex, Fury Forge, and others, under the organizational leadership of Councilman Jamal Davis and the legal guidance of Clara Parker. He occupies a temperamental middle ground within the team's internal dynamics, positioned between Fury Forge's impulsive, aggressive tendencies and Multiplex's rigid adherence to protocol. His first significant on-page action occurred during the Kingdom of Keys' attack on Sam Small's family home in Arc 2, where he arrived in time to battle Mr. T-Rex in dinosaur form and drive the villain away.
 
-    Throughout the story, Bulwark has maintained a consistent presence as a reliable senior hero who participates in team briefings, crisis response, and field operations. He attended Liberty Belle's will reading following her death, was present during the Chernobyl trial crisis, and continued to serve as a mentor-like figure to the younger generation of heroes. He was seriously injured during the Shrike crisis in Arc 14 and was later encountered by Sam while conducting an independent investigation into tainted Jump distribution near Temple University.
+Throughout the story, Bulwark has maintained a consistent presence as a reliable senior hero who participates in team briefings, crisis response, and field operations. He attended Liberty Belle's will reading following her death, was present during the Chernobyl trial crisis, and continued to serve as a mentor-like figure to the younger generation of heroes. He was seriously injured during the Shrike crisis in Arc 14 and was later encountered by Sam while conducting an independent investigation into tainted Jump distribution near Temple University.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file.
+No official PERKS assessment on file.
 
-    **Abilities**
+### Abilities
 
-    - **Granite Generation** - Bulwark can deposit a half-inch-thick layer of granite onto any object or surface by touching it, including his own body. This effectively creates a stone shell or coating over the target.
-    - **Self-Armoring** - When Bulwark coats himself in granite, he gains significant protective armoring. The granite does not impede his movement or flexibility, allowing him to fight unencumbered despite being encased in stone.
-    - **Weapon Enhancement** - By coating blunt objects in granite, Bulwark increases their mass substantially. Because the granite is weightless to him, he can swing these heavier weapons at the same speed as their uncoated counterparts, dramatically increasing their striking force. During his battle with Mr. T-Rex, he used improvised weapons including a car bumper mace and a granite-coated manhole cover.
-    - **Layer Stacking** - Bulwark can apply multiple layers of granite to the same object or surface, compounding the thickness and weight of the coating. However, each additional layer halves the remaining duration of the granite.
+- **Granite Generation** - Bulwark can deposit a half-inch-thick layer of granite onto any object or surface by touching it, including his own body. This effectively creates a stone shell or coating over the target.
+- **Self-Armoring** - When Bulwark coats himself in granite, he gains significant protective armoring. The granite does not impede his movement or flexibility, allowing him to fight unencumbered despite being encased in stone.
+- **Weapon Enhancement** - By coating blunt objects in granite, Bulwark increases their mass substantially. Because the granite is weightless to him, he can swing these heavier weapons at the same speed as their uncoated counterparts, dramatically increasing their striking force. During his battle with Mr. T-Rex, he used improvised weapons including a car bumper mace and a granite-coated manhole cover.
+- **Layer Stacking** - Bulwark can apply multiple layers of granite to the same object or surface, compounding the thickness and weight of the coating. However, each additional layer halves the remaining duration of the granite.
 
-    **Limitations**
+### Limitations
 
-    - Granite coating lasts a maximum of one hour per layer. Stacking additional layers cuts the remaining duration in half with each application, creating diminishing returns for heavy fortification.
-    - The granite carries normal weight for anyone other than Bulwark. Allies cannot easily move objects he has coated, and armored civilians or teammates would be burdened by the additional mass.
-    - Bulwark's granite armor proved ineffective against electrical attacks; during the Temple University riot, electricity from a seizing Jumphead passed through his stone coating as though it were not there.
-    - Bulwark was seriously injured during Shrike's escape at the Van Kirk construction site, indicating that his granite armor has limits against sufficiently powerful or unconventional attacks.
+- Granite coating lasts a maximum of one hour per layer. Stacking additional layers cuts the remaining duration in half with each application, creating diminishing returns for heavy fortification.
+- The granite carries normal weight for anyone other than Bulwark. Allies cannot easily move objects he has coated, and armored civilians or teammates would be burdened by the additional mass.
+- Bulwark's granite armor proved ineffective against electrical attacks; during the Temple University riot, electricity from a seizing Jumphead passed through his stone coating as though it were not there.
+- Bulwark was seriously injured during Shrike's escape at the Van Kirk construction site, indicating that his granite armor has limits against sufficiently powerful or unconventional attacks.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Experienced field combatant with years of service on the Delaware Valley Defenders.
-    - Skilled in improvised weapon use, demonstrated by his ability to weaponize everyday objects such as car bumpers and manhole covers in the heat of battle.
-    - Conducts independent investigative work, as evidenced by his solo investigation into Rogue Wave's Jump distribution networks near Temple University.
+- Experienced field combatant with years of service on the Delaware Valley Defenders.
+- Skilled in improvised weapon use, demonstrated by his ability to weaponize everyday objects such as car bumpers and manhole covers in the heat of battle.
+- Conducts independent investigative work, as evidenced by his solo investigation into Rogue Wave's Jump distribution networks near Temple University.
 
-??? warning "Personality"
+## Personality
 
-    Kwame is calm, measured, and deeply principled. He serves as the emotional and philosophical center of the adult Delaware Valley Defenders, balancing Fury Forge's hotheaded impulsiveness with Multiplex's exacting discipline. He speaks with a heavy Ghanaian accent and avoids compound words entirely in his speech, giving his dialogue a distinctive, deliberate cadence. He frequently addresses younger heroes as "young one," a term of endearment that reflects his paternal warmth toward the next generation.
+Kwame is calm, measured, and deeply principled. He serves as the emotional and philosophical center of the adult Delaware Valley Defenders, balancing Fury Forge's hotheaded impulsiveness with Multiplex's exacting discipline. He speaks with a heavy Ghanaian accent and avoids compound words entirely in his speech, giving his dialogue a distinctive, deliberate cadence. He frequently addresses younger heroes as "young one," a term of endearment that reflects his paternal warmth toward the next generation.
 
-    Beneath his composed exterior, Kwame harbors a genuine frustration with the limitations of due process and institutional inaction. He has openly questioned why known criminals cannot simply be arrested, expressing the exasperation of someone who entered the system expecting it to function and has been repeatedly disappointed by its failures. Despite this frustration, his instincts remain fundamentally protective and compassionate. He sobbed openly when Liberty Belle revealed her terminal cancer diagnosis, encouraged Sam to trust Belle's judgment and her own abilities after the will reading, and has consistently advocated for recruiting fresh perspectives into the team. He has also argued in team meetings that the Defenders should focus on the challenges ahead rather than getting mired in speculation or internal politics.
+Beneath his composed exterior, Kwame harbors a genuine frustration with the limitations of due process and institutional inaction. He has openly questioned why known criminals cannot simply be arrested, expressing the exasperation of someone who entered the system expecting it to function and has been repeatedly disappointed by its failures. Despite this frustration, his instincts remain fundamentally protective and compassionate. He sobbed openly when Liberty Belle revealed her terminal cancer diagnosis, encouraged Sam to trust Belle's judgment and her own abilities after the will reading, and has consistently advocated for recruiting fresh perspectives into the team. He has also argued in team meetings that the Defenders should focus on the challenges ahead rather than getting mired in speculation or internal politics.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Protectee / Junior colleague | Rescued Sam from Mr. T-Rex during the attack on her home. Encouraged her after Belle's will reading. Praised her bravery after the Temple University cardiac arrest incident, noting the thin line between bravery and foolishness. Provided intelligence on tainted Jump and the Songbirds. |
-    | Multiplex (Elijah Brooks) | Teammate | Fellow senior DVD member. The two frequently co-lead briefings and debriefings. Their contrasting temperaments complement each other in team operations. |
-    | Fury Forge (Bianca Agnelli) | Teammate | Fellow senior DVD member. Kwame's calm disposition contrasts with Bianca's hotheadedness, though both share frustration with the pace of institutional change. Kwame and Bianca jointly argued for recruiting outside the established system during the BA.1 interlude. |
-    | Councilman Jamal Davis | Organizational leader | Davis serves as the political and administrative head of the DVD. Kwame participates in briefings and strategy sessions led by Davis. |
-    | Clara Parker | Teammate (legal advisor) | DVD's legal counsel. Kwame and Clara have aligned on matters of vigilance and preparedness, including concerns about the Chernobyl trial's defense attorney. |
-    | Liberty Belle (Diane Williams) | Former leader / Mentor figure | Kwame was deeply affected by Belle's cancer revelation and her subsequent death. He attended her will reading and encouraged Sam to carry on Belle's legacy. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Protectee / Junior colleague | Rescued Sam from Mr. T-Rex during the attack on her home. Encouraged her after Belle's will reading. Praised her bravery after the Temple University cardiac arrest incident, noting the thin line between bravery and foolishness. Provided intelligence on tainted Jump and the Songbirds. |
+| Multiplex (Elijah Brooks) | Teammate | Fellow senior DVD member. The two frequently co-lead briefings and debriefings. Their contrasting temperaments complement each other in team operations. |
+| Fury Forge (Bianca Agnelli) | Teammate | Fellow senior DVD member. Kwame's calm disposition contrasts with Bianca's hotheadedness, though both share frustration with the pace of institutional change. Kwame and Bianca jointly argued for recruiting outside the established system during the BA.1 interlude. |
+| Councilman Jamal Davis | Organizational leader | Davis serves as the political and administrative head of the DVD. Kwame participates in briefings and strategy sessions led by Davis. |
+| Clara Parker | Teammate (legal advisor) | DVD's legal counsel. Kwame and Clara have aligned on matters of vigilance and preparedness, including concerns about the Chernobyl trial's defense attorney. |
+| Liberty Belle (Diane Williams) | Former leader / Mentor figure | Kwame was deeply affected by Belle's cancer revelation and her subsequent death. He attended her will reading and encouraged Sam to carry on Belle's legacy. |
 
 ## Arc Appearances
 
@@ -178,25 +178,11 @@
     Present at DVD operations and referenced in the context of ongoing investigations. Listed among senior Defenders during team coordination related to the Bellwether operation and Songbird threats. Assigned to patrols and increased presence in response to escalating tensions.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Bulwark's speech pattern of avoiding compound words entirely is a distinctive linguistic trait among the cast. He would say "fire truck" rather than "firetruck," for example.
-    - His habitual use of the phrase "young one" when addressing younger heroes reflects a paternal quality that contrasts with Multiplex's more clinical mentoring style.
-    - During the battle with Mr. T-Rex in Chapter 29, Bulwark demonstrated creative use of his power by coating a car bumper to create an improvised mace and using a granite-coated manhole cover as both shield and bludgeon.
-    - He was one of the few adult heroes shown openly weeping when Liberty Belle revealed her terminal cancer diagnosis, underscoring his emotional depth beneath his composed exterior.
-    - His investigative work near Temple University in Chapter 214 revealed he conducts independent fieldwork in civilian clothes, suggesting a proactive approach to intelligence gathering that goes beyond standard DVD operations.
-    - As of the beginning of Arc 16, his status is described simply as "N/A, presumably working," indicating he has recovered from his ICU stay following the Shrike incident.
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, power description, personality traits, speech patterns, team role, and current status.
-- THE CANON DOCUMENT 1 & 2.txt - First mention in Chapter 5 (locker room tour), first on-page appearance in Chapter 15 (DVD meeting about Kingdom drone footage), major role in Chapters 28-29 (battle with Mr. T-Rex, rescue of Sam, medical aftermath), Arc 2 summary.
-- THE CANON DOCUMENT 3 & 4.txt - Present at Liberty Belle's death scene aftermath, attends will reading in Chapter 46 (encourages Sam to trust Belle's judgment), emotional reaction to Belle's cancer revelation in Chapter 34.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Visits Sam in hospital on her 15th birthday, present at multi-team Rogue Wave strategy meeting where he suggests anarchist motivation.
-- THE CANON DOCUMENT 6 & 7.txt - Interlude BA.1 (team discussion about Chernobyl trial and recruitment), Chapters 91-92 (team briefings), Chapter 97 (courthouse protest argument), Chapter 99 (post-attack debriefing leadership), Chapter 113 (DVD meeting about Patriot aftermath).
-- THE CANON DOCUMENT 8 AND 9.txt - Chapter 125 (Sam's Crescent nightclub debrief), present during zoo operation response, referenced during Rogue Wave threat assessment.
-- THE CANON DOCUMENT 10 AND 11.txt - Chapter 169 (DVD meeting, mentioned), Chapter 177 (reprimands Sam for Stheno warehouse raid alongside other senior Defenders).
-- THE CANON DOCUMENT 12 AND 13.txt - Referenced among DVD members during ongoing operations.
-- THE CANON DOCUMENT 14 AND 15.txt - Chapters 207-209 (Van Kirk battle, injured during Shrike's escape, placed in ICU), Chapter 210 (ICU status confirmed), Chapter 214 (major role investigating Jump distribution near Temple University, intervenes in riot, intelligence sharing with Sam).
-- THE CANON DOCUMENT 16 AND 17.txt - Referenced in ongoing DVD operations and Bellwether/Songbird coordination.
+- Bulwark's speech pattern of avoiding compound words entirely is a distinctive linguistic trait among the cast. He would say "fire truck" rather than "firetruck," for example.
+- His habitual use of the phrase "young one" when addressing younger heroes reflects a paternal quality that contrasts with Multiplex's more clinical mentoring style.
+- During the battle with Mr. T-Rex in Chapter 29, Bulwark demonstrated creative use of his power by coating a car bumper to create an improvised mace and using a granite-coated manhole cover as both shield and bludgeon.
+- He was one of the few adult heroes shown openly weeping when Liberty Belle revealed her terminal cancer diagnosis, underscoring his emotional depth beneath his composed exterior.
+- His investigative work near Temple University in Chapter 214 revealed he conducts independent fieldwork in civilian clothes, suggesting a proactive approach to intelligence gathering that goes beyond standard DVD operations.
+- As of the beginning of Arc 16, his status is described simply as "N/A, presumably working," indicating he has recovered from his ICU stay following the Shrike incident.

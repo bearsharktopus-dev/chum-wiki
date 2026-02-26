@@ -22,62 +22,62 @@
 | **First Appearance** | Chapter 106 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Magdalene "Maggie" O'Brien is a teenage metahuman who gained her powers after being caught in the Phreaks' courthouse attack during Arc 6 (the "Sideshow" arc). During that crisis, Sam Small saved Maggie's life from a collapsing building, an act Maggie would later cite as the foundational reason she pursued superheroism. Maggie's powers manifested as semispherical repulsion force fields emanating from her palms and the soles of her feet.
+Magdalene "Maggie" O'Brien is a teenage metahuman who gained her powers after being caught in the Phreaks' courthouse attack during Arc 6 (the "Sideshow" arc). During that crisis, Sam Small saved Maggie's life from a collapsing building, an act Maggie would later cite as the foundational reason she pursued superheroism. Maggie's powers manifested as semispherical repulsion force fields emanating from her palms and the soles of her feet.
 
-    Maggie first appeared as an unknown costumed figure during a South Philly patrol in September 2024, where Sam and Rampart encountered her operating under the name Flashpoint. Sam recognized Maggie as the person she had rescued during the Phreaks' attack and agreed to take her on as a mentee, arranging to train her and eventually patrol together. From that point forward, Sam served as Maggie's primary mentor, teaching her self-defense techniques, power integration in combat, and the practical realities of vigilante life.
+Maggie first appeared as an unknown costumed figure during a South Philly patrol in September 2024, where Sam and Rampart encountered her operating under the name Flashpoint. Sam recognized Maggie as the person she had rescued during the Phreaks' attack and agreed to take her on as a mentee, arranging to train her and eventually patrol together. From that point forward, Sam served as Maggie's primary mentor, teaching her self-defense techniques, power integration in combat, and the practical realities of vigilante life.
 
-    Maggie comes from a lower-middle-class Irish Catholic family in South Philadelphia. Her parents, Mr. and Mrs. O'Brien, are strict and have grounded her multiple times for participating in superhero activities. The O'Briens have at times blamed Sam for being a negative influence on their daughter, leading to heated confrontations between the two families after incidents such as Maggie's arrest during a patrol in Kensington. Despite parental opposition, Maggie has remained committed to her role as a hero and became a core member of the Auditors, Sam's independent team operating out of the Tacony Music Hall (later the Tacony Community Center).
+Maggie comes from a lower-middle-class Irish Catholic family in South Philadelphia. Her parents, Mr. and Mrs. O'Brien, are strict and have grounded her multiple times for participating in superhero activities. The O'Briens have at times blamed Sam for being a negative influence on their daughter, leading to heated confrontations between the two families after incidents such as Maggie's arrest during a patrol in Kensington. Despite parental opposition, Maggie has remained committed to her role as a hero and became a core member of the Auditors, Sam's independent team operating out of the Tacony Music Hall (later the Tacony Community Center).
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    No official PERKS assessment on file.
+No official PERKS assessment on file.
 
-    **Abilities**
+### Abilities
 
-    - **Semispherical Force Field Generation** - Creates semispherical repulsion force fields that emanate from her palms and the soles of her feet, totaling up to four fields at once. These fields project concussive force outward in a hemispherical pattern from the point of origin.
-    - **Hoverskating** - Uses the force fields from her feet to lift herself off the ground and propel herself through the air, allowing a form of low-altitude flight or rapid skating movement across surfaces.
-    - **Projectile Acceleration** - Channels force fields to launch objects at high velocity. Can project baseballs at speeds of 100-110 mph and fire loose materials such as gravel like shrapnel.
-    - **Spiking** - Can concentrate all the energy from all four fields into a single field for a momentary burst of amplified force, significantly increasing the output of one field at the expense of the others.
-    - **Defensive Shielding** - Employs force fields as protective barriers to block incoming attacks, deflect projectiles, and shield allies from environmental hazards such as chemical traps.
-    - **Structural Manipulation** - Uses focused force field energy to break mechanisms such as locks, enabling entry into secured locations.
+- **Semispherical Force Field Generation** - Creates semispherical repulsion force fields that emanate from her palms and the soles of her feet, totaling up to four fields at once. These fields project concussive force outward in a hemispherical pattern from the point of origin.
+- **Hoverskating** - Uses the force fields from her feet to lift herself off the ground and propel herself through the air, allowing a form of low-altitude flight or rapid skating movement across surfaces.
+- **Projectile Acceleration** - Channels force fields to launch objects at high velocity. Can project baseballs at speeds of 100-110 mph and fire loose materials such as gravel like shrapnel.
+- **Spiking** - Can concentrate all the energy from all four fields into a single field for a momentary burst of amplified force, significantly increasing the output of one field at the expense of the others.
+- **Defensive Shielding** - Employs force fields as protective barriers to block incoming attacks, deflect projectiles, and shield allies from environmental hazards such as chemical traps.
+- **Structural Manipulation** - Uses focused force field energy to break mechanisms such as locks, enabling entry into secured locations.
 
-    **Limitations**
+### Limitations
 
-    - Maggie is a baseline human outside of her force field abilities; she lacks enhanced durability, regeneration, or any secondary physical enhancements.
-    - She has been seriously injured in the field, including being shot multiple times during the zoo battle in Arc 8, surviving only because she was wearing Sam's bulletproof vest.
-    - The "spiking" technique sacrifices the output of all other fields to concentrate into one, leaving her temporarily exposed.
-    - Specific upper limits of force field durability and sustained output are not documented.
+- Maggie is a baseline human outside of her force field abilities; she lacks enhanced durability, regeneration, or any secondary physical enhancements.
+- She has been seriously injured in the field, including being shot multiple times during the zoo battle in Arc 8, surviving only because she was wearing Sam's bulletproof vest.
+- The "spiking" technique sacrifices the output of all other fields to concentrate into one, leaving her temporarily exposed.
+- Specific upper limits of force field durability and sustained output are not documented.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Trained in basic self-defense and combat techniques by Sam Small, including judo and boxing fundamentals.
-    - Learned to integrate her force fields into hand-to-hand combat through regular training sessions with Sam.
-    - Received practical field training through patrols and missions with the Auditors, gaining real-world experience in surveillance, reconnaissance, and team coordination.
-    - Knowledgeable about the Superhero Juvenile Safety Act (SJSA) and the legal protections afforded to minor metahumans, which she explained to Sam after their arrest.
-    - Serves as a peer mentor to younger powered individuals through the community center mentorship program alongside Sam.
+- Trained in basic self-defense and combat techniques by Sam Small, including judo and boxing fundamentals.
+- Learned to integrate her force fields into hand-to-hand combat through regular training sessions with Sam.
+- Received practical field training through patrols and missions with the Auditors, gaining real-world experience in surveillance, reconnaissance, and team coordination.
+- Knowledgeable about the Superhero Juvenile Safety Act (SJSA) and the legal protections afforded to minor metahumans, which she explained to Sam after their arrest.
+- Serves as a peer mentor to younger powered individuals through the community center mentorship program alongside Sam.
 
-??? warning "Personality"
+## Personality
 
-    Maggie is energetic, optimistic, and enthusiastic, often speaking quickly and expressively with frequent exclamations. She brings a persistent positivity to the team that contrasts with the more hardened or cynical attitudes of her teammates. She is deeply loyal to Sam and views her as a mentor figure, despite the narrow age gap between them. Her admiration for Sam is grounded not in hero worship but in genuine gratitude for being saved and a sincere belief in Sam's mission.
+Maggie is energetic, optimistic, and enthusiastic, often speaking quickly and expressively with frequent exclamations. She brings a persistent positivity to the team that contrasts with the more hardened or cynical attitudes of her teammates. She is deeply loyal to Sam and views her as a mentor figure, despite the narrow age gap between them. Her admiration for Sam is grounded not in hero worship but in genuine gratitude for being saved and a sincere belief in Sam's mission.
 
-    Beneath her eager exterior, Maggie possesses a streak of moral seriousness that emerges in critical moments. She has confronted Sam directly about reckless behavior and hypocrisy, invoking Liberty Belle's legacy and her own experience of being shot to argue that sacrifice must carry meaning rather than serve as self-destruction. She drew an ultimatum demanding Sam operate as a team captain and strategist rather than a lone field operative, citing the example of Father Mike's teaching that sacrifice must mean something. While somewhat naive and prone to absorbing bad habits from Sam, Maggie demonstrates growing maturity and the willingness to challenge authority figures she respects when she believes they are wrong.
+Beneath her eager exterior, Maggie possesses a streak of moral seriousness that emerges in critical moments. She has confronted Sam directly about reckless behavior and hypocrisy, invoking Liberty Belle's legacy and her own experience of being shot to argue that sacrifice must carry meaning rather than serve as self-destruction. She drew an ultimatum demanding Sam operate as a team captain and strategist rather than a lone field operative, citing the example of Father Mike's teaching that sacrifice must mean something. While somewhat naive and prone to absorbing bad habits from Sam, Maggie demonstrates growing maturity and the willingness to challenge authority figures she respects when she believes they are wrong.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Mentor / Leader | Sam saved Maggie during the Phreaks' courthouse attack. Sam trained Maggie, patrols with her, and brought her into the Auditors. Maggie is deeply loyal but willing to confront Sam about reckless behavior. |
-    | Mr. and Mrs. O'Brien | Parents | Strict parents who have grounded Maggie multiple times for superhero activities. Have blamed Sam for being a negative influence. Confronted the Small family at the police station after Maggie's arrest. |
-    | Jordan Westwood (Safeguard) | Teammate | Fellow Auditor. Participated in missions together including the Stheno Pharmaceuticals warehouse infiltration. |
-    | Lily Chen (Blink) | Teammate | Fellow Auditor. Regularly operates alongside Maggie on patrols and missions. |
-    | Tasha Reynolds (Lighthouse) | Teammate | Fellow Auditor. Collaborates on team logistics and field operations. Tasha often serves as comms support while Maggie operates in the field. |
-    | Amelia Li (Gossamer) | Teammate | Fellow Auditor and equipment specialist. Delivered Maggie's new costume while she was grounded. |
-    | Liam O'Connor | Mentee (associated) | One of the mentorship program students. Maggie participates in running the sessions. Liam's sister Erin has sold Maggie weed. |
-    | Zara Khan | Mentee (associated) | One of the mentorship program students. Maggie helps run sessions and training with Zara. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Mentor / Leader | Sam saved Maggie during the Phreaks' courthouse attack. Sam trained Maggie, patrols with her, and brought her into the Auditors. Maggie is deeply loyal but willing to confront Sam about reckless behavior. |
+| Mr. and Mrs. O'Brien | Parents | Strict parents who have grounded Maggie multiple times for superhero activities. Have blamed Sam for being a negative influence. Confronted the Small family at the police station after Maggie's arrest. |
+| Jordan Westwood (Safeguard) | Teammate | Fellow Auditor. Participated in missions together including the Stheno Pharmaceuticals warehouse infiltration. |
+| Lily Chen (Blink) | Teammate | Fellow Auditor. Regularly operates alongside Maggie on patrols and missions. |
+| Tasha Reynolds (Lighthouse) | Teammate | Fellow Auditor. Collaborates on team logistics and field operations. Tasha often serves as comms support while Maggie operates in the field. |
+| Amelia Li (Gossamer) | Teammate | Fellow Auditor and equipment specialist. Delivered Maggie's new costume while she was grounded. |
+| Liam O'Connor | Mentee (associated) | One of the mentorship program students. Maggie participates in running the sessions. Liam's sister Erin has sold Maggie weed. |
+| Zara Khan | Mentee (associated) | One of the mentorship program students. Maggie helps run sessions and training with Zara. |
 
 ## Arc Appearances
 
@@ -142,23 +142,12 @@
     Continues operating with the Auditors. Present during Faraday room briefings on the Bellwether operation and Songbird threats. Assigned to patrols and increased center presence. Receives keys to the community center alongside other team members. Communicates with team during coordinated Songbird attacks on the center.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Maggie's first appearance as Flashpoint involved Sam and Rampart encountering her during a South Philly patrol, where she was initially described as having "flying abilities" before her power was clarified as force field-based hoverskating.
-    - She was shot during the zoo battle in Arc 8 but survived because she had secretly taken Sam's bulletproof vest.
-    - Her codename Flashpoint was already in use when Sam first encountered her, suggesting Maggie chose it independently before being mentored.
-    - The character reference guide notes Maggie is "taking bad lessons from Sam," reflecting a recurring narrative concern about Sam's influence on younger heroes.
-    - Liam O'Connor's sister Erin has sold Maggie weed, a detail that connects two of the story's younger character networks.
-    - She was among the Auditors who received keys to the Tacony Community Center when it officially opened.
-    - Her current status as of the beginning of Arc 16 is described in the character reference guide simply as "Peachy keen."
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, power description, personality, family background, current status, and team affiliation.
-- THE CANON DOCUMENT 6 & 7.txt - First appearance in Chapter 106, introduction as Flashpoint, mentorship by Sam, training sessions, encounter with Zero and Pattinson's Pals, Fedorov sentencing, Project Titan briefing, and Arc 7 synopsis.
-- THE CANON DOCUMENT 8 AND 9.txt - Zoo battle participation and injuries in Arc 8, recovery period in Arc 9, team meetings and planning in Arc 9.
-- THE CANON DOCUMENT 10 AND 11.txt - Team discussions about prisoner transfers and Kingdom threats in Arc 10; birthday celebration, Kensington patrol, arrest, Stheno Pharmaceuticals infiltration, and warehouse confrontation in Arc 11.
-- THE CANON DOCUMENT 12 AND 13.txt - Sunoco station infiltration, street patrols, combat with Marathon's crew in Arc 12; town hall confrontation assist, City Hall escape, and team operations in Arc 13.
-- THE CANON DOCUMENT 14 AND 15.txt - Shrike crisis support and Opera House mission in Arc 14; mentorship program, community center work, and confrontation with Sam about recklessness in Arc 15.
-- THE CANON DOCUMENT 16 AND 17.txt - Community center grand opening, Faraday room briefings, Songbird crisis coordination, center operations, and ongoing Auditors activities in Arc 16.
+- Maggie's first appearance as Flashpoint involved Sam and Rampart encountering her during a South Philly patrol, where she was initially described as having "flying abilities" before her power was clarified as force field-based hoverskating.
+- She was shot during the zoo battle in Arc 8 but survived because she had secretly taken Sam's bulletproof vest.
+- Her codename Flashpoint was already in use when Sam first encountered her, suggesting Maggie chose it independently before being mentored.
+- The character reference guide notes Maggie is "taking bad lessons from Sam," reflecting a recurring narrative concern about Sam's influence on younger heroes.
+- Liam O'Connor's sister Erin has sold Maggie weed, a detail that connects two of the story's younger character networks.
+- She was among the Auditors who received keys to the Tacony Community Center when it officially opened.
+- Her current status as of the beginning of Arc 16 is described in the character reference guide simply as "Peachy keen."

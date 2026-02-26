@@ -22,70 +22,70 @@
 | **First Appearance** | Chapter 104 |
 | **Last Appearance** | Ongoing |
 
-??? warning "Background"
+## Background
 
-    Richard Johnson enlisted in the United States military in 2007, though his early career was marked by struggle. He barely passed the ASVAB, meeting only the minimum requirements, a failure that drew open disappointment from his father, Richard Johnson Sr. Boot camp proved equally grueling, with Richard pushing himself to his physical limits. During an intense training exercise, he collapsed from exhaustion and organ failure, triggering a superpower activation event while hospitalized. The painful transformation granted him peak human enhancement across every physical attribute. The military deemed him medically unfit for regular service, but the NSRA expressed immediate interest in his capabilities, producing a Power Assessment dated September 13th, 2007.
+Richard Johnson enlisted in the United States military in 2007, though his early career was marked by struggle. He barely passed the ASVAB, meeting only the minimum requirements, a failure that drew open disappointment from his father, Richard Johnson Sr. Boot camp proved equally grueling, with Richard pushing himself to his physical limits. During an intense training exercise, he collapsed from exhaustion and organ failure, triggering a superpower activation event while hospitalized. The painful transformation granted him peak human enhancement across every physical attribute. The military deemed him medically unfit for regular service, but the NSRA expressed immediate interest in his capabilities, producing a Power Assessment dated September 13th, 2007.
 
-    Richard's subsequent years remain largely classified, though his involvement in Project Titan, a secret military program creating superhuman soldiers, is confirmed. His activities during this period carry implications of war crimes, though nothing has been formally substantiated. By 2017, Richard had fully adopted the Patriot identity, attending his father's funeral as a known superhero. He delivered a complex eulogy that revealed deeply conflicted feelings about his father, before departing with his teammates Natalie and Sean to continue their mission.
+Richard's subsequent years remain largely classified, though his involvement in Project Titan, a secret military program creating superhuman soldiers, is confirmed. His activities during this period carry implications of war crimes, though nothing has been formally substantiated. By 2017, Richard had fully adopted the Patriot identity, attending his father's funeral as a known superhero. He delivered a complex eulogy that revealed deeply conflicted feelings about his father, before departing with his teammates Natalie and Sean to continue their mission.
 
-    Richard eventually settled in Philadelphia, where he founded and led Pattinson's Pals, a vigilante group that claimed to promote law and order but frequently employed racist and oppressive tactics. The Pals operated out of South Philadelphia, with Patty's Bar serving as their informal headquarters, and maintained close ties with local law enforcement and school security personnel. In late April 2025, following the Rogue Wave crisis, Councilwoman Maya Richardson recruited Richard to lead Argus Corps, a government-sanctioned superhero task force. He left Pattinson's Pals in the hands of Sean McNulty (Bulldozer) and transitioned into his new role as the public face of institutional superhero regulation.
+Richard eventually settled in Philadelphia, where he founded and led Pattinson's Pals, a vigilante group that claimed to promote law and order but frequently employed racist and oppressive tactics. The Pals operated out of South Philadelphia, with Patty's Bar serving as their informal headquarters, and maintained close ties with local law enforcement and school security personnel. In late April 2025, following the Rogue Wave crisis, Councilwoman Maya Richardson recruited Richard to lead Argus Corps, a government-sanctioned superhero task force. He left Pattinson's Pals in the hands of Sean McNulty (Bulldozer) and transitioned into his new role as the public face of institutional superhero regulation.
 
-??? note "Powers & Abilities"
+## Powers & Abilities
 
-    **PERKS Assessment**
+### PERKS Assessment
 
-    | Field | Value |
-    |-------|-------|
-    | **Classification** | Gigant |
-    | **Category** | Gigant |
-    | **Power Ranking** | Unknown |
-    | **Control** | Unknown |
-    | **Hostility** | Unknown |
-    | **Collateral Damage** | Unknown |
-    | **Threat Level** | Unknown |
+| Field | Value |
+|-------|-------|
+| **Classification** | Gigant |
+| **Category** | Gigant |
+| **Power Ranking** | Unknown |
+| **Control** | Unknown |
+| **Hostility** | Unknown |
+| **Collateral Damage** | Unknown |
+| **Threat Level** | Unknown |
 
-    An NSRA Power Assessment was conducted on September 13th, 2007, following Richard's activation event. Full numerical ratings are not detailed in available records, but his classification as a Gigant-type metahuman is established by his power profile.
+An NSRA Power Assessment was conducted on September 13th, 2007, following Richard's activation event. Full numerical ratings are not detailed in available records, but his classification as a Gigant-type metahuman is established by his power profile.
 
-    **Abilities**
+### Abilities
 
-    - **Peak Human Enhancement** - Every physical attribute operates at the absolute ceiling of human capability: strength, speed, dexterity, reaction time, endurance, and durability. No single stat is superhuman in isolation, but the cumulative package makes him an extraordinarily dangerous combatant.
-    - **Enhanced Cognition (Theoretical)** - His brain has been enhanced alongside his body. However, this does not translate into greater intelligence or curiosity. As the character reference guide notes, his enhanced brain simply allows him to be unintelligent and incurious more efficiently. He does demonstrate strong deductive and investigative instincts despite this limitation.
+- **Peak Human Enhancement** - Every physical attribute operates at the absolute ceiling of human capability: strength, speed, dexterity, reaction time, endurance, and durability. No single stat is superhuman in isolation, but the cumulative package makes him an extraordinarily dangerous combatant.
+- **Enhanced Cognition (Theoretical)** - His brain has been enhanced alongside his body. However, this does not translate into greater intelligence or curiosity. As the character reference guide notes, his enhanced brain simply allows him to be unintelligent and incurious more efficiently. He does demonstrate strong deductive and investigative instincts despite this limitation.
 
-    **Limitations**
+### Limitations
 
-    - Richard is not superhuman in any single attribute; he operates at the peak of human possibility rather than beyond it. A sufficiently powerful metahuman can overpower him through raw force.
-    - His intellectual limitations are a persistent vulnerability. He is incurious and struggles with complex or nuanced analysis, despite his enhanced processing speed.
-    - He is emotionally rigid and prone to escalation, which has led to situations where more measured approaches would have served him better.
-    - His ideology frequently blinds him to manipulation, as demonstrated by his extended service under Maya Richardson without recognizing her Kingdom of Keys connections.
+- Richard is not superhuman in any single attribute; he operates at the peak of human possibility rather than beyond it. A sufficiently powerful metahuman can overpower him through raw force.
+- His intellectual limitations are a persistent vulnerability. He is incurious and struggles with complex or nuanced analysis, despite his enhanced processing speed.
+- He is emotionally rigid and prone to escalation, which has led to situations where more measured approaches would have served him better.
+- His ideology frequently blinds him to manipulation, as demonstrated by his extended service under Maya Richardson without recognizing her Kingdom of Keys connections.
 
-    **Training & Skills**
+### Training & Skills
 
-    - Completed United States military boot camp (2007) prior to his activation event; received further military training through Project Titan.
-    - Expert in hand-to-hand combat, with training sufficient to severely beat Sam Small (a regenerating, shark-powered metahuman) in direct confrontation on multiple occasions.
-    - Proficient with his shield as both a defensive and offensive weapon in melee combat. The shield is a traditional design, not a throwable projectile.
-    - Maintains a rigorous physical regimen, routinely performing 100 repetitions with a 350-pound barbell at the Argus Corps headquarters weight room.
-    - Demonstrated skill in tactical command, coordinating Argus Corps operations including warehouse raids, drug busts, and fugitive pursuits.
-    - Capable investigator when motivated, as shown by his independent and secret investigation into Maya Richardson beginning in Arc 16.
+- Completed United States military boot camp (2007) prior to his activation event; received further military training through Project Titan.
+- Expert in hand-to-hand combat, with training sufficient to severely beat Sam Small (a regenerating, shark-powered metahuman) in direct confrontation on multiple occasions.
+- Proficient with his shield as both a defensive and offensive weapon in melee combat. The shield is a traditional design, not a throwable projectile.
+- Maintains a rigorous physical regimen, routinely performing 100 repetitions with a 350-pound barbell at the Argus Corps headquarters weight room.
+- Demonstrated skill in tactical command, coordinating Argus Corps operations including warehouse raids, drug busts, and fugitive pursuits.
+- Capable investigator when motivated, as shown by his independent and secret investigation into Maya Richardson beginning in Arc 16.
 
-??? warning "Personality"
+## Personality
 
-    Richard Johnson is self-righteous, authoritarian, and utterly convinced of his moral superiority. He speaks in formal, almost militaristic tones with frequent references to patriotism and civic order. His worldview is that of a militant neoliberal: he believes that liberal democracy, cultural pluralism, social progressivism, and Western economic policies represent the natural end state of human civilization, and that these values must be enforced by any means necessary, including violence. He is a devotee of Francis Fukuyama's "The End of History," though his understanding of the work is shallow at best.
+Richard Johnson is self-righteous, authoritarian, and utterly convinced of his moral superiority. He speaks in formal, almost militaristic tones with frequent references to patriotism and civic order. His worldview is that of a militant neoliberal: he believes that liberal democracy, cultural pluralism, social progressivism, and Western economic policies represent the natural end state of human civilization, and that these values must be enforced by any means necessary, including violence. He is a devotee of Francis Fukuyama's "The End of History," though his understanding of the work is shallow at best.
 
-    Despite his authoritarian streak, Richard is not a simple brute. He operates according to a genuine, if deeply flawed, moral code. He was visibly troubled when confronted with evidence of Egalitarian's drug use, and his willingness to negotiate a truce with Sam after their Halloween fight suggests some capacity for pragmatism. His complicated relationship with his father, revealed through a conflicted eulogy at Richard Johnson Sr.'s funeral, hints at deeper emotional currents beneath his rigid exterior. As of Arc 16, his secret investigation into Maya Richardson and his growing willingness to consider a coup against her suggest that his loyalty to institutions has limits when those institutions fail to meet his standards. He trusts nobody with this suspicion, not even his own teammates.
+Despite his authoritarian streak, Richard is not a simple brute. He operates according to a genuine, if deeply flawed, moral code. He was visibly troubled when confronted with evidence of Egalitarian's drug use, and his willingness to negotiate a truce with Sam after their Halloween fight suggests some capacity for pragmatism. His complicated relationship with his father, revealed through a conflicted eulogy at Richard Johnson Sr.'s funeral, hints at deeper emotional currents beneath his rigid exterior. As of Arc 16, his secret investigation into Maya Richardson and his growing willingness to consider a coup against her suggest that his loyalty to institutions has limits when those institutions fail to meet his standards. He trusts nobody with this suspicion, not even his own teammates.
 
-??? warning "Relationships"
+## Relationships
 
-    | Character | Relationship | Notes |
-    |-----------|-------------|-------|
-    | Sam Small (Bloodhound) | Antagonist / Rival | Deeply personal vendetta. Brutally beat Sam at the homecoming dance, fought her again on Halloween, later attempted to arrest her on multiple occasions. Their conflict is ideological as much as personal. |
-    | Maya Richardson (Mrs. Zenith) | Handler / Subject of Investigation | Richardson recruited Richard to lead Argus Corps, using his disgrace as leverage. Richard has political backing from her anti-vigilante movement. As of Arc 16, he is secretly investigating her and considering a coup. |
-    | Jordan Westwood (Safeguard) | Target | Attempted to arrest Jordan for cybercrimes and domestic terrorism at the homecoming dance. Sam negotiated Jordan's safety as part of their Halloween truce. |
-    | Natalie (Egalitarian) | Former Teammate | Partner in Pattinson's Pals. Was confronted with evidence of her drug use (the substance Fly) by Sam, which he appeared not to have known about. |
-    | Sean McNulty (Bulldozer) | Former Subordinate | Succeeded Richard as leader of Pattinson's Pals when Richard moved to Argus Corps. McNulty later relayed Sam's accusations about Richardson to Richard. |
-    | Jasmine Perez (Turbo Jett) | Teammate | Argus Corps member. Accompanied Richard during the attempted arrest of Sam in Arc 15. |
-    | Joshua Pleasants (Miasma) | Teammate (Mole) | Argus Corps member who privately warned Richard to be careful with Richardson. Unbeknownst to Richard, Miasma is secretly a mole working against the Kingdom from within Argus Corps. |
-    | Andrew Mitchell (Captain Devil) | Teammate | Argus Corps member. Like Richard, has begun independently investigating Richardson, though the two have not compared notes. |
-    | Richard Johnson Sr. | Father (Deceased) | Relationship marked by paternal disappointment, particularly over Richard's low ASVAB scores. Richard delivered a conflicted eulogy at his funeral in 2017, departing immediately afterward with teammates Natalie and Sean to focus on their mission as heroes rather than linger in grief. |
+| Character | Relationship | Notes |
+|-----------|-------------|-------|
+| Sam Small (Bloodhound) | Antagonist / Rival | Deeply personal vendetta. Brutally beat Sam at the homecoming dance, fought her again on Halloween, later attempted to arrest her on multiple occasions. Their conflict is ideological as much as personal. |
+| Maya Richardson (Mrs. Zenith) | Handler / Subject of Investigation | Richardson recruited Richard to lead Argus Corps, using his disgrace as leverage. Richard has political backing from her anti-vigilante movement. As of Arc 16, he is secretly investigating her and considering a coup. |
+| Jordan Westwood (Safeguard) | Target | Attempted to arrest Jordan for cybercrimes and domestic terrorism at the homecoming dance. Sam negotiated Jordan's safety as part of their Halloween truce. |
+| Natalie (Egalitarian) | Former Teammate | Partner in Pattinson's Pals. Was confronted with evidence of her drug use (the substance Fly) by Sam, which he appeared not to have known about. |
+| Sean McNulty (Bulldozer) | Former Subordinate | Succeeded Richard as leader of Pattinson's Pals when Richard moved to Argus Corps. McNulty later relayed Sam's accusations about Richardson to Richard. |
+| Jasmine Perez (Turbo Jett) | Teammate | Argus Corps member. Accompanied Richard during the attempted arrest of Sam in Arc 15. |
+| Joshua Pleasants (Miasma) | Teammate (Mole) | Argus Corps member who privately warned Richard to be careful with Richardson. Unbeknownst to Richard, Miasma is secretly a mole working against the Kingdom from within Argus Corps. |
+| Andrew Mitchell (Captain Devil) | Teammate | Argus Corps member. Like Richard, has begun independently investigating Richardson, though the two have not compared notes. |
+| Richard Johnson Sr. | Father (Deceased) | Relationship marked by paternal disappointment, particularly over Richard's low ASVAB scores. Richard delivered a conflicted eulogy at his funeral in 2017, departing immediately afterward with teammates Natalie and Sean to focus on their mission as heroes rather than linger in grief. |
 
 ## Arc Appearances
 
@@ -144,25 +144,14 @@
     Continues leading Argus Corps. Secretly investigating Maya Richardson on his own, with no one aware of this, not even his teammates. Has grown to believe Richardson is either a Kingdom operative or an incompetent politician who needs to be removed from power. Considering a coup. Argus Corps is being used by Richardson for visibility and PR, hitting Rogue Wave distribution points to maintain a public profile. McNulty/Bulldozer serves as his former contact in the Pals network. Sam distributes Bellwether intelligence to multiple allies including Miasma inside Argus Corps. At the Argus Corps oversight transition meeting (MR.10), addresses Councilman Silverstein rather than Maya when speaking -- a significant behavioral shift indicating he now recognizes the new power dynamics and has stopped treating Maya as the relevant authority in the room.
 
 
-??? warning "Trivia"
+## Trivia
 
-    - Richard's costume and equipment are explicitly modeled on Captain America, including a shield, though his is a traditional defensive shield rather than a throwable disc.
-    - His enhanced brain making him "stupid more efficiently" is one of the character reference guide's most distinctive descriptions, illustrating how peak physical enhancement does not compensate for fundamental intellectual limitations.
-    - The "Homecoming Video" of Patriot beating Sam at the school dance became a significant political artifact, influencing the City Council election and later being referenced when Sam was recognized at the Crescent nightclub.
-    - His interlude designation is RJ.1, establishing him as one of the few antagonists to receive a dedicated POV chapter. The interlude covers two distinct time periods: 2007 (his military recruitment, boot camp collapse from organ failure, and painful hospital activation event) and 2017 (his father's funeral as Patriot).
-    - His superpower activation was triggered by a near-death collapse during an intense training exercise, during which his organs began to fail before the transformation granted him peak human enhancement.
-    - The character reference guide compares his potential coup against Richardson to "Starscreaming" her, a reference to the Transformers character known for perpetually attempting to overthrow his leader Megatron.
-    - His love of Fukuyama's "The End of History" is specifically noted as something he barely understands, functioning more as an ideological totem than an intellectual foundation.
-    - He maintains a 350-pound barbell routine of 100 reps, establishing his physical conditioning as extraordinary even by metahuman standards.
-    - Natalie and Sean, mentioned at his father's funeral as his teammates, later appear as Egalitarian and Bulldozer respectively in Pattinson's Pals.
-
-## Sources
-
-
-- character reference guide.txt - Core biographical details, personality description, power description, current status, team affiliation, political connections, and secret investigation of Richardson.
-- THE CANON DOCUMENT 6 & 7.txt - First appearance in Chapter 104, Pattinson's Pals activities, homecoming dance confrontation, RJ.1 interlude backstory (military career, activation event, father's funeral, NSRA assessment), Project Titan connection, protest confrontation, Halloween warehouse fight, and Arc 7 synopsis.
-- THE CANON DOCUMENT 8 AND 9.txt - Referenced in Arc 8 context regarding the Homecoming Video's political impact and Maya Richardson's election.
-- THE CANON DOCUMENT 10 AND 11.txt - Recruitment into Argus Corps (Interlude MR.4), Stheno warehouse confrontation, Argus Corps formation announcement, MR.5 proposal document, Stheno aftermath confrontations, and Arc 10/11 synopses.
-- THE CANON DOCUMENT 12 AND 13.txt - Safer Streets Initiative bounty system, McNulty meeting about Richardson accusations, Richardson confrontation at City Hall, basketball court confrontation with Sam, town hall event, Shrike crisis response, Daedalus aftermath patrols, and Arc 12/13 synopses.
-- THE CANON DOCUMENT 14 AND 15.txt - Arrest warrant confrontation with Sam, fugitive pursuit coordination, Remora/Stingray operation engagement, and Arc 14/15 synopses.
-- THE CANON DOCUMENT 16 AND 17.txt - Ongoing Argus Corps leadership, secret Richardson investigation, intel distribution via Miasma, and Arc 16 context.
+- Richard's costume and equipment are explicitly modeled on Captain America, including a shield, though his is a traditional defensive shield rather than a throwable disc.
+- His enhanced brain making him "stupid more efficiently" is one of the character reference guide's most distinctive descriptions, illustrating how peak physical enhancement does not compensate for fundamental intellectual limitations.
+- The "Homecoming Video" of Patriot beating Sam at the school dance became a significant political artifact, influencing the City Council election and later being referenced when Sam was recognized at the Crescent nightclub.
+- His interlude designation is RJ.1, establishing him as one of the few antagonists to receive a dedicated POV chapter. The interlude covers two distinct time periods: 2007 (his military recruitment, boot camp collapse from organ failure, and painful hospital activation event) and 2017 (his father's funeral as Patriot).
+- His superpower activation was triggered by a near-death collapse during an intense training exercise, during which his organs began to fail before the transformation granted him peak human enhancement.
+- The character reference guide compares his potential coup against Richardson to "Starscreaming" her, a reference to the Transformers character known for perpetually attempting to overthrow his leader Megatron.
+- His love of Fukuyama's "The End of History" is specifically noted as something he barely understands, functioning more as an ideological totem than an intellectual foundation.
+- He maintains a 350-pound barbell routine of 100 reps, establishing his physical conditioning as extraordinary even by metahuman standards.
+- Natalie and Sean, mentioned at his father's funeral as his teammates, later appear as Egalitarian and Bulldozer respectively in Pattinson's Pals.
