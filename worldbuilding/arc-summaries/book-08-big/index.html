@@ -1,0 +1,6384 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Knowledge base for the web serial Chum">
+      
+      
+      
+      
+        <link rel="prev" href="../book-07-security/">
+      
+      
+        <link rel="next" href="../book-09-sheol/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>Book 8: Big - Chum Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#book-8-big" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Chum Wiki" class="md-header__button md-logo" aria-label="Chum Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Chum Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Book 8: Big
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Chum Wiki" class="md-nav__button md-logo" aria-label="Chum Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Chum Wiki
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Characters
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Characters
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Auditors
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    The Auditors
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/samantha-small/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sam Small (Bloodhound)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jordan-westwood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jordan Westwood (Safeguard)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/amelia-li/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Amelia Li (Gossamer)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/lily-chen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lily Chen (Blink)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/maggie-obrien/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maggie O'Brien (Flashpoint)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/derek-taylor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Derek Taylor (Rampage)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/tasha-reynolds/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tasha Reynolds (Wasp)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/connor-spindle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Connor (Spindle)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/kate-smith/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kate Smith (Soot)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Delaware Valley Defenders
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Delaware Valley Defenders
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jeffery-brown/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeffery Brown (Liberty Belle)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/bianca-agnelli/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bianca Agnelli (Fury Forge)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/diane-williams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Diane Williams (Crossroads)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/elijah-brooks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elijah Brooks (Multiplex)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jamal-davis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Councilman Jamal Davis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jason-reynolds/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jason Reynolds (Rampart)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/kwame-adjei/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kwame Adjei (Bulwark)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/maxwell-martinez/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maxwell Martinez (Sketch)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/rodney-greene/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rodney Greene (Captain Plasma)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kingdom of Keys
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Kingdom of Keys
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/trent-fairfax/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trent Fairfax (Mr. Nothing)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/maya-richardson/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maya Richardson (Mrs. Zenith)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/blake-matthews/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blake Matthews (Mr. Mudslide)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/darnell-hayes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Darnell Hayes (Mr. Antithesis)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/evan-williams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evan Williams (Mr. Retribution)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/lena-trinh-norwood/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lena Trinh-Norwood (Mrs. Quiet)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/lucas-donovan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lucas Donovan (Mr. Sandman)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/maria-valdez/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maria Valdez (Mrs. Coyote)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rogue Wave
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Rogue Wave
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/lawrence-sullivan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lawrence Sullivan (Shrike)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/dean-carver/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dean Carver (Deathgirl)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/felix-ortega/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dr. Felix Ortega
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/elias-franklin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elias Franklin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/mai-anh-vo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mai-Anh Vo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/renee-costello/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Renee Costello
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/tomas-reynoso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tomas Reynoso
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tacony Titans
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Tacony Titans
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/lucy-king/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lucy King (Sundial)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/joshua-clark/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Joshua Clark (Moonshot)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/min-ji-kim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Min-ji Kim (Compass)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/natasha-sokolov/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Natasha Sokolov (Sandstorm)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/rosa-acosta/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rosa Acosta (Hypeman)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Argus Corps
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Argus Corps
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/richard-johnson/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Richard Johnson (Patriot)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/andrew-mitchell/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Andrew Mitchell (Parabellum)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jasmine-perez/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jasmine Perez (Songbird)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/joshua-pleasants/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Joshua Pleasants
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pattinson's Pals
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Pattinson's Pals
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/egalitarian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Egalitarian (Natalie)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/zero/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zero
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mentorship Program
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Mentorship Program
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/alex-kirby/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Alex Kirby
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jasmine-walker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jasmine Walker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/liam-oconnor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Liam O'Connor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/zara-khan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zara Khan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chambers & Woo Investigations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Chambers & Woo Investigations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/akilah-washington/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Akilah Washington
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/devonte-harris/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Devonte Harris (Ventriloquist)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_10" id="__nav_2_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Philly Phreaks
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_10">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Philly Phreaks
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/angela-perez/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Angela Perez (Sparkplug)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/joseph-jones/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Joseph Jones (Puppeteer)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_11" id="__nav_2_11_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Small / de Leon Family
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_11">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Small / de Leon Family
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/morris-small/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morris "Pop-Pop Moe" Small
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/rachel-small/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rachel Small
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/ben-small/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Benjamin Small
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/abigail-silverman/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Abigail Silverman
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/camilla-de-leon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Camilla de Leon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_12" id="__nav_2_12_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Other / Independent
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_12">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Other / Independent
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/aaron-mckinley/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aaron McKinley
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/chezki-espinosa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chezki Espinosa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/claymore/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claymore
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/daisy-zhen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Daisy Zhen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/felix-fleischer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Felix Fleischer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/gerald-caldwell/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gerald Caldwell
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/illya-fedorov/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Illya Fedorov (Chernobyl)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/jamila-fayad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jamila Fayad (Flyby)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../characters/mike-giannopoulos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mike Giannopoulos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Organizations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Organizations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/the-auditors/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Auditors
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/delaware-valley-defenders/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Delaware Valley Defenders
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/kingdom-of-keys/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kingdom of Keys
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/rogue-wave/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rogue Wave
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/tacony-titans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tacony Titans
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/argus-corps/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Argus Corps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/philly-phreaks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Philly Phreaks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/red-calf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Red Calf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/boston-red-shocks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boston Red Shocks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/federation-of-saharan-states/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Federation of Saharan States
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organizations/international-superhuman-coalition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    International Superhuman Coalition
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Events
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Events
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../events/project-titan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Project Titan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../events/the-big-raid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Big Raid
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../events/the-daedalus-prison-break/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Daedalus Prison Break
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Locations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Locations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../locations/aurora-springs-residential-facility/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aurora Springs Residential Facility
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../locations/daedalus-correctional-facility/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Daedalus Correctional Facility
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../locations/tacony-community-center/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tacony Community Center
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Worldbuilding
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Worldbuilding
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Powers & Biology
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Powers & Biology
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../perks-assessment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PERKS Assessment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../power-laws/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Power Laws
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../superhuman-anatomy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Superhuman Anatomy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-regeneration/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahuman Regeneration
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../the-bracing-effect/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Bracing Effect
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../auto-destructive-activation-events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Auto-Destructive Activation Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-visual-classifications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Visual Classifications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../psionics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Psionics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../flight/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Flight
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Technology & Equipment
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Technology & Equipment
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../technology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Technology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gadgeteering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gadgeteering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anomalously-originated-material/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Anomalously Originated Material
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cybersecurity-vs-technopaths/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cybersecurity vs. Technopaths
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../firearms/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Firearms
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../costume-design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Costume Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Substances & Drugs
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Substances & Drugs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jump-and-fly/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jump and Fly
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dynology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dynology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Society & Law
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Society & Law
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../laws-and-politics-us/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Laws and Politics (US)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../private-superheroing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Private Superheroing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../superhero-insurance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Superhero Insurance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-economics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahuman Economics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-accommodations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahuman Accommodations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-children/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahuman Children
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../minions-and-goons/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Minions and Goons
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../education/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Education
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Health & Wellbeing
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Health & Wellbeing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahumans-in-healthcare/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahumans in Healthcare
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metahuman-psychotherapy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metahuman Psychotherapy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../superhuman-relationships/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Superhuman Relationships
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_6" id="__nav_6_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Culture & Media
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Culture & Media
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../news-and-media/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    News and Media
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../filmmaking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Filmmaking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../music/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../superhumans-and-the-arts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Superhumans and the Arts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hyperball/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hyperball
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../religion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Religion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_7" id="__nav_6_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arc Summaries
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Arc Summaries
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-01-pup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 1: Pup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-02-keys/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 2: Keys
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-03-dybbuk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 3: Dybbuk
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-04-exorcism/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 4: Exorcism
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../intermission-4.5-amnion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Intermission 4.5: Amnion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-05-mayfly/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 5: Mayfly
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-06-sideshow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 6: Sideshow
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-07-security/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 7: Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 8: Big
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 8: Big
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#infobox" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Infobox
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chapter-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chapter List
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#characters" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Characters
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Characters">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduced-this-arc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduced This Arc
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#major-characters-this-arc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Major Characters This Arc
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#locations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Locations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#themes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Themes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-planted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Planted
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-progressed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Progressed
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-resolved" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Resolved
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-09-sheol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 9: Sheol
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-10-plume/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 10: Plume
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-11-alarm-will-sound/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 11: Alarm Will Sound
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-12-authorized-personnel-only/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 12: Authorized Personnel Only
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-13-burn-after-reading/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 13: Burn After Reading
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-14-shelter-in-place/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 14: Shelter in Place
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-15-severe-weather-warning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 15: Severe Weather Warning
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../intermission-15.5-this-side-up/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Intermission 15.5: This Side Up
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-16-category-five-hurricane/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book 16: Category Five Hurricane
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#infobox" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Infobox
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chapter-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chapter List
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#characters" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Characters
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Characters">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduced-this-arc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduced This Arc
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#major-characters-this-arc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Major Characters This Arc
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#locations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Locations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#themes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Themes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-planted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Planted
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-progressed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Progressed
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#threads-resolved" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Threads Resolved
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="book-8-big">Book 8: Big<a class="headerlink" href="#book-8-big" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p>When the villain wins the election and the dinosaur is just the distraction, a teenage hero learns that the biggest threats hide behind legitimacy and that looking past the obvious is the only way to survive.</p>
+</blockquote>
+<h2 id="infobox">Infobox<a class="headerlink" href="#infobox" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Act</strong></td>
+<td>2</td>
+</tr>
+<tr>
+<td><strong>Book Number</strong></td>
+<td>8</td>
+</tr>
+<tr>
+<td><strong>Title</strong></td>
+<td>Big</td>
+</tr>
+<tr>
+<td><strong>Chapters</strong></td>
+<td>119–135</td>
+</tr>
+<tr>
+<td><strong>Interludes</strong></td>
+<td>DT.1, RS.1, DH.2, MR.2, MR.3</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>November 1 – early December 2024</td>
+</tr>
+<tr>
+<td><strong>POV</strong></td>
+<td>Samantha "Sam" Small (Chs. 119–135); Finn Taylor (DT.1); Rachel Small (RS.1); Devonte Harris / Playback (DH.2); Maya Richardson / Mrs. Zenith (MR.2, MR.3)</td>
+</tr>
+<tr>
+<td><strong>Preceded By</strong></td>
+<td>Book 7: Security</td>
+</tr>
+<tr>
+<td><strong>Followed By</strong></td>
+<td>Book 9: Sheol</td>
+</tr>
+</tbody>
+</table>
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
+<p>Book 8 opens the morning after Sam's Halloween warehouse fight with Patriot, as she learns that Maya Richardson is projected to win the City Council special election. Sam and Jordan scramble to expose Richardson's connections to the Kingdom of Keys before the vote, meeting with Republican candidate Richard Duvall (who dismisses their concerns while revealing his own racist politics) and Councilman Jamal Davis (who advises patience and intelligence-gathering). Despite frantic investigation — dumpster diving, undercover interviews, stakeouts, and a rally for third-party candidate Frank Martinez — they find no actionable evidence, and Richardson wins with 81% of the vote. Sam and Jordan process the defeat on the Music Hall roof, watching the sunrise as President Rodriguez wins re-election nationally.</p>
+<p>The arc shifts into espionage as Sam infiltrates the Crescent, a Kingdom-connected nightclub, disguised as "Jessie" with a fake ID and costume from Gossamer. She plants surveillance devices and discovers a map of marked locations across Philadelphia, but her cover is blown first by Nina (a barback who recognizes her from the viral Patriot video) and then by Mudslide, who confronts her in the back hallways. Sam escapes after being shot in the arm, fleeing to the Music Hall where Tasha treats the wound. The team analyzes the marked locations — City Hall, high schools, the Philadelphia Zoo — and debates their significance. Meanwhile, Sam mentors Maggie in combat training and patrols with Rampart, encountering a new Jump gang in Olney where a dealer named Jackie has a violent, involuntary reaction when "Rogue Wave" is mentioned, confirming the mind-control trigger discovered in Book 7's MR.1 interlude.</p>
+<p>The crisis escalates when Devonte (Playback) arrives at the Music Hall severely injured after investigating Kingdom operations at the docks near 5245 Bleigh Avenue. His interlude (DH.2) reveals he overheard plans for "Operation Ivory" — the Kingdom's scheme to steal elephants and rhinos for illegal ivory trade, with a mysterious "second phase" involving Maya Richardson's political cover. Devonte is hospitalized after being shot during his escape, rescued by Akilah (Marionette). The Delaware Valley Defenders formally forbid the younger heroes from involvement, but Sam spends the following weeks conducting solo surveillance at the zoo, building a relationship with a zookeeper named Mack while watching for signs of the Kingdom's move.</p>
+<p>The arc's parallel interludes deepen the world: DT.1 flashes back to 2002 Boston, where Derek Taylor's father Finn — an Irish mobster — witnesses the emergence of superheroes (Windstorm in Chicago) and decides to leave the criminal life, fleeing to Philadelphia with young Derek after a confrontation with Russian mobsters is interrupted by a masked vigilante. RS.1 shows Rachel and Ben Small hosting Pop-Pop Moe for dinner, exploring the parents' perspective on Sam's dangerous life — Rachel's fear that Sam might turn out like her estranged father, and the family's attempt to find normalcy in their reconstructed home. MR.2 reveals the Kingdom's leadership meeting at Nobu Fifty Seven in Manhattan, where Maya reports to Mr. A alongside Ophelia (Blue Velvet), Wesley (ESP), Jacob (Keys), and Nolan (Yellowjacket); they discuss Rogue Wave, the Windy City Wreckers in Chicago, and decide to implement a psychological pressure campaign to burn out young superheroes. Ophelia references "Project Hollywood," a child-soldier program connected to Deathgirl that is "out in Afghanistan, uncontactable." MR.3 is the arc's darkest chapter: Richard Duvall confronts Maya at City Hall with evidence of her Kingdom connections, attempting blackmail; Maya pickpockets his recording device, takes him for a drive to Checkers, reveals her true power is pressure control (not weather manipulation), and kills him by creating a vacuum inside the car, staging his death as natural causes.</p>
+<p>The climax arrives when the Kingdom launches Operation Ivory at the Philadelphia Zoo on a snowy December day. Mr. T-Rex transforms into dinosaur form, destroying the rhino enclosure and creating mass chaos while Kingdom operatives take hostages. Sam, already on-site from her surveillance, suits up and fights back alongside Mack. Multiplex saves her from a surprise attacker, and the full Delaware Valley Defenders arrive — Captain Plasma hitting T-Rex at supersonic speed, Fury Forge and Crossroads on an ATV. But Sam realizes the dinosaur rampage is a distraction: the real heist is happening in the Reptile House, where Mr. Nothing, Mrs. Heartbeat, and Mudslide are stealing specific poison dart frogs (wild-caught specimens whose toxins are critical for drug synthesis). Sam confronts them alone in the Reptile House. Mr. Nothing neutralizes her powers through touch and threatens to shoot her knee, but Maggie arrives unexpectedly — wearing Sam's stolen bulletproof vest — and hits Nothing with a power-propelled baseball. In the ensuing fight, Maggie is shot multiple times (the vest saves her life but leaves her with broken ribs and internal bruising), while Sam engages in a brutal hand-to-hand battle with Mr. Nothing. Sam overpowers and zip-ties Nothing; Maggie fights Mudslide with her repulsion fields until Sam intervenes to prevent lethal force. Both villains are captured, but Mrs. Heartbeat escapes with some of the frogs, and Mr. T-Rex flees with followers. The arc ends with a partial victory: two Kingdom leaders captured, but the real prize — the poison dart frogs — is partially lost.</p>
+<h2 id="chapter-list">Chapter List<a class="headerlink" href="#chapter-list" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>File</th>
+<th>Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>119</td>
+<td>119.txt</td>
+<td>Sam recovers from the Patriot fight; learns Maya Richardson is projected to win the City Council election; her family reacts to Richardson's Kingdom connections; Sam and Maggie go on Maggie's first official patrol through Mayfair as Bloodhound and Flashpoint.</td>
+</tr>
+<tr>
+<td>120</td>
+<td>120.txt</td>
+<td>Sam and Jordan visit Richard Duvall's campaign office to share evidence of Richardson's Kingdom ties; Duvall dismisses their concerns and reveals racist views about crime in Kensington and Tioga; Sam meets with Councilman Davis at DVD HQ, who advises patience and democratic process.</td>
+</tr>
+<tr>
+<td>121</td>
+<td>121.txt</td>
+<td>Two days of frantic investigation into Richardson — dumpster diving (finding a suspicious cash deposit receipt), an undercover interview attempt, attending a Frank Martinez rally; on election night, Richardson wins 81-20 and President Rodriguez is re-elected; Sam and Jordan smoke weed on the Music Hall roof and watch the sunrise.</td>
+</tr>
+<tr>
+<td>DT.1</td>
+<td>dt-1.txt</td>
+<td>INTERLUDE — Finn Taylor POV, 2002 Boston. Irish mobster Finn witnesses the emergence of superheroes (Windstorm in Chicago) and grows fearful for his son Derek's future. After a secret meeting with younger mobsters is interrupted by Russian gangsters and a masked vigilante, Finn decides to leave the criminal life. He flees Boston for Philadelphia with four-year-old Derek, spotting another costumed figure swinging between buildings as they cross the bridge.</td>
+</tr>
+<tr>
+<td>122</td>
+<td>122.txt</td>
+<td>Sam plans and executes an undercover mission at the Crescent nightclub disguised as "Jessie" (with fake ID from Jordan and costume from Gossamer). She plants surveillance devices, talks to bartender Pete, and discovers a map of marked locations across Philadelphia in an office. Nina, a barback from a civilian superhuman support group, recognizes her despite the disguise.</td>
+</tr>
+<tr>
+<td>123</td>
+<td>123.txt</td>
+<td>Continuation of the Crescent mission. Sam debates the plan with the Young Defenders; Captain Plasma shares a cautionary tale. At the club, Nina nearly blows Sam's cover from the viral Patriot video. Sam creates a fight distraction to access employee-only areas, discovers the marked-locations map, hides in a filing cabinet to overhear Kingdom operatives discussing accelerated schedules, plants a bug, and runs into Mudslide.</td>
+</tr>
+<tr>
+<td>124</td>
+<td>124.txt</td>
+<td>Sam escapes from Mudslide at the Crescent after being threatened with a gun; uses mace and a taser; is shot in the arm during the escape. Flees to the Music Hall where Tasha treats the gunshot wound. The team analyzes the map's marked locations (City Hall, schools, the zoo). They decide to inform the DVDs. Tasha walks Sam home; Sam breaks down crying when she sees her mother.</td>
+</tr>
+<tr>
+<td>125</td>
+<td>125.txt</td>
+<td>Sam briefs the Delaware Valley Defenders on the Crescent intel and her encounter with Mudslide. Crossroads informs her that Connor is meeting potential foster parents. Sam calls Akilah, who reveals she's considering the name "Marionette" instead of Puppeteer. Training session with Maggie and Tasha focusing on judo techniques and power integration.</td>
+</tr>
+<tr>
+<td>126</td>
+<td>126.txt</td>
+<td>Sam and Tasha investigate the Philadelphia Zoo (one of the map's marked locations). They notice increased police presence and explore exhibits. They unexpectedly encounter Dr. Trinh-Norwood (Mrs. Xenograft), who engages in a civil conversation about animals, reveals she's wearing a wire, and warns Sam to be careful. Sam and Tasha discuss the moral complexities of heroism and villainy on the way home.</td>
+</tr>
+<tr>
+<td>RS.1</td>
+<td>rs-1.txt</td>
+<td>INTERLUDE — Rachel Small POV. Rachel and Ben host Pop-Pop Moe for dinner in their reconstructed home. Rachel expresses fears about Sam's dangerous activities, Moe shares a bridge-building metaphor for parenting, and they discuss the zoo incident with "evil dolphins." Rachel reveals her deeper fear that Sam might turn out like her estranged father. Sam and Maggie arrive home, providing momentary peace.</td>
+</tr>
+<tr>
+<td>127</td>
+<td>127.txt</td>
+<td>Sam trains with Rampart at DVDs' HQ (bone conditioning with gravel). They go on an unofficial patrol in Olney with Captain Plasma's tacit approval ("bring me a hoagie"). They encounter a new Jump gang; Sam's blood sense detects an injured person (Mike); they find gang members on 9th Street, with one (Slims) unknowingly teleporting from Jump use. Sam challenges the gang.</td>
+</tr>
+<tr>
+<td>128</td>
+<td>128.txt</td>
+<td>Sam and Rampart fight the gang at the construction site. Jackie (Phillies Cap) has a violent, involuntary reaction when "Rogue Wave" is mentioned — confirming the mind-control trigger from MR.1. They report to Captain Plasma and Fury Forge, who express concern about possible mind control. The Young Defenders are grounded pending reevaluation.</td>
+</tr>
+<tr>
+<td>129</td>
+<td>129.txt</td>
+<td>CPS agent Anna Katz visits the Tacony Music Hall to assess Connor's living situation for his adoption process. The group scrambles to hide evidence of superhero activities. Ms. Katz reveals she already knows about their affiliations, conducts private interviews with Jordan and Sam, and assures them Connor's support system won't be disrupted. Jordan reveals they lied about being emancipated to hide their homelessness.</td>
+</tr>
+<tr>
+<td>130</td>
+<td>130.txt</td>
+<td>Snowy Saturday at the Music Hall. The team discusses Richardson's election (District 7, covering Mayfair and Tacony), her past as superheroine Stormrise, and the kingdom's potential surveillance via Mr. ESP. Sam recounts the Xenograft encounter and the Rogue Wave mind-control trigger. Connor shares good news about his adoption. Sam's blood sense alerts her to someone at the door — Devonte (Playback), severely injured.</td>
+</tr>
+<tr>
+<td>DH.2</td>
+<td>dh-2.txt</td>
+<td>INTERLUDE — Devonte (Playback) POV. He investigates Kingdom operations at the docks near 5245 Bleigh Ave in a snowstorm, using his sound-stealing powers to evade guards. Overhears plans for "Operation Ivory" (elephant and rhino trafficking to Johannesburg), a "second phase," and Richardson's involvement as political cover. Mrs. Heartbeat arrives to check progress. Mr. Nothing catches Devonte; Akilah (Marionette) rescues him; he's shot during the escape and they flee to the Music Hall, where Devonte loses consciousness.</td>
+</tr>
+<tr>
+<td>131</td>
+<td>131.txt</td>
+<td>The group treats Devonte's injuries; he's taken to the hospital by ambulance. At the hospital, Devonte shares intelligence about Operation Ivory and the Kingdom's plan to steal rhinos. The DVDs forbid younger heroes from getting involved. Fury Forge promises to help Devonte with hearing implants (his sound-stealing powers have damaged his hearing). Sam stays to comfort Devonte in a heart-to-heart conversation.</td>
+</tr>
+<tr>
+<td>MR.2</td>
+<td>mr-2.txt</td>
+<td>INTERLUDE — Maya Richardson (Zenith) POV. Kingdom leadership meets at Nobu Fifty Seven in Manhattan: Maya, Ophelia (Blue Velvet), Wesley (ESP), Jacob (Keys), Nolan (Yellowjacket), with Mr. A joining virtually. Maya reports on her City Council position. They discuss Rogue Wave, the Windy City Wreckers in Chicago, and Ophelia's mention of "Project Hollywood" (a child-soldier program connected to Deathgirl, currently "in Afghanistan, uncontactable"). They decide to implement psychological pressure to burn out young superheroes. Maya and Nolan discuss utilitarian justifications for removing child heroes from the equation.</td>
+</tr>
+<tr>
+<td>132</td>
+<td>132.txt</td>
+<td>Sam spends a week preparing for Operation Ivory: meets Bulldozer at a coffee shop, gets a new winterized costume fitted by Amelia and Jordan (noting a missing bulletproof vest), meets Razor and Sandman in an alley, briefs the Auditors (who oppose her going alone), meets Sundial and Manta Rei at a UPenn café. Nobody explicitly agrees to help watch the zoo. Thanksgiving dinner at the Golden Panda Buffet with friends.</td>
+</tr>
+<tr>
+<td>MR.3</td>
+<td>mr-3.txt</td>
+<td>INTERLUDE — Maya Richardson (Zenith) POV. Richard Duvall confronts Maya at City Hall with evidence of her Kingdom connections and attempts to blackmail her. Maya pickpockets his recording device during a hug, takes him for a drive to Checkers (charming the drive-through worker), reveals her true power is pressure control (not weather manipulation), and kills him by lowering the air pressure inside the car to create a vacuum. She stages his body at his house to look like natural causes and returns to City Hall. Mr. Nothing texts acknowledgment of the death.</td>
+</tr>
+<tr>
+<td>133</td>
+<td>133.txt</td>
+<td>After a week of solo surveillance at the zoo, Sam senses something different about a snowy December day. Mr. T-Rex appears in dinosaur form, destroying the rhino enclosure; Kingdom operatives take hostages; chaos erupts. Sam suits up and fights back alongside zookeeper Mack. An unseen attacker nearly takes her from behind, but Multiplex saves her. Captain Plasma arrives and hits T-Rex at supersonic speed. Fury Forge and Crossroads arrive on an ATV. The full DVDs finally arrive in force.</td>
+</tr>
+<tr>
+<td>134</td>
+<td>134.txt</td>
+<td>Sam realizes the main battle is a distraction and investigates the suspiciously empty Reptile House. She discovers Mr. Nothing, Mrs. Heartbeat, and Mudslide stealing specific poison dart frogs (wild-caught specimens; Mrs. Heartbeat sedates them while a captive zookeeper identifies which are wild-caught). Mr. Nothing catches Sam when her phone vibrates, neutralizes her powers, and threatens to shoot her knee. Maggie arrives unexpectedly, hitting Nothing with a power-propelled baseball. Mrs. Heartbeat escapes with frog containers; Mudslide traps Sam in liquefied floor. A gunshot ends the chapter.</td>
+</tr>
+<tr>
+<td>135</td>
+<td>135.txt</td>
+<td>Maggie is shot multiple times but protected by Sam's bulletproof vest (which she secretly took). Sam fights Mr. Nothing in brutal hand-to-hand combat — he stabs her shoulder with a switchblade, trying to reach exposed skin to negate her powers; she overpowers him with knuckle-teeth and zip-ties him. Maggie fights Mudslide despite broken ribs and internal injuries; Sam stops her from using lethal force with her repulsion fields. Both villains are subdued. Multiplex and Crossroads acknowledge Sam was right about the true heist. Mr. T-Rex escapes with followers. Mrs. Heartbeat escapes with some frogs. Partial victory as Arc 8 concludes.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="characters">Characters<a class="headerlink" href="#characters" title="Permanent link">&para;</a></h2>
+<h3 id="introduced-this-arc">Introduced This Arc<a class="headerlink" href="#introduced-this-arc" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Character</th>
+<th>Role</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Richard Duvall</td>
+<td>Republican candidate / murder victim</td>
+<td>Dismissed Sam and Jordan's warnings about Richardson; revealed racist views; later attempted to blackmail Maya with evidence of her Kingdom ties; killed by Maya via barokinetic vacuum in his car (Chs. 120, MR.3)</td>
+</tr>
+<tr>
+<td>Finn Taylor</td>
+<td>Derek Taylor's father (flashback)</td>
+<td>Boston Irish mobster who witnessed the 2002 emergence of superheroes and fled to Philadelphia with young Derek to escape the criminal life (DT.1)</td>
+</tr>
+<tr>
+<td>Nina</td>
+<td>Crescent nightclub barback</td>
+<td>Recognized Sam from a civilian superhuman support group and the viral Patriot video; nearly blew Sam's cover (Chs. 122–123)</td>
+</tr>
+<tr>
+<td>Pete</td>
+<td>Crescent nightclub bartender</td>
+<td>Sam attempted to gather information from him during undercover mission (Ch. 122)</td>
+</tr>
+<tr>
+<td>Mack</td>
+<td>Philadelphia Zoo zookeeper</td>
+<td>Befriended Sam during her surveillance; fought alongside her during the Kingdom attack (Chs. 133–134)</td>
+</tr>
+<tr>
+<td>Jackie (Phillies Cap)</td>
+<td>Jump dealer</td>
+<td>Had a violent involuntary reaction when "Rogue Wave" was mentioned, confirming the mind-control trigger (Ch. 128)</td>
+</tr>
+<tr>
+<td>Slims</td>
+<td>Jump user / teleporter</td>
+<td>Gang member unknowingly teleporting from Jump use; confronted by Sam and Rampart in Olney (Ch. 127)</td>
+</tr>
+<tr>
+<td>Anna Katz</td>
+<td>CPS agent</td>
+<td>Visited the Music Hall to assess Connor's living situation for his adoption; already aware of the group's superhero affiliations (Ch. 129)</td>
+</tr>
+<tr>
+<td>Mr. A (Upper Management)</td>
+<td>Kingdom supreme leader</td>
+<td>Joins the MR.2 leadership meeting virtually; speaks with precise time management; runs the meeting with military efficiency (MR.2)</td>
+</tr>
+<tr>
+<td>Ophelia / Blue Velvet</td>
+<td>Kingdom leadership</td>
+<td>Red-haired; Mr. A's right-hand; rivals with Maya; references Project Hollywood and Deathgirl (MR.2)</td>
+</tr>
+<tr>
+<td>Nolan / Yellowjacket</td>
+<td>Kingdom leadership</td>
+<td>Directs community theater (Waiting for Godot); nervous after a close call in Baltimore; discusses utilitarian ethics with Maya (MR.2)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="major-characters-this-arc">Major Characters This Arc<a class="headerlink" href="#major-characters-this-arc" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Character</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Samantha Small / Bloodhound</td>
+<td>Investigates Richardson's Kingdom ties, infiltrates the Crescent nightclub, conducts solo zoo surveillance, identifies Operation Ivory as a distraction during the zoo attack, and fights Mr. Nothing in the Reptile House</td>
+</tr>
+<tr>
+<td>Maggie O'Brien / Flashpoint</td>
+<td>First official patrol; secretly takes Sam's bulletproof vest; arrives at the Reptile House to save Sam; shot multiple times but protected by the vest; fights Mudslide despite broken ribs; emerges as a true combat partner</td>
+</tr>
+<tr>
+<td>Maya Richardson / Mrs. Zenith</td>
+<td>Wins City Council election; attends Kingdom leadership meeting; murders Richard Duvall via barokinetic vacuum; balances public persona with criminal operations; revealed to use pressure control, not weather manipulation</td>
+</tr>
+<tr>
+<td>Jordan Westwood / Safeguard</td>
+<td>Investigates Richardson's finances; provides fake IDs and tech for the Crescent mission; builds and defends the whistleblower infrastructure; reveals homelessness to CPS agent; processes the election defeat with Sam</td>
+</tr>
+<tr>
+<td>Devonte Harris / Playback</td>
+<td>Investigates Kingdom dock operations using sound-stealing powers; discovers Operation Ivory; caught by Mr. Nothing; rescued by Akilah; shot during escape; hospitalized; hearing damage from power use</td>
+</tr>
+<tr>
+<td>Akilah Washington / Marionette</td>
+<td>Rescues Devonte from the docks; considering the name "Marionette" over Puppeteer; works as a PI with Devonte</td>
+</tr>
+<tr>
+<td>Mr. Nothing</td>
+<td>Kingdom operative; catches Devonte at the docks; leads the Reptile House frog heist; engages Sam in brutal hand-to-hand combat; captured and zip-tied</td>
+</tr>
+<tr>
+<td>Mudslide</td>
+<td>Kingdom operative; confronts Sam at the Crescent; participates in the Reptile House heist; fights Maggie; captured</td>
+</tr>
+<tr>
+<td>Mrs. Heartbeat</td>
+<td>Kingdom operative; uses her powers to sedate poison dart frogs during the heist; escapes with frog containers — the only Kingdom member to complete the mission objective</td>
+</tr>
+<tr>
+<td>Mr. T-Rex</td>
+<td>Kingdom operative; transforms into a dinosaur to create the zoo distraction; escapes with followers after the DVDs arrive</td>
+</tr>
+<tr>
+<td>Jason Reynolds / Rampart</td>
+<td>Trains Sam in bone conditioning; patrols Olney with her; confronts the Jump gang and witnesses the Rogue Wave mind-control trigger</td>
+</tr>
+<tr>
+<td>Tasha Reynolds / Lighthouse</td>
+<td>Participates in Richardson investigation; treats Sam's gunshot wound from the Crescent; documents the Rogue Wave trigger</td>
+</tr>
+<tr>
+<td>Connor Spindle / Spindle</td>
+<td>Undergoes CPS evaluation for adoption; meets with potential foster parents; being formally adopted</td>
+</tr>
+<tr>
+<td>Derek Taylor / Fenrir</td>
+<td>Participates in investigations; his father's backstory is revealed in DT.1</td>
+</tr>
+<tr>
+<td>Dr. Trinh-Norwood / Mrs. Xenograft</td>
+<td>Encountered by Sam and Tasha at the zoo; reveals she's wearing a wire; warns Sam to be careful; her role in Kingdom operations remains ambiguous (Ch. 126)</td>
+</tr>
+<tr>
+<td>Rachel Small</td>
+<td>RS.1 narrator; explores parental fear and the emotional toll of having a superhero daughter; reveals fear that Sam might turn out like her estranged father</td>
+</tr>
+<tr>
+<td>Pop-Pop Moe</td>
+<td>Visits the Small family; shares parenting wisdom; discusses the zoo incident</td>
+</tr>
+</tbody>
+</table>
+<h2 id="locations">Locations<a class="headerlink" href="#locations" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Tacony Music Hall</strong> — The Auditors' headquarters; planning center for the Richardson investigation, Crescent mission, and Operation Ivory response; site of the CPS visit for Connor's adoption (Chs. 121–125, 129–132)</li>
+<li><strong>The Crescent</strong> — Kingdom-connected nightclub in Philadelphia; Sam infiltrates it undercover, plants surveillance devices, discovers the marked-locations map, and is confronted by Mudslide (Chs. 122–124)</li>
+<li><strong>Philadelphia Zoo</strong> — One of the marked locations on the Kingdom's map; site of Operation Ivory, the Kingdom's complex heist using Mr. T-Rex as a distraction while stealing poison dart frogs from the Reptile House; Sam conducts weeks of surveillance here (Chs. 126, 133–135)</li>
+<li><strong>Richard Duvall's Campaign Office, Center City</strong> — Where Sam and Jordan meet with the Republican candidate; cluttered and bustling (Ch. 120)</li>
+<li><strong>Delaware Valley Defenders Headquarters</strong> — Site of meetings with Councilman Davis, DVDs' briefings on the Crescent intel and Operation Ivory, and training sessions with Rampart (Chs. 120, 125, 127–128, 131)</li>
+<li><strong>Nobu Fifty Seven, Manhattan</strong> — Upscale Japanese restaurant where the Kingdom leadership holds quarterly meetings; features state-of-the-art security systems (MR.2)</li>
+<li><strong>5245 Bleigh Avenue Docks</strong> — Kingdom shipping operation where Devonte discovers Operation Ivory intelligence; connected to "Tacony Metal Works" shell company (DH.2)</li>
+<li><strong>Olney / 9th Street</strong> — Site of Sam and Rampart's unofficial patrol where they encounter the Jump gang and the Rogue Wave mind-control trigger (Chs. 127–128)</li>
+<li><strong>Small Family Home</strong> — Newly reconstructed after the Kingdom's attack; site of RS.1's parental perspective interlude (Chs. 119, RS.1)</li>
+<li><strong>Maya Richardson's Office, City Hall</strong> — Where Duvall confronts Richardson and she pickpockets his recorder (MR.3)</li>
+<li><strong>The Clover &amp; Harp, Boston</strong> — Dive bar in 2002 Boston where Finn Taylor and fellow Irish mobsters watch the emergence of superheroes on TV (DT.1)</li>
+<li><strong>Golden Panda Buffet</strong> — Where the Auditors share Thanksgiving dinner (Ch. 132)</li>
+</ul>
+<h2 id="themes">Themes<a class="headerlink" href="#themes" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Institutional impotence vs. individual action</strong> — Every institution Sam appeals to fails her: Duvall dismisses her evidence, Davis counsels patience, the DVDs forbid involvement, the democratic process elects a supervillain. The arc systematically strips away institutional support to force Sam into independent action, culminating in her solo zoo surveillance while the adults debate procedure.</li>
+<li><strong>The distraction and the real threat</strong> — The title "Big" operates on multiple levels: the big, obvious dinosaur rampaging through the zoo is literally a distraction from the real heist happening in the Reptile House. Richardson's public philanthropy distracts from her criminal empire. Duvall's racism distracts from the fact that he's actually right about Richardson. The arc teaches Sam (and the reader) to look past the spectacle to find the truth.</li>
+<li><strong>Parenthood as counterpoint</strong> — Three interludes explore parenthood: Finn Taylor leaves crime to protect young Derek (DT.1), Rachel Small grapples with her daughter's dangerous life (RS.1), and Maya Richardson justifies harming children through utilitarian calculus (MR.2). These parallel perspectives — protective father, terrified mother, calculating predator — frame the arc's central question of what adults owe to children.</li>
+<li><strong>The cost of mentorship</strong> — Maggie's arc across Book 8 moves from trainee to combat partner, climaxing with her secretly taking Sam's bulletproof vest and arriving at the Reptile House to save her mentor. The student protecting the teacher inverts the mentorship dynamic, but at a brutal physical cost — broken ribs, internal bleeding, gunshot impacts. The arc asks whether Sam's mentorship has empowered or endangered Maggie.</li>
+<li><strong>Legitimacy as weapon</strong> — Maya Richardson's election gives the Kingdom a foothold in legitimate government, allowing her to provide political cover for Operation Ivory and eliminate threats (Duvall) from within the system. The arc positions democratic legitimacy itself as a tool of criminal power, making the enemy harder to fight because they now wear the armor of public office.</li>
+</ul>
+<h2 id="threads-planted">Threads Planted<a class="headerlink" href="#threads-planted" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Operation Ivory and the poison dart frogs</strong> — The Kingdom's true objective was not rhinos or elephants but specific wild-caught poison dart frogs whose toxins are needed for drug synthesis; Mrs. Heartbeat escaped with some specimens; the full implications of what they plan to create are unknown (Chs. 133–135)</li>
+<li><strong>Project Hollywood</strong> — Ophelia references a child-soldier program that created Deathgirl, currently "out in Afghanistan, uncontactable"; this connects to the Kingdom's broader network and suggests a military or intelligence operation beyond their direct control (MR.2)</li>
+<li><strong>Kingdom's anti-youth-hero campaign</strong> — The leadership decides to implement a psychological pressure campaign to burn out young superheroes rather than fight them directly; the methods and targets are unspecified (MR.2)</li>
+<li><strong>Rogue Wave mind-control confirmation</strong> — Jackie's violent involuntary reaction to the phrase "Rogue Wave" in Philadelphia confirms the trigger first observed by Maya in MR.1, establishing it as a widespread phenomenon affecting street-level drug dealers; the mechanism remains unknown (Ch. 128)</li>
+<li><strong>Maya Richardson's true power revealed</strong> — Maya kills Duvall using pressure control (creating a vacuum inside a car), confirming her actual ability is barokinesis, not weather manipulation; she stages the death as natural causes; Mr. Nothing texts acknowledgment, suggesting institutional awareness within the Kingdom (MR.3)</li>
+<li><strong>Richard Duvall's murder</strong> — Duvall's death is staged as natural causes; he had compiled evidence of Richardson's Kingdom connections (including digital evidence in his emails); this evidence may still exist and could surface later (MR.3)</li>
+<li><strong>Derek Taylor's criminal heritage</strong> — Finn Taylor was a Boston Irish mobster who fled to Philadelphia in 2002; Derek's origin as the son of a criminal who chose to go straight adds depth to his character and may inform future plotlines (DT.1)</li>
+<li><strong>Maggie's bulletproof vest theft</strong> — Maggie secretly took Sam's vest from old costumes at the Music Hall, demonstrating both her initiative and her willingness to put herself in danger without telling Sam; this pattern of protective secrecy could escalate (Ch. 135)</li>
+<li><strong>Rachel Small's estranged father</strong> — Rachel reveals a deeper fear that Sam might turn out like her estranged father, implying a family history of violence or instability on Rachel's side that has not been explored (RS.1)</li>
+<li><strong>Connor Spindle's adoption</strong> — Connor is meeting with potential adoptive parents and undergoing CPS evaluation; his transition from the team's quasi-ward to someone with a formal family structure may change group dynamics (Chs. 125, 129)</li>
+<li><strong>Devonte's hearing damage</strong> — Devonte's sound-stealing powers have damaged his hearing; Fury Forge promises hearing implants, establishing a physical cost to his abilities (Ch. 131)</li>
+<li><strong>Dr. Trinh-Norwood's warning</strong> — Mrs. Xenograft warns Sam to "be careful" at the zoo while wearing a wire, suggesting she may be hedging her bets between loyalty to the Kingdom and some form of self-preservation or conscience (Ch. 126)</li>
+<li><strong>The Crescent surveillance devices</strong> — Sam planted bugs at the Kingdom nightclub; their continued operation and the intelligence they may yield remain unexplored (Chs. 122–124)</li>
+<li><strong>Windy City Wreckers</strong> — A new crew in Chicago hitting Outfit operations with military-grade equipment; their identity and possible government connections are unknown; Ophelia's Chicago contacts are investigating (MR.2)</li>
+</ul>
+<h2 id="threads-progressed">Threads Progressed<a class="headerlink" href="#threads-progressed" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Kingdom of Keys operations</strong> (planted Book 2) — The Kingdom's reach expands dramatically: Maya wins a City Council seat, Operation Ivory targets the Philadelphia Zoo, the Crescent nightclub is identified as a Kingdom venue, the leadership holds a high-level strategy meeting at Nobu Fifty Seven, and the organization demonstrates sophisticated multi-layered planning (distraction + real heist). Mr. Nothing and Mudslide are captured, representing a significant loss of personnel (Chs. 119–135, MR.2, MR.3)</li>
+<li><strong>Maya Richardson's political rise</strong> (planted Book 7, MR.1) — Richardson wins the City Council special election with 81% of the vote, representing District 7 (Mayfair and Tacony); her former identity as superheroine Stormrise provides public cover; she murders a political rival to protect her position (Chs. 119–121, MR.3)</li>
+<li><strong>Rogue Wave mind control</strong> (planted Book 7, MR.1) — The mind-control trigger ("Rogue Wave" causing violent reactions) is confirmed beyond Maya's initial encounter, now observed in a Philadelphia street-level Jump dealer, establishing it as a widespread phenomenon; Captain Plasma and Fury Forge express concern; the mechanism remains unknown (Ch. 128)</li>
+<li><strong>Jump/Fly drug crisis</strong> (planted Book 5, Ch. 73) — Jump distribution continues expanding; a new gang pushes Jump in Olney with members unknowingly gaining powers (Slims teleporting); the drugs remain central to Philadelphia's criminal ecosystem (Chs. 127–128)</li>
+<li><strong>The Auditors' formation</strong> (planted Book 7, Chs. 110–111) — The team operates more independently: conducting the Crescent mission, investigating Richardson, and preparing for Operation Ivory largely without DVD support; they argue against Sam's solo approach but support her operationally; Thanksgiving dinner at the Golden Panda shows growing team cohesion (Chs. 121–132)</li>
+<li><strong>Playback and Marionette's independent operations</strong> (planted Book 6, Ch. 100; progressed Book 7, Ch. 116) — Devonte and Akilah continue operating as independent investigators, with Devonte uncovering Operation Ivory at the docks before being injured; Akilah considers renaming herself from Puppeteer to Marionette; their PI work at Chambers &amp; Woo continues to yield critical intelligence (DH.2, Chs. 125, 130–131)</li>
+<li><strong>Sam's tactical growth</strong> (planted Book 7) — Sam's pattern recognition improves: she identifies the zoo attack as a distraction and locates the real heist in the Reptile House, demonstrating the investigative instincts she's been developing since the Patriot confrontation; the DVDs acknowledge she was right (Chs. 133–135)</li>
+<li><strong>Ben Small and Rachel Small's awareness</strong> (planted Book 1) — Rachel narrates an entire interlude exploring her fear and frustration; the parents grapple with Sam's bruises, dangerous activities, and the implications of her double life; Rachel's fear of her estranged father adds a new dimension (RS.1, Chs. 119, 124)</li>
+<li><strong>Sam's mentorship of Maggie</strong> (planted Book 7, Chs. 106, 109) — Maggie's training progresses from basic martial arts to power-integrated combat; her first patrol, growing confidence, and ultimate arrival at the Reptile House represent a full arc from student to combat-ready partner (Chs. 119, 125, 132–135)</li>
+<li><strong>Young Defenders team status</strong> (planted Book 6, Ch. 100) — The YDs are grounded after the Olney patrol; institutional constraints continue pushing Sam toward independence; Rampart remains cautious but supportive as a training partner (Chs. 127–128)</li>
+<li><strong>Sam's identity management</strong> (planted Book 1) — Nina recognizes Sam at the Crescent from the viral Patriot video, adding another person who knows or suspects her identity; Sam's undercover work requires increasingly elaborate disguises (Chs. 122–123)</li>
+<li><strong>Mrs. Xenograft's ambiguous loyalties</strong> (planted Book 6, LTN.1) — Trinh-Norwood's zoo encounter with Sam is surprisingly civil; she warns Sam to be careful while wearing a wire, suggesting conflicted loyalties between the Kingdom and some personal code; her motivations remain unclear (Ch. 126)</li>
+</ul>
+<h2 id="threads-resolved">Threads Resolved<a class="headerlink" href="#threads-resolved" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Maya Richardson's City Council election</strong> — The question of whether Richardson would be elected, raised when her candidacy was announced, is definitively resolved: she wins with 81% of the vote despite Sam and Jordan's attempts to expose her Kingdom connections (planted Book 7 Ch. 119 region, resolved Ch. 121)</li>
+<li><strong>Richard Duvall's opposition</strong> — Duvall's potential as a political counterweight to Richardson is permanently eliminated when Maya murders him and stages it as natural causes; his compiled evidence may persist but his personal threat is neutralized (planted Ch. 120, resolved MR.3)</li>
+<li><strong>Operation Ivory's execution</strong> — The Kingdom's zoo heist plan, discovered by Devonte in DH.2, plays out: the distraction (T-Rex + hostages) works as designed; the real target (poison dart frogs) is partially secured; the operation is a partial success for both sides — Kingdom gets some frogs, heroes capture Mr. Nothing and Mudslide (planted DH.2, resolved Chs. 133–135)</li>
+</ul>
+<h2 id="sources">Sources<a class="headerlink" href="#sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>119.txt through 135.txt — Main chapter text for Chapters 119–135</li>
+<li>dt-1.txt — Interlude DT.1 (Finn Taylor POV: Boston, 2002, Derek's origin story)</li>
+<li>rs-1.txt — Interlude RS.1 (Rachel Small POV: parental perspective on Sam's hero life)</li>
+<li>dh-2.txt — Interlude DH.2 (Devonte Harris / Playback POV: dock investigation, Operation Ivory discovery)</li>
+<li>mr-2.txt — Interlude MR.2 (Maya Richardson / Mrs. Zenith POV: Kingdom leadership meeting at Nobu Fifty Seven)</li>
+<li>mr-3.txt — Interlude MR.3 (Maya Richardson / Mrs. Zenith POV: murder of Richard Duvall via barokinetic vacuum)</li>
+<li>THE CANON DOCUMENT 8 AND 9.txt — Author's canon reference document covering Books 8 and 9</li>
+<li>THE FACTSHEET.txt — Author's character and world reference document</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.sections", "navigation.expand", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "toc.follow"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
