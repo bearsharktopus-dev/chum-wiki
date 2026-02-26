@@ -4,6 +4,7 @@
 
 ## Infobox
 
+
 | Field | Value |
 |-------|-------|
 | **Full Name** | Unknown (first name possibly "Clay") |
@@ -21,83 +22,87 @@
 | **First Appearance** | CM.1 (Intermission 15.5: This Side Up) |
 | **Last Appearance** | CM.1 |
 
-## Background
+??? warning "Background"
 
-Claymore was a young woman with a background in journalism who underwent a traumatic activation event at the Boston Commons during the September 9, 2025 protests. The incident -- widely reported as a "suspected terrorist attack" with "multiple explosions" -- was later identified as an activation event rather than a conventional bombing. Claymore's powers manifested involuntarily under stress, producing a flash and pressure wave that injured approximately one hundred people who had been protesting alongside her. She also vaporized her own hair during the uncontrolled discharge. The experience left her deeply guilt-ridden and struggling to manage both her new abilities and the constant mental calculations of blast radii that accompanied them.
+    Claymore was a young woman with a background in journalism who underwent a traumatic activation event at the Boston Commons during the September 9, 2025 protests. The incident -- widely reported as a "suspected terrorist attack" with "multiple explosions" -- was later identified as an activation event rather than a conventional bombing. Claymore's powers manifested involuntarily under stress, producing a flash and pressure wave that injured approximately one hundred people who had been protesting alongside her. She also vaporized her own hair during the uncontrolled discharge. The experience left her deeply guilt-ridden and struggling to manage both her new abilities and the constant mental calculations of blast radii that accompanied them.
 
-In the months following her activation, Claymore trained alone in an abandoned shipping facility in South Boston, attempting to learn control through trial and error. The Boston Red Shocks discovered her during one of these sessions after detecting repeated explosions in their operational area. The Colonel, the team's leader, approached Claymore and offered her a place to train with people who understood what she was going through. After initial wariness, Claymore accepted and began training under the group's guidance, learning to scale her explosive output with precision rather than relying on raw destructive force.
+    In the months following her activation, Claymore trained alone in an abandoned shipping facility in South Boston, attempting to learn control through trial and error. The Boston Red Shocks discovered her during one of these sessions after detecting repeated explosions in their operational area. The Colonel, the team's leader, approached Claymore and offered her a place to train with people who understood what she was going through. After initial wariness, Claymore accepted and began training under the group's guidance, learning to scale her explosive output with precision rather than relying on raw destructive force.
 
-By approximately January 2026, roughly four months after her activation event, Claymore had become a functional member of the Red Shocks and participated in her first operational mission: a break-in at Alcott Properties in the Seaport district of Boston to copy documents proving collusion between the developer and city officials in expediting evictions in East Boston.
+    By approximately January 2026, roughly four months after her activation event, Claymore had become a functional member of the Red Shocks and participated in her first operational mission: a break-in at Alcott Properties in the Seaport district of Boston to copy documents proving collusion between the developer and city officials in expediting evictions in East Boston.
 
-## Powers & Abilities
+??? note "Powers & Abilities"
 
-### PERKS Assessment
+    **PERKS Assessment**
 
-No official PERKS assessment on file.
+    No official PERKS assessment on file.
 
-### Abilities
+    **Abilities**
 
-- **Explosive Body Part Detonation** -- Claymore could detach parts of her body -- fingernails, hair, and larger segments such as fingers or thumbs -- and cause them to detonate on impact. The detonation converted biological tissue into concussive force (pressure waves rather than thermal energy). Each body part carried a specific energy yield: a single fingernail produced approximately 150 joules, sufficient to crack a deadbolt or shatter a window. A full finger produced approximately 800 joules. Ghostwriter estimated her overall explosive density at roughly two-thirds that of dynamite, with significantly less waste heat.
-- **Impact Detonation** -- Detached body parts could be set to detonate on impact. Claymore threw or placed fingernails and hair at targets and then triggered detonation through physical impact, such as striking them with a hammer. She also used hair as improvised detonation cord, tying it around fingernails placed inside lock mechanisms.
-- **Scalable Yield** -- Claymore demonstrated precise control over the amount of force generated by varying the quantity and type of tissue expended. She calibrated her output to specific tasks: two fingernails for a keycard lock (approximately 200 joules), three to four fingernails for a heavy steel service door (300-350 joules), and smaller amounts of hair for interior locks.
-- **Rapid Regeneration** -- All detached or detonated body parts regenerated. Fingernails regrew in approximately 30 to 40 minutes. A severed thumb regenerated fully in one to two hours, with a thick callus forming instantly over the wound to seal it. Hair also regrew rapidly, with the scalp itching as new growth replaced what had been pulled out. The regeneration process was metabolically expensive, requiring significant caloric intake to offset tissue loss.
-- **Tissue Detachment** -- Claymore could voluntarily detach body parts without pain, experiencing only a soft "click" of disconnection. Callus tissue formed immediately over exposed surfaces. She could detach fingernails, pull out hair in bunches (complete with root bulbs), and separate larger segments such as fingers, though larger detachments were more costly.
+    - **Explosive Body Part Detonation** -- Claymore could detach parts of her body -- fingernails, hair, and larger segments such as fingers or thumbs -- and cause them to detonate on impact. The detonation converted biological tissue into concussive force (pressure waves rather than thermal energy). Each body part carried a specific energy yield: a single fingernail produced approximately 150 joules, sufficient to crack a deadbolt or shatter a window. A full finger produced approximately 800 joules. Ghostwriter estimated her overall explosive density at roughly two-thirds that of dynamite, with significantly less waste heat.
+    - **Impact Detonation** -- Detached body parts could be set to detonate on impact. Claymore threw or placed fingernails and hair at targets and then triggered detonation through physical impact, such as striking them with a hammer. She also used hair as improvised detonation cord, tying it around fingernails placed inside lock mechanisms.
+    - **Scalable Yield** -- Claymore demonstrated precise control over the amount of force generated by varying the quantity and type of tissue expended. She calibrated her output to specific tasks: two fingernails for a keycard lock (approximately 200 joules), three to four fingernails for a heavy steel service door (300-350 joules), and smaller amounts of hair for interior locks.
+    - **Rapid Regeneration** -- All detached or detonated body parts regenerated. Fingernails regrew in approximately 30 to 40 minutes. A severed thumb regenerated fully in one to two hours, with a thick callus forming instantly over the wound to seal it. Hair also regrew rapidly, with the scalp itching as new growth replaced what had been pulled out. The regeneration process was metabolically expensive, requiring significant caloric intake to offset tissue loss.
+    - **Tissue Detachment** -- Claymore could voluntarily detach body parts without pain, experiencing only a soft "click" of disconnection. Callus tissue formed immediately over exposed surfaces. She could detach fingernails, pull out hair in bunches (complete with root bulbs), and separate larger segments such as fingers, though larger detachments were more costly.
 
-### Limitations
+    **Limitations**
 
-- Detached body parts could not be reattached; once removed, they were permanently separated from the body and could only be replaced through regeneration.
-- Regeneration imposed a significant caloric debt. Claymore had to front-load food intake before operations and experienced intense hunger afterward. She consumed dense protein bars and large quantities of food to offset the metabolic cost.
-- Fingernails were aerodynamically poor projectiles, described as "fluttery," making accurate throws more difficult than with denser objects.
-- Claymore could not shape her blasts with full precision early in her training; her activation event produced an uncontrolled omnidirectional pressure wave.
-- The constant mental calculation of blast radii and destructive potential was psychologically taxing and could not be turned off.
-- Larger expenditures (full fingers, thumbs) produced proportionally more force but required longer regeneration times and greater caloric cost.
+    - Detached body parts could not be reattached; once removed, they were permanently separated from the body and could only be replaced through regeneration.
+    - Regeneration imposed a significant caloric debt. Claymore had to front-load food intake before operations and experienced intense hunger afterward. She consumed dense protein bars and large quantities of food to offset the metabolic cost.
+    - Fingernails were aerodynamically poor projectiles, described as "fluttery," making accurate throws more difficult than with denser objects.
+    - Claymore could not shape her blasts with full precision early in her training; her activation event produced an uncontrolled omnidirectional pressure wave.
+    - The constant mental calculation of blast radii and destructive potential was psychologically taxing and could not be turned off.
+    - Larger expenditures (full fingers, thumbs) produced proportionally more force but required longer regeneration times and greater caloric cost.
 
-### Training & Skills
+    **Training & Skills**
 
-- Trained in breaching techniques under the Red Shocks, learning to calibrate explosive yield to specific structural targets (padlocks, deadbolts, reinforced doors, keycard locks).
-- Possessed a journalism background, with a self-described "journalism reflex" for cataloging environmental details automatically.
-- Read Russian literature recreationally prior to her activation (specifically The Master and Margarita by Bulgakov).
-- Had a brother with some technical knowledge.
-- Trained to maintain tactical awareness, habitually positioning herself with back to walls, sightlines to exits, and awareness of blast radii.
+    - Trained in breaching techniques under the Red Shocks, learning to calibrate explosive yield to specific structural targets (padlocks, deadbolts, reinforced doors, keycard locks).
+    - Possessed a journalism background, with a self-described "journalism reflex" for cataloging environmental details automatically.
+    - Read Russian literature recreationally prior to her activation (specifically The Master and Margarita by Bulgakov).
+    - Had a brother with some technical knowledge.
+    - Trained to maintain tactical awareness, habitually positioning herself with back to walls, sightlines to exits, and awareness of blast radii.
 
-## Personality
+??? warning "Personality"
 
-Claymore was analytical, self-aware, and haunted by her activation event. She processed the world through constant observation and internal narration, a habit she attributed to her journalism background. She cataloged details compulsively -- room dimensions, structural materials, potential blast yields -- in a running mental assessment she could not silence. She described this as "a song I cannot stop humming." Despite her guilt over the Commons incident, she channeled her abilities toward purposeful action, finding comfort in the precision and control she developed under the Red Shocks' tutelage.
+    Claymore was analytical, self-aware, and haunted by her activation event. She processed the world through constant observation and internal narration, a habit she attributed to her journalism background. She cataloged details compulsively -- room dimensions, structural materials, potential blast yields -- in a running mental assessment she could not silence. She described this as "a song I cannot stop humming." Despite her guilt over the Commons incident, she channeled her abilities toward purposeful action, finding comfort in the precision and control she developed under the Red Shocks' tutelage.
 
-She used humor and sarcasm as deflection, cracking jokes to cover visible anxiety (such as shaking hands) and engaging in the team's banter despite being the newest member. She was acutely conscious of being the "new variable" in an established group dynamic and worked to find her place without forcing it. Claymore drew a firm moral line between herself and indiscriminate violence, taking the distinction between targeted property damage and harm to people seriously. Her internal monologue repeatedly returned to the fear of losing control and the imperative of choosing restraint, reflecting a deep-seated need to prove -- to herself above all -- that she was "a person who can make bombs" rather than a bomb.
+    She used humor and sarcasm as deflection, cracking jokes to cover visible anxiety (such as shaking hands) and engaging in the team's banter despite being the newest member. She was acutely conscious of being the "new variable" in an established group dynamic and worked to find her place without forcing it. Claymore drew a firm moral line between herself and indiscriminate violence, taking the distinction between targeted property damage and harm to people seriously. Her internal monologue repeatedly returned to the fear of losing control and the imperative of choosing restraint, reflecting a deep-seated need to prove -- to herself above all -- that she was "a person who can make bombs" rather than a bomb.
 
-## Relationships
+??? warning "Relationships"
 
-| Character | Relationship | Notes |
-|-----------|-------------|-------|
-| The Colonel | Leader / Mentor | Leader of the Boston Red Shocks who recruited Claymore from the abandoned shipping facility in Southie. Communicated in economical silences and sparse acknowledgments. Claymore learned more from the Colonel's silences than from hours of conversation with others. Offered approval sparingly but meaningfully. |
-| Ghostwriter | Teammate | Red Shocks member who wore archival gloves and used books as part of his power set. Provided intellectual context and emotional check-ins for Claymore. Estimated her explosive density and encouraged her to experiment with hair as a detonation medium. Called her "Claymore" during operations. |
-| Red Scare | Teammate | Red Shocks member with a lean, wiry build and liquid movement quality. Taught self-defense classes at a community center in Jamaica Plain. Provided practical mentorship during training, coaching Claymore on the psychological adjustment to living with constant threat awareness. Assured her the mental calculations would get "quieter" over time. |
-| Lavender Girl | Teammate | Red Shocks member with plant-growth abilities who served as technical support and provided emotional warmth. Grew vegetables for mutual aid networks and made protein bars for Claymore's caloric needs. Reminded Claymore that using her power was "spending, not sacrificing" and reinforced the message that Claymore had agency over her choices. |
+    | Character | Relationship | Notes |
+    |-----------|-------------|-------|
+    | The Colonel | Leader / Mentor | Leader of the Boston Red Shocks who recruited Claymore from the abandoned shipping facility in Southie. Communicated in economical silences and sparse acknowledgments. Claymore learned more from the Colonel's silences than from hours of conversation with others. Offered approval sparingly but meaningfully. |
+    | Ghostwriter | Teammate | Red Shocks member who wore archival gloves and used books as part of his power set. Provided intellectual context and emotional check-ins for Claymore. Estimated her explosive density and encouraged her to experiment with hair as a detonation medium. Called her "Claymore" during operations. |
+    | Red Scare | Teammate | Red Shocks member with a lean, wiry build and liquid movement quality. Taught self-defense classes at a community center in Jamaica Plain. Provided practical mentorship during training, coaching Claymore on the psychological adjustment to living with constant threat awareness. Assured her the mental calculations would get "quieter" over time. |
+    | Lavender Girl | Teammate | Red Shocks member with plant-growth abilities who served as technical support and provided emotional warmth. Grew vegetables for mutual aid networks and made protein bars for Claymore's caloric needs. Reminded Claymore that using her power was "spending, not sacrificing" and reinforced the message that Claymore had agency over her choices. |
 
 ## Arc Appearances
 
-| Book | Role | Key Events |
-|------|------|------------|
-| Intermission 15.5: This Side Up | POV (Interlude CM.1) | Narrated a first-person account of her recruitment by the Boston Red Shocks, her training to control her explosive body part detonation abilities, and her first operational mission -- a break-in at Alcott Properties in the Seaport district to copy documents proving developer collusion with city officials in expediting evictions in East Boston. The interlude also depicted her activation event at the Boston Commons (September 9, 2025) in flashback, where she involuntarily injured approximately one hundred fellow protesters. |
+??? warning "Intermission 15.5: This Side Up"
 
-## Trivia
+    **Role:** POV (Interlude CM.1)
 
-- Claymore's interlude code is "CM," with CM.1 being her sole narrated chapter.
-- The Boston Commons explosion that served as Claymore's activation event was reported in the main story as a "suspected terrorist attack" during the September 9, 2025 protests, and was referenced in connection with the Daedalus prison break and state senate hearings as part of a sequence of potentially coordinated events. Reports from the main narrative noted that "no conventional bomb was used" and that evidence pointed to an activation incident.
-- The name "Claymore" is a reference to the Claymore directional mine, consistent with her explosive abilities. The shortened form "Clay" was used by teammates in casual conversation, while "Claymore" was reserved for operational contexts.
-- Ghostwriter estimated her explosive density at approximately two-thirds that of dynamite, but with significantly reduced waste heat.
-- She wore a "slitted cloth" tied around her face as a mask during her solo training period before joining the Red Shocks.
-- Claymore's hair vaporized during her activation event and subsequently regrew, suggesting her regeneration was active from the moment of activation.
-- She mentioned owning a Hitachi personal massager in a deflective joke during training, using crude humor to manage her anxiety about her own destructive capabilities.
-- The Red Shocks operated out of the basement of a used bookstore in Allston, with the owner maintaining plausible deniability about their activities.
-- Lavender Girl's protein bars were described as tasting "like cardboard and desperation."
-- Claymore's phone screen was cracked from being dropped during training, three days before the Alcott Properties operation, at the same moment she successfully blew a fist-sized hole in a concrete wall with exactly the intended yield.
-- The Alcott Properties mission took place in January, placing it roughly four months after Claymore's September 2025 activation event.
-- Ghostwriter suggested Claymore experiment with using her hair as an explosive medium, which she successfully adopted, using pulled hair as detonation cord and individual strands to breach interior locks.
-- Claymore compared the sensation of voluntarily detaching a fingernail to "unclenching a fist" and, more colorfully, to a bowel movement.
+    Narrated a first-person account of her recruitment by the Boston Red Shocks, her training to control her explosive body part detonation abilities, and her first operational mission -- a break-in at Alcott Properties in the Seaport district to copy documents proving developer collusion with city officials in expediting evictions in East Boston. The interlude also depicted her activation event at the Boston Commons (September 9, 2025) in flashback, where she involuntarily injured approximately one hundred fellow protesters.
+
+
+??? warning "Trivia"
+
+    - Claymore's interlude code is "CM," with CM.1 being her sole narrated chapter.
+    - The Boston Commons explosion that served as Claymore's activation event was reported in the main story as a "suspected terrorist attack" during the September 9, 2025 protests, and was referenced in connection with the Daedalus prison break and state senate hearings as part of a sequence of potentially coordinated events. Reports from the main narrative noted that "no conventional bomb was used" and that evidence pointed to an activation incident.
+    - The name "Claymore" is a reference to the Claymore directional mine, consistent with her explosive abilities. The shortened form "Clay" was used by teammates in casual conversation, while "Claymore" was reserved for operational contexts.
+    - Ghostwriter estimated her explosive density at approximately two-thirds that of dynamite, but with significantly reduced waste heat.
+    - She wore a "slitted cloth" tied around her face as a mask during her solo training period before joining the Red Shocks.
+    - Claymore's hair vaporized during her activation event and subsequently regrew, suggesting her regeneration was active from the moment of activation.
+    - She mentioned owning a Hitachi personal massager in a deflective joke during training, using crude humor to manage her anxiety about her own destructive capabilities.
+    - The Red Shocks operated out of the basement of a used bookstore in Allston, with the owner maintaining plausible deniability about their activities.
+    - Lavender Girl's protein bars were described as tasting "like cardboard and desperation."
+    - Claymore's phone screen was cracked from being dropped during training, three days before the Alcott Properties operation, at the same moment she successfully blew a fist-sized hole in a concrete wall with exactly the intended yield.
+    - The Alcott Properties mission took place in January, placing it roughly four months after Claymore's September 2025 activation event.
+    - Ghostwriter suggested Claymore experiment with using her hair as an explosive medium, which she successfully adopted, using pulled hair as detonation cord and individual strands to breach interior locks.
+    - Claymore compared the sensation of voluntarily detaching a fingernail to "unclenching a fist" and, more colorfully, to a bowel movement.
 
 ## Sources
+
 
 - cm-1.txt (scraped interlude) -- Primary and sole source. First-person POV interlude narrated by Claymore covering her recruitment by the Boston Red Shocks, her training, her activation event at the Boston Commons in flashback, and her first operational mission at Alcott Properties. All biographical, power, personality, and relationship details derived from this interlude.
 - THE CANON DOCUMENT 12 AND 13.txt -- Provides external context for the Boston Commons explosion (September 9, 2025), confirming it was reported as a "suspected terrorist attack" with "multiple explosions" at Boston protests, later identified as an activation incident with witness accounts describing a "bright flash" and "pressure wave." The event was connected to the Daedalus prison break and state senate hearings timeline.
