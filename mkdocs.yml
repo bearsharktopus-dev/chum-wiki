@@ -1,0 +1,208 @@
+site_name: Chum Wiki
+site_description: Knowledge base for the web serial Chum
+docs_dir: knowledge-base
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Characters:
+    - The Auditors:
+      - Sam Small (Bloodhound): characters/samantha-small.md
+      - Jordan Westwood (Safeguard): characters/jordan-westwood.md
+      - Amelia Li (Gossamer): characters/amelia-li.md
+      - Lily Chen (Blink): characters/lily-chen.md
+      - Maggie O'Brien (Flashpoint): characters/maggie-obrien.md
+      - Derek Taylor (Rampage): characters/derek-taylor.md
+      - Tasha Reynolds (Wasp): characters/tasha-reynolds.md
+      - Connor (Spindle): characters/connor-spindle.md
+      - Kate Smith (Soot): characters/kate-smith.md
+    - Delaware Valley Defenders:
+      - Jeffery Brown (Liberty Belle): characters/jeffery-brown.md
+      - Bianca Agnelli (Fury Forge): characters/bianca-agnelli.md
+      - Diane Williams (Crossroads): characters/diane-williams.md
+      - Elijah Brooks (Multiplex): characters/elijah-brooks.md
+      - Councilman Jamal Davis: characters/jamal-davis.md
+      - Jason Reynolds (Rampart): characters/jason-reynolds.md
+      - Kwame Adjei (Bulwark): characters/kwame-adjei.md
+      - Maxwell Martinez (Sketch): characters/maxwell-martinez.md
+      - Rodney Greene (Captain Plasma): characters/rodney-greene.md
+    - Kingdom of Keys:
+      - Trent Fairfax (Mr. Nothing): characters/trent-fairfax.md
+      - Maya Richardson (Mrs. Zenith): characters/maya-richardson.md
+      - Blake Matthews (Mr. Mudslide): characters/blake-matthews.md
+      - Darnell Hayes (Mr. Antithesis): characters/darnell-hayes.md
+      - Evan Williams (Mr. Retribution): characters/evan-williams.md
+      - Lena Trinh-Norwood (Mrs. Quiet): characters/lena-trinh-norwood.md
+      - Lucas Donovan (Mr. Sandman): characters/lucas-donovan.md
+      - Maria Valdez (Mrs. Coyote): characters/maria-valdez.md
+    - Rogue Wave:
+      - Lawrence Sullivan (Shrike): characters/lawrence-sullivan.md
+      - Dean Carver (Deathgirl): characters/dean-carver.md
+      - Dr. Felix Ortega: characters/felix-ortega.md
+      - Elias Franklin: characters/elias-franklin.md
+      - Mai-Anh Vo: characters/mai-anh-vo.md
+      - Renee Costello: characters/renee-costello.md
+      - Tomas Reynoso: characters/tomas-reynoso.md
+    - Tacony Titans:
+      - Lucy King (Sundial): characters/lucy-king.md
+      - Joshua Clark (Moonshot): characters/joshua-clark.md
+      - Min-ji Kim (Compass): characters/min-ji-kim.md
+      - Natasha Sokolov (Sandstorm): characters/natasha-sokolov.md
+      - Rosa Acosta (Hypeman): characters/rosa-acosta.md
+    - Argus Corps:
+      - Richard Johnson (Patriot): characters/richard-johnson.md
+      - Andrew Mitchell (Parabellum): characters/andrew-mitchell.md
+      - Jasmine Perez (Songbird): characters/jasmine-perez.md
+      - Joshua Pleasants: characters/joshua-pleasants.md
+    - Pattinson's Pals:
+      - Egalitarian (Natalie): characters/egalitarian.md
+      - Zero: characters/zero.md
+    - Mentorship Program:
+      - Alex Kirby: characters/alex-kirby.md
+      - Jasmine Walker: characters/jasmine-walker.md
+      - Liam O'Connor: characters/liam-oconnor.md
+      - Zara Khan: characters/zara-khan.md
+    - Chambers & Woo Investigations:
+      - Akilah Washington: characters/akilah-washington.md
+      - Devonte Harris (Ventriloquist): characters/devonte-harris.md
+    - Philly Phreaks:
+      - Angela Perez (Sparkplug): characters/angela-perez.md
+      - Joseph Jones (Puppeteer): characters/joseph-jones.md
+    - Small / de Leon Family:
+      - Morris "Pop-Pop Moe" Small: characters/morris-small.md
+      - Rachel Small: characters/rachel-small.md
+      - Benjamin Small: characters/ben-small.md
+      - Abigail Silverman: characters/abigail-silverman.md
+      - Camilla de Leon: characters/camilla-de-leon.md
+    - Other / Independent:
+      - Aaron McKinley: characters/aaron-mckinley.md
+      - Chezki Espinosa: characters/chezki-espinosa.md
+      - Claymore: characters/claymore.md
+      - Daisy Zhen: characters/daisy-zhen.md
+      - Felix Fleischer: characters/felix-fleischer.md
+      - Gerald Caldwell: characters/gerald-caldwell.md
+      - Illya Fedorov (Chernobyl): characters/illya-fedorov.md
+      - Jamila Fayad (Flyby): characters/jamila-fayad.md
+      - Mike Giannopoulos: characters/mike-giannopoulos.md
+  - Organizations:
+    - The Auditors: organizations/the-auditors.md
+    - Delaware Valley Defenders: organizations/delaware-valley-defenders.md
+    - Kingdom of Keys: organizations/kingdom-of-keys.md
+    - Rogue Wave: organizations/rogue-wave.md
+    - Tacony Titans: organizations/tacony-titans.md
+    - Argus Corps: organizations/argus-corps.md
+    - Philly Phreaks: organizations/philly-phreaks.md
+    - Red Calf: organizations/red-calf.md
+    - Boston Red Shocks: organizations/boston-red-shocks.md
+    - Federation of Saharan States: organizations/federation-of-saharan-states.md
+    - International Superhuman Coalition: organizations/international-superhuman-coalition.md
+  - Events:
+    - Project Titan: events/project-titan.md
+    - The Big Raid: events/the-big-raid.md
+    - The Daedalus Prison Break: events/the-daedalus-prison-break.md
+  - Locations:
+    - Aurora Springs Residential Facility: locations/aurora-springs-residential-facility.md
+    - Daedalus Correctional Facility: locations/daedalus-correctional-facility.md
+    - Tacony Community Center: locations/tacony-community-center.md
+  - Worldbuilding:
+    - Powers & Biology:
+      - PERKS Assessment: worldbuilding/perks-assessment.md
+      - Power Laws: worldbuilding/power-laws.md
+      - Superhuman Anatomy: worldbuilding/superhuman-anatomy.md
+      - Metahuman Regeneration: worldbuilding/metahuman-regeneration.md
+      - The Bracing Effect: worldbuilding/the-bracing-effect.md
+      - Auto-Destructive Activation Events: worldbuilding/auto-destructive-activation-events.md
+      - Visual Classifications: worldbuilding/metahuman-visual-classifications.md
+      - Psionics: worldbuilding/psionics.md
+      - Flight: worldbuilding/flight.md
+    - Technology & Equipment:
+      - Technology: worldbuilding/technology.md
+      - Gadgeteering: worldbuilding/gadgeteering.md
+      - Anomalously Originated Material: worldbuilding/anomalously-originated-material.md
+      - Cybersecurity vs. Technopaths: worldbuilding/cybersecurity-vs-technopaths.md
+      - Firearms: worldbuilding/firearms.md
+      - Costume Design: worldbuilding/costume-design.md
+    - Substances & Drugs:
+      - Jump and Fly: worldbuilding/jump-and-fly.md
+      - Dynology: worldbuilding/dynology.md
+    - Society & Law:
+      - Laws and Politics (US): worldbuilding/laws-and-politics-us.md
+      - Private Superheroing: worldbuilding/private-superheroing.md
+      - Superhero Insurance: worldbuilding/superhero-insurance.md
+      - Metahuman Economics: worldbuilding/metahuman-economics.md
+      - Metahuman Accommodations: worldbuilding/metahuman-accommodations.md
+      - Metahuman Children: worldbuilding/metahuman-children.md
+      - Minions and Goons: worldbuilding/minions-and-goons.md
+      - Education: worldbuilding/education.md
+    - Health & Wellbeing:
+      - Metahumans in Healthcare: worldbuilding/metahumans-in-healthcare.md
+      - Metahuman Psychotherapy: worldbuilding/metahuman-psychotherapy.md
+      - Superhuman Relationships: worldbuilding/superhuman-relationships.md
+    - Culture & Media:
+      - News and Media: worldbuilding/news-and-media.md
+      - Filmmaking: worldbuilding/filmmaking.md
+      - Music: worldbuilding/music.md
+      - Superhumans and the Arts: worldbuilding/superhumans-and-the-arts.md
+      - Hyperball: worldbuilding/hyperball.md
+      - Religion: worldbuilding/religion.md
+    - Reference:
+      - Timeline: worldbuilding/timeline.md
+  - Arc Summaries:
+    - "Book 1: Pup": worldbuilding/arc-summaries/book-01-pup.md
+    - "Book 2: Keys": worldbuilding/arc-summaries/book-02-keys.md
+    - "Book 3: Dybbuk": worldbuilding/arc-summaries/book-03-dybbuk.md
+    - "Book 4: Exorcism": worldbuilding/arc-summaries/book-04-exorcism.md
+    - "Intermission 4.5: Amnion": worldbuilding/arc-summaries/intermission-4.5-amnion.md
+    - "Book 5: Mayfly": worldbuilding/arc-summaries/book-05-mayfly.md
+    - "Book 6: Sideshow": worldbuilding/arc-summaries/book-06-sideshow.md
+    - "Book 7: Security": worldbuilding/arc-summaries/book-07-security.md
+    - "Book 8: Big": worldbuilding/arc-summaries/book-08-big.md
+    - "Book 9: Sheol": worldbuilding/arc-summaries/book-09-sheol.md
+    - "Book 10: Plume": worldbuilding/arc-summaries/book-10-plume.md
+    - "Book 11: Alarm Will Sound": worldbuilding/arc-summaries/book-11-alarm-will-sound.md
+    - "Book 12: Authorized Personnel Only": worldbuilding/arc-summaries/book-12-authorized-personnel-only.md
+    - "Book 13: Burn After Reading": worldbuilding/arc-summaries/book-13-burn-after-reading.md
+    - "Book 14: Shelter in Place": worldbuilding/arc-summaries/book-14-shelter-in-place.md
+    - "Book 15: Severe Weather Warning": worldbuilding/arc-summaries/book-15-severe-weather-warning.md
+    - "Intermission 15.5: This Side Up": worldbuilding/arc-summaries/intermission-15.5-this-side-up.md
+    - "Book 16: Category Five Hurricane": worldbuilding/arc-summaries/book-16-category-five-hurricane.md

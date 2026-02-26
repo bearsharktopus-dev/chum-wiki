@@ -1,0 +1,17 @@
+# Private / author-only content
+plot-threads/
+scripts/
+manifest.md
+schemas.md
+chapter-summaries/
+
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
