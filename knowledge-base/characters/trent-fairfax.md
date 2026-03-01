@@ -32,22 +32,8 @@ His public identity is carefully maintained as the unremarkable lesser scion of 
 
 ## Powers & Abilities
 
-### PERKS Assessment
-
-No official PERKS assessment on file.
-
-### Abilities
-
-- **Reactive Counter-Power Generation** - Trent uncontrollably generates counter-powers to anyone with metahuman abilities near him. These counter-powers either nullify their advantages, target their weaknesses, or, most frequently, do both simultaneously. The ability is automatic and not consciously directed. When multiple powered individuals are present, the counter-power effect is split and diluted proportionally.
-- **Weakness Detection** - As a component of his counter-power generation, Trent can sense the vulnerabilities of metahumans in his proximity, encompassing physical, mental, and emotional weaknesses - not just power-specific ones.
-- **Power Disruption Aura** - His ability has a passive disruptive effect on things created or maintained by superpowers, with an effective range of approximately 50 feet. Maya Richardson was kept beyond this range during his meeting with Porcelain, and Mrs. Xenograft's chimerized creature Scylla was left outside before entering his presence.
-
-### Limitations
-
-- **Uncontrollable Activation** - The counter-power generation is involuntary; he cannot suppress it around allies or selectively target enemies. This necessitates careful proximity management with all powered individuals, including his own operatives.
-- **Dilution Against Multiple Targets** - When surrounded by multiple metahumans, the counter-power effect splits, reducing its potency against any single individual.
-- **Reactive Nature** - Powers generate counters only in response to nearby metahuman abilities rather than functioning as standalone offensive capabilities.
-- **Story-Breaking Designation** - His power is "story-breaking" in its potential, requiring narrative management of his direct involvement in conflicts.
+!!! danger "REDACTED"
+    Mr. Antithesis's powers have not yet been revealed in the published story. This section will be updated when his abilities are disclosed in-text.
 
 ### Training & Skills
 
