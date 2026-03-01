@@ -114,6 +114,7 @@ nav:
       - Benjamin Small: characters/ben-small.md
       - Abigail Silverman: characters/abigail-silverman.md
       - Camilla de Leon: characters/camilla-de-leon.md
+      - Victor Blanc: characters/victor-blanc.md
     - Other / Independent:
       - Aaron McKinley: characters/aaron-mckinley.md
       - Chezki Espinosa (Porcelain): characters/chezki-espinosa.md
@@ -124,6 +125,7 @@ nav:
       - Illya Fedorov (Chernobyl): characters/illya-fedorov.md
       - Jamila Fayad (Gale): characters/jamila-fayad.md
       - Mike Giannopoulos: characters/mike-giannopoulos.md
+      - Niles Nolan (Shrike): characters/niles-nolan.md
   - Organizations:
     - The Auditors: organizations/the-auditors.md
     - Delaware Valley Defenders: organizations/delaware-valley-defenders.md
@@ -142,8 +144,20 @@ nav:
     - The Daedalus Prison Break: events/the-daedalus-prison-break.md
   - Locations:
     - Aurora Springs Residential Facility: locations/aurora-springs-residential-facility.md
+    - Bellwether District: locations/bellwether-district.md
+    - Camden Safehouse: locations/camden-safehouse.md
+    - Chambers & Woo Investigations: locations/chambers-and-woo.md
+    - Crescent Nightclub: locations/crescent-nightclub.md
     - Daedalus Correctional Facility: locations/daedalus-correctional-facility.md
+    - Dobson Mills: locations/dobson-mills.md
+    - Music Hall: locations/music-hall.md
+    - PES Refinery: locations/pes-refinery.md
+    - Philadelphia Zoo: locations/philadelphia-zoo.md
+    - South Street: locations/south-street.md
     - Tacony Community Center: locations/tacony-community-center.md
+    - Tremont and Fairfax: locations/tremont-and-fairfax.md
+    - Van Kirk Construction Site: locations/van-kirk-construction-site.md
+    - Whitford Institute: locations/whitford-institute.md
   - Worldbuilding:
     - Powers & Biology:
       - PERKS Assessment: worldbuilding/perks-assessment.md
