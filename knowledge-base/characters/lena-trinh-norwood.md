@@ -1,6 +1,6 @@
 # Lena Trinh-Norwood, PhD
 
-> Kingdom of Keys scientific specialist and self-described "mad zoologist" responsible for creating chimeric organisms and developing the drugs Hypeman and Vysera.
+> Kingdom of Keys scientific specialist and self-described "mad zoologist" responsible for creating chimeric organisms and developing the drug Hypeman.
 
 ## Infobox
 
@@ -26,7 +26,7 @@
 
 Lena Trinh-Norwood holds a PhD and worked as a genetic engineering researcher prior to joining the Kingdom of Keys. She operated out of a private laboratory alongside her companion Scylla, a chimera of her own creation. Despite evident brilliance, the conventional academic world frustrated her - ethical review boards, bureaucratic grant processes, and supplementing her income with barista work left her deeply dissatisfied. She possessed metahuman abilities that allowed her to combine living organisms in ways that defied conventional biology, but mainstream science offered no legitimate outlet.
 
-In approximately December 2021, Mrs. Zenith and Mr. Bomb recruited her into the Kingdom (depicted in Interlude LTN.1) through a combination of coercion - an explosive device disguised as a cigarette - and an offer of unlimited resources and scientific freedom. Though the recruitment involved threats, Trinh-Norwood has consistently framed her decision as pragmatic: a steady paycheck and unfettered science beat hustling for grants. She adopted the moniker "Dr. Xenograft" and rose to become the de facto head of the Philadelphia branch's drug operations, developing both Hypeman and Vysera. Her role expanded well beyond creature creation into pharmacology and strategic planning, making her one of the most operationally significant members of the branch.
+In approximately December 2021, Mrs. Zenith and Mr. Bomb recruited her into the Kingdom (depicted in Interlude LTN.1) through a combination of coercion - an explosive device disguised as a cigarette - and an offer of unlimited resources and scientific freedom. Though the recruitment involved threats, Trinh-Norwood has consistently framed her decision as pragmatic: a steady paycheck and unfettered science beat hustling for grants. She adopted the moniker "Dr. Xenograft" and rose to become the de facto head of the Philadelphia branch's drug operations, developing Hypeman. Her role expanded well beyond creature creation into pharmacology and strategic planning, making her one of the most operationally significant members of the branch.
 
 ## Powers & Abilities
 
@@ -52,7 +52,7 @@ No official PERKS assessment on file.
 
 - PhD-level training in zoology, biology, genetics, and pharmacokinetics. Exceptional anatomical knowledge across a wide range of species.
 - Natural aptitude for animal husbandry and training; animals respond positively to her even without her metahuman abilities.
-- Developed Hypeman (Compound J-237) and Vysera (daxerimab), demonstrating advanced expertise in drug design and biochemistry.
+- Developed Hypeman (Compound J-237), demonstrating advanced expertise in drug design and biochemistry.
 - Understands Rogue Wave's Jump drug at a molecular level, including its compound architecture, delivery system, and failure modes.
 
 ## Personality
@@ -136,19 +136,19 @@ Her most notable trait is a frequent failure to register social cues related to 
 
     **Role:** Mentioned
 
-    Shrike uses a Hypeman autoinjector during the Van Kirk battle against Sam, ultimately dying from accumulated injuries with Hypeman burning through his system. Vysera (daxerimab) enters NSRA experimental trials (Interlude DT.2); Derek Taylor enrolls to suppress his werewolf transformation, receiving 14 doses per week with each providing three to four hours of absolute power suppression.
+    Shrike uses a Hypeman autoinjector during the Van Kirk battle against Sam, ultimately dying from accumulated injuries with Hypeman burning through his system.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Mentioned
 
-    Derek continues using Vysera voluntarily. Congress discusses using it to depower inmates for transfer to regular prisons instead of Daedalus (Ch. 222). In Interlude MR.9, Mrs. Xenograft is mentioned as working on something related to power nullification, confirming her direct involvement in Vysera's development.
+    In Interlude MR.9, Mrs. Xenograft is mentioned as working on something related to power nullification.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Mentioned
 
-    Vysera continues in NSRA experimental trials. Trinh-Norwood does not appear directly.
+    Trinh-Norwood does not appear directly. Mrs. Zygote (Dr. Effie Dunham) joins under her supervision for biological research.
 
 
 ## Trivia
@@ -156,6 +156,5 @@ Her most notable trait is a frequent failure to register social cues related to 
 - Prefers "Dr." to "Mrs." given her doctoral credentials, though the Kingdom's alphabetical convention assigns her the "X" designation.
 - Scylla is named after the multi-limbed sea monster from Greek mythology. Darwin, her glow-in-the-dark axolotl, is presumably named after Charles Darwin.
 - Became distracted by a dying ficus plant during a high-level Kingdom strategy meeting.
-- Vysera's generic name, daxerimab, follows the "-mab" suffix convention for monoclonal antibody drugs, indicating a biological pharmaceutical design.
 - Her identification of a missing corridor in the Daedalus blueprints (BM.3) demonstrates analytical competence well beyond biology.
 - Whether the coercive explosive cigarette from her recruitment was ever deactivated remains narratively unresolved.

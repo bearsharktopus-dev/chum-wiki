@@ -132,7 +132,7 @@ The arc concludes with the jury finding Chernobyl guilty of manslaughter, not mu
 - **Young Defenders reduced to five** - With Crossroads promoted, Gale departed, and Puppeteer and Playback resigned, the YD is reduced to Rampart (leader), Gossamer, Blink, Spindle, and Bloodhound, with new recruitment a stated priority (Ch. 100)
 - **Puppeteer's NPD and institutional discrimination** - Puppeteer's self-disclosure that her NPD diagnosis may bar her from advancement raises questions about ableism within superhero institutional structures; the disqualification is presented as systemic rather than individual (Ch. 92)
 - **DVD leadership's recruitment discussion** - Fury Forge-led discussion identifies Crossroads, Rampart, Puppeteer, Playback, and others as graduation candidates; Multiplex proposes graduating Martinez and Reynolds with Harris, Li, and Chen close behind, establishing the pipeline for future team composition (BA.1)
-- **Mrs. Xenograft's Kingdom recruitment** - The December 2021 flashback shows how Mrs. Zenith used coercion and unlimited research funding to recruit Dr. Trinh-Norwood, who later creates chimeric creatures and will eventually develop Hypeman (reverse-engineered Jump) and Vysera (a power suppressant); her acceptance marks the Kingdom's acquisition of a critical scientific asset (LTN.1)
+- **Mrs. Xenograft's Kingdom recruitment** - The December 2021 flashback shows how Mrs. Zenith used coercion and unlimited research funding to recruit Dr. Trinh-Norwood, who later creates chimeric creatures and will eventually develop Hypeman (reverse-engineered Jump); her acceptance marks the Kingdom's acquisition of a critical scientific asset (LTN.1)
 
 ## Threads Progressed
 

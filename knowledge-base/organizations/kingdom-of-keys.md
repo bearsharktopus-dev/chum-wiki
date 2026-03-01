@@ -167,8 +167,6 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 The Kingdom's primary criminal enterprise, managed by Mrs. Xenograft through the front company Stheno Pharmaceuticals. Major products:
 
 - **Hypeman** - A power-enhancing drug superior to Rogue Wave's Fly with fewer side effects, created by adapting Rogue Wave's Jump and Fly compounds. Distributed in autoinjector format. The Stheno warehouse on Trenton Avenue served as primary production until its destruction by Soot in mid-2025; production relocated to Camden. The Bellwether site in West Philadelphia was subsequently lost in early 2026 - raided by the ATF, costing approximately $400,000 in delayed Hypeman production and severing the distribution chain.
-- **Vysera (daxerimab)** - A superpower suppressant developed from Hypeman research combined with samples of Mr. Nothing's flesh. Currently in NSRA experimental trials; the Kingdom's involvement is not publicly known.
-
 The Kingdom also engages in chemical warfare against Rogue Wave, intercepting Jump shipments, modifying compounds, and releasing tainted product as both gang warfare and human testing. Mrs. Zygote, a stem cell researcher, joined the biological research division under Mrs. Xenograft in April 2026.
 
 ### Political Corruption (Dissolved)
@@ -245,4 +243,4 @@ Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. 
 - Councilman David Silverstein (Republican, Third District) was fast-tracking liquor licenses for Kingdom front businesses in exchange for campaign donations from Kingdom shell companies.
 - The Kingdom maintains a security detail in Chicago watching Wei and Xiuying Zhen (Daisy Zhen's parents) at all times - a precautionary measure to stay on Deathgirl's good side.
 - Mr. Antithesis's philosophy on leverage distinguishes between rational actors and parents, whom he considers irrational in ways game theory cannot model. He explicitly rejected Porcelain's suggestion to use Roxanne as leverage against Maya, arguing it would create "a suicide bomber, not a cooperative asset."
-- Mrs. Zenith's actual power is barokinesis (atmospheric pressure manipulation), not weather control as registered with the NSRA. She deliberately conceals this because if the Kingdom knew she could create localized vacuum or hydraulic-press-level pressure, they would use her as an assassination tool.
+- Mrs. Zenith's actual power is barokinesis (atmospheric pressure manipulation), not weather control as registered with the NSRA. While she conceals her true abilities from the NSRA and the public, the Kingdom is fully aware and uses her barokinesis for assassinations.

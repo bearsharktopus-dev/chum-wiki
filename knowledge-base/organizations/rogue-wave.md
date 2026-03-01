@@ -103,8 +103,8 @@ Snake Oil can forcibly extract superpowers from metahumans. He places his hands 
 
 - Monkey Business respects Sam Small for consistently sticking to her principles, even in direct opposition to Rogue Wave.
 - Birthday Suit and Monkey Business are in a romantic relationship that everyone in the organization knows about.
-- Mrs. Xenograft of the Kingdom created Hypeman by reverse-engineering Rogue Wave's Jump and Fly formulas, and later developed Vysera using that research combined with Mr. Nothing's flesh.
+- Mrs. Xenograft of the Kingdom created Hypeman by reverse-engineering Rogue Wave's Jump and Fly formulas.
 - When Elena Morales (shapeshifter "Alice") was captured and interrogated by Miasma, she falsely blamed Rogue Wave for hiring her to impersonate Maya Richardson rather than revealing the Kingdom's involvement.
-- Chimera is investigating Vysera, the power-suppressing drug, and suspects it derives from Snake Oil's research - which it does.
+- Chimera is investigating Vysera, the power-suppressing drug, and suspects it derives from Snake Oil's research.
 - Sullivan activated his powers during a hostage situation at his law firm, Whitmore & Associates. His geas power manifested when he realized the hostage-takers' verbal promise constituted a binding agreement he could exploit. He quit law six months later and founded Rogue Wave from people wronged by broken contracts and failed promises (Interlude LS.3).
 - Rush Order's passive "pigeon sense" allows him to determine the direction and approximate distance of anyone whose full legal name he knows.
