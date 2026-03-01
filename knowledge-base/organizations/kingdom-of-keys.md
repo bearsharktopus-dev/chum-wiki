@@ -14,6 +14,7 @@
 | **Headquarters** | Manhattan skyscraper, New York City |
 | **Leader(s)** | Mr. Antithesis (Trent Fairfax) |
 | **Parent Organization** | Red Calf (subordinate relationship revealed in Arc 13) |
+| **Scale** | 24 lieutenants, 30 superpowered contractors, ~200 direct employees, ~3,500 indirect employees across the I-95 corridor |
 | **Jurisdiction** | Northeastern United States (New York City, Philadelphia, Boston, Washington D.C., Baltimore) |
 | **First Appearance** | Chapter 12 (members first encountered); Interlude LTN.1 (organizational recruitment depicted) |
 
@@ -21,7 +22,7 @@
 
 The Kingdom of Keys is the primary criminal organization in the northeastern United States in Chum. It operates as a ruthlessly pragmatic enterprise with no ideology or politics - only the pursuit of capital and control. Its leader, Mr. Antithesis, requires all senior operatives to be metahumans, leveraging superhuman abilities as tools and barriers to prosecution. Each of the twenty-six principal members holds a codename from A through Z, prefixed by "Mr." or "Mrs."
 
-Operations span drug manufacturing, money laundering, political corruption, contract killings, corporate espionage, and large-scale theft. Legal fronts including Tremont & Fairfax and Stheno Pharmaceuticals insulate leadership from scrutiny. The Philadelphia branch under Mrs. Zenith (Maya Richardson) serves as the faction most directly opposed to protagonist Sam Small.
+Operations span drug manufacturing, money laundering, contract killings, corporate espionage, and large-scale theft. Legal fronts including Tremont & Fairfax insulate leadership from scrutiny. The Philadelphia branch - formerly under Mrs. Zenith (Maya Richardson), now commanded by Mr. Nothing following the April 2026 restructuring - serves as the faction most directly opposed to protagonist Sam Small.
 
 ## History
 
@@ -59,9 +60,25 @@ The Daedalus planning meeting at Bella Notte (BM.3) revealed critical details: $
 
 In late 2025, Rogue Wave used intelligence from Sam to engineer a confrontation at Roxborough Memorial Hospital resulting in Mr. Polygraph's arrest along with four Kingdom operatives and fifteen Rogue Wave foot soldiers - the latter sacrificed as expendable to deprive the Kingdom of its chief interrogator. Mr. Antithesis began personally pursuing Rogue Wave to acquire Fly for re-powering Mr. Polygraph.
 
-The Kingdom expanded its protection racket in Philadelphia, marking businesses with white pawn stickers. Mr. Nothing intercepted Sam on the Broad Street Line subway with Mrs. Quiet and multiple operatives, but was driven off by Patriot's intervention.
+The Kingdom expanded its protection racket in Philadelphia, marking businesses with white pawn stickers.
 
-As of April 2026, Sam's multi-vector pressure campaign - FBI evidence of tainted Jump crossing state lines, media investigations via the Philadelphia Inquirer, Rachel Small's parent coalition, and Argus Corps members independently investigating Mrs. Zenith - forced Maya Richardson to resign from City Council. She announced plans to seek superhero re-certification and return as Stormrise using weather policy advocacy as cover, but remains Mrs. Zenith and continues as Kingdom branch commander. Multiple Argus Corps members (Patriot, Turbo Jett, Captain Devil, Miasma) had been independently investigating her Kingdom connections without coordinating with each other. Mrs. Doppelganger released a public confession video timed to frame Rogue Wave and present Maya as a victim.
+As of April 2026, Sam's multi-vector pressure campaign - FBI evidence of tainted Jump crossing state lines, media investigations via the Philadelphia Inquirer, Rachel Small's parent coalition, and Argus Corps members independently investigating Mrs. Zenith - forced Maya Richardson to resign from City Council on April 3rd. She publicly framed it as a return to her Stormrise identity, announcing plans to seek superhero re-certification and launch a national advocacy campaign for geometeorological control reform. Multiple Argus Corps members (Patriot, Turbo Jett, Captain Devil, Miasma) had been independently investigating her Kingdom connections without coordinating with each other. Mrs. Doppelganger released a public confession video timed to frame Rogue Wave and present Maya as a victim.
+
+### Restructuring (April 2026)
+
+Maya's departure triggered a major organizational restructuring. Mr. Antithesis severed the Kingdom's political arm from the Philadelphia branch entirely, declaring Philadelphia "a revenue center, not a political project." Key changes:
+
+- **Mr. Keys** moved from Washington D.C. to a primary advisory role directly under Mr. Antithesis
+- **Mr. Nothing** assumed operational command of Philadelphia, having functionally run the branch for three weeks already
+- **Mr. Preclude** - formerly Mr. Polygraph, re-powered through Fly with a new ability called "Preclusion" (rule-making) - became Mr. Nothing's second in Philadelphia, handling enforcement, compliance, and personnel discipline
+- **Mrs. Zygote** (Dr. Euphemia "Effie" Dunham), a stem cell and embryonic development researcher introduced to Mr. Antithesis by Porcelain, joined under Mrs. Xenograft for biological research - filling the vacant Z designation on a provisional basis
+- Maya's council seat was filled by an interim appointee; her shell companies were either dissolved or continued operating; her campaign accounts were designed to survive audit
+
+The Bellwether site in West Philadelphia was also lost during this period - sixteen people detained, equipment seized, and the distribution chain severed, costing approximately $400,000 in delayed Hypeman production and disrupting Jump supply. The ATF discovered improvised explosives on-site that belonged to Marathon, a Rogue Wave contractor who had been using the basement as a personal armory.
+
+Mr. Antithesis maintained that removing Maya eliminated the convergence of pressure from the reporter, the coalition, and the Argus Corps investigations - all of which had been targeting Maya personally rather than the Kingdom's operational infrastructure. The youth vigilantism ordinance and its $500 bounty remained active and unrepealed.
+
+Prior to the restructuring, Mr. Nothing intercepted Sam on the Broad Street Line subway alongside Mrs. Quiet and multiple operatives - including one who could manipulate train coupling joints and another positioned with the conductor. Nothing attempted to walk Sam off the train at City Hall, but Patriot intervened, identifying Nothing by name and face from the Philadelphia Zoo raid records. Patriot forced Nothing to release Sam, threatening to break his wrists and noting that Captain Devil, Turbo Jett, and Miasma were being rerouted to the station. Nothing chose to withdraw.
 
 ## Structure
 
@@ -71,13 +88,13 @@ The Kingdom is organized as a strict hierarchy with clear chains of command.
 
 At the apex is **Mr. Antithesis (Mr. A)**, operating from Manhattan headquarters, known to most subordinates only as "Upper Management." His counter-power generation makes direct confrontation by metahumans extremely dangerous; special precautions keep powered individuals outside his range during meetings.
 
-### Second Tier (Branch Commanders)
+### Second Tier (Branch Commanders and Advisors)
 
-Directly below are **Mrs. Blue Velvet (Mrs. B)**, his consigliere and right-hand in Manhattan, and **Mrs. Zenith (Mrs. Z)**, commanding the Philadelphia branch.
+Directly below are **Mrs. Blue Velvet (Mrs. B)**, his consigliere and right-hand in Manhattan, and **Mr. Keys (Mr. K)**, who was promoted from Washington D.C. branch commander to primary advisory role in April 2026. Prior to her departure, **Mrs. Zenith (Mrs. Z)** commanded the Philadelphia branch.
 
 ### Third Tier (Senior Branch Leaders)
 
-**Mr. ESP (Mr. E)** (Boston), **Mr. Keys (Mr. K)** (Washington D.C.), and **Mr. Yellowjacket (Mr. Y)** (Baltimore) serve as acting bosses of their respective branches.
+**Mr. ESP (Mr. E)** (Boston), **Mr. Nothing (Mr. N)** (Philadelphia, from April 2026), and **Mr. Yellowjacket (Mr. Y)** (Baltimore) serve as acting bosses of their respective branches.
 
 ### The Main 26
 
@@ -91,10 +108,10 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 
 | Branch | Location | Acting Boss | Key Members |
 |--------|----------|-------------|-------------|
-| **NYC (HQ)** | Manhattan | Mr. Antithesis | Mrs. Blue Velvet, Mr. Camcorder, Mrs. Fulcrum, Mr. Gyroscope, Mrs. Laceration |
-| **Philadelphia** | Philadelphia, PA | Mrs. Zenith | Mrs. Xenograft, Mr. Tyrannosaur, Mr. Polygraph, Mr. Nothing, Mrs. Heartbeat, Mr. Mudslide |
+| **NYC (HQ)** | Manhattan | Mr. Antithesis | Mrs. Blue Velvet, Mr. Keys (advisory), Mr. Camcorder, Mrs. Fulcrum, Mr. Gyroscope, Mrs. Laceration |
+| **Philadelphia** | Philadelphia, PA | Mr. Nothing | Mr. Preclude (second), Mrs. Xenograft, Mrs. Zygote, Mr. Tyrannosaur, Mrs. Heartbeat, Mr. Mudslide |
 | **Boston** | Boston, MA | Mr. ESP | Mrs. Doppelganger, Mrs. Quiet, Mr. Retribution, Mrs. Synapse |
-| **Washington D.C.** | Washington, D.C. | Mr. Keys | Mr. Immortal, Mr. Weaponry, Mrs. Umami |
+| **Washington D.C.** | Washington, D.C. | (Vacant) | Mr. Immortal, Mr. Weaponry, Mrs. Umami |
 | **Baltimore** | Baltimore, MD | Mr. Yellowjacket | Mrs. Jellyjam, Mr. Oscillate, Mrs. Venom |
 
 ## Members
@@ -111,12 +128,12 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 | Maria Valdez | Mrs. Heartbeat (Mrs. H) | Philadelphia | Assassin/medic; heartbeat manipulation via touch | Active |
 | Leonardo Bianchi | Mr. Immortal (Mr. I) | Washington D.C. | High-risk operations; retrocausal survival/functional immortality | Active |
 | Sophia Martinez | Mrs. Jellyjam (Mrs. J) | Baltimore | Infiltration specialist; gelatinous form transformation | Active |
-| Jacob Hastings | Mr. Keys (Mr. K) | Washington D.C. | Acting Boss, D.C.; telekinetic lock manipulation | Active |
+| Jacob Hastings | Mr. Keys (Mr. K) | NYC (HQ) | Primary Advisor; telekinetic lock manipulation | Active |
 | Nina Alvarez | Mrs. Laceration (Mrs. L) | NYC (HQ) | Precision specialist; telekinetic cutting via fingertip contact | Active |
 | Evan Williams | Mr. Mudslide (Mr. M) | Philadelphia | Heist/enforcement; solid surface liquefaction | Active |
-| Darnell Hayes | Mr. Nothing (Mr. N) | Philadelphia | Co-lead interrogator; power nullification via skin contact | Active |
+| Darnell Hayes | Mr. Nothing (Mr. N) | Philadelphia | Acting Boss, Philadelphia; power nullification via skin contact | Active |
 | Aarav Patel | Mr. Oscillate (Mr. O) | Baltimore | Infiltration/safecracking; sound wave emission at various frequencies | Active |
-| Lucas Donovan | Mr. Polygraph (Mr. P) | Philadelphia | Co-lead interrogator; lie detection via spoken word | Arrested (Roxborough Memorial incident) |
+| Lucas Donovan | Mr. Preclude (Mr. P) | Philadelphia | Mr. Nothing's second; Preclusion (rule-making) | Active |
 | Isabella Bianchi | Mrs. Quiet (Mrs. Q) | Boston | Assassin; absolute silence aura on self and objects touched | Active |
 | Carlos Ramirez | Mr. Retribution (Mr. R) | Boston | Bodyguard/enforcer; injury reflection onto attacker | Active |
 | Valeria Rodriguez | Mrs. Synapse (Mrs. S) | Boston | Interrogator; nerve ending stimulation/dulling (pain, pleasure, numbness) | Active |
@@ -126,7 +143,8 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 | David Nez | Mr. Weaponry (Mr. W) | Washington D.C. | Enforcer; intuitive mastery of any weapon | Active |
 | Dr. Lena Trinh-Norwood | Mrs. Xenograft (Mrs. X) | Philadelphia | Drug operations/R&D; animal chimera creation | Active |
 | Nolan Ramirez | Mr. Yellowjacket (Mr. Y) | Baltimore | Acting Boss, Baltimore; concussive air blasts via finger-gun gestures | Active |
-| Maya Richardson | Mrs. Zenith (Mrs. Z) | Philadelphia | Acting Boss, Philadelphia; atmospheric pressure manipulation | Active |
+| Dr. Euphemia "Effie" Dunham | Mrs. Zygote (Mrs. Z) | Philadelphia | Biological research under Mrs. Xenograft; stem cell and embryonic development specialist | Active (provisional) |
+| Maya Richardson | Mrs. Zenith (Mrs. Z) | Philadelphia | Former Acting Boss, Philadelphia; atmospheric pressure manipulation | Departed (April 2026) |
 
 ### Notable Associates
 
@@ -140,7 +158,7 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 | Lenny | Kingdom enforcer; forcefield generation | Active (arrested following Stheno warehouse destruction, remaining silent) |
 | Bash | Kingdom enforcer; enhanced capabilities | Active (arrested following Stheno warehouse destruction, remaining silent) |
 | Buddy | Kingdom associate; establishing new warehouses | Active |
-| Marcus | Kingdom street operative; reports to Mrs. Zenith | Active |
+| Marcus | Kingdom street operative; formerly reported to Mrs. Zenith | Active |
 
 ## Operations
 
@@ -148,20 +166,22 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 
 The Kingdom's primary criminal enterprise, managed by Mrs. Xenograft through the front company Stheno Pharmaceuticals. Major products:
 
-- **Hypeman** - A power-enhancing drug superior to Rogue Wave's Fly with fewer side effects, created by adapting Rogue Wave's Jump and Fly compounds. Distributed in autoinjector format. The Stheno warehouse on Trenton Avenue served as primary production until its destruction by Soot in mid-2025; production relocated to Camden.
+- **Hypeman** - A power-enhancing drug superior to Rogue Wave's Fly with fewer side effects, created by adapting Rogue Wave's Jump and Fly compounds. Distributed in autoinjector format. The Stheno warehouse on Trenton Avenue served as primary production until its destruction by Soot in mid-2025; production relocated to Camden. The Bellwether site in West Philadelphia was subsequently lost in early 2026 - raided by the ATF, costing approximately $400,000 in delayed Hypeman production and severing the distribution chain.
 - **Vysera (daxerimab)** - A superpower suppressant developed from Hypeman research combined with samples of Mr. Nothing's flesh. Currently in NSRA experimental trials; the Kingdom's involvement is not publicly known.
 
-The Kingdom also engages in chemical warfare against Rogue Wave, intercepting Jump shipments, modifying compounds, and releasing tainted product as both gang warfare and human testing.
+The Kingdom also engages in chemical warfare against Rogue Wave, intercepting Jump shipments, modifying compounds, and releasing tainted product as both gang warfare and human testing. Mrs. Zygote, a stem cell researcher, joined the biological research division under Mrs. Xenograft in April 2026.
 
-### Political Corruption
+### Political Corruption (Dissolved)
 
-Mrs. Zenith's dual role as Philadelphia City Councilwoman and Kingdom branch commander (until her forced resignation in April 2026) represented the organization's most sophisticated operation. Through her political position, she:
+Mrs. Zenith's dual role as Philadelphia City Councilwoman and Kingdom branch commander represented the organization's most sophisticated operation until its dissolution in April 2026. Through her political position, she:
 
 - Introduced anti-vigilante legislation targeting young superheroes; by mid-2025 (MR.7), expanding to state level in Pennsylvania, Ohio, Michigan, Illinois, and New York, with plans for federal legislation via Representative Martin
 - Established Argus Corps as an RSO under NSRA Special Directive 14-B (MR.5), with detention (not arrest) powers, mandatory body cameras, civilian oversight, and regular NSRA reporting. The confidential proposal, reviewed by Katherine Huang, cited a 54% increase in metahuman crimes and projected a 50% reduction in gang activity
 - Eliminated political opponents, including Richard Duvall, who attempted to blackmail her
 - Maintained alibis using Mrs. Doppelganger's shapeshifting to place her in Philadelphia during Kingdom business elsewhere
 - Used weather manipulation to generate targeted storms as cover for criminal operations (e.g., the 16-inch blizzard enabling 15 simultaneous break-ins in Northeast Philadelphia)
+
+Following Maya's departure, Mr. Antithesis severed the political arm entirely. The youth vigilantism ordinance and $500 bounty remain active but the Kingdom no longer pursues legislative influence. Maya is performing cooperation with federal investigators, feeding them expendable assets and pre-written-off infrastructure while protecting structural information. Mr. Antithesis views her compliance as driven by rational self-interest rather than loyalty.
 
 ### Legal Infrastructure
 
@@ -188,7 +208,7 @@ Mrs. Quiet and Mrs. Heartbeat serve as primary silent killers, while Mr. Tyranno
 
 ### Intelligence and Counterintelligence
 
-Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. Doppelganger's shapeshifting provides infiltration against secure facilities. Mr. Polygraph and Mr. Nothing serve as the Philadelphia branch's interrogation team, combining lie detection with power nullification.
+Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. Doppelganger's shapeshifting provides infiltration against secure facilities. Mr. Nothing formerly served alongside Mr. Polygraph as the Philadelphia branch's interrogation team, combining power nullification with lie detection. Following Polygraph's arrest and reconstitution as Mr. Preclude, the interrogation dynamic has shifted - Preclude's new Preclusion ability (rule-making) serves enforcement and compliance rather than interrogation.
 
 ## Relationships
 
@@ -202,7 +222,7 @@ Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. 
 | The Auditors | Primary adversary; Sam Small's investigative team |
 | Delaware Valley Defenders | Adversary; Philadelphia's registered superhero team |
 | Philly Phreaks | Former associate; Deathgirl was "gifted" to the Phreaks by the Kingdom |
-| Philadelphia City Council | Formerly infiltrated; Mrs. Zenith held a seat until forced resignation in April 2026 |
+| Philadelphia City Council | Formerly infiltrated; Mrs. Zenith held a seat until resignation in April 2026; political arm now fully severed |
 
 ## Trivia
 
@@ -223,4 +243,6 @@ Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. 
 - Trent Fairfax recruited Aaron McKinley (the Coyote) in prison as "Mr. Prometheus," offering Kingdom membership, a dose of Fly, and a fiefdom over Camden in exchange for killing Sam Small.
 - The Kingdom's standard-issue suits are cut-resistant.
 - Councilman David Silverstein (Republican, Third District) was fast-tracking liquor licenses for Kingdom front businesses in exchange for campaign donations from Kingdom shell companies.
+- The Kingdom maintains a security detail in Chicago watching Wei and Xiuying Zhen (Daisy Zhen's parents) at all times - a precautionary measure to stay on Deathgirl's good side.
+- Mr. Antithesis's philosophy on leverage distinguishes between rational actors and parents, whom he considers irrational in ways game theory cannot model. He explicitly rejected Porcelain's suggestion to use Roxanne as leverage against Maya, arguing it would create "a suicide bomber, not a cooperative asset."
 - Mrs. Zenith's actual power is barokinesis (atmospheric pressure manipulation), not weather control as registered with the NSRA. She deliberately conceals this because if the Kingdom knew she could create localized vacuum or hydraulic-press-level pressure, they would use her as an assassination tool.

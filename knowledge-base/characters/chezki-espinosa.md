@@ -122,9 +122,11 @@ He monitors his heart rate as a matter of habit - sixty-eight to seventy beats p
 
 ??? warning "Book 16: Category Five Hurricane"
 
-    **Role:** Mentioned
+    **Role:** Mentioned / Supporting (TF.3)
 
     During Sam's confrontation with Maya Richardson in her office, Maya tries to redirect Sam toward Porcelain and the Daedalus breakout as a bigger threat, implying the breakout was not accidental and offering to "point you in the right direction." Sam refuses the misdirection. Later, Maya writes "Red Calf" on her legal pad as a potential redirect target for Bloodhound.
+
+    In Interlude TF.3, Chezki visits Trent Fairfax's office in civilian clothes - a dark wool coat, grey slacks, and an expensive scarf. He discusses Maya's arrest and cooperation with the feds, suggesting they use her daughter Roxanne as leverage, which Trent firmly rejects. His approach has shifted from his last visit, when he walked in making demands that ended with Trent's furniture in pieces and his knuckles bleeding. This time, Chezki brings a gift instead - Dr. Euphemia "Effie" Dunham, a stem cell and chimera researcher he introduces as a potential recruit for Trent's organization, framing it as optional rather than a demand. Trent reflects that a man who helps you is investing, not threatening. After the introduction, Chezki waits downstairs in a nondescript sedan while Trent interviews Effie.
 
 ??? warning "Intermission 15.5: This Side Up"
 

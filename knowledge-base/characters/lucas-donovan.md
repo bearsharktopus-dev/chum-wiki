@@ -1,6 +1,6 @@
 # Lucas Donovan
 
-> Founding member and co-lead interrogator of the Kingdom of Keys' Philadelphia branch, known for his lie-detection abilities and volatile temperament masked by professional composure.
+> Founding member and second-in-command of the Kingdom of Keys' Philadelphia branch, formerly known for his lie-detection abilities and now re-powered through Fly with the ability of Preclusion.
 
 ## Infobox
 
@@ -8,7 +8,7 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Lucas Donovan |
-| **Aliases** | Mr. Polygraph, Mr. P, Agent Parker |
+| **Aliases** | Mr. Preclude (current), Mr. Polygraph (former), Mr. P, Agent Parker |
 | **Date of Birth** | September 15, 1985 |
 | **Age** | 38-39 |
 | **Gender** | Male |
@@ -17,8 +17,8 @@
 | **Residence** | Philadelphia, PA |
 | **Affiliation** | Kingdom of Keys (Philadelphia Branch) |
 | **Former Affiliations** | Unnamed Philadelphia criminal gang (2010-2016); freelance criminal interrogator (2016-2019) |
-| **Occupation** | Co-Lead Interrogator, Kingdom of Keys |
-| **Status** | Incarcerated (depowered) |
+| **Occupation** | Second-in-Command, Philadelphia Branch (under Mr. Nothing) |
+| **Status** | Active |
 | **First Appearance** | Chapter 12 |
 | **Last Appearance** | Ongoing (referenced) |
 
@@ -26,7 +26,7 @@
 
 Lucas Donovan was born on September 15, 1985, in Trenton, New Jersey, to Victoria and Raymond Donovan. His power first manifested on June 17, 2001, during a family dinner when he felt an itching sensation in his skull as his father lied about his whereabouts - tying his abilities directly to the domestic deceptions that defined his upbringing.
 
-After relocating to Philadelphia in 2007, Lucas worked as a bartender while quietly using his lie-detection to identify cheating patrons. By 2010, he had drifted into organized crime, earning the nickname "Polygraph" in a small-time gang and freelancing his interrogation services after the gang disbanded in 2016. On October 31, 2019, Mr. Antithesis recruited him as a founding member of the Kingdom of Keys, where he became co-lead interrogator alongside Mr. Nothing (Darnell Hayes). He served at the center of the Kingdom's intelligence operations until his capture and depowering by Rogue Wave in late 2025.
+After relocating to Philadelphia in 2007, Lucas worked as a bartender while quietly using his lie-detection to identify cheating patrons. By 2010, he had drifted into organized crime, earning the nickname "Polygraph" in a small-time gang and freelancing his interrogation services after the gang disbanded in 2016. On October 31, 2019, Mr. Antithesis recruited him as a founding member of the Kingdom of Keys, where he became co-lead interrogator alongside Mr. Nothing (Darnell Hayes). He served at the center of the Kingdom's intelligence operations until his capture and depowering by Rogue Wave in late 2025. After months depowered and weeks in a cell, the charges against him were dropped when prosecutors couldn't establish a connection between his presence at the hospital and any criminal activity. Trent Fairfax kept him on salary, covered his legal fees, and provided him with a selection of Fly compounds. Lucas chose a new power - Preclusion - and was rechristened Mr. Preclude, assuming the role of Mr. Nothing's second-in-command in Philadelphia.
 
 ## Powers & Abilities
 
@@ -36,15 +36,16 @@ No official PERKS assessment on file.
 
 ### Abilities
 
-- **Lie Detection (Spoken Word)** - Lucas possesses an extrasensory ability to determine whether someone is truthfully responding to a question he asks. When a subject speaks a falsehood, he experiences a distinct unpleasant twinge, referred to as a "ping," in the back of his skull. This ability functions regardless of physical proximity and operates over telephone calls, video calls, and any other medium that transmits spoken communication. The power detects subjective truth rather than objective reality, meaning it registers whether the speaker believes they are telling a falsehood rather than whether the statement is factually accurate. This nuance allows Lucas to identify individuals who are unknowingly spreading misinformation, as their genuine belief in the falsehood would not trigger a ping. Conversely, someone who believes they are lying but happens to state something factually true would still trigger the sensation.
+- **Preclusion (Current)** - Gained through Fly compounds provided by Mr. Antithesis after his original power was extracted. Described as "authoritative" rather than observational - Lucas "makes rules." The full scope and mechanics of this ability have not yet been detailed, but Trent considers it "distinctive" and Chezki Espinosa immediately recognizes its tactical utility. Represents a fundamental shift in Lucas's operational posture from detecting problems to dictating solutions.
 
-### Limitations
+- **Lie Detection (Former - Extracted)** - Lucas formerly possessed an extrasensory ability to determine whether someone was truthfully responding to a question he asked. When a subject spoke a falsehood, he experienced a distinct unpleasant twinge, referred to as a "ping," in the back of his skull. This ability functioned regardless of physical proximity and operated over telephone calls, video calls, and any other medium that transmitted spoken communication. The power detected subjective truth rather than objective reality, meaning it registered whether the speaker believed they were telling a falsehood rather than whether the statement was factually accurate. This power was extracted by Snake Oil during his capture by Rogue Wave (Arc 15), crystallizing into a blue-green crystal. The resulting ability was later acquired by Lawrence Sullivan (Monkey Business).
 
-- Requires spoken communication; completely ineffective against written statements, non-verbal cues, or text-based deception.
-- Clever wordplay, half-truths, and technically correct but misleading statements can circumvent the power.
-- Simultaneous lies from multiple speakers can overwhelm the ping sensation, requiring mental discipline to manage.
-- Recorded playback does not trigger the power - only live speech from the actual speaker (exploited by the Auditors during the Soot sting, Arc 11).
-- Following capture by Rogue Wave (Arc 15), Snake Oil extracted Lucas's power, leaving him permanently depowered. Mr. Antithesis is coordinating Fly acquisition to restore his abilities.
+### Limitations (Former Power)
+
+- Required spoken communication; completely ineffective against written statements, non-verbal cues, or text-based deception.
+- Clever wordplay, half-truths, and technically correct but misleading statements could circumvent the power.
+- Simultaneous lies from multiple speakers could overwhelm the ping sensation, requiring mental discipline to manage.
+- Recorded playback did not trigger the power - only live speech from the actual speaker (exploited by the Auditors during the Soot sting, Arc 11).
 
 ### Training & Skills
 
@@ -65,9 +66,9 @@ Professionally, he is direct, authoritative, and comfortable with lethal force, 
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Darnell Hayes (Mr. Nothing) | Partner / Close friend | Co-lead interrogator; described as "heterosexual life mates" despite meeting only through the Kingdom. Lucas provides lie detection while Darnell provides power nullification. |
-| Trent Fairfax (Mr. Antithesis) | Superior / Benefactor | Recruited Lucas as a founding member in 2019. Personally coordinating Fly acquisition to restore his abilities after depowering. |
-| Maya Richardson (Mrs. Zenith) | Colleague | Acting boss of the Philadelphia branch. Coordinated his legal representation and visited him in hospital after his depowering. |
+| Darnell Hayes (Mr. Nothing) | Partner / Superior | Formerly co-lead interrogator; now serves as Nothing's second-in-command in Philadelphia. Previously described as "heterosexual life mates." |
+| Trent Fairfax (Mr. Antithesis) | Superior / Benefactor | Recruited Lucas as a founding member in 2019. Kept him on salary while depowered, covered legal fees, and provided Fly compounds to restore his abilities. Trent describes Lucas's loyalty as purchased through "demonstrated investment." |
+| Maya Richardson (Mrs. Zenith) | Former colleague | Former acting boss of the Philadelphia branch. Coordinated his legal representation and visited him in hospital after his depowering. Now removed from the Kingdom. |
 | Sam Small (Bloodhound) | Adversary | Encounters escalated from the Dobson Factory (Arc 1) through the NSRA impersonation (Arc 4) and Soot sting (Arc 11), culminating in Sam's tip enabling his capture by Rogue Wave (Arc 15). |
 | Aaron McKinley (The Coyote) | Subordinate | Intimidated and assigned to assassinate Bloodhound as repayment for lost Kingdom funds (Arc 4). |
 | Blake Matthews (Mr. Tyrannosaur) | Colleague | Kingdom enforcer; socialized together outside operations. |
@@ -125,9 +126,9 @@ Professionally, he is direct, authoritative, and comfortable with lethal force, 
 
 ??? warning "Book 16: Category Five Hurricane"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    Referenced as going through the legal system following his arrest. The DA was unable to make anything stick beyond minor charges despite his fingerprints appearing in multiple unsolved cases, and he was expected to be released by late January. Mr. Antithesis is coordinating efforts to acquire Fly for Lucas's re-powering.
+    Appears in the TF.3 interlude (Mr. Antithesis's POV) at Trent's office. Rechristened Mr. Preclude - formerly Mr. Polygraph, "reborn through Fly" - as of April 2nd. Assigned as Mr. Nothing's second-in-command in Philadelphia, handling enforcement, compliance, and personnel discipline while Nothing handles the operational architecture. Trent notes that Lucas is "different than the man I knew as Polygraph" - same frame, same face, but "something behind his eyes has been recalibrated" after months depowered and weeks in a cell. His charges were dropped because prosecution couldn't establish a connection between his hospital presence and criminal activity. Trent kept him on salary, covered his legal fees, and provided a selection of Fly compounds. Lucas's new power is described as "authoritative" compared to his former "observational" ability - he "makes rules" (Preclusion). Trent tells Chezki Espinosa that Lucas's loyalty was "purchased through demonstrated investment." Sat in the waiting room with Effie Dunham (Mrs. Zygote) during her interview and was visibly miserable - described as enduring "the hollow aftermath of prolonged social endurance." Effie waves at him on her way out and tells him to think about glial cells. He does not respond. Receives train tickets back to Philadelphia from Ophelia; Mr. Nothing will meet him at the station.
 
 
 ## Trivia

@@ -86,6 +86,7 @@ Despite her conditioning, Daisy has shown genuine vulnerability and capacity for
 | Cold-Cut | Temporary ally | Escaped prisoner who accompanied Daisy to Albany, posing as her aunt. |
 | Switchback | Temporary ally | Escapee who guided Daisy's group to the surface and provided money before heading to Canada. |
 | Porcelain (Chezki Espinosa) | Interested party | Red Calf leader who ordered the Daedalus extraction. A man matching his description was present when Daisy was kidnapped as a child. Observed her Albany hearing. |
+| Mr. Antithesis (Trent Fairfax) | Wary observer | Maintains a security detail on her parents in Chicago as insurance - "the minor expense is worth not having Daisy Zhen on my bad side." |
 | Patricia Gilly | Attorney | Family attorney who defended Daisy's rights at the Albany custody hearing. |
 | Flux | Temporary ally | Escapee with metal manipulation who cleared the ventilation shaft exit. |
 | Judge Esposito | Judicial authority | Denied federal custody; ordered Whitford placement with parental access. |

@@ -14,7 +14,7 @@
 | **Gender** | Male |
 | **Ethnicity** | Caucasian |
 | **Place of Birth** | Philadelphia, PA |
-| **Residence** | Manhattan, New York City |
+| **Residence** | Connecticut (home with wife Sarah); maintains Manhattan office |
 | **Affiliation** | Kingdom of Keys (Leader) |
 | **Former Affiliations** | N/A |
 | **Occupation** | Kingdom of Keys leader; licensed attorney (Columbia Law, criminal law specialty); public-facing role as a financial investor associated with Tremont & Fairfax law firm; philanthropist through Alcott & Associates |
@@ -69,7 +69,7 @@ Beneath the control, he is capable of rare but intense emotional reactions - aft
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Maya Richardson (Mrs. Zenith) | Subordinate / Philadelphia branch leader | Manages the Philadelphia operation under his authority. He gives her directives, deadlines, and strategic guidance. |
+| Maya Richardson (Mrs. Zenith) | Subordinate / Philadelphia branch leader | Formerly managed the Philadelphia operation under his authority. After her arrest, performs controlled cooperation with federal authorities - feeding expendable assets while protecting structural elements. Trent considers her political infrastructure (council seat, Argus Corps oversight) an acceptable loss that removes exposure threads. |
 | Mrs. Blue Velvet (Ophelia Grady) | Subordinate / Second-in-command | His consigliere, appointed despite lacking managerial experience. Has developed an intense, borderline-obsessive attachment to him. Accompanies him to Jefferson Hospital ward visits as "Ms. Grady." Knows when not to ask questions, a trait he explicitly appreciates. |
 | Mr. ESP (Wesley) | Subordinate / Boston branch leader | Oversees Kingdom operations in Boston. Coordinates with Fairfax on personnel logistics. |
 | Porcelain | External threat / Coercer | Leader of Red Calf, described as the strongest superhuman on Earth. Coerced the Kingdom into the Daedalus prison break under threat of exposing Richardson's Kingdom ties. |
@@ -78,11 +78,11 @@ Beneath the control, he is capable of rare but intense emotional reactions - aft
 | Mrs. Quiet | Subordinate / Investigator | Serves as driver and handler for sensitive operations involving Fairfax's interests. |
 | Blake Matthews (Mr. Tyrannosaur) | Subordinate / Enforcer | Receives operational briefings from Fairfax. |
 | Dr. Trinh-Norwood (Mrs. Xenograft) | Subordinate / Scientist | Reports to Fairfax on drug development. He rewarded her Hypeman innovation with a raise but warned future failures would not be tolerated. |
-| Lucas Donovan (Mr. Polygraph) | Subordinate / Founding member | After depowering by Rogue Wave, Fairfax stripped his codename but maintained salary and authority, pledging Fly acquisition to restore his abilities. |
+| Lucas Donovan (Mr. Preclude) | Subordinate / Founding member | After depowering by Rogue Wave, Fairfax stripped his Polygraph codename but maintained salary and authority. Later re-powered through Fly with "Preclusion" (making rules), renamed Mr. Preclude, and assigned as Mr. Nothing's second-in-command in Philadelphia. |
 | Emily Caldwell | Mother | Single mother who worked two jobs. Adapted to his sensory needs - hugging briefly, with warning, not too tight. Cried when he was accepted to Columbia. |
 | Dr. Hendricks | Childhood Therapist | Practiced downtown (23 minutes by bus). Taught Trent to recognize and redirect catastrophizing. Referred him to Dr. Ndiaye for New York. |
 | Dr. Ndiaye | Law School Psychiatrist | Brooklyn-based, sessions by phone. Cautioned Trent against optimizing experiences rather than living them - a distinction he acknowledged intellectually but could not meaningfully apply. |
-| Sarah Fairfax | Wife | Originally in Trent's 1L study group at Columbia. Instigated his attending the McGinty's bar celebration. Registered firearms-trained. Trent loves her deeply and thinks fondly of their first time at the shooting range together. |
+| Sarah Fairfax | Wife | Originally in Trent's 1L study group at Columbia. Instigated his attending the McGinty's bar celebration. Registered firearms-trained. They live together in Connecticut. Trent loves her deeply and thinks fondly of their first time at the shooting range together. |
 | Marcus Whitmore | Ward Patient | A Phreaks courthouse attack survivor reduced to undifferentiated tissue by bad Jump, reconstructed over two years by metahuman healers. Fairfax visits him regularly. Whitmore asked about "the people behind the people behind the people" - a question Fairfax could not safely answer. |
 | Aaron McKinley (Mr. Prometheus) | Subordinate / Recruit | Incarcerated pyrogenetic recruited at Curran-Fromhold under attorney-client privilege. Fairfax offered Kingdom membership, a synergistic Fly dose, a six-month jailbreak timeline, a mission to kill Sam Small, and a fiefdom in Camden. |
 
@@ -120,9 +120,11 @@ Beneath the control, he is capable of rare but intense emotional reactions - aft
 
 ??? warning "Book 16: Category Five Hurricane"
 
-    **Role:** Mentioned
+    **Role:** Main (Interlude TF.3 - Arc Finale)
 
-    Referenced indirectly through Kingdom operations in Philadelphia. His pledge to acquire Fly for Polygraph remains an active thread, though direct involvement occurs offscreen.
+    Reorganizes the Kingdom of Keys after Maya Richardson's arrest and controlled cooperation with federal authorities. Elevates Mr. Keys to primary advisory role and places Mr. Nothing in operational command of Philadelphia. Lucas Donovan, re-powered through Fly with a new ability called "Preclusion" (making rules), is renamed Mr. Preclude and assigned as Nothing's second-in-command. Receives Chezki Espinosa, who brings Dr. Euphemia "Effie" Dunham - a brilliant but chaotic stem cell and chimera researcher - to be inducted as Mrs. Zygote under Mrs. Xenograft's supervision.
+
+    Explains to subordinates why threatening Maya's daughter Roxanne would be counterproductive, turning a managed asset into a desperate liability. Assesses the fallout: the Bellwether site is gone (16 detained, equipment seized, Marathon's explosives found), and Maya's political infrastructure - her council seat and Argus Corps oversight role - is severed. Considers this acceptable, as it removes exposure threads. Reframes Philadelphia as "a revenue center, not a political project." Has a security detail watching Daisy Zhen's parents (Wei and Xiuying Zhen) in Chicago. Ophelia Grady works in the lobby. Lucas endures an extended conversation with Effie in the waiting room. Trent heads home to wife Sarah in Connecticut.
 
 ??? warning "Intermission 15.5: This Side Up (TF.1)"
 
