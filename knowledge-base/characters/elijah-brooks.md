@@ -181,7 +181,6 @@ Boxing brings out a different side - his sense of humor emerges and he becomes n
 
 ## Trivia
 
-- The canon document for Book 2 mistakenly labels Multiplex as a "Young Defender" in one instance, though he is consistently an adult member of the Delaware Valley Defenders throughout the story.
 - Sam's development under both Belle's inspirational approach and Elijah's systems-based approach represents a thematic synthesis of the two philosophies.
 - His costume is crimson-and-black, and he fights with boxing gloves. His duplicates have been seen carrying riot shields during crisis operations.
 - Sam's regeneration prevents her from getting drunk or high, a fact Elijah relays to colleagues, noting Crossroads told him about it.

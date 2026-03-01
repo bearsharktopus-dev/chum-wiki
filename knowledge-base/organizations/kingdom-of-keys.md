@@ -68,7 +68,7 @@ As of April 2026, Sam's multi-vector pressure campaign - FBI evidence of tainted
 
 Maya's departure triggered a major organizational restructuring. Mr. Antithesis severed the Kingdom's political arm from the Philadelphia branch entirely, declaring Philadelphia "a revenue center, not a political project." Key changes:
 
-- **Mr. Keys** moved from Washington D.C. to a primary advisory role directly under Mr. Antithesis
+- **Mr. Keys** promoted to third-in-command in Maya's absence, serving as primary advisor directly under Mr. Antithesis
 - **Mr. Nothing** assumed operational command of Philadelphia, having functionally run the branch for three weeks already
 - **Mr. Preclude** - formerly Mr. Polygraph, re-powered through Fly with a new ability called "Preclusion" (rule-making) - became Mr. Nothing's second in Philadelphia, handling enforcement, compliance, and personnel discipline
 - **Mrs. Zygote** (Dr. Euphemia "Effie" Dunham), a stem cell and embryonic development researcher introduced to Mr. Antithesis by Porcelain, joined under Mrs. Xenograft for biological research - filling the vacant Z designation on a provisional basis
@@ -86,11 +86,11 @@ The Kingdom is organized as a strict hierarchy with clear chains of command.
 
 ### Leadership Tier
 
-At the apex is **Mr. Antithesis (Mr. A)**, operating from Manhattan headquarters, known to most subordinates only as "Upper Management." His counter-power generation makes direct confrontation by metahumans extremely dangerous; special precautions keep powered individuals outside his range during meetings.
+At the apex is **Mr. Antithesis (Mr. A)**, operating from Manhattan headquarters, known to most subordinates only as "Upper Management." His powers make direct confrontation by metahumans extremely dangerous; special precautions keep powered individuals outside his range during meetings.
 
 ### Second Tier (Branch Commanders and Advisors)
 
-Directly below are **Mrs. Blue Velvet (Mrs. B)**, his consigliere and right-hand in Manhattan, and **Mr. Keys (Mr. K)**, who was promoted from Washington D.C. branch commander to primary advisory role in April 2026. Prior to her departure, **Mrs. Zenith (Mrs. Z)** commanded the Philadelphia branch.
+Directly below are **Mrs. Blue Velvet (Mrs. B)**, his consigliere and right-hand in Manhattan, and **Mr. Keys (Mr. K)**, promoted to third-in-command and primary advisor following Mrs. Zenith's departure in April 2026. Prior to her departure, **Mrs. Zenith (Mrs. Z)** commanded the Philadelphia branch.
 
 ### Third Tier (Senior Branch Leaders)
 
@@ -108,17 +108,17 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 
 | Branch | Location | Acting Boss | Key Members |
 |--------|----------|-------------|-------------|
-| **NYC (HQ)** | Manhattan | Mr. Antithesis | Mrs. Blue Velvet, Mr. Keys (advisory), Mr. Camcorder, Mrs. Fulcrum, Mr. Gyroscope, Mrs. Laceration |
+| **NYC (HQ)** | Manhattan | Mr. Antithesis | Mrs. Blue Velvet, Mr. Camcorder, Mrs. Fulcrum, Mr. Gyroscope, Mrs. Laceration |
 | **Philadelphia** | Philadelphia, PA | Mr. Nothing | Mr. Preclude (second), Mrs. Xenograft, Mrs. Zygote, Mr. Tyrannosaur, Mrs. Heartbeat, Mr. Mudslide |
 | **Boston** | Boston, MA | Mr. ESP | Mrs. Doppelganger, Mrs. Quiet, Mr. Retribution, Mrs. Synapse |
-| **Washington D.C.** | Washington, D.C. | (Vacant) | Mr. Immortal, Mr. Weaponry, Mrs. Umami |
+| **Washington D.C.** | Washington, D.C. | Mr. Keys (also Primary Advisor) | Mr. Immortal, Mr. Weaponry, Mrs. Umami |
 | **Baltimore** | Baltimore, MD | Mr. Yellowjacket | Mrs. Jellyjam, Mr. Oscillate, Mrs. Venom |
 
 ## Members
 
 | Name | Codename | Branch | Role | Status |
 |------|----------|--------|------|--------|
-| Trent Fairfax | Mr. Antithesis (Mr. A) | NYC (HQ) | Leader; reactive counter-power generation | Active |
+| Trent Fairfax | Mr. Antithesis (Mr. A) | NYC (HQ) | Leader | Active |
 | Ophelia Grady | Mrs. Blue Velvet (Mrs. B) | NYC (HQ) | Consigliere/Second-in-Command; friction coefficient manipulation | Active |
 | Terrence Mitchell | Mr. Camcorder (Mr. C) | NYC (HQ) | Intelligence/surveillance; sensory data recording as digital files | Active |
 | Elena Morales | Mrs. Doppelganger (Mrs. D) | Boston | Infiltration specialist; physical appearance and voice mimicry | Active |
@@ -128,7 +128,7 @@ Beneath the main 26 are conventional criminal operatives: soldiers, enforcers, l
 | Maria Valdez | Mrs. Heartbeat (Mrs. H) | Philadelphia | Assassin/medic; heartbeat manipulation via touch | Active |
 | Leonardo Bianchi | Mr. Immortal (Mr. I) | Washington D.C. | High-risk operations; retrocausal survival/functional immortality | Active |
 | Sophia Martinez | Mrs. Jellyjam (Mrs. J) | Baltimore | Infiltration specialist; gelatinous form transformation | Active |
-| Jacob Hastings | Mr. Keys (Mr. K) | NYC (HQ) | Primary Advisor; telekinetic lock manipulation | Active |
+| Jacob Hastings | Mr. Keys (Mr. K) | Washington D.C. | Third-in-command / Primary Advisor; telekinetic lock manipulation | Active |
 | Nina Alvarez | Mrs. Laceration (Mrs. L) | NYC (HQ) | Precision specialist; telekinetic cutting via fingertip contact | Active |
 | Evan Williams | Mr. Mudslide (Mr. M) | Philadelphia | Heist/enforcement; solid surface liquefaction | Active |
 | Darnell Hayes | Mr. Nothing (Mr. N) | Philadelphia | Acting Boss, Philadelphia; power nullification via skin contact | Active |
