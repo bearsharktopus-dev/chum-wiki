@@ -24,11 +24,9 @@
 
 ## Background
 
-Renee "Ren" Costello is a former journalism student who dropped out of her program after falling deep into conspiracy theories. Her descent into paranoia was compounded when government agents interrogated her about her suspicious internet search history. Renee believes the interrogation was prompted by her research into extraterrestrial phenomena and that the government was suppressing what she had uncovered. In reality, the agents flagged her because she had searched for "Ted Kaczynski" followed by "How to make fertilizer bomb" -- a combination that triggered domestic terrorism monitoring. The interrogation nevertheless confirmed her worst fears about government surveillance and mass control, cementing the paranoid worldview that would define her adult life.
+Renee "Ren" Costello is a former journalism student who dropped out after falling deep into conspiracy theories. Government agents interrogated her about suspicious search history - she believes it was because of her research into extraterrestrial phenomena, but in reality she had searched "Ted Kaczynski" followed by "How to make fertilizer bomb," triggering domestic terrorism monitoring. The interrogation cemented the paranoid worldview that would define her adult life.
 
-At some point following this radicalization, Renee joined Rogue Wave, the criminal organization led by Lawrence Sullivan (Monkey Business) that distributes the power-granting drugs Jump and Fly throughout Philadelphia. Despite being the youngest core member of the group at twenty-three, she became one of its most ideologically committed operatives, embracing the organization's anarchist philosophy with an intensity that surpasses even some of its founding members. She serves a dual role as Rogue Wave's intelligence specialist -- gathering information, identifying targets, and tracking threats -- and as their primary capture specialist, using her ferrokinetic abilities to restrain and detain targets in the field.
-
-Renee first appeared publicly as one of the six core Rogue Wave members featured during the organization's hijacking of NBC10 and the emergency alert system in April 2025, during which the group broadcast its manifesto and declared war on the Kingdom of Keys. She was identified during that broadcast as the group's "tracker/hunter."
+Following this radicalization, Renee joined Rogue Wave, the criminal organization distributing the power-granting drugs Jump and Fly throughout Philadelphia. Despite being the youngest core member at twenty-three, she became one of its most ideologically committed operatives. She serves a dual role as intelligence specialist and primary capture specialist, using ferrokinetic abilities to restrain targets in the field.
 
 ## Powers & Abilities
 
@@ -38,8 +36,8 @@ No official PERKS assessment on file.
 
 ### Abilities
 
-- **Ferrokinesis** - Renee possesses the ability to manipulate metal telekinetically, with a particular specialization in forming and controlling chains and restraints. She can shape metal into binding configurations, suspend targets in midair, and constrict restraints with enough force to bruise skin and restrict breathing. The chains respond to her will in real time, allowing her to adjust tension, reposition targets, and use restrained individuals as human shields. This is a Fly-derived power, meaning it was gained through permanent power-granting drug use rather than natural activation.
-- **Power Radar** - Renee possesses a secondary sensory ability that allows her to detect the presence of nearby powered individuals and identify what their specific powers are. This ability is passive and omnidirectional but has significant limitations: it does not provide directional information (she knows someone with powers is nearby but not where they are) and does not identify which specific person in a group possesses the detected power. This ability makes her exceptionally valuable as an intelligence operative, allowing Rogue Wave to assess threats and identify powered targets during operations.
+- **Ferrokinesis (Fly Power)** - Telekinetic manipulation of metal, specializing in chains and restraints. Can shape metal into binding configurations, suspend targets in midair, and constrict with enough force to bruise skin and restrict breathing. Chains respond in real time, allowing adjustment of tension, repositioning, and use of restrained targets as human shields.
+- **Power Radar** - Passive, omnidirectional sensory ability that detects nearby powered individuals and identifies their specific powers. Does not provide directional information or identify which person in a group possesses the detected power.
 
 ### Limitations
 
@@ -50,30 +48,29 @@ No official PERKS assessment on file.
 
 ### Training & Skills
 
-- Trained in intelligence gathering, surveillance, and target identification for Rogue Wave operations.
-- Skilled in interrogation and information extraction, capable of searching captives for recording devices and assessing threats under pressure.
-- Possesses a journalism background that, while incomplete, likely informs her research and information-gathering methodology.
-- Experienced in field operations alongside other Rogue Wave core members, including coordinated extraction missions.
+- Trained in intelligence gathering, surveillance, and target identification.
+- Skilled in interrogation and searching captives for recording devices.
+- Incomplete journalism background likely informs her research methodology.
 
 ## Personality
 
-Renee is intensely paranoid, possessing an unwavering conviction in her conspiratorial worldview that sees government control and institutional surveillance as the ultimate evils. She speaks in coded language and perceives patterns that others miss -- or that may not exist at all. Her paranoia, while rooted in a misunderstanding of why she was actually interrogated, has been reinforced by genuine encounters with government overreach and corruption in the world of powered individuals, making her beliefs self-sustaining regardless of their original foundation.
+Renee is intensely paranoid, with an unwavering conspiratorial worldview that sees government control and institutional surveillance as the ultimate evils. She speaks in coded language and perceives patterns that others miss - or that may not exist at all. Her paranoia has been reinforced by genuine encounters with government overreach in the world of powered individuals, making her beliefs self-sustaining regardless of their original foundation.
 
-She presents a gothic aesthetic in both appearance and demeanor, described as "surly" in casual encounters. In the field, she is ruthless and decisive, willing to threaten lethal force against captives and debate whether to kill an opponent based on practical calculus rather than moral hesitation. Despite being the youngest member of Rogue Wave's core team, she is possibly the most ideologically devoted, fully committed to the organization's anarchist vision of dismantling institutional power structures. Her rigid worldview leaves little room for nuance: the system is the enemy, and Rogue Wave's methods represent the only honest response.
+She presents a gothic aesthetic and "surly" demeanor. In the field, she is ruthless and decisive, willing to debate killing an opponent based on practical calculus rather than moral hesitation. Possibly the most ideologically devoted of Rogue Wave's core team, her rigid worldview leaves little room for nuance: the system is the enemy, and Rogue Wave's methods represent the only honest response.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Lawrence Sullivan (Monkey Business) | Leader | Serves under Sullivan as Rogue Wave's intelligence specialist. Present at strategic planning meetings and team dinners. Participates in the group's philosophical discussions about meritocracy and revolution. |
-| Mai-Anh Vo (Birthday Suit) | Teammate | Fellow core Rogue Wave member. Deployed together on the Mr. Polygraph extraction operation. |
-| Dean Carver (Rush Order) | Teammate / Field partner | Fellow core Rogue Wave member. Rush Order extracted Dead Drop via motorcycle during the Sunoco station confrontation, abandoning Marathon's crew to prioritize her escape. In Interlude DC.3, the pair conducted a joint operation to track and capture Maya Richardson in Northeast Philadelphia, demonstrating established tactical coordination -- Dead Drop driving while Dean navigated, a combination they had "run a dozen times on Kingdom couriers and drug shipments." After the failed capture, Dead Drop supported Dean down six flights of stairs with his injured ankle and contributed critical tactical observations during the debrief. Both are currently spreading intelligence about Maya Richardson's barokinesis to the criminal underground. |
-| Dr. Felix Ortega (Snake Oil) | Teammate | Fellow core Rogue Wave member. Works alongside him in Rogue Wave's operational structure. |
-| Tomas Reynoso (Jackpot) | Teammate | Fellow core Rogue Wave member. The two returned together with food during a team gathering following the South Street incident, suggesting a working rapport. |
-| Marathon | Subordinate (associated) | Jump dealer operating under Rogue Wave's distribution network in Tacony. Dead Drop served as the enforcer overseeing Marathon's operation at the Sunoco station. Debated with Marathon over whether to kill Bloodhound. |
-| Sam Small (Bloodhound) | Enemy | Captured Sam during the Sunoco station infiltration, restraining her with metal chains and threatening her life. Constricted chains around Sam's throat hard enough to bruise. Ultimately chose escape over killing her when Rush Order arrived for extraction. |
-| Maya Richardson (Mrs. Zenith) | Target (reassigned to avoidance) | Dead Drop and Rush Order attempted to capture Maya Richardson on a Northeast Philadelphia rooftop during Interlude DC.3. Dead Drop's ferrokinetic chains initially snagged Maya but could not hold her against her barokinetic pressure field, which stopped chain-link projectiles mid-flight. Dead Drop broke Maya's pressure seal by tearing a fire door off its hinges. Monkey Business subsequently reclassified Maya as a hazard to route around. |
-| Elias Franklin (Chimera) | Teammate | Fellow Rogue Wave member and scientific consultant. |
+| Lawrence Sullivan (Monkey Business) | Leader | Serves under Sullivan as intelligence specialist; present at strategic planning meetings and philosophical discussions. |
+| Mai-Anh Vo (Birthday Suit) | Teammate | Deployed together on the Mr. Polygraph extraction. |
+| Dean Carver (Rush Order) | Teammate / Field partner | Primary field partner with established tactical coordination on numerous operations. Rush Order prioritized extracting her during the Sunoco station confrontation. |
+| Dr. Felix Ortega (Snake Oil) | Teammate | Fellow core member. |
+| Tomas Reynoso (Jackpot) | Teammate | Fellow core member; casual working rapport. |
+| Marathon | Subordinate (associated) | Jump dealer in Tacony whose Sunoco station operation Dead Drop oversaw. |
+| Sam Small (Bloodhound) | Enemy | Captured and restrained Sam at the Sunoco station; chose escape over killing her. |
+| Maya Richardson (Mrs. Zenith) | Target (reassigned to avoidance) | Failed capture attempt in Interlude DC.3; Monkey Business reclassified Maya as a hazard to route around. |
+| Elias Franklin (Chimera) | Teammate | Scientific consultant. |
 
 ## Arc Appearances
 
@@ -87,51 +84,41 @@ She presents a gothic aesthetic in both appearance and demeanor, described as "s
 
     **Role:** Mentioned
 
-    Referenced as part of Rogue Wave's ongoing operations. Rogue Wave's strategic planning meeting (Interlude LS.1) features Dead Drop providing intelligence on the Kingdom's reduced operations following the Auditors' warehouse destruction. The team discusses controlled expansion into Philadelphia neighborhoods based partly on her intelligence reports.
+    Provides intelligence on the Kingdom's reduced operations at the Rogue Wave strategic planning meeting (Interlude LS.1), informing controlled expansion planning.
 
 ??? warning "Book 12: Authorized Personnel Only"
 
     **Role:** Main
 
-    First in-person field appearance. During the Auditors' surveillance of Rogue Wave's Tacony drug operation, Sam bumped into a "surly looking girl in goth clothes" on a city bus near the Sunoco station (Chapter 180) -- later revealed to be Dead Drop. In Chapter 181, Dead Drop captured Bloodhound at the Sunoco station using ferrokinetic chains after Sam's infiltration was compromised, suspending her upside down and debating with Marathon whether to kill her. Searched Sam for recording devices. In Chapter 182, used Sam as a human shield while the Auditors mounted a rescue. Blink struck Dead Drop's hand with a slingshot, disrupting her chain control. Rush Order arrived on motorcycle to extract Dead Drop, and she chose escape over killing Sam. Tasha later identified Dead Drop and Rush Order from the May NBC10 broadcast, confirming them as core Rogue Wave members.
-
-??? warning "Book 13: Burn After Reading"
-
-    **Role:** Supporting
-
-    Present during Rogue Wave team discussions following the South Street incident where Rush Order was shot by Benjamin Small. Dead Drop and Jackpot returned with food during the team gathering, leading to a philosophical discussion about the confrontation's implications. The team debated Bloodhound's identity and whether to target her again. Referenced as part of the ongoing three-way conflict between Rogue Wave, the Kingdom of Keys, and vigilante forces in Philadelphia.
+    First in-person field appearance. During the Auditors' surveillance of Rogue Wave's Tacony drug operation, Sam bumped into a "surly looking girl in goth clothes" on a city bus near the Sunoco station (Chapter 180) - later revealed to be Dead Drop. In Chapter 181, Dead Drop captured Bloodhound at the Sunoco station using ferrokinetic chains after Sam's infiltration was compromised, suspending her upside down and debating with Marathon whether to kill her. Searched Sam for recording devices. In Chapter 182, used Sam as a human shield while the Auditors mounted a rescue. Blink struck Dead Drop's hand with a slingshot, disrupting her chain control. Rush Order arrived on motorcycle to extract Dead Drop, and she chose escape over killing Sam. Tasha later identified Dead Drop and Rush Order from the May NBC10 broadcast, confirming them as core Rogue Wave members. In Interlude RS-DC-JF, Dead Drop and Jackpot returned to the Camden safehouse with Chinese food following Rush Order's fight with Bloodhound on South Street, during which Rush Order was shot by Benjamin Small. Dead Drop was described with chains clinking and an annoyed goth demeanor.
 
 ??? warning "Book 14: Shelter in Place"
 
-    **Role:** Supporting
+    **Role:** Mentioned
 
-    Selected by Monkey Business as part of the combat team (alongside Rush Order and Birthday Suit) for the Mr. Polygraph extraction operation. During the Thursday ambush at Roxborough Memorial Hospital, Dead Drop used her chains to subdue Kingdom operatives while Birthday Suit engaged Mr. Nothing and Rush Order captured Mr. Polygraph. The extraction led to Snake Oil removing Mr. Polygraph's powers at a secondary location in Camden. Rogue Wave also provided surveillance photos of Shrike's skinhead followers to Sam as part of their temporary protection arrangement. Referenced in the package Rogue Wave sent Sam confirming their protection extended to Shrike's followers.
+    Part of Rogue Wave's operations during the Shrike protection arrangement with Sam, including providing surveillance photos and identifying Mr. Polygraph as the favor to be called in.
 
 ??? warning "Book 15: Severe Weather Warning"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    The arc's title references her codename. Referenced as part of Rogue Wave's broader operations during the escalating conflict. Kingdom forces, including Mr. Nothing, began actively hunting Rogue Wave members during this period. Rogue Wave's drug distribution faced interference from Kingdom intercepting and modifying their Jump shipments, creating a tainted drug crisis.
+    Selected by Monkey Business as part of the combat team (alongside Rush Order and Birthday Suit) for the Mr. Polygraph extraction operation at Roxborough Memorial Hospital (Interlude DC.2). Dead Drop used her ferrokinetic chains offensively during the ambush - wrapping Polygraph's torso, arms, and legs like a mummy and gagging him with a dishrag. She also caught guns mid-draw from Kingdom operatives using her chains and told the restrained Polygraph that he "should've thought about that before your organization decided to fuck with kids." After Snake Oil removed Mr. Polygraph's powers at a secondary location in Camden, Dead Drop was shown playing Mario Kart with "grim determination" at the Camden safehouse, with the winner controlling the stereo - she played Tool. Referenced as part of Rogue Wave's broader operations during the escalating conflict, as Kingdom forces intercepted and modified Rogue Wave's Jump shipments, creating a tainted drug crisis.
 
 ??? warning "Intermission 15.5: This Side Up (Interlude DC.3)"
 
     **Role:** Supporting
 
-    Partnered with Rush Order on a joint reconnaissance-turned-ambush of Maya Richardson during a winter blizzard in Northeast Philadelphia. Dead Drop drove the van while Dean navigated using his person-location sense, the pair operating with established tactical coordination described as having been "run a dozen times on Kingdom couriers and drug shipments." After locating Maya on a six-story industrial rooftop conducting weather manipulation, Dead Drop's ferrokinetic chains snagged Maya's ankle and wrist during the initial capture attempt, but Maya broke free using a taser and physical resistance. In the enclosed stairwell confrontation, Dead Drop launched gyroscopically stabilized chain-link projectiles at Maya, but Maya's barokinetic pressure field stopped them mid-flight. When Maya sealed the fire door and created a crushing pressure zone, Dead Drop broke the pressure seal by tearing the fire door off its hinges with brute ferrokinesis, creating an opening that relieved the pressure. Maya escaped by dropping down the stairwell center using controlled pressure descent. Dead Drop supported the injured Dean down six flights of stairs afterward and contributed to the tactical debrief at the Camden safehouse. She noted that Maya could use pressure differentials for three-dimensional mobility via controlled falls, adding a critical observation to the intelligence gathered. Monkey Business subsequently reclassified Maya as a hazard to route around rather than pursue directly.
+    Partnered with Rush Order on a joint reconnaissance-turned-ambush of Maya Richardson during a winter blizzard in Northeast Philadelphia. Dead Drop drove the van while Dean navigated using his person-location sense, the pair operating with established tactical coordination described as having been "run a dozen times on Kingdom couriers and drug shipments." Dead Drop's power radar sensed something wrong about Maya before the confrontation - Maya felt like a "brick wall" in her brain rather than the "diffuse static electricity" typical of weather powers, an early indication that Maya's true ability was not weather control. After locating Maya on a six-story industrial rooftop conducting weather manipulation, Dead Drop's ferrokinetic chains snagged Maya's ankle and wrist during the initial capture attempt, but Maya broke free by snapping out of her clothes to escape the restraints. In the enclosed stairwell confrontation, Dead Drop launched gyroscopically stabilized chain-link projectiles at Maya, but Maya's barokinetic pressure field stopped them mid-flight. When Maya sealed the fire door and created a crushing pressure zone, Dead Drop broke the pressure seal by tearing the fire door off its hinges with brute ferrokinesis, creating an opening that relieved the pressure. Maya escaped by dropping down the stairwell center using controlled pressure descent. Dean's passive aerokinesis partially shielded Dead Drop from Maya's pressure manipulation during the stairwell fight - without it, she would have been crushed. Dead Drop supported the injured Dean down six flights of stairs afterward and contributed to the tactical debrief at the Camden safehouse. She noted that Maya could use pressure differentials for three-dimensional mobility via controlled falls, adding a critical observation to the intelligence gathered. Monkey Business subsequently reclassified Maya as a hazard to route around rather than pursue directly.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Mentioned
 
-    Currently active alongside the rest of Rogue Wave's core team, working to hold the organization together while Mr. Antithesis conducts a rampage through Rogue Wave's operations to acquire Fly for re-powering Mr. Polygraph. Dead Drop and Rush Order are specifically noted as spreading word of Maya Richardson's true power (barokinesis, not weather control) to the criminal underground, advising others not to engage and to route around her.
+    Kingdom forces continue intercepting and sabotaging Rogue Wave's Jump distribution; Dead Drop is not featured directly.
 
 
 ## Trivia
 
-- Dead Drop's codename is also the title of Book 15, though she appears in a limited capacity during that arc. The term "dead drop" in espionage refers to a secret location for passing information without direct contact -- fitting for an intelligence specialist who speaks in coded language.
-- During Chapter 180, Sam unknowingly bumped into Dead Drop on a city bus while conducting surveillance on the Sunoco station drug operation. Neither recognized the other at the time, though Dead Drop was likely conducting her own surveillance in the area.
-- One of Sam's civilian informants, a friend of Darius named "Costello," shares her surname and was encountered at Campbell Square Park during the same investigation arc, though no explicit connection between the two is confirmed.
-- Her conspiracy theory obsession began with aliens but inadvertently led her into genuine trouble with government agencies -- a darkly ironic trajectory where her paranoia about surveillance became self-fulfilling.
-- Renee is the youngest member of Rogue Wave's core team by several years, with the next youngest being Elias Franklin (Chimera) at twenty-six.
-- Her ferrokinesis specialization in chains and restraints mirrors her role as Rogue Wave's capture specialist -- her power and her function within the organization are perfectly aligned.
-- She is one of two Rogue Wave members (alongside Rush Order) specifically tasked with disseminating intelligence about Maya Richardson's barokinesis to the criminal underground as of Arc 16.
+- The term "dead drop" in espionage refers to a secret location for passing information without direct contact - fitting for an intelligence specialist.
+- One of Sam's civilian informants, a friend of Darius named "Costello," shares her surname (encountered at Campbell Square Park), though no explicit connection is confirmed.
+- Youngest member of Rogue Wave's core team by several years, with the next youngest being Chimera at twenty-six.

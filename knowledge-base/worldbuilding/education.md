@@ -16,34 +16,32 @@
 
 ## Overview
 
-Metahuman education in the United States encompasses the body of laws, institutional policies, and academic programs that ensure powered individuals receive equitable access to schooling at every level. At the K-12 level, the system is built on two legislative pillars: the federal Individuals with Disabilities Education Act (IDEA) and the Superhuman Education Act of 2005, which together guarantee metahuman students the right to a free and appropriate public education with reasonable accommodations tailored to their abilities.
+Metahuman education in the United States encompasses the laws, policies, and academic programs ensuring powered individuals receive equitable access to schooling. At the K-12 level, the system is built on the Individuals with Disabilities Education Act (IDEA) and the Superhuman Education Act of 2005, which together guarantee metahuman students free and appropriate public education with reasonable accommodations.
 
-The legal landscape was decisively shaped by the 2016 Supreme Court ruling in *Z v. Arizona State Board of Education*, which established binding precedent extending IDEA protections to superhuman students. Schools are now required not only to refrain from discriminating against powered students but to proactively develop accommodations addressing the unique challenges that metahuman abilities present in educational settings.
+The 2016 Supreme Court ruling in *Z v. Arizona State Board of Education* established binding precedent extending IDEA protections to superhuman students, requiring schools to proactively develop accommodations rather than merely refraining from discrimination.
 
-Beyond K-12, the growth of metahuman-focused scholarship has produced dedicated higher education programs. The Bachelor of Arts in Metahuman Studies, offered through the Department of Metahuman Studies and Ethics, represents the most comprehensive undergraduate pathway into the field, preparing graduates for careers in research, policy, healthcare, costuming, and technological development.
+Beyond K-12, the Bachelor of Arts in Metahuman Studies (Department of Metahuman Studies and Ethics) represents the most comprehensive undergraduate pathway into the field.
 
 ## Mechanics
 
 ### K-12 Legal Framework
 
-The Superhuman Education Act of 2005 extends the concept of free and appropriate public education to superhuman children, guaranteeing them access to the same schooling as their non-powered peers with appropriate accommodations. This legislation operates alongside IDEA, which provides the procedural infrastructure for individualized education planning.
+The Superhuman Education Act of 2005 guarantees superhuman children access to the same schooling as non-powered peers with appropriate accommodations, operating alongside IDEA's procedural infrastructure for individualized education planning.
 
-The landmark case *Z v. Arizona State Board of Education* (2016) cemented these protections. The plaintiff, a 14-year-old student identified only as "Z," possessed an ability described as "super-cold reading" -- the capacity to discern information from individuals and the surrounding environment. Her school district accused her of cheating on examinations and imposed punitive measures including isolation during exams, suspension, removal from honors courses, exclusion from extracurricular activities, and a coerced behavioral contract prohibiting use of her abilities. The Supreme Court ruled 7-2 in Z's favor, with Chief Justice Roberts writing for the majority that the school district failed to produce compelling evidence of cheating and had violated its obligations under both the Superhuman Education Act and IDEA. Justices Thomas and Alito dissented, citing concerns about states' rights and academic integrity respectively.
+In *Z v. Arizona State Board of Education* (2016), the plaintiff - a 14-year-old with "super-cold reading" (the capacity to discern information from individuals and the environment) - was accused of cheating and subjected to isolation, suspension, removal from honors courses, exclusion from extracurriculars, and a coerced behavioral contract prohibiting use of her abilities. The Supreme Court ruled 7-2 in Z's favor, with Chief Justice Roberts writing that the district failed to produce compelling evidence of cheating and had violated its obligations under both the Superhuman Education Act and IDEA. Justices Thomas and Alito dissented on states' rights and academic integrity grounds respectively.
 
 ### School-Level Policy
 
-Individual school districts implement metahuman education policy through student handbooks and administrative procedures. Using Valleywood Public High School as a representative example, typical policies include:
+Using Valleywood Public High School as a representative example, typical school-level policies include:
 
-- **Ability Usage** -- Superhuman abilities are prohibited on school premises unless explicitly authorized by faculty for educational or emergency purposes.
-- **Harassment Provisions** -- Intimidation through the use or threat of powers constitutes a severe disciplinary offense carrying potential expulsion and legal consequences.
-- **Voluntary Disclosure** -- Students are not required to disclose their abilities, though nondisclosure may limit available accommodations.
-- **Confidentiality** -- All records pertaining to a student's metahuman status are handled under strict confidentiality protocols and disclosed only to necessary personnel.
+- **Ability Usage** - Prohibited on school premises unless authorized by faculty for educational or emergency purposes.
+- **Harassment Provisions** - Intimidation through use or threat of powers constitutes a severe disciplinary offense.
+- **Voluntary Disclosure** - Students are not required to disclose abilities, though nondisclosure may limit accommodations.
+- **Confidentiality** - All metahuman status records are handled under strict confidentiality, disclosed only to necessary personnel.
 
 ### Accommodations and Individualized Planning
 
-Students seeking accommodations submit form SH-21 (or equivalent), accompanied by medical or expert documentation. An Individualized Accommodations Plan (IAP) is then developed collaboratively by parents or guardians, school staff, and superhuman ability experts on a case-by-case basis.
-
-For students who qualify under IDEA, a formal Individualized Education Program (IEP) may be developed. Common accommodations for powered students include:
+Students seeking accommodations submit form SH-21 (or equivalent) with medical documentation. An Individualized Accommodations Plan (IAP) is developed collaboratively by parents, school staff, and ability experts. For students qualifying under IDEA, a formal Individualized Education Program (IEP) may be developed. Common accommodations include:
 
 - Specialized seating arrangements (e.g., positioning away from hazards in science labs for students with pyrokinesis)
 - Scheduled mindfulness breaks for ability regulation
@@ -57,11 +55,11 @@ For students who qualify under IDEA, a formal Individualized Education Program (
 
 ### Undisclosed Status Protections
 
-Schools recognize that students may choose not to disclose their abilities for personal, safety, or privacy reasons, and this right is protected under existing disability and privacy laws. Students with undisclosed abilities may seek confidential support from designated staff members such as counselors. If an undisclosed ability is revealed during an emergency, schools are required to handle the incident with sensitivity, prioritizing the student's privacy in all subsequent actions. Critically, schools may not compel disclosure, nor may they take punitive action based on a student's choice to keep abilities private. No mandatory disclosure to parents is required.
+Students may choose not to disclose abilities, protected under disability and privacy laws. They may seek confidential support from designated staff. If an ability is revealed during an emergency, schools must prioritize the student's privacy. Schools may not compel disclosure, take punitive action for nondisclosure, or mandate disclosure to parents.
 
 ### Higher Education: Bachelor of Arts in Metahuman Studies
 
-The Department of Metahuman Studies and Ethics offers a Bachelor of Arts in Metahuman Studies, an interdisciplinary program integrating sociology, psychology, biology, physics, ethics, and law. The degree is housed within the College of Liberal Arts and requires 123 total semester hours, with 78-80 credits in the major.
+The BA in Metahuman Studies is an interdisciplinary program integrating sociology, psychology, biology, physics, ethics, and law. Housed within the College of Liberal Arts, it requires 123 total semester hours with 78-80 credits in the major.
 
 **Core Curriculum (Required Courses):**
 
@@ -92,23 +90,19 @@ Distinction in the major requires a minimum 3.50 GPA in both the major and cumul
 
 ## History
 
-The formal integration of metahuman students into the American education system began with the passage of the Superhuman Education Act of 2005, which extended the guarantees of free and appropriate public education to powered children. Prior to this legislation, metahuman students navigated what legal scholars have described as a murky legal landscape, with no clear statutory protections ensuring their right to accommodations.
+Prior to the Superhuman Education Act of 2005, metahuman students navigated a murky legal landscape with no clear statutory protections. The *Z v. Arizona* decision drew on precedent stretching back to *Brown v. Board of Education* (1954), and the cross-ideological 7-2 majority - including GOP-appointed Justices Sutton and Larsen - signaled broad consensus on metahuman civil liberties in education.
 
-The pivotal moment came in 2016, when the Supreme Court ruled in *Z v. Arizona State Board of Education*. The 7-2 decision, drawing on precedent stretching back to *Brown v. Board of Education* (1954), established that the principles of IDEA unambiguously apply to superhuman students. The ruling mandated that schools proactively consider and implement accommodations rather than simply refraining from overt discrimination. The cross-ideological majority -- including both liberal justices and GOP-appointed Justices Sutton and Larsen -- signaled broad consensus on the issue of metahuman civil liberties in education.
-
-The development of higher education programs in metahuman studies followed the broader trajectory of dynology's emergence as an academic discipline in the early 1980s. As scientific understanding of superhuman abilities matured through institutions like MIT and the Aegis Institute, demand grew for specialized undergraduate programs addressing not just the science but the social, ethical, legal, and policy dimensions of metahumanity. The Bachelor of Arts in Metahuman Studies represents the formalization of this interdisciplinary approach, producing graduates equipped to work across the expanding metahuman-adjacent professional landscape.
+Higher education programs in metahuman studies developed as dynology matured, with growing demand for undergraduate programs addressing not just the science but the social, ethical, legal, and policy dimensions of metahumanity.
 
 ## Implications
 
-The education framework for metahumans carries significant consequences across multiple domains of American life.
+**For Students and Families:** The voluntary disclosure model respects metahuman identity while providing pathways to support. Parents have access to counseling, mediation services, and external expert referrals through school resource offices.
 
-**For Students and Families:** Powered students are guaranteed equitable access to education without being forced to choose between exercising their abilities and attending school. The voluntary disclosure model respects the deeply personal nature of metahuman identity, while still providing pathways to support for those who seek it. Parents have access to counseling, mediation services, and external expert referrals through school resource offices.
+**For Schools and Educators:** The *Z v. Arizona* ruling placed an affirmative obligation on districts to develop accommodation infrastructure, maintain specialized counselors, and prepare emergency protocols for accidental power manifestation.
 
-**For Schools and Educators:** The *Z v. Arizona* ruling placed an affirmative obligation on school districts to develop accommodation infrastructure. Schools must maintain designated staff for confidential support, specialized counselors familiar with metahuman abilities, and administrative procedures for IAP and IEP development. Faculty must be prepared to manage classrooms that may include students with undisclosed abilities, and emergency protocols must account for the possibility of accidental power manifestation.
+**For Legal and Policy Frameworks:** The extension of IDEA to metahumans created a new protected status intersecting disability law and emerging metahuman civil rights doctrine, with implications well beyond education.
 
-**For Legal and Policy Frameworks:** The extension of IDEA to metahumans created a new category of protected status that intersects with both disability law and emerging metahuman civil rights doctrine. The precedent set by *Z v. Arizona* has implications well beyond education, reinforcing the broader legal trajectory toward treating metahuman status as a protected characteristic.
-
-**For Professional Pipelines:** The Metahuman Studies degree program feeds directly into the growing ecosystem of metahuman-adjacent professions, including policy analysis, healthcare, costume and support device engineering, forensic analysis, and security. Accelerated degree pathways into law and public policy further strengthen the pipeline of professionals equipped to navigate the regulatory landscape surrounding superhuman activity.
+**For Professional Pipelines:** The Metahuman Studies degree feeds into metahuman-adjacent professions including policy analysis, healthcare, costume engineering, forensic analysis, and security.
 
 ## Classification / Taxonomy
 
@@ -140,24 +134,16 @@ The BA program's elective offerings cluster into several informal concentrations
 
 ## Related Concepts
 
-- **PERKS Assessment** -- The national power classification system; understanding PERKS categories is foundational to multiple Metahuman Studies courses, including Applied Power Dynamics and Tactical Response.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework that many Metahuman Studies graduates go on to administer, analyze, or interact with professionally.
-- **NSRA (National Superhuman Response Agency)** -- The federal agency that regulates metahuman activity; NSRA policy is a core subject in the Metahuman Policy and Governance course.
-- **Dynology** -- The broader scientific discipline studying superhuman abilities, founded in the early 1980s; Metahuman Studies draws heavily on dynological research while incorporating social science and humanities perspectives.
-- **Metahuman Healthcare** -- A major career pathway for Metahuman Studies graduates; the BA program includes an elective in Medical Care for Metahumans.
-- **Costume and Support Device Engineering** -- The applied design field for superhuman equipment; the BA program offers Gadgetmaking and Costume Engineering as a core course option alongside Costume Material Science as an elective.
+- **PERKS Assessment** - Foundational to multiple Metahuman Studies courses including Applied Power Dynamics and Tactical Response.
+- **LUMA (License to Utilize Metahuman Abilities)** - Many graduates go on to administer or interact with this licensing framework professionally.
+- **NSRA (National Superhuman Response Agency)** - NSRA policy is a core subject in the Metahuman Policy and Governance course.
+- **Dynology** - The scientific discipline studying superhuman abilities; Metahuman Studies draws on dynological research while incorporating social science and humanities.
+- **Metahuman Healthcare** - A major career pathway; the program includes an elective in Medical Care for Metahumans.
+- **Costume and Support Device Engineering** - The program offers Gadgetmaking and Costume Engineering as a core course option.
 
 ## Trivia
 
-- The Valleywood Public High School student handbook, a representative example of metahuman school policy, designates form SH-21 as the specific document for requesting superhuman accommodations.
 - The Metahuman Studies program code is ST-MSE-BS, despite the degree being a Bachelor of Arts housed in the College of Liberal Arts.
-- The *Z v. Arizona* ruling attracted a notably cross-partisan majority, with both liberal justices and Republican-appointed Justices Sutton and Larsen joining the 7-2 decision.
-- The IEP example for a student named Emily W. illustrates accommodations for a student with both pyrokinesis and telepathy, including soundproofed testing rooms, noise-canceling headphones, and modified science lab participation.
+- The IEP example for a student named Emily W. illustrates accommodations for both pyrokinesis and telepathy, including soundproofed testing rooms, noise-canceling headphones, and modified science lab participation.
 - Metahuman Studies students must complete at least two writing-intensive courses, with MSE 3296 (Metahuman Ethics and Law) serving as the mandatory first option.
-- The program offers three distinct accelerated pathways to graduate degrees, including a direct pipeline into metahuman law via a combined BS/JD track.
 
-## Sources
-
-- education.txt -- K-12 legal framework including the Superhuman Education Act (2005), *Z v. Arizona State Board of Education* (2016), Valleywood Public High School handbook policies, accommodations procedures (IAP/IEP), undisclosed status protections, and parent information resources.
-- bachelors-of-arts-in-metahuman-studies.txt -- Full Bachelor of Arts in Metahuman Studies program details including department overview, core curriculum, elective offerings, non-MSE course options, accelerated pathways, distinction requirements, and program code.
-- THE FACTSHEET.txt -- Condensed reference for education legal framework, school policies, IEP accommodations, school resources, Metahuman Studies program summary, and dynology educational system context.

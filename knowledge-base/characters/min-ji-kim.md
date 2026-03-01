@@ -24,11 +24,9 @@
 
 ## Background
 
-Min-ji Kim is a Korean-American metahuman who operates under the codename Moonshot as the bruiser and mobility specialist of the Tacony Titans, a team of young vigilante heroes based in the Tacony neighborhood of Northeast Philadelphia. At twenty-two years old, she is the oldest member of the Titans and functions as the team's adult figure, providing a steadying, professional presence that complements the younger members' energy and idealism.
+Min-ji Kim is a Korean-American metahuman who operates under the codename Moonshot as the bruiser and mobility specialist of the Tacony Titans, a young vigilante team based in Northeast Philadelphia. At twenty-two, she is the oldest member and functions as the team's adult figure, providing a steadying, professional presence.
 
-Min-ji is the daughter of hardworking Korean immigrants and balances family responsibilities with her heroic ambitions. The specifics of her activation event and the circumstances under which she gained her gravity manipulation abilities have not been detailed. She likely works part-time or attends college in addition to her duties with the Titans. Her immigrant family background has instilled in her a strong work ethic and a sense of duty, traits that translate directly into her role as the team's most physically imposing combatant and its most reliable aerial asset.
-
-Min-ji was first encountered by Sam Small during the battle against Ricochet in late April 2024, where she arrived as a last-minute reinforcement by crashing through a warehouse wall like a missile. She was formally introduced alongside the rest of the Tacony Titans when the team allied with Sam's Auditors during the joint investigation into the Jump and Fly drug distribution network in mid-May 2024. Since that alliance, Moonshot has served as a consistent presence in Philadelphia's vigilante landscape, providing aerial reconnaissance, heavy-hitting combat support, and coordinated operations alongside both the Titans and the Auditors.
+The daughter of hardworking Korean immigrants, Min-ji balances family responsibilities with her heroic ambitions. The specifics of her activation event have not been detailed. She likely works part-time or attends college in addition to Titans duties. Her family background instilled a strong work ethic and sense of duty that define her role as the team's most physically imposing combatant and most reliable aerial asset.
 
 ## Powers & Abilities
 
@@ -38,42 +36,40 @@ No official PERKS assessment on file.
 
 ### Abilities
 
-- **Personal Gravity Manipulation** - Min-ji can manipulate her own gravitational field, allowing her to become lighter, heavier, or change the direction of gravitational pull on her body. This self-targeting power gives her exceptional versatility in both movement and combat. Based on the world's classification of gravity manipulation as a flight method, her power likely creates localized gravitational fields centered on herself, potentially causing visible light distortion in her immediate vicinity.
-- **Simulated Flight** - By reducing her personal gravity and redirecting its vector, Min-ji can mimic flight, launching herself through the air with considerable speed and control. She has been observed patrolling from above and providing aerial reconnaissance during operations. Her entrance during the Ricochet battle, where she crashed through a wall like a missile, demonstrates the velocity she can achieve.
-- **Mass-Enhanced Strikes** - Min-ji can increase her personal mass through gravity manipulation to deliver significantly more forceful physical attacks. By making herself heavier at the moment of impact, she amplifies the kinetic energy of her strikes, functioning as the team's primary bruiser and close-quarters combatant.
-- **Gravity-Assisted Mobility** - Her gravity manipulation grants her advanced movement capabilities beyond flight, including rapid directional changes, controlled descents, and the ability to scale vertical surfaces. She used this ability to ascend the exterior of the Dorchester building during the Sparkplug infiltration alongside Sam Small.
-- **Gravity-Enhanced Tool Use** - Min-ji has demonstrated the ability to channel her gravity manipulation through objects she holds. During the Sparkplug operation, she used a modified hammer enhanced by her gravity powers to weaken and then shatter reinforced window glass.
+- **Personal Gravity Manipulation** - Can manipulate her own gravitational field, becoming lighter, heavier, or changing the direction of gravitational pull on her body. Creates localized gravitational fields centered on herself, potentially causing visible light distortion.
+- **Simulated Flight** - Reduces personal gravity and redirects its vector to launch through the air with considerable speed and control. Provides aerial reconnaissance and high-velocity combat entrances.
+- **Mass-Enhanced Strikes** - Increases personal mass at the moment of impact to amplify kinetic energy, functioning as the team's primary close-quarters combatant.
+- **Gravity-Assisted Mobility** - Rapid directional changes, controlled descents, vertical surface scaling, and rooftop-to-rooftop leaps. Can carry passengers while ascending buildings.
+- **Gravity-Enhanced Tool Use** - Channels gravity manipulation through held objects, adding gravitational force to swings (e.g., shattering reinforced glass with a hammer).
 
 ### Limitations
 
 - Min-ji's gravity manipulation appears to be limited to her own person and objects in her immediate physical contact. There is no evidence she can project gravitational fields at range or affect other people's gravity.
-- The caloric demands of gravity manipulation may be significant; the factsheet notes that fliers typically require two to three times normal caloric intake.
+- The caloric demands of gravity manipulation may be significant; fliers typically require two to three times normal caloric intake.
 - Specific upper limits on how much she can increase or decrease her mass, or the maximum velocity she can achieve in flight, have not been documented.
 - She is a baseline human outside of her gravity manipulation; she does not possess enhanced durability, regeneration, or other secondary physical enhancements.
 
 ### Training & Skills
 
-- Experienced in coordinated team operations, having participated in multi-team engagements alongside the Auditors, Young Defenders, and other vigilante groups.
-- Proficient in aerial reconnaissance and tactical positioning, frequently serving as the Titans' eyes in the sky during surveillance and combat operations.
-- Skilled in the practical application of her powers to non-combat tasks such as building infiltration and structural manipulation.
-- Capable of integrating her gravity-enhanced combat style with conventional tools and equipment.
+- Experienced in coordinated multi-team operations alongside the Auditors and other vigilante groups.
+- Proficient in aerial reconnaissance and tactical positioning; frequently serves as the Titans' eyes in the sky.
 
 ## Personality
 
-Min-ji is calm, professional, and reserved, with a dry sense of humor that surfaces in understated moments rather than broad comedy. She focuses on executing plans with precision rather than overanalyzing situations, making her a reliable operator in high-pressure scenarios. While she may appear distant or detached to those who do not know her well, she is deeply committed to protecting her teammates and takes her responsibilities as the team's oldest member seriously.
+Min-ji is calm, professional, and reserved, with a dry sense of humor that surfaces in understated moments. She focuses on executing plans with precision rather than overanalyzing, making her reliable in high-pressure scenarios. While she may appear distant, she is deeply committed to protecting her teammates.
 
-Her demeanor serves as a counterbalance to the more volatile or emotional personalities on the Tacony Titans. Where others might hesitate or react impulsively, Min-ji provides a steadying influence that keeps the team focused on their objectives. She does not seek the spotlight or assert authority through charisma; instead, she leads by example through consistent performance and quiet dependability. Her immigrant family background has shaped her into someone who understands the value of hard work and obligation, qualities that define her approach to heroism as much as her gravity powers do.
+Her demeanor counterbalances the more volatile personalities on the Titans. She does not seek the spotlight or assert authority through charisma; instead, she leads by example through consistent performance and quiet dependability.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Lucy King (Sundial) | Team leader | Min-ji operates under Sundial's leadership in the Tacony Titans. As the team's adult member, she supports Sundial's strategic decisions and provides the physical enforcement the team requires. |
-| Joshua Clark (Sandman) | Teammate | Fellow Titan and the team's second-in-command. The two have operated together on multiple missions, including the Sparkplug infiltration and the Aaron McKinley crisis. |
-| Rosa Acosta (Bubble) | Teammate | Fellow Titan. Min-ji's role as the team's bruiser complements Bubble's defensive force field capabilities. |
-| Natasha Sokolov (Compass) | Teammate | Fellow Titan and tech specialist. Compass and Moonshot frequently appear together in field operations, providing complementary offensive capabilities. |
-| Sam Small (Bloodhound) | Ally | Leader of the Auditors. Min-ji first encountered Sam during the Ricochet battle and has worked alongside her on numerous joint operations, including the Sparkplug takedown and the Aaron McKinley arson investigation. |
-| Jordan Westwood (Safeguard) | Ally | Co-founder of the Auditors. Operated alongside Min-ji during the Sparkplug penthouse infiltration. |
+| Lucy King (Sundial) | Team leader | Supports Sundial's strategic decisions and provides the physical enforcement the team requires. |
+| Joshua Clark (Sandman) | Teammate | Second-in-command; operated together on multiple missions. |
+| Rosa Acosta (Bubble) | Teammate | Bruiser/force-field complementary pairing; has carried Bubble through the air during operations. |
+| Natasha Sokolov (Compass) | Teammate | Frequently paired in field operations; grouped together for outreach ahead of Operation Ivory. |
+| Sam Small (Bloodhound) | Ally | Primary Auditors contact. Worked together on numerous joint operations since the Ricochet battle. |
+| Jordan Westwood (Safeguard) | Ally | Auditors co-founder. Coordinated during the Sparkplug and Dobson Mills operations. |
 
 ## Arc Appearances
 
@@ -81,45 +77,42 @@ Her demeanor serves as a counterbalance to the more volatile or emotional person
 
     **Role:** Supporting
 
-    First appeared in Chapter 72, arriving as a last-minute reinforcement during the battle against Ricochet by crashing through a warehouse wall. Formally introduced alongside the Tacony Titans in Chapter 73 as a hero with apparent flight and impact powers. Participated in the alliance formation meeting at the Titans' garage headquarters in Chapter 80, where her gravity manipulation abilities were formally identified. Provided aerial reconnaissance during the weeklong stakeout of Squeal's apartment. Engaged in the chaotic Dobson Mills warehouse battle in Chapter 81 alongside Compass and the combined hero teams. Played a key role in the Sparkplug penthouse infiltration in Chapter 84, ascending the exterior of the Dorchester building with Sam using gravity manipulation, weakening and shattering the reinforced window with a gravity-enhanced hammer to create the team's entry point.
+    First appeared in Chapter 72, arriving as a last-minute reinforcement during the battle against Ricochet by crashing through a wall opening like a missile and colliding with Ricochet horizontally. Formally identified in Chapter 73 as Moonshot, hovering above the scene in opaque goggles, hoodie, and protective pads, and helped handcuff Ricochet while Sam provided a distraction. Participated in the alliance formation meeting at the Titans' garage headquarters in Chapter 80, where her gravity manipulation abilities were formally revealed. During the weeklong stakeout of Squeal's apartment, tracked Squeal from rooftops using gravity-assisted leaps and carried Bubble through the air to the Dobson Mills operation site. Engaged in the Dobson Mills warehouse battle in Chapter 81 alongside Compass and the combined hero teams, where both were blown into walls by Sparkplug's massive electric burst. Jordan protected Compass and Moonshot from approaching goons during the chaos. In Chapter 82, was present at the scene when paramedics treated Kate's injuries following the battle. During the joint meeting in Chapter 83, suggested that Team Mayfly take on tech support and surveillance roles rather than field operations - a compromise that was accepted. Played a key role in the Sparkplug penthouse infiltration in Chapter 84, carrying Sam up the side of the Dorchester building in a blanket using gravity manipulation, then weakening and shattering the reinforced penthouse window with a nail-welded hammer enhanced by gravity. After the operation, extracted Sam from the building by making her lighter, and was credited by Sam as essential to the insertion and extraction.
 
 ??? warning "Book 8: Big"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    Referenced as part of the Tacony Titans during the broader alliance of vigilante teams operating in Philadelphia. The Titans continued their investigation and patrols during this period.
+    Referenced by name in Chapter 131 during the multi-team planning meeting at the hospital following Devonte's shooting. Sundial stated that she, Moonshot, and Compass would reach out to other street teams in the city ahead of Operation Ivory, noting that the Tacony Titans were not the only unlicensed team available to assist.
 
 ??? warning "Book 9: Sheol"
 
     **Role:** Supporting
 
-    Participated in the investigation of the coffee shop arson in Chapter 140, arriving with Compass to provide additional support at the burned crime scene during the Aaron McKinley manhunt. Observed by Sam patrolling from above during the citywide crisis in Chapter 146 as Philadelphia descended into chaos from copycat arsons and civil unrest.
+    Arrived at the coffee shop arson scene in Chapter 140, descending in a slow arc with flight goggles and sliding along the ground steplessly, offering backup alongside Compass during the Aaron McKinley investigation. Her entrance was cool and professional - "Heard you might need backup." Observed by Sam in Chapter 146 soaring low between rooftops while Sam walked through a Philadelphia gripped by copycat fires, civilian patrols, and civil unrest during the citywide crisis.
 
 ??? warning "Book 12: Authorized Personnel Only"
 
     **Role:** Mentioned
 
-    The Tacony Titans, including Moonshot, are referenced as one of the three major vigilante factions operating in Philadelphia alongside the Auditors and Pattinson's Pals during the escalating conflict with Argus Corps and anti-vigilante legislation. Sam assisted the Titans in covering neighborhood patrols during this period.
+    Titans referenced as one of three major vigilante factions alongside the Auditors and Pattinson's Pals during the escalating conflict with Argus Corps.
 
 ??? warning "Book 13: Burn After Reading"
 
     **Role:** Supporting
 
-    Observed by Sam intervening in a mugging during an evening patrol in Chapter 193, while Sam was forced to wait and watch due to her post-confrontation restrictions and parental boundaries. Moonshot's ability to operate freely contrasted with Sam's constrained status during this period.
+    Observed by Sam intervening in a mugging during an evening patrol in Chapter 193, dropping in at terminal velocity to grab both muggers by their collars and deposit them on a nearby roof while Sam was limited to providing first aid to the victim due to her post-confrontation restrictions. Moonshot's ability to operate freely contrasted with Sam's constrained status during this period. Throughout the arc, Moonshot appeared in Auditors group chat patrol reports as an active presence in coordinated neighborhood patrols - stopping a mugging in Kensington (Chapter 195), patrolling with Bubble and Auditors members (Chapter 196), reporting uneventful patrols during a heightened alert period (Chapter 198), and joining coordinated patrols with Sundial and Auditors (Chapter 201).
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Listed among the Tacony Titans overwhelmed with storm response during the Maya Richardson-engineered blizzard in Chapter 229. The Titans - Moonshot, Sandman, Compass, and Bubble - were stretched thin handling search and rescue operations across Northeast Philadelphia, prompting Sundial to request Auditors assistance with coverage. Joint communication channels were established between the two teams during this crisis.
+    Listed among the Tacony Titans overwhelmed with storm response during the Maya Richardson-engineered blizzard in Chapter 229. Moonshot was assigned to sweep the Cottman corridor while Sandman coordinated from base and Compass and Bubble handled residential check-ins. The Titans had been doing search and rescue since before dawn - handling car accidents, people without power, and medical emergencies - and were now facing a wave of commercial break-ins. Sundial requested Auditors assistance with coverage, and a shared communication channel was established between the two teams.
 
 
 ## Trivia
 
-- Min-ji's codename, Moonshot, likely references both her gravity-based powers and the explosive, projectile-like manner in which she enters combat situations.
-- Her first appearance in Chapter 72 was described from Sam's perspective as someone crashing through a wall "like a missile," establishing her signature high-impact entrance style before her powers were fully understood.
-- She is the oldest member of the Tacony Titans at twenty-two, making her one of the few adult-age heroes operating in Philadelphia's neighborhood vigilante scene.
-- The Tacony Titans are described as "the boy scouts of Tacony" and the defensive, reactive counterpart to the Auditors' aggressive, proactive approach. Min-ji's calm professionalism embodies this measured philosophy.
-- Her gravity manipulation categorizes her power under the Adjust classification in the PERKS system (modifies existing variables in a system) with a Self targeting type, as she modifies the gravitational forces acting on her own body rather than projecting effects outward.
-- According to the world's factsheet on flight, gravity manipulators create localized gravitational fields, become the center of a gravity well, and may cause visible light distortion - details that likely apply to Moonshot's flight capabilities.
-- Her current status as of the beginning of Arc 16 is noted simply as presumably working and handling school.
+- Her codename likely references both her gravity-based powers and the explosive, projectile-like manner in which she enters combat.
+- The Tacony Titans are described as "the boy scouts of Tacony" - the defensive, reactive counterpart to the Auditors' proactive approach. Min-ji's professionalism embodies this philosophy.
+- Her gravity manipulation falls under the Adjust classification in PERKS (modifies existing variables) with a Self targeting type.
+- Current status as of Arc 16 is noted simply as presumably working and handling school.

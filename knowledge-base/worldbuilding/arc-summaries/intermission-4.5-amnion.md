@@ -1,6 +1,6 @@
 # Intermission 4.5: Amnion
 
-> Recovery is its own battlefield, and healing demands a reckoning with every wound -- physical, psychological, and relational -- that combat left behind.
+> Recovery is its own battlefield, and healing demands a reckoning with every wound - physical, psychological, and relational - that combat left behind.
 
 ## Infobox
 
@@ -18,28 +18,28 @@
 
 ## Summary
 
-Intermission 4.5 opens in the immediate aftermath of Sam Small's near-fatal confrontation with Illya Fedorov (Chernobyl), which left her hospitalized with acute radiation syndrome, internal microwave burns, severe muscle atrophy, and complete hair loss. Dr. Emily Lin outlines a recovery timeline stretching months, while Dr. Rajiv Desai begins psychological evaluation and identifies symptoms consistent with PTSD, bipolar disorder, pre-existing ADHD, and possible autism spectrum disorder. Sam is placed on lithium, which stabilizes her mood but introduces an emotional flatness she finds suffocating. Her family -- Benjamin, Rachel, and Pop-Pop Moe -- visit with a fragile consensus: they will not stop Sam's superhero work, but they will not actively support it either. Sam overhears her father and grandfather arguing about whether her heroism is worth the cost, with Benjamin revealing deep insecurity about his own career compared to his daughter's deeds.
+Intermission 4.5 opens in the immediate aftermath of Sam's near-fatal confrontation with Chernobyl, which left her hospitalized with acute radiation syndrome, internal microwave burns, severe muscle atrophy, and complete hair loss. Dr. Emily Lin outlines a recovery timeline stretching months, while Dr. Rajiv Desai begins psychological evaluation and identifies PTSD, bipolar disorder, pre-existing ADHD, and possible autism spectrum disorder. Sam is placed on lithium, which stabilizes her mood but introduces an emotional flatness she finds suffocating. Her family visits with a fragile consensus: they will not stop Sam's superhero work, but they will not actively support it either. Sam overhears Ben and Pop-pop Moe arguing about whether her heroism is worth the cost, with Ben revealing deep insecurity about his own career compared to his daughter's deeds.
 
-Running parallel to Sam's hospital arc, Interlude IF.1 presents a Philadelphia Inquirer article covering Illya Fedorov's February 23 surrender on the steps of the Philadelphia Federal Building, with the NSRA publicly claiming credit for the outcome. Interlude IF.2 shifts to Illya's first-person perspective inside a radiation containment cell, where he assists hazmat workers with technical shielding recommendations and meets with defense attorney Gerald Caldwell and paralegal Riya Kapoor. Caldwell agrees to represent him, displays trust by forgoing protective gear, and the two begin constructing a legal defense rooted in necessity and context. Illya weeps upon learning Sam survived.
+Interlude IF.1 presents an Inquirer article covering Illya's February 23 surrender at the Philadelphia Federal Building, with the NSRA publicly claiming credit. IF.2 shifts to Illya's first-person perspective inside a radiation containment cell, where he meets defense attorney Gerald Caldwell and paralegal Riya Kapoor. Caldwell agrees to represent him, displays trust by forgoing protective gear, and they begin constructing a necessity defense. Illya smiles when Caldwell confirms Sam is alive.
 
-Sam's world expands and fractures simultaneously during her convalescence. Her maternal grandmother Camilla de Leon arrives unannounced, revealing Sam's previously unknown Hispanic and Sephardic Jewish heritage while triggering an explosive confrontation with Rachel. Both women agree Sam must never meet her maternal grandfather, whose identity remains deliberately obscured. The Young Defenders visit and confirm that Kingdom operatives are discussing Sam, prompting Multiplex to assign a permanent surveillance detail. Sam requests help exonerating Joshua Pleasants (Miasma), whom the Kingdom framed. A strained private conversation with Jamila Fayad ends with Jamila postponing any relationship discussion until Sam recovers, leaving Sam spiraling into an anxiety attack.
+Sam's world expands and fractures during convalescence. Her maternal grandmother Camilla de Leon arrives unannounced, revealing Sam's previously unknown Hispanic and Sephardic Jewish heritage while triggering a confrontation with Rachel. Both women agree Sam must never meet her maternal grandfather. The Young Defenders visit and confirm Kingdom operatives are discussing Sam; Multiplex assigns a permanent surveillance detail. Sam requests help exonerating Miasma. A strained conversation with Jamila ends with her postponing any relationship discussion, leaving Sam spiraling into an anxiety attack.
 
-The intermission's middle chapters track the slow accretion of strength and community. Sam joins a support group for traumatized superhumans led by Dr. Jensen, meeting Ethan, Zara, Liam, Tara, Marcus, Nina, and Derek. The lithium's emotional blunting lifts briefly when Derek's abrasive dismissiveness provokes genuine anger in Sam -- the first strong feeling she has experienced since starting medication. Jordan Westwood finally visits after months of guilt-driven absence, revealing they have rented the Tacony Music Hall as a permanent team base using their college fund, and the two reconcile in a scene that cements their bond as chosen family. Sam confides details of the support group to Jordan, expressing particular fixation on Derek's impenetrable hostility.
+Sam joins a support group for traumatized superhumans led by Dr. Jensen, meeting Ethan, Zara, Liam, Tara, Marcus, Nina, and Derek. The lithium's blunting lifts briefly when Derek's abrasive dismissiveness provokes genuine anger - the first strong feeling she has experienced since starting medication. Jordan finally visits after months of guilt-driven absence, revealing they have rented the Tacony Music Hall as a permanent team base using their college fund. The two reconcile, cementing their bond as chosen family.
 
-The arc concludes on Sam's fifteenth birthday. Nurses decorate her room while she sleeps, and the day unfolds as a procession of visitors: her parents, Pop-Pop Moe, Abigail Silverman (visiting from college), Grandmother Camilla (seated near the door, distant but present), Bulwark, Spindle, Multiplex, Jordan and Alex, middle school friends, and select Young Defenders. Sam's doctor delivers the birthday present that matters most -- she can go home tomorrow, and the Small family house is repaired. Jamila arrives last, bringing a wind-patterned pendant, and the two share a tentative reconnection. The intermission closes with their hands entwined and the word that names the feeling: "All's well."
+The arc concludes on Sam's fifteenth birthday. Visitors include her family, Abigail Silverman, Camilla (seated near the door, distant but present), Bulwark, Multiplex, Jordan, middle school friends, and select Young Defenders. Sam's doctor delivers the birthday present that matters most - she can go home tomorrow. Jamila arrives last with a wind-patterned pendant, and the two share a tentative reconnection. The intermission closes with their hands entwined: "All's well."
 
 ## Chapter List
 
-| # | File | Summary |
-|---|------|---------|
-| 63 | 63.txt | Sam wakes from her coma and receives a comprehensive medical briefing from Dr. Lin, meets her family, and overhears her father and Pop-Pop Moe arguing about whether her heroism is worth the physical cost. |
-| IF.1 | if-1.txt | A Philadelphia Inquirer article reports on Illya Fedorov's surprise surrender at the Philadelphia Federal Building on February 23, 2024, with the NSRA claiming credit and the public reacting with mixed relief and anger. |
-| 64 | 64.txt | Sam receives visits from Lily, Marcus, and Kate (who shaved her head in solidarity); begins grueling physical therapy with Matt; has her first session with Dr. Desai, who suggests PTSD, bipolar disorder, ADHD, and possible autism; and watches news coverage of Illya's case feeling an unnamed emotion about her unacknowledged role. |
-| 65 | 65.txt | Maternal grandmother Camilla de Leon arrives unannounced, revealing Sam's Hispanic heritage and the forbidden maternal grandfather; the Young Defenders visit and confirm Kingdom chatter about Sam and Multiplex's surveillance detail; Sam and Jamila have a painful private conversation ending with a deferred breakup and Sam's anxiety attack. |
-| 66 | 66.txt | Sam reflects on weeks of hospital routine under lithium, then attends her first support group for traumatized superhumans, meeting Ethan, Zara, Liam, Tara, Marcus, Nina, and Derek, whose dismissive exit provokes the first genuine emotion Sam has felt since starting medication. |
-| 67 | 67.txt | Jordan visits for the first time since Sam's hospitalization, reveals they rented the Tacony Music Hall as a team base using their college fund, and the two reconcile over guilt, absence, and mutual worry, reaffirming their bond as chosen siblings. |
-| 68 | 68.txt | Sam turns fifteen in the hospital; her family, Abigail Silverman, teammates, school friends, Bulwark, and select Young Defenders visit throughout the day; the doctor announces Sam can go home tomorrow; Jamila arrives last with a pendant, and the intermission closes with their tentative reunion. |
-| IF.2 | if-2.txt | Illya Fedorov's first-person perspective inside his radiation containment cell: he advises hazmat workers on shielding materials, is questioned by Agent Evelyn Shaw, and meets defense attorney Gerald Caldwell and paralegal Riya Kapoor, who begin building his legal defense; Illya weeps upon learning Sam is alive. |
+| # | Summary |
+|---|---------|
+| 63 | Sam wakes from her coma; receives medical briefing from Dr. Lin; meets her family; overhears Ben and Pop-pop Moe arguing about whether her heroism is worth the physical cost. |
+| IF.1 | Inquirer article reports on Illya's surprise surrender at the Philadelphia Federal Building on February 23, 2024, with the NSRA claiming credit. |
+| 64 | Visits from Lily, Marcus, and Kate (who shaved her head in solidarity); begins physical therapy with Matt; first session with Dr. Desai, who suggests PTSD, bipolar disorder, ADHD, and possible autism; watches news coverage of Illya's case feeling an unnamed emotion about her unacknowledged role. |
+| 65 | Camilla de Leon arrives unannounced, revealing Sam's Hispanic heritage and the forbidden maternal grandfather; Young Defenders confirm Kingdom chatter about Sam; Multiplex assigns surveillance detail; Sam and Jamila have a painful conversation ending with a deferred breakup and Sam's anxiety attack. |
+| 66 | Weeks of hospital routine under lithium. First support group for traumatized superhumans: Ethan, Zara, Liam, Tara, Marcus, Nina, and Derek, whose dismissive exit provokes the first genuine emotion Sam has felt since starting medication. |
+| 67 | Jordan visits for the first time since hospitalization; reveals they rented the Tacony Music Hall as a team base using their college fund; the two reconcile, reaffirming their bond as chosen siblings. |
+| 68 | Sam turns fifteen in the hospital. Family, Abigail Silverman, teammates, school friends, Bulwark, and select Young Defenders visit. Doctor announces Sam can go home tomorrow. Jamila arrives last with a pendant; tentative reunion. |
+| IF.2 | Illya's first-person POV inside his radiation containment cell: advises hazmat workers on shielding, is questioned by Agent Evelyn Shaw, and meets defense attorney Gerald Caldwell and paralegal Riya Kapoor; smiles upon learning Sam is alive. |
 
 ## Characters
 
@@ -68,15 +68,15 @@ The arc concludes on Sam's fifteenth birthday. Nurses decorate her room while sh
 
 | Character | Role |
 |-----------|------|
-| Sam Small | Protagonist; recovering from near-fatal radiation exposure, navigating physical therapy, psychological evaluation, medication, family revelations, relationship strain, and isolation. |
-| Illya Fedorov | Surrendered villain in containment; cooperates with legal team; his parallel arc contrasts with Sam's recovery. |
-| Jordan Westwood | Sam's closest friend; absent for months due to guilt; reconciles with Sam and reveals they secured the Tacony Music Hall as a team base. |
-| Jamila Fayad | Sam's girlfriend; relationship under significant strain; defers breakup conversation; returns on Sam's birthday for tentative reconnection. |
-| Benjamin Small | Sam's father; won't stop her heroism but won't support it; reveals insecurity about his own career; argues with Pop-Pop Moe. |
-| Rachel Small | Sam's mother; tense confrontation with her own mother Camilla; protective of Sam from maternal family secrets. |
-| Morris "Pop-Pop Moe" Small | Sam's grandfather; defends Sam's heroism; reassures Benjamin about the value of his work. |
-| Elijah Brooks (Multiplex) | Young Defenders leader; assigns permanent surveillance detail around Sam; confirms Kingdom interest in her. |
-| Camilla de Leon | Sam's maternal grandmother; introduces herself and reveals family heritage; sits near the door at Sam's birthday, slowly integrating. |
+| Sam Small | Recovering from near-fatal radiation exposure; navigating physical therapy, psychological evaluation, medication, family revelations, and relationship strain. |
+| Illya Fedorov | In containment; cooperates with legal team; parallel arc contrasts with Sam's recovery. |
+| Jordan Westwood | Absent for months due to guilt; reconciles with Sam; reveals they secured the Music Hall as a team base. |
+| Jamila Fayad | Relationship under significant strain; defers breakup conversation; returns on Sam's birthday for tentative reconnection. |
+| Benjamin Small | Won't stop Sam's heroism but won't support it; reveals insecurity about his career; argues with Pop-pop Moe. |
+| Rachel Small | Tense confrontation with her mother Camilla; protective of Sam from maternal family secrets. |
+| Morris "Pop-pop Moe" Small | Defends Sam's heroism; reassures Ben about the value of his work. |
+| Elijah Brooks (Multiplex) | Assigns permanent surveillance detail; confirms Kingdom interest in Sam. |
+| Camilla de Leon | Sam's maternal grandmother; reveals family heritage; sits near the door at Sam's birthday, slowly integrating. |
 
 ## Locations
 
@@ -129,17 +129,3 @@ The arc concludes on Sam's fifteenth birthday. Nurses decorate her room while sh
 
 - **Jordan's absence and guilt** - Jordan's months-long disappearance after Sam's hospitalization is explained by overwhelming guilt and fear of seeing Sam hurt. Their visit in Chapter 67 resolves the immediate conflict through mutual vulnerability and reaffirmation. Originally planted in Book 4: Exorcism (Sam's hospitalization).
 - **Sam's coma and immediate survival** - The question of whether Sam would survive her radiation exposure, left open at the end of Book 4, is definitively answered. She wakes, receives treatment, and is cleared for discharge by her birthday. Originally planted in Book 4: Exorcism (Chapter 62).
-
-## Sources
-
-- 63.txt - Chapter 63: Sam's medical briefing, family visit, Benjamin vs. Pop-Pop Moe argument.
-- if-1.txt - Interlude IF.1: Philadelphia Inquirer article on Illya Fedorov's surrender.
-- 64.txt - Chapter 64: Friend visits, physical therapy, Dr. Desai session, news coverage reaction.
-- 65.txt - Chapter 65: Camilla de Leon's arrival, Young Defenders security briefing, Sam-Jamila strain.
-- 66.txt - Chapter 66: Hospital routine on lithium, support group introduction, Derek confrontation.
-- 67.txt - Chapter 67: Jordan's visit, Music Hall revelation, reconciliation, Derek discussion.
-- 68.txt - Chapter 68: Sam's fifteenth birthday, visitor procession, discharge news, Jamila reunion.
-- if-2.txt - Interlude IF.2: Illya's containment cell POV, Agent Shaw interrogation, Caldwell meeting.
-- THE CANON DOCUMENT 4 POINT 5 & 5.txt - Canon summaries for all Intermission 4.5 chapters.
-- THE FACTSHEET.txt - Character reference and factual details.
-- threads-books-4point5-5.md - Plot thread tracker for cross-referencing continuity.

@@ -8,7 +8,7 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Maria Valdez |
-| **Aliases** | Mrs. Heartbeat, Mrs. H |
+| **Aliases** | Mrs. Heartbeat, Mrs. H, Mrs. Heartstopper (early) |
 | **Date of Birth** | Unknown |
 | **Age** | Late 30s |
 | **Gender** | Female (transgender MTF) |
@@ -42,37 +42,38 @@ No official PERKS assessment on file.
 
 ### Limitations
 
-- Requires direct skin-to-skin contact to activate her power; the ability cannot be used at range or through barriers such as clothing or armor.
-- The rate of change is limited to approximately 4-5 BPM per second, meaning a kill via cardiac arrest from a normal resting heart rate takes a measurable amount of time rather than being instantaneous.
-- Specific upper limits on how long she must maintain contact to achieve lethal effect, or whether her power is affected by the target's physiology (size, fitness, metahuman resilience), are not documented.
+- Requires direct skin-to-skin contact; cannot be used at range or through clothing/armor. Wears palmless gloves to maintain readiness.
+- Rate of change limited to approximately 4-5 BPM per second, so cardiac arrest from resting heart rate takes measurable time rather than being instantaneous.
+- Effects of target physiology (size, fitness, metahuman resilience) on her power are not documented.
 
 ### Training & Skills
 
-- Highly skilled with knives, including butterfly knives; described as fascinated with and extremely proficient in bladed combat. Carried a butterfly knife and used it to inflict accumulated cuts targeting mobility during her fight with Crossroads.
-- Trained in pankration, a traditional Greek martial art combining wrestling and striking.
-- Competent with firearms, though less proficient than with knives. Employed a suppressed pistol during the assassination attempt on Crossroads, firing with accuracy under combat conditions.
-- Former nurse with medical knowledge that informs both her killing methods and her role as a Kingdom field medic.
-- Proficient in lockpicking or key acquisition, as she entered Crossroads's apartment with a key or lockpick during the assassination attempt.
+- Highly skilled with knives, especially butterfly knives; described as fascinated with and extremely proficient in bladed combat.
+- Trained in pankration, a Greek martial art combining wrestling and striking.
+- Competent with firearms, though less proficient than with knives.
+- Medical knowledge from nursing career informs both her killing methods and her role as a Kingdom field medic.
+- Carries a glass-breaking hammer as a backup weapon and breaching tool.
 
 ## Personality
 
-Valdez is quiet, professional, and thoroughly no-nonsense while on the job. She does not joke, does not socialize, and does not engage in anything beyond what the mission requires. This is not an absence of personality but a deliberate compartmentalization; she does have a lighter side, but it only emerges in rare off-duty moments. As the character reference guide notes, her hair is only seen down at Christmas parties and after a big heist. She is on the job a great deal of the time.
+Valdez is quiet, professional, and thoroughly no-nonsense while on the job. She does not joke, does not socialize, and does not engage in anything beyond what the mission requires. This is not an absence of personality but deliberate compartmentalization - she does have a lighter side, but it only emerges in rare off-duty moments. Her hair is only seen down at Christmas parties and after a big heist.
 
-In the field, Valdez is clinical and efficient. During the Crossroads assassination, her only spoken words in real time were "Mother fucker" upon failing to complete the kill, and even her emotional responses were largely suppressed. Her anger at Crossroads for texting Sam mid-fight, appearing to not take the confrontation seriously, was notable precisely because it was one of the few emotions she displayed. She approaches assassination as a technical problem, calculating whether a target will bleed out quickly enough and adjusting her tactics accordingly. Her preferred method of silent killing, strangling a target while simultaneously inducing bradycardia, reflects a practitioner who has refined murder into a discipline.
+In the field, she is clinical and efficient, approaching assassination as a technical problem. Her preferred method of silent killing - strangling a target while simultaneously inducing bradycardia - reflects a practitioner who has refined murder into a discipline. Emotional displays are exceedingly rare; anger at Crossroads pulling out his phone mid-fight was notable precisely because it was so unusual for her.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Kingdom of Keys | Organization | Founding member of the Philadelphia branch. Serves as the lead silent assassin and one of the organization's few trained medics. |
-| Maya Richardson (Mrs. Zenith) | Superior | Operates under Zenith's authority as acting boss of the Philadelphia branch. Dispatched to eliminate Crossroads as part of a coordinated Kingdom response timed alongside the Alice operation. |
-| Mr. Nothing (Darnell Hayes) | Colleague | Worked alongside Mr. Nothing during the dock operation and the zoo heist in the Reptile House. |
-| Mr. Mudslide (Evan Williams) | Colleague | Operated alongside Mudslide during the zoo heist. |
-| Mrs. Xenograft (Lena Trinh-Norwood) | Colleague | Present together at the Crescent nightclub during the VIP encounter with Sam and Jordan. |
-| Blake Matthews (Mr. Tyrannosaur) | Colleague | Present together at the Crescent nightclub VIP section. |
-| Maxwell Martinez (Crossroads) | Target | Dispatched to assassinate Crossroads, recognizing him as Sam's intelligence advantage. Inflicted multiple gunshot and stab wounds but failed to kill him. Suffered broken fingers and a smashed hand in the fight. |
-| Sam Small (Bloodhound) | Adversary (indirect) | Has not directly fought Sam but has operated against her network. The assassination attempt on Crossroads was explicitly motivated by his connection to Sam. |
-| Devonte (Playback) | Adversary | Present at the docks when Devonte was discovered eavesdropping on Kingdom operations. |
+| Kingdom of Keys | Organization | Founding member of the Philadelphia branch; lead silent assassin and one of the organization's few trained medics. |
+| Maya Richardson (Mrs. Zenith) | Superior | Operates under Zenith's authority as acting boss. |
+| Mr. Nothing (Darnell Hayes) | Colleague | Worked together during the dock operation and zoo heist. |
+| Mr. Mudslide (Evan Williams) | Colleague | Worked together during the zoo heist. |
+| Mrs. Xenograft (Lena Trinh-Norwood) | Colleague | Present together at the Crescent nightclub VIP encounter. |
+| Blake Matthews (Mr. Tyrannosaur) | Colleague | Present together at the Crescent nightclub. |
+| Mr. Polygraph (Lucas Donovan) | Colleague | Appeared together at a Kingdom warehouse meeting (Arc 3). |
+| Maxwell Martinez (Crossroads) | Target | Dispatched to assassinate him due to his connection to Sam; failed to kill him but inflicted severe injuries. |
+| Sam Small (Bloodhound) | Adversary | Confronted Sam at the Crescent nightclub; later targeted Crossroads because of his connection to Sam. |
+| Devonte Harris (Playback) | Adversary | Present at the docks when Devonte was discovered eavesdropping. |
 
 ## Arc Appearances
 
@@ -80,33 +81,41 @@ In the field, Valdez is clinical and efficient. During the Crossroads assassinat
 
     **Role:** Supporting
 
-    First appears in Chapter 25 as the unnamed "woman in red" at the Crescent nightclub VIP section alongside Mrs. Xenograft and Mr. Tyrannosaur. Identified as "Mrs. H" and later "Mrs. Heartstopper" (an early alias). Takes control of the situation after Sam and Jordan's cover is blown, uses her power to slow Sam's heartbeat dangerously via bradycardia, and mentions the Kingdom's code of conduct forbidding harm to minors. Sam spits blood on her ankle to create a tracker. Sam performs a wrestling move on her during the escape. Referenced in the post-mission debrief as one of three identified Kingdom operatives.
+    First appears in Chapter 25 as the unnamed "woman in red" at the Crescent nightclub VIP section alongside Mrs. Xenograft and Mr. Tyrannosaur. Identified as "Mrs. H" and recognized as the clear authority figure among the three, silencing the others with a single arm gesture. Extremely perceptive - catches Sam and Jordan's sneakers and UV minor stamps on their hands. In Chapter 26, uses her power to induce bradycardia on Sam through neck contact, risking brain damage. Can recite the Kingdom Code of Conduct from memory, citing rules forbidding recruitment of minors. Sam fights back by yanking out a loose tooth to throw as a distraction, wrapping waiter pants around Heartbeat's throat, and landing an elbow drop on her stomach. Sam hawks bloody saliva at her ankle as a tracker before escaping. Not fooled by Jordan's fake black hole gun bluff, unlike Mr. Tyrannosaur and Mrs. Xenograft. New to Young Defenders intelligence at this point. Referenced in the post-mission debrief as one of three identified Kingdom operatives.
+
+??? warning "Book 3: Dybbuk"
+
+    **Role:** Minor
+
+    Appears in Chapters 40-41 at a Kingdom warehouse meeting alongside Mr. Polygraph, referred to as "Mrs. Heartstopper" in Sam's narration. Serves as a silent sentinel at the entrance, dressed all in red with stilettos, hoop earrings, long hair, and fingerless gloves. Does not speak during the meeting but her presence carries clear authority and intimidation. Witnesses Polygraph execute a man who failed a lie detection test without any visible reaction. Jordan captures video footage of both Heartbeat and Polygraph that is later presented at a Young Defenders debriefing.
 
 ??? warning "Book 8: Big"
 
     **Role:** Supporting
 
-    Appears at the docks during "Operation Ivory" preparations, checking on the operation's progress when Devonte (Playback) is caught eavesdropping. Later appears in the Reptile House during the Philadelphia Zoo heist, using her powers to sedate poison dart frogs while a captive zookeeper identifies which ones are wild-caught. Escapes with frog containers after threatening the zookeeper, making her the only Kingdom operative present to avoid capture during the zoo battle, while Mr. Nothing and Mudslide are apprehended.
+    Appears in Interlude dh-2 (Devonte Harris's POV) arriving at the docks in a black SUV to oversee Operation Ivory preparations. Commands the operation with cold authority, referencing upper management's expectations. Present when Devonte is discovered eavesdropping; Devonte uses his sound powers to blast captured engine noise directly at her face as a distraction during his and Akilah's escape. Later appears in Chapter 134 in the Reptile House during the Philadelphia Zoo heist, using her powers to sedate poison dart frogs by touch while a captive zookeeper identifies which ones are wild-caught. Escapes with frog containers after threatening to kill the zookeeper, making her the only Kingdom operative present to avoid capture during the zoo battle, while Mr. Nothing and Mudslide are apprehended.
+
+??? warning "Book 13: Burn After Reading"
+
+    **Role:** Mentioned
+
+    Named in Interlude mr-8 (Maya Richardson's POV) as part of a planned extraction team for Deathgirl from Daedalus, alongside a "Mrs. Synapse." Mr. Antithesis assigns both Heartbeat and Synapse to the operation, anticipating that Deathgirl may resist extraction if she has acclimated to therapy.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Interlude
 
-    Featured in Interlude MaM.1 as the primary antagonist. Dispatched by the Kingdom to assassinate Crossroads at his apartment in a coordinated attack timed alongside Maya's Alice operation. Enters with a lockpick and suppressed pistol, fires immediately with no negotiation. Engages in a brutal four-minute fight involving gunfire (five shots, three hitting Crossroads), butterfly knife combat, and close-quarters grappling. Crossroads breaks two to three of her fingers taking her gun and smashes her hand during the struggle. Escapes through a shattered window as sirens approach, having failed to kill Crossroads but inflicting severe injuries (multiple gunshot wounds, stab wounds). Her words in a precognition branch confirm the motive: "This is because of Sam Small."
+    Featured in Interlude mam-1 (Maxwell Martinez's POV) as the primary antagonist. Dispatched by the Kingdom to assassinate Crossroads at his apartment in a coordinated attack timed alongside Maya's Alice operation. Enters smoothly with a key or equivalent and a suppressed pistol already drawn, fires immediately with no negotiation. Engages in a brutal four-minute fight involving gunfire (five shots total - three hitting Crossroads, one shooting a flipped coin out of the air, one destroying his phone), butterfly knife combat, and close-quarters grappling. Crossroads breaks two to three of her fingers wrenching the gun away, but she transitions to her butterfly knife without any visible reaction to the injury. Uses low-velocity rounds with a suppressor. Also employs a glass-breaking hammer as a final weapon to create space for her escape. Escapes through the window as sirens approach, having failed to kill Crossroads but inflicting severe injuries (multiple gunshot wounds, stab wounds). In a precognition branch, her words confirm the motive: "This is because of Sam Small."
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Mentioned
 
-    Referenced as the attacker who shot and stabbed Crossroads, who is now recovering at the Small family home. Her attack is cited as evidence that the Kingdom knows more about Sam's network than expected, possibly through Mr. ESP's intelligence. Valdez herself is recovering from her injuries (smashed hand, sprained wrists) and working on smaller hits targeting Rogue Wave operations.
+    Referenced in Chapter 242 as the attacker who nearly killed Crossroads, who has been recovering on the Small family couch for two to three months since the attack. Crossroads eventually leaves with his shoulder at 80-85% to finish physical therapy from his dorm.
 
 
 ## Trivia
 
-- Valdez was initially identified in the story as "Mrs. Heartstopper" and "Mrs. H" before her codename was established as "Mrs. Heartbeat," reflecting the Kingdom's alphabetical naming convention where each member corresponds to a letter (H for Heartbeat).
-- She is one of the few Kingdom operatives to have encountered Sam Small in person and escaped without being captured or identified by name during the encounter.
-- Her preferred assassination technique of combining strangulation with bradycardia represents a synthesis of her medical knowledge and her metahuman ability, designed to kill silently and leave minimal forensic evidence of power use.
-- During the Crossroads fight, she demonstrated second-order game theory, attempting to predict the predictions of a precognitive, and shot a coin out of the air when Crossroads flipped it as a distraction.
-- Her only words spoken in real time during the Crossroads assassination attempt were "Mother fucker" upon failing to complete the kill.
-- The character reference guide specifies that her powers are musculo-convulsive rather than nervous, psychological, or neurotoxic, a distinction that places her ability in the Adjust category of PERKS classification, targeting physical systems through touch.
-- She is one of the Kingdom's founding members, having been recruited directly from her nursing career, which makes her one of the longest-serving operatives in the organization.
+- Initially identified in-story as "Mrs. Heartstopper" and "Mrs. H" before her codename was established as "Mrs. Heartbeat," reflecting the Kingdom's alphabetical naming convention.
+- One of the few Kingdom operatives to have encountered Sam Small in person and escaped without being captured or identified by name.
+- During the Crossroads fight, demonstrated second-order game theory - attempting to predict the predictions of a precognitive - and shot a flipped coin out of the air.

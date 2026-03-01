@@ -16,11 +16,9 @@
 
 ## Overview
 
-Hyperball is a superhuman-exclusive competitive sport that emerged in direct response to the broad-scale ban on metahuman athletes from traditional professional sports leagues. The sport blends elements of rugby, soccer, basketball, and dodgeball into a strategic game emphasizing control, tactical thinking, and precise ball manipulation using superhuman abilities. Players are permitted to use their powers to move the ball and themselves, but direct use of powers on opponents is strictly prohibited.
+Hyperball is a superhuman-exclusive competitive sport that emerged in response to the broad-scale ban on metahuman athletes from traditional professional sports. It blends elements of rugby, soccer, basketball, and dodgeball, emphasizing tactical thinking and precise ball manipulation using superhuman abilities. Players may use powers to move the ball and themselves, but direct use on opponents is prohibited.
 
-The sport is played on a rectangular field divided into three zones, with seven players per side competing over two 25-minute halves. What distinguishes Hyperball from conventional sports is its ball draft system: teams select from a pool of 18 regulation balls of varying sizes, weights, materials, and aerodynamic properties, each favoring different power sets and play styles. This draft mechanic adds a layer of pre-game strategy absent from most traditional sports.
-
-Hyperball has grown from a niche spectacle into a commercially viable professional league. By 2010, championship tickets sold out in under an hour, merchandise sales were strong, and the sport had attracted a dedicated international fanbase. The league currently comprises 25 professional teams spanning cities across six continents, with an annual season culminating in the Hyperball World Cup.
+Played on a three-zone rectangular field with seven players per side over two 25-minute halves, Hyperball is distinguished by its ball draft system: teams select from 18 regulation balls of varying properties, each favoring different power sets. The league comprises 25 professional teams across six continents, with an annual season culminating in the Hyperball World Cup.
 
 ## Mechanics
 
@@ -35,23 +33,21 @@ Each End Zone contains a goal. The objective is to propel the ball into the oppo
 
 ### Core Rules
 
-- **Teams and Duration** -- Seven players per team. Matches consist of two 25-minute halves.
-- **Scoring** -- A point is scored when a ball is successfully launched into the opponent's goal.
-- **Possession** -- A player may hold the ball for a maximum of five seconds before passing or attempting a goal shot. The ball may be passed by any means: thrown, kicked, or propelled with powers.
-- **Powers Usage** -- Superhuman abilities may be used to manipulate the ball or to move oneself. Direct use of powers on opposing players is prohibited.
-- **No Tackling** -- Physical contact between players is not permitted. The sport emphasizes power-assisted ball control and personal mobility over direct physical confrontation.
-- **Fouls** -- Committing a foul results in the opposing team gaining possession. Severe or repeated fouls can result in player ejection.
-- **Goalkeepers** -- Each team designates one goalkeeper, who may use their powers to defend the goal.
+- **Scoring** - A point is scored by launching the ball into the opponent's goal.
+- **Possession** - Maximum five seconds before passing or shooting. The ball may be thrown, kicked, or propelled with powers.
+- **No Tackling** - Physical contact is prohibited; the sport emphasizes power-assisted ball control over confrontation.
+- **Fouls** - Result in possession turnover; severe or repeated fouls cause ejection.
+- **Goalkeepers** - Each team designates one goalkeeper who may use powers to defend the goal.
 
 ### Ball Draft System
 
-Before each regulation match, team captains participate in a pick-and-ban draft from the pool of 18 league-approved balls. The process works as follows:
+Before regulation matches, captains participate in a pick-and-ban draft from the 18 league-approved balls:
 
-1. The team with the lower seasonal ranking picks first (coin flip as tiebreaker).
-2. Captains alternate in a pick-one-ban-one structure until six balls have been selected for the match.
-3. After a goal is scored, the team that conceded selects which of the six drafted balls enters play next.
+1. Lower-ranked team picks first (coin flip tiebreaker).
+2. Captains alternate pick-one-ban-one until six balls are selected.
+3. After a goal, the conceding team selects which drafted ball enters play next.
 
-For non-regulation matches, any available balls may be used and drafting is not required.
+Non-regulation matches may use any balls without drafting.
 
 ### Regulation Balls
 
@@ -111,31 +107,29 @@ The International Hyperball League comprises 25 professional teams. Each yearly 
 
 ### Origins: The Superhuman Sports Ban (2006-2008)
 
-Hyperball's origins are inseparable from the exclusion of superhumans from mainstream professional athletics. In 2006, Croatian basketball player Marko Varga -- who possessed superhuman strength and enhanced reflexes -- shattered scoring records during the European Basketball League finals. When his abilities were revealed, the EBL revoked his MVP award and struck his team's victory from the record books. The incident provoked intense international debate over the role of superhumans in competitive sports.
+In 2006, Croatian basketball player Marko Varga - possessing superhuman strength and enhanced reflexes - shattered records during the European Basketball League finals. When his abilities were revealed, the EBL revoked his MVP award and struck his team's victory. The incident provoked intense debate over superhumans in competitive sports.
 
-In May 2008, the International Athletic Federation, alongside FIFA, the NBA, Major League Baseball, and other governing bodies, enacted sweeping bans prohibiting athletes with superhuman physiological advantages from competing in traditional leagues. The new rules mandated genetic testing and performance evaluations for all athletes, with contracts including clauses for immediate withdrawal should latent abilities manifest. Retroactive audits voided existing contracts, titles, and merchandise deals tied to identified superhuman athletes.
+In May 2008, the International Athletic Federation, FIFA, the NBA, Major League Baseball, and other bodies enacted sweeping bans on athletes with superhuman physiological advantages. Rules mandated genetic testing, performance evaluations, and contract clauses for immediate withdrawal should abilities manifest. Retroactive audits voided existing contracts and titles.
 
-Public opinion was divided: polling showed 62% supported the ban on fairness grounds, while 35% opposed it as discriminatory. The International Superhuman Athletes Coalition (ISAC) filed legal challenges citing anti-discrimination laws in multiple countries. Within the broader metahuman community, the ban was widely seen as another form of systemic exclusion.
+Polling showed 62% supported the ban on fairness grounds, while 35% opposed it as discriminatory. The International Superhuman Athletes Coalition (ISAC) filed legal challenges in multiple countries.
 
 ### Founding and Early Growth (2008-2010)
 
-The Professional Hyperball League was founded in 2008, positioning itself as a legitimate competitive home for metahuman athletes displaced by the bans. Commissioner Adrian Wang described the league's mission as building a space where superhumans could thrive athletically on their own terms. The league reported a 40% increase in ticket sales in the immediate aftermath of the IAF announcement, capitalizing on public interest and outrage alike.
+The Professional Hyperball League was founded in 2008, with Commissioner Adrian Wang describing the mission as building a space where superhumans could thrive athletically. The league reported a 40% ticket sales increase following the IAF announcement.
 
-The PHL's first major milestone came with the 2010 Hyperball Championship, held at the newly built Vanguard Arena in Miami. The Phoenix Steamrollers defeated the Stockholm Vikings 11-8 in a match that attracted significant media attention. Steamrollers captain Julia Reyes -- a former collegiate volleyball star with the ability to leap five stories -- became a prominent face of the sport. The Vikings were led by Magnus "Stormrider" Karlsson, who used precise air-current manipulation, and featured telekinetic Riko Amara among the Steamrollers' key players. Championship tickets sold out in under an hour, and media coverage helped establish Hyperball as a viable spectator sport rather than a novelty.
+The 2010 Championship at Vanguard Arena in Miami saw the Phoenix Steamrollers defeat the Stockholm Vikings 11-8. Steamrollers captain Julia Reyes - a former collegiate volleyball star who could leap five stories - became a prominent face of the sport, alongside the Vikings' Magnus "Stormrider" Karlsson (air-current manipulation) and Steamrollers telekinetic Riko Amara. Championship tickets sold out in under an hour, establishing Hyperball as a viable spectator sport.
 
 ### Continued Expansion
 
-The league expanded to 25 professional teams spanning cities across the globe, from Athens to Tokyo. The establishment of the International Hyperball League as the broader governing body formalized rules, the 18-ball regulation pool, and the World Cup tournament format.
+The league expanded to 25 teams worldwide, and the International Hyperball League formalized rules, the 18-ball regulation pool, and the World Cup tournament format.
 
 ## Implications
 
-Hyperball occupies a unique position at the intersection of metahuman culture, sports entertainment, and civil rights discourse. For many in the superhuman community, the sport represents more than athletic competition -- it functions as a cultural statement against exclusion. Fans and players alike view Hyperball as a reclamation of space denied to metahumans by traditional institutions.
+For many in the superhuman community, Hyperball functions as a cultural statement against exclusion - a reclamation of space denied by traditional institutions.
 
-Economically, the league has demonstrated that superhuman-focused entertainment can sustain professional-level commercial infrastructure, including arena construction, merchandise lines (notably the signature "ball packs" for recreational play), and broadcast deals. The sport's viability has implications for the broader question of metahuman economic participation and cultural integration.
+Economically, the league has demonstrated that superhuman-focused entertainment can sustain professional-level infrastructure, including arenas, merchandise lines (notably "ball packs" for recreational play), and broadcast deals.
 
-Hyperball also occupies a distinct niche in the spectrum of superhuman combat entertainment. Unlike underground powered fighting circuits -- which operate illegally, involve direct physical violence, and are closely tied to criminal gambling networks -- Hyperball channels superhuman abilities into a regulated, non-contact framework where powers are used only for ball manipulation and self-movement. This distinction has helped the sport cultivate mainstream legitimacy and sponsorship.
-
-The sport's strategic depth, particularly the ball draft system and the interplay between different power sets and ball types, has created a competitive ecosystem with its own analytical culture. The question of whether Hyperball can build the long-term rivalries, dynasties, and narratives that sustain traditional sports fandom remains an ongoing subject of debate among sports commentators.
+Unlike underground powered fighting circuits - which operate illegally and involve direct violence tied to criminal gambling - Hyperball channels abilities into a regulated, non-contact framework, cultivating mainstream legitimacy. Whether the sport can build the long-term rivalries and dynasties that sustain traditional fandom remains debated.
 
 ## Classification / Taxonomy
 
@@ -189,25 +183,16 @@ The sport's strategic depth, particularly the ball draft system and the interpla
 
 ## Related Concepts
 
-- **PERKS Assessment** -- The national power classification system; a player's PERKS category (e.g., Gigant, Hopper, Adjust) directly influences their playstyle and value in the ball draft.
-- **Superhuman Sports Ban (2008)** -- The IAF-led prohibition on metahuman athletes in traditional leagues, which directly precipitated Hyperball's creation.
-- **Marko Varga Incident (2006)** -- The catalyzing event in the European Basketball League that triggered the mainstream sports ban.
-- **International Superhuman Athletes Coalition (ISAC)** -- Advocacy group formed to challenge the superhuman sports ban through legal action.
-- **Underground Powered Fighting** -- Illegal superhuman combat circuits that represent the unregulated end of the metahuman sports spectrum, in contrast to Hyperball's legitimate league structure.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework for legal metahuman activity; professional Hyperball players presumably operate under some form of licensing.
+- **PERKS Assessment** - A player's PERKS category directly influences playstyle and ball draft value.
+- **Superhuman Sports Ban (2008)** - The IAF-led prohibition that precipitated Hyperball's creation.
+- **Marko Varga Incident (2006)** - The catalyzing European Basketball League event triggering the sports ban.
+- **International Superhuman Athletes Coalition (ISAC)** - Advocacy group challenging the sports ban through legal action.
+- **Underground Powered Fighting** - Illegal combat circuits representing the unregulated end of metahuman sports.
+- **LUMA (License to Utilize Metahuman Abilities)** - Professional Hyperball players operate under LUMA licensing.
 
 ## Trivia
 
-- The Regulation Leather Ball has been selected in every season since the founding of the International Hyperball League, making it the only ball with a perfect draft record.
-- The Silicone Octahedron is sometimes picked as a deliberate joke or psychological maneuver, owing to its wildly unpredictable bounce and roll behavior.
-- The Shot Put, at 7,200 grams, is the heaviest ball in regulation play and is viable only for teams with super-strength or telekinetic players.
-- The 2010 Championship at Vanguard Arena in Miami was the first major Hyperball event to receive wide mainstream sports media coverage.
-- The ball draft system ensures that no two matches are tactically identical, as team composition and ball selection create a combinatorial strategy layer before the match even begins.
-- Teams that fail to qualify for the Hyperball World Cup gain exclusive voting rights over the following season's 18-ball selection, giving lower-ranked teams influence over the sport's meta-strategy.
+- The Regulation Leather Ball has been selected in every season since the league's founding - the only ball with a perfect draft record.
+- The Silicone Octahedron is sometimes picked as a deliberate psychological maneuver owing to its wildly unpredictable behavior.
+- The 2010 Championship at Vanguard Arena was the first Hyperball event to receive wide mainstream sports media coverage.
 
-## Sources
-
-- hyperball.txt -- Core rules, field layout, ball draft mechanics, full specifications for all 18 regulation balls, list of 25 professional teams, International Hyperball League structure and World Cup format.
-- sports-hyperball-1.txt -- Two in-universe articles: (1) New York Times piece by Miranda Holcomb (May 2008) covering the superhuman sports ban, the Marko Varga Incident, and the founding of the PHL; (2) ESPN piece by Michael Harridan (June 2010) covering the 2010 Hyperball Championship at Vanguard Arena, Phoenix Steamrollers vs. Stockholm Vikings, key players and match details.
-- sports-hyperball-2.txt -- New Republic article by David Chen (March 2022) on underground powered fighting circuits; provides context for the broader superhuman combat entertainment ecosystem against which Hyperball exists as the legitimate alternative.
-- THE FACTSHEET.txt (lines 2287-2325) -- Condensed reference for sports timeline (Marko Varga Incident 2006, superhuman ban 2008, PHL founding 2008, 2010 Championship), Hyperball field and rules summary, and commercial performance data.

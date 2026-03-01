@@ -8,27 +8,25 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Aaron McKinley |
-| **Aliases** | The Coyote |
+| **Aliases** | The Coyote, Mr. Prometheus |
 | **Date of Birth** | Unknown |
 | **Age** | 20s |
 | **Gender** | Male |
 | **Ethnicity** | White (described as pale-skinned) |
 | **Place of Birth** | Unknown |
 | **Residence** | Philadelphia, PA (formerly); Daedalus Correctional Facility (current) |
-| **Affiliation** | None (solo operative at time of arrest) |
-| **Former Affiliations** | Tacony Coyotes (leader), Kingdom of Keys (associate), Philly Phreaks (temporary alliance) |
+| **Affiliation** | Kingdom of Keys (Mr. Prometheus, recruited while incarcerated) |
+| **Former Affiliations** | Tacony Coyotes (leader), Philly Phreaks (temporary alliance) |
 | **Occupation** | Criminal |
 | **Status** | Incarcerated |
 | **First Appearance** | Chapter 20 |
-| **Last Appearance** | Chapter 148 (in person); mentioned through Book 12 |
+| **Last Appearance** | Interlude tf-2 (Intermission 15.5, in person); mentioned through Intermission 15.5 |
 
 ## Background
 
-Aaron McKinley was the leader of the Tacony Coyotes, a local teen gang operating out of the area beneath the Tacony-Palmyra Bridge in Northeast Philadelphia. He was physically distinctive, described as pale-skinned with tattoos, cornrows, and wind chime earrings. His gang engaged in vandalism, drug dealing, and petty theft throughout the Tacony and Mayfair neighborhoods. Aaron possessed fire-ignition powers activated by his gaze, making him the only metahuman in the group and the source of his authority over the other members.
+Aaron McKinley was the leader of the Tacony Coyotes, a local teen gang operating out of the area beneath the Tacony-Palmyra Bridge in Northeast Philadelphia. He possessed fire-ignition powers activated by his gaze, making him the only metahuman in the group and the source of his authority.
 
-Aaron's criminal trajectory escalated dramatically after his first encounter with Sam Small and Jordan Westwood in September 2023, when the two young vigilantes confronted the Coyotes beneath the bridge. The fight ended with Sam biting into Aaron's shoulder and breaking his collarbone. Humiliated and injured, Aaron was subsequently summoned by the Kingdom of Keys, for whom the Coyotes had been running low-level operations. Faced with the threat of severe punishment for losing the Kingdom's money, Aaron was given an assignment: kill Bloodhound. He formed a temporary alliance with members of the Philly Phreaks, including Pumice and Deathgirl, and identified Sam's civilian identity by surveilling Tacony Charter Academy.
-
-After his coordinated ambush on Sam resulted in her capture and torture - during which he removed her fingernails and broke her hand - Sam escaped by growing teeth from her wrists and knuckles, puncturing Aaron's throat and tearing eight jagged lines across his face. His subsequent alliance with the Phreaks collapsed when Chrysalis, Pumice, and Deathgirl confronted him at the docks. Pumice showed Aaron the damage Sam had inflicted on his stone face during her escape, and Chrysalis delivered a devastating character assessment before telling him he was "not worth the bullet." Aaron retreated from Philadelphia with injuries including a dislocated knee (reset by the vet with a splint) and a re-broken nose, spending time in Bucks County and surrounding areas while his fire powers evolved. He returned months later to conduct a calculated arson and stalking campaign across Tacony in February 2025, which ended with his arrest following a final confrontation with Sam at an abandoned house near Vogt Park. He was sentenced to 38 years at Daedalus Correctional Facility.
+His criminal trajectory escalated dramatically after his first encounter with Sam Small (Arc 2), which ended with Sam biting into his shoulder and breaking his collarbone. Humiliated and facing Kingdom retribution for lost money, Aaron was assigned to kill Bloodhound. He allied with members of the Philly Phreaks, identified Sam's civilian identity, and ambushed her - resulting in her capture and torture. Sam's escape left Aaron with eight jagged scars across his face (Arc 4). Abandoned by the Phreaks and treated by a criminal veterinarian, Aaron retreated from Philadelphia while his fire powers evolved. He returned months later to conduct a calculated arson and stalking campaign across Tacony (Arc 9), ending with his arrest and a 38-year sentence at Daedalus. While incarcerated, Mr. Antithesis recruited him into the Kingdom as "Mr. Prometheus," offering Fly and a Camden fiefdom in exchange for killing Sam.
 
 ## Powers & Abilities
 
@@ -60,24 +58,26 @@ No official PERKS assessment on file.
 
 ## Personality
 
-Aaron is sadistic, vengeful, and fixated on dominance through pain and fear. He speaks with a cruel playfulness that masks deep-seated rage, and his approach to conflict centers on causing maximum suffering rather than achieving tactical objectives. His torture of Sam - selecting a claw hammer and delivering a monologue about his father's philosophy on pain and power - reveals someone who has internalized violence as a framework for understanding the world. When confronted by others about his methods, he responds with threats and escalation rather than reflection.
+Aaron is sadistic, vengeful, and fixated on dominance through pain and fear. He speaks with a cruel playfulness that masks deep-seated rage, centering conflict on maximum suffering rather than tactical objectives. His torture of Sam - selecting a claw hammer while delivering a monologue about his father's philosophy on pain and power - reveals someone who has internalized violence as a framework for understanding the world.
 
-Beneath the aggression, Aaron is driven by humiliation and a desperate need to prove his worth. His repeated defeats by a teenage girl destroyed his standing among both the Kingdom of Keys and the Philly Phreaks, the latter of whom called him "unoriginal and uninspired" before abandoning him. Rather than retreating permanently, Aaron chose to isolate himself and develop his powers in pursuit of personal revenge, reframing every setback as a tactical repositioning. He declared himself the sole Coyote - "The Coyotes are dead. Long live the Coyote" - and pursued Sam with single-minded obsession, conducting extensive surveillance and an escalating arson campaign designed to terrorize her before a final confrontation.
+Beneath the aggression is humiliation and a desperate need to prove his worth. Repeated defeats by a teenage girl destroyed his standing among the Kingdom and the Phreaks. Rather than retreating permanently, he reframed every setback as a tactical repositioning, declaring himself the sole Coyote and pursuing Sam with single-minded obsession. During his time away from Philadelphia, he attended therapy but weaponized the self-awareness he gained, describing his anger and control issues as "gifts" rather than problems.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Sam Small (Bloodhound) | Primary adversary | Obsessively fixated on Sam after repeated humiliations. Tortured her during captivity, removed her fingernails. Sam scarred his face during her escape. Their final fight ended with his arrest. |
-| Jordan Westwood (Safeguard) | Adversary | Fought Jordan during the initial Coyotes confrontation. Jordan hit him with a baseball bat during his attack on the Music Hall. |
-| Mr. Polygraph | Kingdom handler | Broke Aaron's nose and assigned him to kill Bloodhound as punishment for losing Kingdom money. |
-| Joseph Jones (Pumice) | Temporary ally | Formed an alliance based on shared hatred of Bloodhound. Pumice later turned on Aaron at the docks, punching him when he threatened Chrysalis. |
-| Angela Perez (Chrysalis) | Temporary ally turned critic | Delivered a devastating assessment of Aaron's character, calling him unoriginal and telling him he was "not worth the bullet." |
-| Daisy Zhen (Deathgirl) | Temporary ally | Participated in the ambush on Sam alongside Aaron and Pumice. Aaron berated her during the fight, calling her "useless." |
-| The Vet (Dr. Fontana) | Medical provider | A veterinarian who treated criminals, including Aaron on multiple occasions. Advised Aaron to leave Philadelphia. |
-| Katherine Huang | Defense attorney | Represented Aaron through Tremont & Fairfax. Her involvement inadvertently helped the Auditors trace connections between the law firm, the Kingdom of Keys, and Stheno Pharmaceuticals. |
-| Kate Smith (Miss Mayfly) | Victim (probable) | Aaron is the presumed perpetrator of the fire that burned down Kate's house, though circumstances were ambiguous. Kate's powers originally manifested during a fire probably set by Aaron. |
-| Derek Taylor (Bloodhound II) | Adversary | Helped Sam track Aaron using his enhanced werewolf sense of smell. Fought Aaron at the bridge construction site. |
+| Sam Small (Bloodhound) | Primary adversary | Obsessively fixated after repeated humiliations. Tortured her during captivity (Arc 4); Sam scarred his face during her escape. Final fight ended with his arrest (Arc 9). |
+| Jordan Westwood (Safeguard) | Adversary | Fought during the initial Coyotes confrontation (Arc 2) and the Music Hall attack (Arc 9). |
+| Mr. Polygraph | Kingdom handler | Broke Aaron's nose and assigned him to kill Bloodhound as repayment for lost money (Arc 4). |
+| Mr. Tyrannosaur | Kingdom associate | Present during Aaron's Kingdom summons; physically restrained him. |
+| Joseph Jones (Pumice) | Temporary ally | Alliance based on shared hatred of Bloodhound. Later turned on Aaron at the docks. |
+| Angela Perez (Chrysalis) | Temporary ally turned critic | Called him "unoriginal" and "not worth the bullet" before the Phreaks abandoned him. |
+| Daisy Zhen (Deathgirl) | Temporary ally | Participated in the ambush on Sam. Aaron berated her as "useless" and accidentally set her hair on fire. |
+| The Vet (Dr. Fontana) | Medical provider | Criminal-affiliated veterinarian who treated Aaron multiple times and advised him to leave Philadelphia. |
+| Katherine Huang | Defense attorney | Represented Aaron through Tremont & Fairfax; her involvement helped the Auditors trace Kingdom-Stheno connections. |
+| Kate Smith (Miss Mayfly) | Victim (possible) | A fire broke out at Kate's house during the arson campaign, though circumstances are ambiguous - the fire was yellow-orange (not matching Aaron's evolved signatures) and Kate had her own reasons and means to start a fire. Kate's smoke-absorption powers manifested during this blaze. |
+| Derek Taylor (Bloodhound II) | Adversary | Helped Sam track Aaron by scent (Arc 9). |
+| Trent Fairfax (Mr. Antithesis) | Kingdom recruiter | Visited Aaron in prison, recruiting him as "Mr. Prometheus" with Fly, Camden territory, and millions in exchange for killing Sam (Intermission 15.5). |
 
 ## Arc Appearances
 
@@ -91,19 +91,13 @@ Beneath the aggression, Aaron is driven by humiliation and a desperate need to p
 
     **Role:** Main Antagonist / Interlude
 
-    In Interlude AMK.1, Aaron recovers from his defeat. He seeks treatment from a criminal veterinarian, is summoned by the Kingdom of Keys where Mr. Polygraph breaks his nose and assigns him to kill Bloodhound. Aaron resets his own nose, declares the Coyotes dead, and allies with Pumice. He surveils Tacony Charter Academy and identifies Sam's civilian identity. He ambushes Sam with a crowbar after she leaves power testing (Ch. 50), initiating a brutal multi-phase assault. Pumice, Deathgirl, and Chrysalis join the attack. Sam is captured and tortured - Aaron removes her fingernails and breaks her hand with a hammer while monologuing about power. Sam escapes by growing teeth from her body, scarring Aaron's face in the process (Chs. 51-52). In Interlude AMK.2, the Phreaks confront him at the docks, criticize his leadership, and abandon him. Aaron retreats to an abandoned basement where he discovers a new blue fire ability that produces toxic fumes, damaging his lungs. The vet warns him about his deteriorating respiratory health. Aaron interprets advice to leave the city as a "tactical retreat" and departs Philadelphia.
-
-??? warning "Book 8: Big"
-
-    **Role:** Mentioned
-
-    Aaron's former Coyotes gang members are revealed to be deceased, reportedly killed in a drive-by shooting. Fires matching Aaron's evolved abilities begin appearing in Bucks County, showing progression from yellow to blue to red fire.
+    In Interlude AMK.1, Aaron recovers from his defeat. He seeks treatment from a criminal veterinarian, is summoned by the Kingdom of Keys where Mr. Polygraph breaks his nose and assigns him to kill Bloodhound. Aaron resets his own nose, declares the Coyotes dead, and allies with Pumice. He surveils Tacony Charter Academy and identifies Sam's civilian identity. He ambushes Sam with a crowbar while she walks home alone through the snow (Ch. 50), initiating a brutal multi-phase assault. Pumice, Deathgirl, and Chrysalis join the attack. Sam is captured and tortured - Aaron removes her fingernails with a claw hammer while Deathgirl breaks her left hand. Sam escapes by growing teeth from her body, scarring Aaron's face in the process (Chs. 51-52). In Interlude AMK.2, the Phreaks confront him at the docks, criticize his leadership, and abandon him. Aaron retreats to an abandoned basement where he discovers a new blue fire ability that produces toxic fumes, damaging his lungs. The vet warns him about his deteriorating respiratory health. Aaron interprets advice to leave the city as a "tactical retreat" and departs Philadelphia.
 
 ??? warning "Book 9: Sheol"
 
     **Role:** Main Antagonist
 
-    Aaron returns to Philadelphia and conducts a week-long arson and psychological warfare campaign targeting Sam. He sets fires in a pattern circling Tacony Charter Academy, sabotages sprinkler systems, sends a threatening nail salon gift card through unwitting intermediaries, breaks into the Music Hall, sets Sam on fire at school along with six other students, and is the presumed arsonist behind the fire at Kate Smith's house. Sam and Derek track him to his hideout under the bridge. After escaping that encounter, Sam uses Crossroads' precognition to locate Aaron at an abandoned house near Vogt Park. The final battle reveals his evolved multi-spectrum fire abilities. Sam defeats him in brutal close-quarters combat, and Aaron is arrested on February 22, 2025.
+    Aaron returns to Philadelphia and conducts a week-long arson and psychological warfare campaign targeting Sam. He sets fires in a pattern circling Tacony Charter Academy, sabotages sprinkler systems, sends a threatening nail salon gift card through unwitting intermediaries, attacks the Music Hall, sets Sam on fire at school along with six other students, and a fire breaks out at Kate Smith's house under ambiguous circumstances. Sam and Derek track him to his hideout under the bridge. After escaping that encounter, Sam uses Crossroads' precognition to locate Aaron at an abandoned house near Vogt Park. The final battle reveals his evolved multi-spectrum fire abilities. Sam defeats him in brutal close-quarters combat, and Aaron is arrested on February 22, 2025.
 
 ??? warning "Book 10: Plume"
 
@@ -123,19 +117,30 @@ Beneath the aggression, Aaron is driven by humiliation and a desperate need to p
 
     Aaron receives a 38-year sentence at Daedalus Correctional Facility. Sam reflects on the conclusion of his case as she enters a new phase of operations.
 
+??? warning "Book 13: Burn After Reading"
+
+    **Role:** Mentioned
+
+    Sam references the McKinley arson rampage when feeding information to Mr. Antithesis about Kate Smith, describing Kate's house as having burned down during the rampage.
+
+??? warning "Intermission 15.5: This Side Up"
+
+    **Role:** Supporting (Interlude tf-2)
+
+    In Interlude tf-2, Trent Fairfax (Mr. Antithesis) visits Aaron at Curran-Fromhold prison, posing as new legal counsel. Aaron is described wearing a blackout mask over his eyes as containment, with his right arm fully braced from wrist to shoulder as a result of Sam's injuries. Trent renames him "Mr. Prometheus" and recruits him into the Kingdom of Keys, offering a dose of Fly (synergistic with pyrogenetic powers), Kingdom membership, a fiefdom over Camden, and millions of dollars in exchange for making his own jailbreak and killing Samantha Small.
+
 
 ## Trivia
 
-- Aaron's physical description includes cornrows and wind chime earrings, details that helped Sundial's psychometric sketch confirm his identity during the Book 9 arson investigation.
+- Originally described with cornrows and wind chime earrings; by Arc 9 his appearance had changed to an undercut with two long braids, well-fed and tanned. Sundial's psychometric sketch from his original description helped confirm his identity during the arson investigation.
 - His former Coyotes gang members were all found dead in what was reported as a drive-by shooting, though the circumstances remain unexplained.
-- The veterinarian who treated Aaron, Dr. Fontana, is referred to as "Doc" in AMK.1 and "The Vet" in AMK.2. He repeatedly advised Aaron that he was not suited for the criminal lifestyle.
-- Aaron's fire powers are functionally distinct from Alex Kirby's (Hellhound) pyrokinesis; Aaron's are described as chaotic and gaze-based, while Alex's involve pressurized flammable gas jets with more controlled application.
-- His arson campaign in Book 9 triggered a wave of copycat arsons across Philadelphia, making it difficult to determine which fires were directly his work.
-- Sam feels unexpectedly conflicted about Aaron's lengthy 38-year sentence despite their violent history.
-- Aaron's father apparently espoused a philosophy about pain and power that Aaron internalized and repeated during his torture of Sam.
-- The Kingdom of Keys funded his defense through Tremont & Fairfax, though Katherine Huang herself was genuinely unaware of the Kingdom connection.
-- During the Kingdom meeting in AMK.1, Mr. Polygraph initially threatened a Yakuza-style punishment -- cutting off Aaron's pinky finger -- before relenting and breaking his nose with a punch instead.
-- When explaining his defeat to the vet in AMK.2, Aaron fabricated the excuse that Sam had suddenly developed "knives for arms," which the vet dismissed.
-- The Phreaks' rejection of Aaron in AMK.2 centered not just on his tactical failures but on a comparison to their former leader Patches, who they said genuinely cared for the group's members -- something Aaron never did.
-- After his abandonment by the Phreaks, Aaron considered heading to Atlantic City or nearby counties, reframing the vet's advice to leave Philadelphia as a "tactical retreat" rather than admitting defeat.
-- Pumice referenced having a "secret weapon" when he and Aaron formed their alliance at the warehouse near the docks in AMK.1, foreshadowing Deathgirl's involvement in the ambush.
+- His fire powers are functionally distinct from Alex Kirby's (Hellhound) pyrokinesis; Aaron's are chaotic and gaze-based, while Alex's involve pressurized flammable gas jets with more controlled application.
+- His arson campaign triggered a wave of copycat arsons across Philadelphia, making it difficult to determine which fires were directly his work.
+- Sam feels unexpectedly conflicted about his lengthy 38-year sentence despite their violent history.
+- Aaron's father ("Papa") is confirmed dead. He espoused a philosophy about pain and power - taught through "belt leather and hard lessons" - that Aaron internalized. His parents kicked him out before the story, telling him he was not their problem anymore.
+- The Kingdom funded his defense through Tremont & Fairfax, though Katherine Huang was genuinely unaware of the Kingdom connection.
+- When explaining his defeat to the vet, Aaron fabricated the excuse that Sam had developed "knives for arms," which the vet dismissed.
+- The Phreaks' rejection centered not just on his tactical failures but on a comparison to their former leader Patches, who they said genuinely cared for members - something Aaron never did.
+- Aaron got dental work done before his final confrontation with Sam, showing up with perfect teeth.
+- During the final fight, he soaked the abandoned house in water to prevent accidental fire - a level of strategic planning contrasting with his earlier impulsive behavior.
+- Each color of his fire has a distinct smell: yellow flames smell like rotten eggs (sulfurous), white flames produce an ammonia smell.

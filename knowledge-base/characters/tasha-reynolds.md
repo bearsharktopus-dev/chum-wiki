@@ -8,9 +8,9 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Tasha Reynolds |
-| **Aliases** | Lighthouse (Auditors codename), previously operated under an insect-themed codename on Team Mayfly |
+| **Aliases** | Lighthouse (Auditors codename), Ant (Team Mayfly codename) |
 | **Date of Birth** | Unknown |
-| **Age** | 15–17 |
+| **Age** | 15-17 |
 | **Gender** | Female |
 | **Ethnicity** | African-American |
 | **Place of Birth** | Unknown (likely Philadelphia, PA) |
@@ -24,13 +24,11 @@
 
 ## Background
 
-Tasha Reynolds is one of Sam Small's closest friends from middle school. She was part of Sam's original friend group alongside Kate Smith, Marcus Johnson, Lilly Rodriguez, and Jenna Nguyen. An intellectual and avid reader, Tasha was described as the group's analytical mind and "mother hen" from early on. Her mother, Natalie Reynolds, is a nurse at Temple Health, and her father, James Reynolds, is an academic. Tasha's upbringing in a medically oriented household fostered her interest in physiology, anatomy, and emergency medicine.
+Tasha Reynolds is one of Sam Small's closest friends, part of her original middle school group alongside Kate Smith, Marcus Johnson, Lilly Rodriguez, and Jenna Nguyen. Known as the group's analytical mind, she wears thick-rimmed glasses, keeps a leather notebook, and is always scribbling notes. Her mother, Natalie Reynolds, is a nurse (RN) at Temple Health, and her father, James Reynolds, is an academic. Tasha's interest in physiology and emergency medicine stems from reading medical textbooks for fun and her mother's career.
 
-Before joining the Auditors, Tasha was a member of Kate Smith's vigilante outfit known as Team Mayfly, where she served in a technical support capacity. Team Mayfly operated as a non-powered vigilante squad in Northeast Philadelphia, using improvised gadgets, drones, and coordination rather than superhuman abilities. When Sam discovered Team Mayfly's existence and its overlap with her own circle of friends, the team was folded into Sam's operations, with its members restricted to reconnaissance and technical support rather than field combat.
+Before the Auditors, Tasha served as "Ant" on Kate Smith's Team Mayfly - a non-powered vigilante squad using insect-themed codenames, improvised gadgets, and a mini-drone fleet called "the Swarm." She monitored police scanners, programmed drone formations, and built a fully mechanical pepper spray wrist canister. When Sam discovered Team Mayfly, the team was folded into her operations, restricted to recon and tech support.
 
-Tasha transitioned into the Auditors as Sam's primary civilian support operative, providing field medicine, logistics, communications monitoring, and intelligence analysis. During the Shrike crisis in late September 2025, she was formally given the codename "Lighthouse" by Sam for her role as the team's communications and surveillance coordinator. She later debuted a custom costume consisting of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone equipped with a red LED light.
-
-In November 2025, Tasha was seriously injured during a Kingdom of Keys attack on the Tacony Music Hall. A Kingdom contractor known as Garbage Day dislocated her shoulder in a calculated act of intimidation. Despite being in severe pain and shock, Tasha demonstrated remarkable composure by secretly planting a BugTag tracker on the attacker during the confrontation, providing the Auditors with critical intelligence on the operative's location. Her shoulder required 4-6 weeks in a sling followed by physical therapy, and as of early 2026 it remains approximately ninety percent healed.
+Tasha transitioned into the Auditors as Sam's primary civilian support operative, handling field medicine, logistics, comms, intelligence analysis, and drone operations. She received the codename "Lighthouse" from Sam during the Shrike crisis (Chapter 206) and debuted a custom costume at the community center grand opening (Chapter 234). In November 2025, she was seriously injured when the Kingdom contractor Garbage Day attacked the Music Hall, deliberately dislocating her left shoulder. Despite the attack, she secretly planted a BugTag tracker in his jacket, providing critical intelligence on his location. She recovered at Temple University Hospital (4-6 weeks in a sling) and was out of the sling by early January 2026.
 
 ## Powers & Abilities
 
@@ -49,35 +47,35 @@ No official PERKS assessment on file. Tasha Reynolds is a baseline human with no
 
 ### Training & Skills
 
-- Field medicine and emergency care training, influenced by her mother's nursing career and her own interest in anatomy and physiology.
-- Communications and intelligence coordination, including police scanner monitoring, drone operation, traffic camera surveillance, and radio communications management.
-- Mechanical engineering aptitude, demonstrated by her construction of a custom pepper spray dispenser and her technical contributions to Team Mayfly's gadget arsenal.
-- Research and investigation skills, including property records analysis, social media cross-referencing, and open-source intelligence gathering. Led the Auditors' investigation into the Songbirds, identifying the organization as an astroturfed radicalization pipeline rather than an organic grassroots movement.
-- Drone operation and surveillance, utilizing small drones for overwatch during field operations including the Shrike confrontation and Alex Kirby's warehouse raid.
+- Field medicine and emergency care, influenced by her mother's nursing career and her own study of anatomy and physiology.
+- Communications and intelligence coordination: police scanners, drone operation, traffic cameras, radio management.
+- Mechanical engineering aptitude (built a custom pepper spray wrist canister for Team Mayfly).
+- Research and OSINT skills: property records, social media cross-referencing, open-source intelligence. Led the Songbirds investigation, identifying them as an astroturfed radicalization pipeline.
+- Primary drone operator for the Auditors, inherited from Team Mayfly's "Swarm" system.
 
 ## Personality
 
-Tasha is practical, blunt, and deeply loyal. She is often the most cautious voice in any planning discussion, advocating for restraint and risk assessment before committing to action. Once a decision is made, however, she commits fully to supporting her team. She speaks directly with little embellishment and is not afraid to call out her friends, including Sam, when she believes they are being reckless. Her manner has been described as that of a "mother hen," fussing over the physical well-being of those around her.
+Tasha is practical, blunt, and deeply loyal. Often the most cautious voice in planning discussions, she advocates for restraint and risk assessment but commits fully once a decision is made. Described as a "mother hen," she fusses over her teammates' physical well-being and is unafraid to call out Sam when she is being reckless.
 
-Beneath her composed and analytical exterior, Tasha privately struggles with self-harm, a fact she conceals by consistently wearing long sleeves and sweaters. Not even Sam was aware of this until the Garbage Day attack, when Sam noticed old scars on Tasha's forearms. Tasha deflected the topic, indicating she was not ready to discuss it. She has a fondness for insects, slugs, and other creatures most people find unsettling. She also possesses a sharp, dry wit and is capable of pointed humor when the situation calls for it.
+Beneath her composed exterior, she privately struggles with self-harm, concealed by consistently wearing long sleeves. Not even Sam knew until the Garbage Day attack exposed old and newer scars on her forearms. She has a fondness for bugs, centipedes, and creatures most people find unsettling - she keeps pet centipedes and enjoys sharing bug facts. She possesses a sharp, dry wit, as when she caught Crossroads off guard by asking "Are you saying that because I'm black?" before the whole room cracked up.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Sam Small (Bloodhound) | Close Friend / Team Leader | One of Sam's oldest friends from middle school. Provides medical care, intelligence support, and emotional grounding. Knows Sam well enough to challenge her directly. |
-| Kate Smith (Soot) | Friend / Former Team Leader | Was a member of Kate's Team Mayfly before transitioning to the Auditors. |
-| Jordan Westwood (Safeguard) | Teammate / Colleague | Worked alongside Jordan during the Auditors' formative period at the Tacony Music Hall. |
-| Maggie O'Brien (Flashpoint) | Teammate / Friend | Fellow Auditor. Maggie once attempted to teach Tasha basic boxing techniques during training sessions. |
-| Lily Chen (Blink) | Teammate / Friend | Fellow Auditor. Works in coordination with Lily during field operations. |
-| Amelia Li (Gossamer) | Teammate / Friend | Fellow Auditor. Collaborates on intelligence and logistics. |
-| Natalie Reynolds | Mother | Nurse at Temple Health. Arrived at the hospital in scrubs during Tasha's shoulder dislocation. |
-| James Reynolds | Father | Academic. Visibly angry upon learning of Tasha's injury, the first time Sam had ever seen him display that emotion. |
-| Marcus Johnson | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
-| Lilly Rodriguez | Friend | Fellow member of Sam's middle school friend group and former Team Mayfly member. |
-| Jenna Nguyen | Friend | Fellow member of Sam's middle school friend group. |
-| Jason Reynolds (Rampart) | Distant Relative | Approximately third or fourth cousins. The connection is currently treated as a coincidence. |
-| Councilman Jamal Davis | Ally | Davis considers the Kingdom's attack on Tasha, a civilian noncombatant, to be a serious crossed line and has been motivated to take action against Maya Richardson as a result. |
+| Sam Small (Bloodhound) | Close Friend / Team Leader | Friends since kindergarten. Provides medical care, intel support, and emotional grounding. Knows Sam well enough to challenge her directly. |
+| Kate Smith (Soot) | Friend / Former Team Leader | Former Team Mayfly member before transitioning to the Auditors. |
+| Jordan Westwood (Safeguard) | Teammate | Worked alongside Jordan during the Auditors' formative period at the Music Hall. |
+| Maggie O'Brien (Flashpoint) | Teammate / Friend | Trains boxing alongside Tasha under Sam's instruction. |
+| Lily Chen (Blink) | Teammate / Friend | Coordinates with Lily during field operations. |
+| Amelia Li (Gossamer) | Teammate / Friend | Collaborates on intelligence and logistics. |
+| Natalie Reynolds | Mother | Nurse (RN) at Temple Health. |
+| James Reynolds | Father | Academic. Visibly angry upon learning of Tasha's injury - the first time Sam had seen him display that emotion. |
+| Marcus Johnson (Mite) | Friend | Middle school friend group; former Team Mayfly drone tech specialist. |
+| Lilly Rodriguez | Friend | Middle school friend group; former Team Mayfly member (Moth or Wasp). |
+| Jenna Nguyen | Friend | Middle school friend group; former Team Mayfly member (Moth or Wasp). |
+| Jason Reynolds (Rampart) | Distant Relative | Approximately third or fourth cousins, treated as coincidence. |
+| Councilman Jamal Davis | Ally | Considers the Kingdom's attack on Tasha, a civilian noncombatant, a serious crossed line motivating his action against Richardson. |
 
 ## Arc Appearances
 
@@ -85,61 +83,61 @@ Beneath her composed and analytical exterior, Tasha privately struggles with sel
 
     **Role:** Supporting
 
-    Introduced as one of Sam's middle school friends during a basketball game with Liberty Belle. Provides information about shark anatomy alongside Marcus. Present at group hangouts where Sam's powers are discussed.
+    Introduced as one of Sam's middle school friends during a basketball game with Liberty Belle. Described as having frizzy hair and large glasses, looking sophisticated, always carrying a book. Friends with Sam since kindergarten. Provides information about shark anatomy (mentions scutes, corrected to denticles by Marcus). Mostly avoids basketball action, hangs on the edges, checks her phone. Present at group hangouts where Sam's powers are discussed.
 
 ??? warning "Book 2: Keys"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    Listed among friends who sent supportive messages to Sam during her recovery.
+    Present during a hangout and sleepover at Kate's apartment with the friend group. Demonstrates medical knowledge from medical shows - knows about skin layers and what shallow versus deep cuts look like. Protective of Sam, pushing back on Kate's vigilante ideas. Reads "Echoes in the Abyss" on an e-reader with Marcus. Sharp social awareness, correcting Jenna about the Temple neighborhood: "It's not bad, it's Black. Watch yourself." Later listed among friends who sent supportive messages to Sam.
 
 ??? warning "Book 3: Dybbuk"
 
     **Role:** Mentioned
 
-    Listed among friends who visit Sam in the hospital following radiation treatment.
+    Sends a supportive message to Sam in the hospital, offering her mom's apple pie.
 
 ??? warning "Book 4: Exorcism"
 
     **Role:** Supporting
 
-    Visits Sam during her recovery from the Chernobyl crisis. Described as "mother hen," fussing over Sam's well-being.
+    Visits Sam during her Chernobyl crisis recovery, fussing over her well-being in typical "mother hen" fashion.
 
 ??? warning "Book 5: Mayfly"
 
     **Role:** Supporting
 
-    Revealed as a member of Team Mayfly, serving as technical support for Kate Smith's vigilante operations. Demonstrates mechanical engineering skills with a custom pepper spray dispenser. Team Mayfly is integrated into Sam's operations with restrictions against field work. Participates in the combined operation against Sparkplug.
+    Revealed as a member of Team Mayfly operating under the codename "Ant," handling communications, police scanner monitoring, and tactical coordination during Kate Smith's vigilante operations. The team used insect-themed codenames (Miss Mayfly, Mite, Ant, Moth, Wasp) and operated with a drone fleet called "the Swarm." Contributed a fully mechanical pepper spray wrist canister she built herself. Team Mayfly is integrated into Sam's operations with restrictions against field work, limited to recon and tech support only. Participates in the combined operation against Sparkplug, where Sam repurposes Tasha's pepper spray canister design into an injector glove.
 
 ??? warning "Book 7: Security"
 
     **Role:** Supporting
 
-    Present at the Tacony Music Hall when Sam and Maggie arrive fleeing Zero's power-negation field, alongside Jordan and Spindle. Participates in team meetings and planning sessions as the proto-Auditors organize against Pattinson's Pals. Contributes technical skills learned from Marcus (Team Mayfly) to the group's surveillance operations. Assists with evidence gathering during the team's weeks-long investigation of Patriot and his associates. Present during the briefing where Devonte and Akilah share Project Titan intelligence and Egalitarian's Fly use evidence. Remotely operates Sam's light killswitch during the Halloween night warehouse fight with Patriot, cutting power on Sam's signal to give her an advantage in the dark.
+    Present at the Tacony Music Hall when Sam and Maggie arrive, alongside Jordan and Spindle. Identified as the smartest girl from middle school. Participates in team meetings and planning sessions as the proto-Auditors organize against Pattinson's Pals. Contributes technical skills learned alongside Marcus (Team Mayfly) to the group's surveillance operations. Assists with evidence gathering during the team's weeks-long investigation of Patriot and his associates. Present during the briefing where Devonte and Akilah share Project Titan intelligence and Egalitarian's Fly use evidence - corrects Sam when she calls it "Project Thanatos" instead of Project Titan. Built Sam's light killswitch, which Sam uses during the Halloween night warehouse fight with Patriot. Tasha remotely operates the killswitch from the Music Hall, cutting power on Sam's signal to give her an advantage fighting in the dark.
 
 ??? warning "Book 8: Big"
 
     **Role:** Supporting
 
-    Present during planning sessions at the Music Hall. Participates in team discussions about the Kingdom of Keys and emerging threats.
+    Present during Music Hall planning sessions about the Kingdom of Keys and emerging threats.
 
 ??? warning "Book 9: Sheol"
 
     **Role:** Supporting
 
-    Attends team meetings at the Music Hall. Treats Sam's gunshot wound after the Crescent nightclub mission. Walks Sam home afterward. Trains with Sam and Maggie in boxing. Investigates the Philadelphia Zoo with Sam, where they encounter Dr. Trinh-Norwood (Mrs. Xenograft).
+    Attends team meetings at the Music Hall, flies drones for the team. Provides analytical insights about Sam's territorial instincts and PTSD, diagnosing her with "severe PTSD from almost two years of fighting supervillains as a teenager, and pyrophobia." Makes a "red herring" pun about Sam's color-based threat theory. Alongside Jordan, puts up fire blankets at the Music Hall. When a fire breaks out, saves the building by spraying a fire extinguisher and containing the blaze while Sam pursues the threat - the Music Hall nearly burned due to its dry old wood, saved only by Tasha's quick action.
 
 ??? warning "Book 10: Plume"
 
     **Role:** Supporting
 
-    Participates in team meetings and planning. Reveals that Maya Richardson represents District 7, covering Mayfair and Tacony. Present during discussions about the Kingdom's plans and Rogue Wave. Assists during the combined team operations leading up to the zoo heist.
+    Participates in team planning. Reveals that Maya Richardson represents District 7 (Mayfair and Tacony). Assists during combined operations leading up to the zoo heist.
 
 ??? warning "Book 11: Alarm Will Sound"
 
     **Role:** Supporting
 
-    Provides field medicine to Sam after her near-fatal river escape from the Kingdom. Located Sam under the dock at Wissinoming Yacht Club alongside Crossroads. Administered emergency medical care in the van, addressing blood loss, hypothermia, and exit wounds. Changed Sam's bandages during recovery. Expressed concern about the extreme risks taken during the Kate/Soot operation.
+    Conducts blood sense experiments with Sam using Tasha's own blood samples - testing with sugar water (thicker perception), diluted blood (thinner), and heated blood (looser texture) to map Sam's abilities. Provides field medicine to Sam after her near-fatal river escape from the Kingdom. Located Sam under the dock at Wissinoming Yacht Club alongside Crossroads. Administered emergency medical care in the van, packing exit wounds with gauze, applying compression bandages, and setting up an IV. Changed Sam's bandages during recovery. Expressed concern about the extreme risks taken during the Kate/Soot operation.
 
 ??? warning "Book 12: Authorized Personnel Only"
 
@@ -151,34 +149,36 @@ Beneath her composed and analytical exterior, Tasha privately struggles with sel
 
     **Role:** Supporting
 
-    Transforms Sam's bedroom into a command center during Sam's house arrest. Monitors city developments and Rogue Wave activity. Recognizes Rush Order's video targeting Ben Small as deliberate provocation. Provides remote intelligence support during Sam's confrontation with Rush Order. Reports trending town hall footage. Provides drone support during search operations for Shrike's hostage. Treats Sam's mouth injuries after the barbed wire incident. Researches possible Daedalus escapee connections to bird killings. Conducts experiments with blood samples to test Sam's sensing abilities. Monitors Sam's evening patrols and enforces check-in schedules.
+    Operates the drone system inherited from Kate's Miss Mayfly era for the team. Provides drone support during the search operations for Shrike's hostage among the barbed wire traps scattered across the city. Treats Sam's mouth injuries with a salt water rinse after Sam chews through barbed wire to rescue Mack Gallagher. Texts Sam about searching public records during the investigation into Victor's background. Monitors Sam's evening patrols and enforces check-in schedules.
 
 ??? warning "Book 14: Shelter in Place"
 
     **Role:** Supporting
 
-    Arrives first to emergency team meetings, setting up monitoring equipment. Receives the codename "Lighthouse" for her intelligence and communications role during the Shrike crisis. Provides remote support via drones and communications during the Van Kirk construction site confrontation with Shrike, relaying enemy positions and coordinating team movements. Visits Sam in the hospital after the battle. Convinces Sam's parents to rest during their vigil. Researches Songbirds, confirming they appeared two weeks after Shrike's death and identifying Maya Richardson's connection to the Crescent nightclub. Investigates Councilman David Silverstein's background. Attacked alongside Sam at the Music Hall by Garbage Day. Cuts power to give Sam an advantage in the dark. Hits attacker with a wooden board. Has her shoulder deliberately dislocated by Garbage Day. Plants a BugTag tracker on the attacker during the confrontation. Recovers at Temple University Hospital.
+    Arrives first to the emergency team meeting after Shrike invades the Small family home, showing up in pajama pants, three jackets, and carrying her laptop. Receives the codename "Lighthouse" from Sam in Chapter 206 during planning for the Shrike confrontation. Brings a dumpster-salvaged computer to replace destroyed equipment. Monitors police channels and provides drone overwatch during the Van Kirk construction site confrontation with Shrike, though Shrike spots her drone and creates a spike maze in response. Prepares wet towels, first aid, and saline solution for the team's return at 2 AM. Visits Sam in the hospital after the battle, staying overnight by misrepresenting her relationship to gain access. Convinces Sam's parents to sleep at a nearby hotel during their vigil.
+
+    During the one-month recovery timeskip, present for Halloween candy sorting at Sam's house with Sam and Derek. Interested in Davis's proposed mentorship program for Activated youth. Works on community center tech infrastructure. Reports on Songbird activity, confirming they appeared two weeks after Shrike's death with diverse membership that rules out a Shrike splinter group. Identifies Maya Richardson's connection to the Crescent nightclub through gossip blog mentions. Researches Councilman David Silverstein's background alongside Sam at the Music Hall, discovering the key liquor license anomaly - Silverstein signed the Crescent's license despite it being outside his district, approved in three weeks instead of the normal three to six months. Discovers shell companies donating to Silverstein's campaign also own Kingdom properties.
+
+    When Garbage Day attacks, Sam and Tasha flee to the third floor and kill the breaker box. Tasha hits the attacker with a board piece, yelling "Center mass!" Garbage Day grabs her by the bun and holds her aloft, demanding she tell Sam to stop investigating. Tasha responds with "Fuck you." Left shoulder deliberately dislocated. Plants a BugTag tracker in Garbage Day's jacket pocket while flailing at him, before the dislocation - a critical piece of intelligence. Calls herself "useless" at the hospital, which Sam rejects: "You're not a fighter. That's not your job." Sideloads the BugTag tracking app onto Sam's phone, showing the attacker's location in East Falls. Recovers at Temple University Hospital with her parents Natalie and James at her side.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Recovering from shoulder injury. Provides remote intelligence support via video calls and group chat while healing. Reports on news coverage of Sam's fugitive status. Relays that "security services" people approached her mother. Guides Auditors through affected neighborhoods during Wednesday reconnaissance. Operates drone providing overwatch during Alex Kirby's solo warehouse raid, having called fire trucks in advance as contingency. Coordinates remotely with Tacony Titans during the blizzard crisis.
+    Recovering from shoulder injury, on painkillers (Vicodin) during early video calls. Provides remote intelligence support via video calls and group chat. Plans an arcade hangout with Sam for Tuesday. Sends Sam pre-calc notes. Reports "security services" people approaching her mom three separate times, offering sidewalk snow removal at $200 each - her mom told them to fuck off. During an emergency Auditors video call, corrects Amelia's count of five team members to six, insisting Jordan is still an Auditor. Out of the sling by early January after six weeks of healing, though she still favors the shoulder sometimes. At the Music Hall desk with laptop by the time the team reconvenes, reporting on construction schedules and Vysera/Daedalus hearings news.
+
+    Participates remotely in war room planning from her couch, still in a sling, holding her phone with her good hand. Provides key strategic analysis: "Businesses pay protection money. Homes don't. This isn't random looting, it's establishing a revenue base." Advocates for the Inquirer approach as "the lever we have that doesn't get anyone killed." During the blizzard crisis, reports from home with snow up to her knees in the yard, coordinating through the Auditors group chat. Operates drone providing overwatch during Alex Kirby's solo warehouse raid on a Kingdom facility, having preemptively called fire trucks as a contingency before the operation even started. Her drone gets destroyed when Garbage Day throws a cash register at it. Covers for her drone operation with her parents by claiming she is playing video games.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Supporting
 
-    Attends the community center grand opening, where she debuts her Lighthouse costume for the first time. Receives a copy of the center keys alongside Sam, Maggie, and Lily. Conducts deep-dive research into the Songbirds from the center office, cross-referencing neighborhood watch Facebook groups with Songbird event photos to identify the radicalization pipeline. Discovers that Mike D'Ambrosio had zero anti-powered online presence before October, confirming the Songbirds as an astroturfed operation. Provides intelligence support during Auditors' Faraday room briefings. Assigned deep Songbird research including forums, money trail, and drone surveillance. Reports Songbird presence at the community center during a shelter-in-place incident. Calls 911 from school bathroom during the Songbird confrontation at the center.
+    Attends the community center grand opening, where she debuts her Lighthouse costume for the first time - showing Sam around in the blue-and-white outfit with mechanical arm brace and leashed drone. Conducts deep-dive research into the Songbirds from the center office, cross-referencing neighborhood watch Facebook groups with Songbird event photos to identify the radicalization pipeline. Discovers that Mike D'Ambrosio had zero anti-powered online presence before October, confirming the Songbirds as an astroturfed operation rather than an organic grassroots movement. Notes the etymological connection - "A Shrike is a kind of songbird" - suggesting a possible rebranding of Shrike's ideology. Provides intelligence support during Auditors' Faraday room briefings. Assigned deep Songbird research including forums, money trail, and drone surveillance. Raises the possibility that the Songbird bounty on Sam and the Bellwether drug operation are unconnected, since the Songbirds were already escalating independently. Calls 911 from a school bathroom during the Songbird confrontation at the community center. Assists Sam with surveillance file research, going through 63 photos and timestamped observations. Identified as one of the many independent threads in Sam's "mousetrap strategy" against Maya Richardson - a thread that would continue operating regardless of what happened to Sam.
 
 
 ## Trivia
 
-- Her codename "Lighthouse" was suggested by Sam during planning for the Shrike confrontation, with Sam explaining: "You guide us, keep us from crashing on the rocks." Tasha accepted it over her initial reluctance to take any codename at all.
-- She is distantly related to Jason Reynolds (Rampart) of the Delaware Valley Defenders, approximately third or fourth cousins, though this is currently treated as a coincidence given that Jason is white.
-- Her mother Natalie works as a nurse at Temple Health, and her father James is an academic.
-- She has a fondness for bugs, slugs, and other creatures that most people find unsettling.
-- Her Lighthouse costume debuted in Chapter 234 and consists of a concealing blue-and-white outfit, a mechanical arm brace with a phone slot, bundled wires, and a small leashed drone with a blinking red LED.
-- She privately struggles with self-harm, concealed by consistently wearing long sleeves and sweaters. Sam discovered old scars on her forearms during the Garbage Day attack but Tasha deflected discussion of the topic.
-- Councilman Jamal Davis considers the attack on Tasha to be a particularly egregious crossed line because she is a civilian noncombatant, and it has motivated his willingness to pursue action against Maya Richardson.
-- On Team Mayfly, she was listed as "technical support," while the other members used insect-themed codenames (Mite, Ant, Moth, Wasp).
+- Sam explained the Lighthouse codename: "You guide us, keep us from crashing on the rocks."
+- Tasha gets her face and eyesight from her father.
+- Her role as "Ant" on Team Mayfly directly prefigured her Lighthouse role for the Auditors.
+- After the Garbage Day attack, Sam's measured response to learning about the BugTag tracker prompted Tasha to quip: "Who are you and what did you do with Sam?"

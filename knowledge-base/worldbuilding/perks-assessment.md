@@ -16,86 +16,86 @@
 
 ## Overview
 
-The Paranormal Entity Rating/Kill Score (PERKS) is the primary framework through which metahuman abilities are classified, quantified, and assessed in the United States. Administered by the National Superhuman Response Agency (NSRA), the system serves both strategic and legal functions: it provides tactical intelligence for containment, recovery, and neutralization operations, while also underpinning the regulatory infrastructure that governs metahuman activity across the country.
+The Paranormal Entity Rating/Kill Score (PERKS) is the primary framework for classifying and assessing metahuman abilities in the United States. Administered by the NSRA, it serves both strategic and legal functions: tactical intelligence for containment and neutralization, and the regulatory infrastructure governing metahuman activity.
 
-PERKS assessments assign each metahuman a structured classification code describing the nature of their power, along with numerical ratings across five scales that measure the magnitude, controllability, and danger of their abilities. The system is complemented by a parallel legal classification framework that sorts metahumans into status categories ranging from unlicensed vigilantes to government-employed Registered Superhuman Entities, and criminal designations ranging from low-level offenders to Classified Threat Entities. Together, these systems form the backbone of American metahuman policy.
+Each metahuman receives a structured classification code and numerical ratings across five scales measuring magnitude, controllability, and danger. A parallel legal framework sorts metahumans into status categories (unlicensed to government-employed) and criminal designations (low-level to Classified Threat Entities).
 
-The PERKS documentation is classified, and unauthorized dissemination may result in penalty under the U.S. Code, Title 18, Section 798.
+PERKS documentation is classified; unauthorized dissemination may result in penalty under U.S. Code, Title 18, Section 798.
 
 ## Mechanics
 
 ### Classification Code Structure
 
-Each metahuman power receives a structured classification code composed of four components: a primary category letter, a numerical power ranking, a targeting type, a context type, and a range type. For example, a classification of G4/S/P/T indicates a Gigant-category power at ranking 4, targeting the self, physical in context, with touch range. Each individual power a metahuman possesses receives its own separate classification and power ranking.
+Each power receives a code with five components: primary category letter, power ranking, targeting type, context type, and range type. For example, G4/S/P/T indicates a Gigant-category power at ranking 4, targeting self, physical in context, touch range. Each individual power receives its own classification.
 
 ### Primary Categories (A-H)
 
-Metahuman capabilities are classified into eight categories that describe the fundamental operational nature of the ability:
+Eight categories describe the fundamental nature of an ability:
 
-- **Adjust (A)** -- The capability to modify existing variables within a system without creating new or eliminating existing ones.
-- **Brain (B)** -- Superior or alternative cognitive, sensory, or information processing abilities, encompassing enhanced memory, intelligence, and sensory perception.
-- **Create (C)** -- The ability to bring into existence objects, entities, or phenomena, typically on a macroscopic scale.
-- **Delete (D)** -- The capability to erase or negate objects, entities, thoughts, or phenomena from existence, functioning at both macroscopic and microscopic levels.
-- **Employ (E)** -- The power to augment or enhance characteristics or properties of various entities by adding new attributes to systems.
-- **Filch (F)** -- The ability to extract specific properties or characteristics from objects or entities, distinct from total erasure or mere modification.
-- **Gigant (G)** -- Extraordinary physical or biological characteristics, which may be innate or activated at will. These traits are usually active by default.
-- **Hopper (H)** -- Advanced locomotion abilities, such as teleportation, flight, or super-speed.
+- **Adjust (A)** - Modifies existing variables without creating or eliminating.
+- **Brain (B)** - Superior cognitive, sensory, or information processing abilities.
+- **Create (C)** - Brings objects, entities, or phenomena into existence, typically macroscopic.
+- **Delete (D)** - Erases or negates from existence; functions at both macroscopic and microscopic levels.
+- **Employ (E)** - Augments entities by adding new attributes to systems.
+- **Filch (F)** - Extracts specific properties from objects or entities without total erasure.
+- **Gigant (G)** - Extraordinary physical or biological characteristics, usually active by default.
+- **Hopper (H)** - Advanced locomotion: teleportation, flight, or super-speed.
 
 ### Targeting Types
 
-Targeting describes what or whom a power affects:
+Targeting describes what a power affects:
 
-- **Self (S)** -- The power affects the user.
-- **Other (O)** -- The power affects other human individuals.
-- **Nonsentient (N)** -- The power affects nonsentient entities such as animals, plants, and in some cases machines.
-- **Inanimate (I)** -- The power affects inanimate objects, either specific ones or in general.
-- **Environment (E)** -- The power affects the environment or nontargeted entities in the environment.
+- **Self (S)** - The user.
+- **Other (O)** - Other human individuals.
+- **Nonsentient (N)** - Animals, plants, and sometimes machines.
+- **Inanimate (I)** - Inanimate objects.
+- **Environment (E)** - The surrounding environment or nontargeted entities.
 
 ### Context Types
 
-Context describes the domain in which a power operates:
+Context describes the operational domain:
 
-- **Physical (P)** -- The power is physical and usually tangible in nature.
-- **Emotional (E)** -- The power targets emotions or emotional processing.
-- **Mental (M)** -- The power targets cognition, sensory information, or thought processes.
-- **Undefined (X)** -- The power targets something that cannot be defined using the Physical/Emotional/Mental categories, such as other powers.
+- **Physical (P)** - Tangible, physical effects.
+- **Emotional (E)** - Emotions or emotional processing.
+- **Mental (M)** - Cognition, sensory information, or thought processes.
+- **Undefined (X)** - Effects outside P/E/M, such as powers affecting other powers.
 
 ### Range Types
 
-Range describes the effective radius of a power:
+Range describes effective radius:
 
-- **Touch (T)** -- Limited to what the user can physically touch, or themselves.
-- **Room (R)** -- Approximately a 1-9 meter radius.
-- **Block (B)** -- Approximately a 10-99 meter radius.
-- **Visual (V)** -- Approximately a 100-999 meter radius.
-- **Mile (M)** -- Approximately a 1-9 kilometer radius.
-- **Postmile (P)** -- Beyond a 9 kilometer radius.
+- **Touch (T)** - Direct contact or self.
+- **Room (R)** - 1-9 meters.
+- **Block (B)** - 10-99 meters.
+- **Visual (V)** - 100-999 meters.
+- **Mile (M)** - 1-9 kilometers.
+- **Postmile (P)** - Beyond 9 kilometers.
 
 ### Rating Scales
 
-All five rating scales operate on a 0-10 integer scale:
+All five scales use a 0-10 integer range:
 
-- **Power Ranking (0-10)** -- Measures the magnitude of a metahuman ability. A score of 0 corresponds to capabilities practically indistinguishable from a normal human, while a score of 10 indicates capabilities that are impossible to replicate, immense in scale, and/or indefensible. Each individual power a metahuman possesses receives its own power ranking.
-- **Control Rating (0-10)** -- Measures the metahuman's ability to regulate, direct, or suppress their power. A score of 0 implies involuntary or uncontrolled manifestation, while a score of 10 indicates full mastery and precision.
-- **Hostility Rating (0-10)** -- Assesses a metahuman's antagonism towards state actors. A score of 0 is equivalent to an average law-abiding citizen, while a score of 10 denotes a high-threat entity demonstrating terrorist or anarchistic behavior.
-- **Collateral Damage Potential (0-10)** -- Measures potential for harm. A score of 0 denotes an entity incapable of causing loss of life or significant property damage, while a score of 10 indicates the capacity for mass casualties (thousands of fatalities) and/or billions of dollars in property damage.
-- **Overall Threat Level (0-10)** -- A comprehensive assessment of a metahuman's threat to public safety. This aggregate rating considers the power classification and ranking, control, hostility, and collateral damage potential together.
+- **Power Ranking** - Magnitude of ability. 0 = practically normal human; 10 = impossible to replicate, immense, and/or indefensible. Each power receives its own ranking.
+- **Control Rating** - Ability to regulate, direct, or suppress. 0 = involuntary/uncontrolled; 10 = full mastery.
+- **Hostility Rating** - Antagonism toward state actors. 0 = average law-abiding citizen; 10 = terrorist/anarchistic behavior.
+- **Collateral Damage Potential** - Harm potential. 0 = incapable of significant damage; 10 = mass casualties (thousands) and/or billions in property damage.
+- **Overall Threat Level** - Aggregate assessment considering all other factors.
 
 ## History
 
-The exact date of the PERKS system's establishment is unknown. It was developed by or for the National Superhuman Response Agency as the United States' standardized approach to classifying and tracking the metahuman population. The accompanying legal classification framework, which defines the status categories for both lawful and criminal metahumans, was established alongside or in connection with the PERKS system to provide the regulatory infrastructure for metahuman governance.
+The exact establishment date is unknown. PERKS was developed by or for the NSRA alongside its legal classification framework.
 
-The broader policy environment in which PERKS operates reflects lessons learned from catastrophic metahuman incidents, including the Tesla Incident, which underscored the potential for devastating escalation when conventional law enforcement engages with superhumans. This history contributed to the prevailing policy of allowing superhumans to manage and regulate each other rather than relying primarily on conventional forces.
+The system reflects lessons from catastrophic incidents, particularly the Tesla Incident, which underscored the danger of conventional law enforcement engaging superhumans and contributed to the prevailing policy of allowing superhumans to manage each other.
 
 ## Implications
 
-The PERKS system shapes virtually every aspect of metahuman life in the United States. For heroes, it determines their legal standing, the scope of their authorized activity, and the degree of oversight they face. For law enforcement and military operations, it provides the tactical intelligence needed to plan engagements with hostile metahumans, informing decisions about containment strategy, resource allocation, and the authorization of lethal force.
+PERKS shapes virtually every aspect of metahuman life. For heroes, it determines legal standing and authorized activity scope. For law enforcement, it provides tactical intelligence for containment strategy, resource allocation, and lethal force authorization.
 
-The legal classification tiers create a structured pathway for metahumans who wish to operate within the law. The LUMA licensing system, with its modest fee structure ($40 initial, $20 biennial renewal), is designed to bring the majority of metahumans into a regulated framework. Licensed and Registered metahumans receive tangible benefits including legal immunity for authorized actions and access to specialized healthcare suited to their physiology and secret identity requirements.
+The LUMA licensing system ($40 initial, $20 biennial renewal) creates a structured legal pathway. Licensed and Registered metahumans receive legal immunity for authorized actions and specialized healthcare.
 
-On the criminal side, the tiered classification system allows the NSRA and law enforcement to allocate resources proportionally. Known Superhuman Criminals receive standard law enforcement attention, while Ideological Power Entities trigger deployment of specialized NSRA units and interagency counter-terrorism coordination. Classified Threat Entities -- the rarest and most dangerous category -- are subject to continuous high-level surveillance including satellite and SIGINT monitoring, with pre-approved authorization for lethal force under specific conditions.
+Criminal classifications allow proportional resource allocation: standard attention for Known Superhuman Criminals, specialized NSRA deployment for Ideological Power Entities, and continuous surveillance with pre-approved lethal force for Classified Threat Entities.
 
-The system also reflects and reinforces the broader societal compact around metahuman activity. Approximately 500,000 individuals in America possess powers or the potential to gain them, and over two-thirds of metahumans opt to avoid the superhero-supervillain dynamic entirely, instead using their abilities in the workplace or for personal use. The PERKS and LUMA frameworks accommodate this majority by providing a legal pathway for non-combatant metahuman activity.
+Over two-thirds of the approximately 500,000 U.S. metahumans avoid the hero-villain dynamic entirely, using abilities in the workplace or personal life. PERKS and LUMA accommodate this majority.
 
 ## Classification / Taxonomy
 
@@ -170,19 +170,11 @@ The system also reflects and reinforces the broader societal compact around meta
 
 ## Related Concepts
 
-- **NSRA (National Superhuman Response Agency)** -- The federal agency that administers the PERKS system and governs metahuman regulation in the United States.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework that authorizes metahumans to use their abilities legally; closely integrated with PERKS status classifications.
-- **Tesla Incident** -- A catastrophic metahuman event frequently cited as justification for the policy of non-engagement by conventional law enforcement and the "let superhumans handle each other" doctrine.
-- **Metahuman Healthcare** -- Specialized medical support available to Licensed Vigilantes and Registered Superhuman Entities, accommodating both their physiology and secret identity requirements.
+- **NSRA** - Administers PERKS and governs metahuman regulation.
+- **LUMA** - Licensing framework closely integrated with PERKS status classifications.
+- **Tesla Incident** - Catastrophic event justifying non-engagement policy by conventional law enforcement.
+- **Metahuman Healthcare** - Specialized medical support for Licensed and Registered metahumans.
 
 ## Trivia
 
-- The PERKS acronym stands for "Paranormal Entity Rating/Kill Score," reflecting the system's dual purpose of assessment and threat neutralization planning.
-- Over two-thirds of the approximately 500,000 metahumans in America choose not to participate in the superhero-supervillain dynamic, instead using their abilities in conventional employment or for personal use.
-- The LUMA license costs $40 for the initial interview and $20 for biennial renewal, and can be obtained through a local NSRA office or arranged through local police agencies in areas without an NSRA presence.
-- The PERKS documentation is officially classified, with unauthorized dissemination subject to penalty under U.S. Code, Title 18, Section 798.
-
-## Sources
-
-- superpowers-and-the-perks-assessment.txt -- Full source for PERKS classification system details (categories A-H, targeting, context, range, rating scales I-VI), legal status classifications (Vigilantes, Licensed Vigilantes, RSEs), criminal classifications (Known Superhuman Criminals, Ideological Power Entities, Classified Threat Entities), public policy context, and LUMA licensing details.
-- THE FACTSHEET.txt (lines 1-65) -- Condensed reference for PERKS categories, rating scales, targeting types, context categories, range classifications, legal classifications, and demographic breakdowns.
+- LUMA can be obtained through a local NSRA office or arranged through local police agencies in areas without NSRA presence.

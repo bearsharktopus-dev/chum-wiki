@@ -16,65 +16,59 @@
 
 ## Overview
 
-Gadgeteering refers to the broad field of engineering technology specifically intended for use by or in connection with superhumans. The discipline spans a wide spectrum, from conventional support device engineering -- building custom gadgets, protective gear, and reconnaissance equipment using off-the-shelf components -- to cutting-edge anomalous research conducted by superhuman Brain-types whose creations defy the known laws of physics.
+Gadgeteering refers to the field of engineering technology for use by or in connection with superhumans. It spans two tracks: conventional support device engineering by baseline engineers building custom gadgets, protective gear, and reconnaissance equipment; and anomalous research involving superhuman Brain-types whose creations defy known physical laws and resist conventional reproduction.
 
-The field operates on two distinct tracks. The first is the professional support device industry, staffed primarily by baseline (non-powered) engineers who design and fabricate practical equipment for superhuman clients. This work resembles traditional electrical and mechanical engineering, albeit with highly specialized requirements dictated by the unique operational demands of superhuman activity. The second track involves superhuman-created technology, produced by Brain-type metahumans with hyper-intuitive knowledge of narrow scientific fields. These individuals craft devices and materials that cannot be explained or reproduced through conventional science, posing fundamental challenges to reverse-engineering and mass production.
-
-Both tracks play a critical role in the superhuman ecosystem. Support devices enable heroes and licensed metahumans to operate more effectively, while anomalous research holds the potential -- however elusive -- to translate impossible inventions into reproducible technologies that benefit the general public.
+Support devices enable heroes to operate more effectively, while anomalous research holds the potential - however elusive - to translate impossible inventions into reproducible technologies.
 
 ## Mechanics
 
 ### Conventional Support Device Engineering
 
-Conventional gadgeteering relies on established engineering principles applied to the unique demands of superhuman clients. Support Device Engineers work with miniaturized electronics, precision soldering, custom 3D-printed components, RF transmission systems (commonly operating on the 5.8 GHz band), weatherproofing techniques, and battery optimization to produce compact, durable devices suited to field conditions.
+Support Device Engineers work with miniaturized electronics, precision soldering, custom 3D-printed components, RF transmission systems (commonly 5.8 GHz band), weatherproofing, and battery optimization. Typical projects include utility gadgets, miniaturized reconnaissance equipment, protective gear, wearable technology, communication systems, and specialized medical devices for superhuman physiology.
 
-Typical projects include utility gadgets, reconnaissance equipment (such as miniaturized cameras with live transmission capability), protective gear, wearable technology, communication systems, and specialized medical devices for superhuman physiology. Engineers must consult directly with superhuman clients to understand their specific operational needs, power interactions, and environmental constraints. Field testing is a standard part of the development cycle, and all products must meet regulatory safety and quality assurance standards.
-
-The work demands proficiency in CAD software, microcontrollers, wireless communication protocols, and an understanding of the PERKS Assessment system and its implications for device design. Familiarity with wearables, biomechanics, and medical device principles is considered advantageous.
+Engineers consult directly with superhuman clients on operational needs, power interactions, and environmental constraints. The work demands proficiency in CAD software, microcontrollers, wireless protocols, and the PERKS Assessment system.
 
 ### Brain-Type Superhuman Creations
 
-Brain-type metahumans represent the more extraordinary dimension of gadgeteering. These individuals do not simply possess enhanced intelligence in a general sense; rather, they are savants with hyper-intuitive mastery of extremely narrow scientific domains. A Brain-type might design self-healing polymers instinctively yet be unable to explain the underlying chemistry, or possess an innate grasp of fluid dynamics sufficient to create liquids with selective densities while lacking basic knowledge outside that specialty.
+Brain-type metahumans are not generally intelligent but rather savants with hyper-intuitive mastery of extremely narrow scientific domains. One might design self-healing polymers instinctively yet be unable to explain the underlying chemistry, or create liquids with selective densities while lacking basic knowledge outside that specialty.
 
-The devices and materials produced by Brain-types frequently defy conventional analysis -- a phenomenon known as the "Microscope Breaker" problem. When subjected to standard scientific instruments (electron microscopes, chemical assays, mass spectrometry), these creations return scrambled, blank, or endlessly looping data. The readings behave as though the underlying physical properties refuse to resolve into measurable quantities, rendering traditional reverse-engineering impossible.
+Their creations frequently defy conventional analysis - the "Microscope Breaker" problem. Standard instruments (electron microscopes, chemical assays, mass spectrometry) return scrambled, blank, or endlessly looping data, as if the underlying physical properties refuse to resolve into measurable quantities.
 
 ### The DAAS Hybrid Approach
 
-The Department of Applied Anomalous Sciences addresses the Microscope Breaker problem through a hybrid methodology. Superhuman researchers are paired with baseline scientists who attempt to translate intuitive, anomalous creations into functional, reproducible science. DAAS also orchestrates collaborations between Brain-types from different specializations, hoping that interactions between distinct anomalous fields might produce stable, usable technologies.
-
-In addition to Brain-types, DAAS recruits Employ-type metahumans (who can imbue objects with new properties) and Create-types (who conjure materials from nothing). The materials produced by Create-types, classified as Anomalously Originated Material (AOM), often defy traditional chemistry and physics entirely, providing further subjects for study.
+DAAS addresses the Microscope Breaker problem by pairing superhuman researchers with baseline scientists and orchestrating collaborations between Brain-types from different specializations. DAAS also recruits Employ-types (who imbue objects with new properties) and Create-types (who conjure Anomalously Originated Material), providing further subjects for study.
 
 ### Degradation and Instability
 
-A significant limitation of superhuman-created technology is its finite lifespan. Many devices and materials produced by metahumans degrade in functionality over time, with operational windows ranging from hours to years. No superhuman-created object has been observed to remain functional indefinitely. This degradation, combined with the inability to replicate these creations through conventional means, severely limits their practical deployment and commercial viability.
+Many superhuman-created devices degrade in functionality over time, with operational windows ranging from hours to years. No such object has remained functional indefinitely, severely limiting practical deployment and commercial viability.
 
 ## History
 
-The informal practice of building support equipment for superhumans predates the formalization of the field. Early gadgeteering was largely a freelance endeavor, with skilled individuals working independently -- often from home workshops or garages -- to provide custom devices to local heroes and vigilantes. This grassroots tradition persists alongside the more structured corporate industry.
+Early gadgeteering was largely freelance, with skilled individuals working from home workshops to provide custom devices to local heroes. This grassroots tradition persists alongside the corporate industry.
 
-The Department of Applied Anomalous Sciences was founded in 2011 in response to the growing scientific crisis posed by Brain-type superhumans who were producing tangible, functional technology that violated known physical laws. Located on the outskirts of Baltimore in an unmarked facility, DAAS was established with the mission of studying and understanding these impossible creations. Under the directorship of Dr. Alan Reeve, the department has pursued incremental progress in translating anomalous artifacts into usable science.
+DAAS was founded in 2011 on the outskirts of Baltimore in an unmarked facility, under Director Dr. Alan Reeve, to study and translate Brain-type creations that violated known physical laws.
 
-The corporate support device industry matured in parallel, with companies such as HeroTech Innovations (based in Las Vegas, Nevada) establishing formal engineering positions, standardized qualifications, and professional development pathways for Support Device Engineers. The field now encompasses both independent contractors and full-time corporate employees, with salaries in the range of $85,000 to $120,000 annually for qualified engineers.
+The corporate industry matured through companies such as HeroTech Innovations (Las Vegas), establishing formal positions and professional pathways for Support Device Engineers with salaries of $85,000 to $120,000 annually.
 
 ## Implications
 
 ### Economic and Professional Impact
 
-Gadgeteering has established itself as a legitimate professional field within the broader superhuman economy. The industry supports both corporate employers and independent freelancers, though the job market is competitive. Engineers without formal corporate experience often struggle to find employment despite extensive practical portfolios, and the gap between freelance work for local heroes and recognized professional experience remains a persistent challenge.
+The industry supports both corporate employers and freelancers, though the gap between freelance work for local heroes and recognized professional experience remains a persistent challenge.
 
-The intellectual property landscape for superhuman-created technology is largely unresolved. Devices that cannot be replicated fall into a legal gray area, classified as "non-replicable anomalous artifacts" and shielded from standard intellectual property laws. Questions of patent eligibility for inventions that defy known physics remain open.
+Non-replicable superhuman-created devices fall into a legal gray area shielded from standard intellectual property laws. Questions of patent eligibility for inventions defying known physics remain open.
 
 ### Scientific Significance
 
-Despite the fundamental barriers to understanding superhuman-created technology, DAAS and related research efforts have produced tangible downstream benefits. Partial insights gleaned from studying anomalous artifacts have advanced conventional research in materials science, energy efficiency, and medical technology. A notable success involved a collaboration between a ceramics-specialist Brain-type and a fluid dynamics expert, which yielded a non-Newtonian fluid that hardens on impact -- a material now being tested for next-generation body armor and producible at lower cost with more commonly available components.
+Despite fundamental barriers, partial insights from studying anomalous artifacts have advanced materials science, energy efficiency, and medical technology. A notable success: a collaboration between a ceramics-specialist Brain-type and a fluid dynamics expert yielded a non-Newtonian fluid that hardens on impact, now being tested for next-generation body armor.
 
-However, no fully reproducible "impossible" technology has yet reached the commercial market. The gap between anomalous creation and conventional reproduction remains the central unsolved problem of the field.
+No fully reproducible "impossible" technology has yet reached the commercial market. The gap between anomalous creation and conventional reproduction remains the field's central unsolved problem.
 
 ### Safety and Containment
 
-The unpredictable nature of superhuman-created devices necessitates extensive safety infrastructure. DAAS maintains a dedicated containment wing known as "the Zoo," housing unstable artifacts too dangerous or poorly understood to store conventionally. These include objects such as a perpetual motion machine that ceases functioning under observation, a mirror that reflects nonexistent objects, a teleportation device that displaces objects one inch due east (and which caused an unexplained explosion when last moved), and a vial of liquid that evaporates and recondenses at random locations within the facility.
+DAAS maintains a containment wing called "the Zoo" for unstable artifacts too dangerous to store conventionally, including a perpetual motion machine that ceases functioning under observation, a mirror reflecting nonexistent objects, a teleportation device that displaces objects one inch due east, and a vial of liquid that evaporates and recondenses at random locations.
 
-Rigorous safety testing protocols are applied to every new creation, even when the device's function is not fully understood. Entire teams are dedicated to assessing liability risks for gadgets with potential to implode, explode, or cause localized anomalous events.
+Rigorous safety testing protocols apply to every new creation, with entire teams assessing liability risks for gadgets with potential to implode, explode, or cause anomalous events.
 
 ## Classification / Taxonomy
 
@@ -107,25 +101,18 @@ Rigorous safety testing protocols are applied to every new creation, even when t
 
 ## Related Concepts
 
-- **PERKS Assessment** -- The national power classification system; knowledge of PERKS categories and ratings is a preferred qualification for Support Device Engineers and informs device design requirements.
-- **Anomalously Originated Material (AOM)** -- Materials generated by Create-type metahumans; a key subject of DAAS research and a source of substances that defy conventional analysis.
-- **Brain (B) Category** -- The PERKS classification encompassing enhanced cognitive, sensory, and information processing abilities; Brain-types with hyper-specialized knowledge are the primary creators of anomalous technology.
-- **Department of Applied Anomalous Sciences (DAAS)** -- The federal research institution dedicated to studying superhuman-created technology and bridging the gap between anomalous inventions and reproducible science.
-- **Microscope Breaker Phenomenon** -- The observed tendency of Brain-type creations to resist conventional scientific analysis, producing scrambled or null readings when subjected to standard instrumentation.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework governing legal metahuman activity; relevant to the regulatory context in which superhuman clients and gadgeteers operate.
-- **Superhuman Fashion** -- The parallel industry of costume and suit design for metahumans, which shares material science concerns and client consultation practices with gadgeteering.
+- **PERKS Assessment** - Knowledge of PERKS categories informs device design requirements.
+- **Anomalously Originated Material (AOM)** - Materials from Create-types that defy conventional analysis; a key DAAS research subject.
+- **Brain (B) Category** - The PERKS classification for enhanced cognitive abilities; Brain-types are the primary creators of anomalous technology.
+- **Department of Applied Anomalous Sciences (DAAS)** - Federal institution studying superhuman-created technology.
+- **Microscope Breaker Phenomenon** - Brain-type creations resist conventional analysis, producing scrambled or null readings.
+- **LUMA (License to Utilize Metahuman Abilities)** - The licensing framework governing metahuman activity.
+- **Superhuman Fashion** - Shares material science concerns and client consultation practices with gadgeteering.
 
 ## Trivia
 
-- The vlog "Gearheads With Greg" documents the working life of a freelance gadgeteer who operates out of his parents' garage in his late twenties, illustrating the grassroots end of the profession. Greg rebrands his freelance hero work on resumes as "Independent Contractor for Tactical Support Devices in High-Stakes Environments."
-- HeroTech Innovations, a Las Vegas-based company, represents the corporate end of the field, offering salaries between $85,000 and $120,000 for Support Device Engineers with at least three years of experience.
-- DAAS maintains an entire containment wing called "the Zoo" for unstable superhuman-created artifacts, so named because its contents have a tendency to behave unpredictably -- as one anecdote puts it, a pair of boots stored there might literally jump out and bite you.
-- The DAAS facility in Baltimore is deliberately unmarked and resembles a nondescript office complex from the outside, giving no indication of the anomalous research conducted within.
-- Tungsten is referenced as a reinforcement material used in gadget construction for its durability, employed in components such as lapel pin mechanisms that must withstand field conditions.
-- The DAAS teleportation device that moves objects one inch due east has been left in place since the last attempt to relocate it caused an unexplained explosion. It currently occupies itself by teleporting dust particles.
+- The vlog "Gearheads With Greg" documents a freelance gadgeteer who operates from his parents' garage in his late twenties. Greg rebrands his freelance hero work on resumes as "Independent Contractor for Tactical Support Devices in High-Stakes Environments."
+- The Zoo is so named because its contents behave unpredictably - as one anecdote puts it, a pair of boots stored there might literally jump out and bite you.
+- Tungsten is referenced as a reinforcement material for its durability, used in components such as lapel pin mechanisms that must withstand field conditions.
+- The DAAS teleportation device has been left in place since the last relocation attempt caused an unexplained explosion. It currently occupies itself by teleporting dust particles.
 
-## Sources
-
-- gadgeteering-1.txt -- Source for conventional gadgeteering practices, freelance industry details, "Gearheads With Greg" vlog content, HeroTech Innovations job listing, technical aspects of support device construction, and professional qualifications.
-- gadgeteering-2.txt -- Source for the Department of Applied Anomalous Sciences (DAAS), Brain-type superhuman creations, the Microscope Breaker phenomenon, anomalous research methodology, the Zoo containment area, legal and bureaucratic challenges, and research outcomes.
-- THE FACTSHEET.txt (lines 1244-1352) -- Condensed reference for gadgeteering industry overview, DAAS organizational details, common project types, technical aspects, industry standards, challenges, and research outcomes.

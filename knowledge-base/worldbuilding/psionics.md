@@ -16,11 +16,9 @@
 
 ## Overview
 
-Psionics refers to the class of metahuman abilities that operate through the interaction between consciousness and the physical world, bypassing conventional physical mechanisms. Unlike powers with clear physiological origins such as super strength or energy projection, psionic abilities appear to bridge the gap between mental intent and external effect without any detectable energy transfer in the form of heat, sound, or electromagnetism. This absence of observable intermediary force has made psionics one of the most intensely studied and least understood domains in Dynology.
+Psionics refers to the class of metahuman abilities that operate through the interaction between consciousness and the physical world, bypassing conventional physical mechanisms. Unlike powers with clear physiological origins, psionic abilities bridge mental intent and external effect without any detectable energy transfer in the form of heat, sound, or electromagnetism, making psionics one of the most intensely studied and least understood domains in Dynology.
 
-The scope of psionic phenomena is broad. Documented abilities include telekinesis, mind control, thought transmission, memory reading and manipulation, emotion sensing, neural override, and precognition. These powers share a common thread: they involve the mind exerting influence on matter, other minds, or the flow of information in ways that defy the standard models of physics and neuroscience. Despite nearly five decades of research since superhuman abilities first began manifesting, no unified theory has emerged to explain how psionic powers function.
-
-The field is further complicated by the Telepathy Problem, a well-documented limitation in which no known metahuman has ever demonstrated the ability to directly receive or read another person's active thoughts, even though the transmission of thoughts into another mind and the overriding of motor control are both established capabilities. This asymmetry has generated extensive scientific and philosophical debate about the fundamental nature of consciousness.
+Documented abilities include telekinesis, mind control, thought transmission, memory reading and manipulation, emotion sensing, neural override, and precognition. Despite nearly five decades of research, no unified theory has emerged to explain how psionic powers function. The field is further complicated by the Telepathy Problem - the consistent inability of any known metahuman to directly receive another person's active thoughts, even though outward projection and motor override are established capabilities.
 
 ## Mechanics
 
@@ -50,64 +48,58 @@ The most radical proposal holds that consciousness itself is the primary force i
 
 ### The Telepathy Problem
 
-The Telepathy Problem is a well-documented limitation in the psionic domain: no known metahuman has ever demonstrated the ability to directly receive, interpret, or access the active thoughts of another person. While the mind can project outward through thought transmission, mind control, neural override, emotion sensing, and memory reading, the reception of another person's real-time conscious thoughts has proven impossible.
+While the mind can project outward through thought transmission, mind control, neural override, emotion sensing, and memory reading, the reception of another person's real-time conscious thoughts has proven impossible across all documented metahumans.
 
 #### What Is Possible
 
-- **Mind control** -- The ability to override a target's voluntary motor functions or implant commands, effectively hijacking neural activity. The target typically retains full cognitive awareness while losing bodily autonomy.
-- **Thought transmission** -- One-way projection of thoughts, mental images, ideas, or emotions into another person's mind. The recipient cannot transmit back.
-- **Memory reading and manipulation** -- Access to and alteration of stored memories, which are encoded in relatively static neuronal networks and thus more accessible than the dynamic flow of active thought.
-- **Neural override** -- Direct control over a target's motor pathways, distinct from broader mind control in that it targets the neuromuscular system specifically while leaving cognition intact.
-- **Emotion sensing** -- The ability to detect or perceive the emotional states of others.
+- **Mind control** - The ability to override a target's voluntary motor functions or implant commands, effectively hijacking neural activity. The target typically retains full cognitive awareness while losing bodily autonomy.
+- **Thought transmission** - One-way projection of thoughts, mental images, ideas, or emotions into another person's mind. The recipient cannot transmit back.
+- **Memory reading and manipulation** - Access to and alteration of stored memories, which are encoded in relatively static neuronal networks and thus more accessible than the dynamic flow of active thought.
+- **Neural override** - Direct control over a target's motor pathways, distinct from broader mind control in that it targets the neuromuscular system specifically while leaving cognition intact.
+- **Emotion sensing** - The ability to detect or perceive the emotional states of others.
 
 #### What Is Impossible
 
-- Direct thought reception
-- Real-time thought reading
+- Direct reception or reading of active thoughts
 - Two-way mental communication
-- Access to active, in-progress thoughts
-- Live mental monitoring of another person's conscious experience
+- Live monitoring of another person's conscious experience
 
 #### Theories Explaining the Limitation
 
 Four theories have been advanced to explain this asymmetry:
 
-- **Cognitive Noise Theory** -- The brain's constant processing of sensory input, bodily regulation, memory retrieval, and background cognitive operations generates too much interference for any external observer to isolate coherent thoughts from the surrounding noise.
-- **Brain-to-Brain Mismatch Hypothesis** -- Each brain possesses a unique neural architecture shaped by individual genetics, experience, and memory, effectively encoding thoughts in a private language with no universal translation key.
-- **Quantum Mind Hypothesis** -- If thoughts exist in quantum superposition until collapsed by the thinker, any external attempt to observe them would alter their state, making faithful reception fundamentally impossible.
-- **Privacy of Consciousness Theory** -- A philosophical position holding that conscious thoughts are inherently subjective first-person experiences that cannot, by their nature, be externally accessed, regardless of technological or biological capability.
+- **Cognitive Noise Theory** - The brain's constant processing of sensory input, bodily regulation, memory retrieval, and background cognitive operations generates too much interference for any external observer to isolate coherent thoughts from the surrounding noise.
+- **Brain-to-Brain Mismatch Hypothesis** - Each brain possesses a unique neural architecture shaped by individual genetics, experience, and memory, effectively encoding thoughts in a private language with no universal translation key.
+- **Quantum Mind Hypothesis** - If thoughts exist in quantum superposition until collapsed by the thinker, any external attempt to observe them would alter their state, making faithful reception fundamentally impossible.
+- **Privacy of Consciousness Theory** - A philosophical position holding that conscious thoughts are inherently subjective first-person experiences that cannot, by their nature, be externally accessed, regardless of technological or biological capability.
 
 ### Physical Effects on Users
 
-Psionic abilities produce notable physical side effects on their users, a phenomenon linked to the Bracing Effect. Although cognitive powers do not involve visible physical force, users of psionic abilities experience symptoms consistent with the force distribution patterns observed in other extra-physiological powers, including spontaneous nosebleeds, migraines, and transient ischemic attacks (mini-strokes). This is considered paradoxical by researchers, as there is no apparent physical force being exerted in cognitive-only abilities. The connection between psionic power usage and physical strain remains an active area of research. Long-term use over ten to twenty years can produce symptoms resembling neurodegenerative disorders, along with chronic low-level nerve cell damage.
+Despite involving no visible physical force, psionic abilities produce side effects linked to the Bracing Effect, including spontaneous nosebleeds, migraines, and transient ischemic attacks. This is considered paradoxical, as no apparent physical force is being exerted. Long-term use over ten to twenty years can produce symptoms resembling neurodegenerative disorders and chronic nerve cell damage.
 
 ## History
 
-Superhuman abilities began manifesting worldwide in the 1980s, and psionic powers were among the earliest to capture public and scientific attention. The prospect of telepathy, in particular, seized the popular imagination, though it quickly became apparent that the expected form of mind-reading did not exist among the emerging metahuman population.
+Psionic powers were among the earliest superhuman abilities to capture public and scientific attention in the 1980s, though the expected form of mind-reading quickly proved nonexistent. Dr. Julian Feiner's Psychron Particle Theory (late 1980s) established the first formal framework and the theoretical vocabulary that continues to shape the field.
 
-In the late 1980s, Dr. Julian Feiner proposed the Psychron Particle Theory, the first formal scientific framework for explaining psionic phenomena. His hypothesis introduced the concept of the psychron as a mediating particle between consciousness and physical reality. While the psychron has never been detected experimentally, Feiner's work established the theoretical vocabulary and research agenda that continue to shape the field. Feiner, now Professor Emeritus at Stanford University, remains an active voice in the debate.
-
-Subsequent decades saw the development of competing theoretical models. The Psionic Field Hypothesis gained traction for its explanatory breadth, while Quantum Psychophysics connected psionic research to the growing field of quantum biology. Psionic Wave Theory emerged more recently, offering a dynamic alternative to the static-field model. The Consciousness-Centric Hypothesis, though controversial, found adherents among practicing metahumans.
-
-The Telepathy Problem was formally identified and named as researchers catalogued the consistent absence of thought-reception abilities across the global metahuman population. The legal system also grappled with psionics early on, as cases involving mind control and neural override raised unprecedented questions about criminal liability, consent, and autonomy. The 2009 trial of Damon "Marionette" Locke in the Superior Court of New York became a landmark case, centering on whether a mind-controlled victim retained agency and whether the controller bore full criminal responsibility for acts committed through others' bodies.
+Competing models followed over subsequent decades, with the Telepathy Problem formally identified as researchers catalogued the consistent absence of thought-reception abilities worldwide. The legal system grappled with psionics early, culminating in the 2009 trial of Damon "Marionette" Locke in the Superior Court of New York - a landmark case centering on whether a mind-controlled victim retained agency and whether the controller bore full criminal responsibility for acts committed through others' bodies.
 
 ## Implications
 
 ### Scientific
 
-The existence of psionic abilities challenges foundational assumptions in physics and neuroscience. The absence of detectable energy transfer during telekinetic events, the paradoxical physical strain experienced by cognitive-power users, and the hard boundary of the Telepathy Problem all suggest that current scientific models are incomplete. Psionic research is frequently compared to the state of quantum mechanics in the early twentieth century: the phenomena are observable and repeatable, but the underlying framework remains elusive. Resolution of the psychron question or confirmation of any competing theory would have revolutionary implications for the understanding of consciousness, force, and the relationship between mind and matter.
+Psionic research is frequently compared to early twentieth-century quantum mechanics: the phenomena are observable and repeatable, but the underlying framework remains elusive. Resolution of the psychron question or confirmation of any competing theory would have revolutionary implications for the understanding of consciousness, force, and the relationship between mind and matter.
 
 ### Legal and Ethical
 
-Psionic abilities, particularly mind control and neural override, pose severe challenges to legal systems built on assumptions of individual agency. The Locke trial exposed the difficulty of prosecuting crimes committed through controlled intermediaries and raised questions about the culpability of victims whose bodies performed criminal acts while their minds remained aware but helpless. Memory manipulation introduces further complications around consent, evidence integrity, and mental privacy. The documented impossibility of direct thought reading provides a measure of reassurance regarding mental privacy, but the existence of memory access and emotional sensing continues to fuel ethical debate.
+Mind control and neural override pose severe challenges to legal systems built on assumptions of individual agency. The Locke trial exposed the difficulty of prosecuting crimes committed through controlled intermediaries. Memory manipulation introduces complications around consent and evidence integrity. The impossibility of direct thought reading provides some reassurance regarding mental privacy, but memory access and emotional sensing continue to fuel ethical debate.
 
 ### Medical
 
-Users of psionic abilities face health risks consistent with the Bracing Effect, including vascular complications, migraines, nosebleeds, and transient ischemic attacks. Long-term practitioners risk neurodegenerative symptoms and chronic nerve damage. Specialized healthcare protocols exist for metahumans experiencing these effects, and the medication Capilastin-XR (brand name VeiloGuard) has been approved for related vascular complications. The paradox of physical strain from non-physical powers remains an unresolved research question.
+Specialized healthcare protocols exist for psionic-ability users experiencing Bracing Effect symptoms, and the medication Capilastin-XR (brand name VeiloGuard) has been approved for related vascular complications.
 
 ### Societal
 
-The existence of mind control as a real and documented phenomenon has significant implications for public trust, interpersonal relationships, and institutional security. Certain applications of psionic powers are banned outright in regulated contexts, such as powered fighting leagues, where mind control and probability manipulation are prohibited. The Telepathy Problem, while a limitation, functions as a de facto safeguard for mental privacy in a world where many other forms of privacy have been eroded by metahuman capabilities.
+Mind control's existence has significant implications for public trust and institutional security. Psionic powers are banned in regulated contexts such as powered fighting leagues, where mind control and probability manipulation are prohibited. The Telepathy Problem functions as a de facto safeguard for mental privacy in a world where many other forms of privacy have been eroded by metahuman capabilities.
 
 ## Classification / Taxonomy
 
@@ -115,12 +107,12 @@ The existence of mind control as a real and documented phenomenon has significan
 
 | Ability Type | Description | Direction | Affects Active Thought? |
 |-------------|-------------|-----------|------------------------|
-| Mind Control | Override of a target's conscious decision-making and voluntary actions | Outward (push) | No -- overrides, does not read |
-| Neural Override | Hijacking of motor control pathways while leaving cognition intact | Outward (push) | No -- controls body, not mind |
-| Thought Transmission | Projection of thoughts, images, or emotions into another mind | Outward (push) | No -- inserts, does not extract |
-| Memory Reading | Access to stored memories encoded in neuronal networks | Outward (pull of stored data) | No -- accesses static storage, not active thought |
-| Memory Manipulation | Alteration or deletion of stored memories | Outward (push) | No -- modifies storage |
-| Emotion Sensing | Detection of another person's emotional state | Inward (passive reception) | Indirect -- reads emotional state, not thoughts |
+| Mind Control | Override of a target's conscious decision-making and voluntary actions | Outward (push) | No - overrides, does not read |
+| Neural Override | Hijacking of motor control pathways while leaving cognition intact | Outward (push) | No - controls body, not mind |
+| Thought Transmission | Projection of thoughts, images, or emotions into another mind | Outward (push) | No - inserts, does not extract |
+| Memory Reading | Access to stored memories encoded in neuronal networks | Outward (pull of stored data) | No - accesses static storage, not active thought |
+| Memory Manipulation | Alteration or deletion of stored memories | Outward (push) | No - modifies storage |
+| Emotion Sensing | Detection of another person's emotional state | Inward (passive reception) | Indirect - reads emotional state, not thoughts |
 | Precognition | Perception of future events or probable outcomes | Inward (reception) | N/A |
 | Telekinesis | Exertion of force on objects without physical contact | Outward (push) | N/A |
 
@@ -145,25 +137,15 @@ The existence of mind control as a real and documented phenomenon has significan
 
 ## Related Concepts
 
-- **Dynology** -- The scientific discipline encompassing the study of all superhuman abilities, of which psionics is a major subdomain.
-- **The Bracing Effect** -- The force distribution mechanism that causes physical strain in metahumans using extra-physiological powers. Paradoxically affects cognitive-power users despite the absence of visible physical force.
-- **PERKS Assessment** -- The classification system used by the NSRA to categorize metahuman powers. Psionic abilities fall under multiple PERKS categories depending on their specific function, including Brain (B) for cognitive and sensory powers and Adjust (A) or Employ (E) for abilities that modify or add to existing systems.
-- **Psychrons** -- The hypothetical subatomic particles proposed by Dr. Julian Feiner as the mediating mechanism behind psionic phenomena.
-- **The Telepathy Problem** -- The specific documented limitation within psionics in which direct reception of active thoughts is impossible.
-- **VeiloGuard (Capilastin-XR)** -- Medication approved for vascular complications resulting from metahuman power use, including those experienced by psionic-ability users.
+- **Dynology** - The scientific discipline encompassing the study of all superhuman abilities, of which psionics is a major subdomain.
+- **The Bracing Effect** - The force distribution mechanism that causes physical strain in metahumans using extra-physiological powers, paradoxically including cognitive-power users.
+- **PERKS Assessment** - Psionic abilities fall under multiple PERKS categories: Brain (B) for cognitive and sensory powers, and Adjust (A) or Employ (E) for abilities that modify or add to existing systems.
+- **Psychrons** - The hypothetical subatomic particles proposed by Dr. Julian Feiner as the mediating mechanism behind psionic phenomena.
+- **The Telepathy Problem** - The documented limitation in which direct reception of active thoughts is impossible.
+- **VeiloGuard (Capilastin-XR)** - Medication approved for vascular complications resulting from metahuman power use.
 
 ## Trivia
 
-- Telekinetics have been shown to exert measurable force on objects without any detectable energy transfer in the form of heat, sound, or electromagnetism, which is one of the strongest pieces of indirect evidence cited by Psychron Theory proponents.
 - The Telepathy Problem is sometimes informally summarized as "every brain has a transmitter but no receiver."
-- Mind control is among the powers explicitly banned in powered fighting leagues, alongside probability manipulation.
-- The 2009 trial of Damon "Marionette" Locke featured testimony from victims who described full cognitive awareness during periods of complete bodily control by Locke, with one witness comparing the sensation to the neurological condition alien hand syndrome extended across the entire body.
-- Dr. Julian Feiner, who first proposed Psychron Theory in the 1980s, remains active in the field as Professor Emeritus at Stanford University.
-- One of the open questions in Bracing Effect research is why cognitive-power users experience physical symptoms at all, given that their abilities do not involve any apparent physical force.
-
-## Sources
-
-- psionics-1.txt -- Theoretical frameworks for psionic phenomena (Psychron Particle Theory, Psionic Field Hypothesis, Quantum Psychophysics, Psionic Wave Theory, Consciousness-Centric Hypothesis); current status of experimental research; key researchers and institutions.
-- psionics-2.txt -- The Telepathy Problem; documented psionic capabilities (mind control, thought transmission, memory reading/manipulation); theories explaining the impossibility of direct thought reception (Cognitive Noise, Brain-to-Brain Mismatch, Quantum Mind, Privacy of Consciousness); ethical and scientific implications.
-- psionics-3.txt -- Court transcript from The State vs. Damon "Marionette" Locke (2009); firsthand testimony of mind control and neural override effects; expert neurophysiological testimony on involuntary motor control; legal arguments regarding psionic-enabled crime and victim agency.
-- THE FACTSHEET.txt -- Condensed reference for psionic theories, the Telepathy Problem, Bracing Effect details for cognitive-power users, and related scientific terminology.
+- The 2009 Locke trial featured testimony from victims who described full cognitive awareness during complete bodily control, with one witness comparing the sensation to alien hand syndrome extended across the entire body.
+- Dr. Julian Feiner remains active in the field as Professor Emeritus at Stanford University.

@@ -18,33 +18,33 @@
 
 ## Summary
 
-Samantha "Sam" Small, a fourteen-year-old Jewish girl from Mayfair, Philadelphia, gains shark-based powers after a boating accident with her grandfather leaves her mangled by a propeller. The book opens with her PERKS assessment interview, where Officer Gold documents her abilities - shark teeth with enhanced bite force, a blood-sensing ability that functions as a new sense detecting nearby vascular systems, and a possible regenerative capacity she is not yet aware of. She is granted a provisional Juvenile License to Utilize Metahuman Abilities (JLUMA). During a Shabbat dinner at her grandfather Pop-Pop Moe's house in Ventnor, New Jersey, Moe encourages her to use her powers to save lives, planting the seed of heroism.
+Samantha "Sam" Small, a fourteen-year-old Jewish girl from Mayfair, Philadelphia, gains shark-based powers after a boating accident with her grandfather leaves her mangled by a propeller. The book opens with her PERKS assessment interview, where Officer Gold documents her abilities - shark teeth with enhanced bite force, a blood-sensing ability that detects nearby vascular systems, and a possible regenerative capacity she is not yet aware of. She is granted a provisional Juvenile License to Utilize Metahuman Abilities (JLUMA). At a Shabbat dinner at her grandfather Pop-Pop Moe's house in Ventnor, New Jersey, Moe encourages her to use her powers to save lives.
 
-Sam's trajectory shifts when she encounters Liberty Belle, leader of the Delaware Valley Defenders, during a pickup basketball game. Her blood sense detects Belle's severe internal bleeding, and Belle later visits Sam's home to recruit her for the Young Defenders, a youth training division. During this visit, Belle privately reveals she is dying of metastasized stomach cancer with only a few years to live. Sam agrees to join on a trial basis. At DVD headquarters in Center City, she meets the team - Puppeteer, Blink, Crossroads, Gossamer, Playback, Rampart, and Gale - undergoes physical assessments, nearly collapses completing the obstacle course, and receives her costume and codename: Bloodhound.
+Sam's trajectory shifts when she encounters Liberty Belle, leader of the Delaware Valley Defenders, during a pickup basketball game. Her blood sense detects Belle's severe internal bleeding, and Belle later visits Sam's home to recruit her for the Young Defenders, a youth training division. Belle privately reveals she is dying of metastasized stomach cancer with only a few years to live. Sam agrees to join on a trial basis. At DVD headquarters in Center City, she meets the team - Puppeteer, Blink, Crossroads, Gossamer, Playback, Rampart, and Gale - undergoes physical assessments, nearly collapses completing the obstacle course, and receives her costume and codename: Bloodhound.
 
-On her first patrol with Gale, Sam detects a robbery at a Walgreens in Northern Liberties. She and Gale subdue a ground-liquefying criminal who names himself Mudslide. Immediately afterward, a space-warping figure called Safeguard appears, trapping Sam inside the store and compressing a bathroom around her before escaping. Over the following weeks, Sam trains with Puppeteer, patrols with Gale and Rampart, testifies in court against Mudslide, and begins high school at Tacony Academy Charter. She spots a student named Jordan wearing platform goth boots identical to Safeguard's. After school, Jordan freely confirms their identity and proposes a scheme: stage fake superhero-villain fights for mutual notoriety. Sam is disgusted but cannot bring herself to refuse outright.
+On her first patrol with Gale, Sam detects a robbery at a Walgreens in Northern Liberties. She and Gale subdue Mudslide, a ground-liquefying criminal. Immediately afterward, a space-warping figure called Safeguard appears, trapping Sam inside the store and compressing a bathroom around her before escaping. Over the following weeks, Sam trains with Puppeteer, patrols with Gale and Rampart, testifies against Mudslide, and begins high school at Tacony Academy Charter. She spots a student named Jordan wearing boots identical to Safeguard's. Jordan freely confirms their identity and proposes staging fake superhero-villain fights for mutual notoriety. Sam is disgusted but cannot refuse outright.
 
-Sam visits Jordan's hideout - an abandoned music hall in Tacony - where they choreograph a staged confrontation planned for the old Dobson Textile Factory. However, when they scout the factory at night, they witness Mudslide, now free and working for a criminal organization called the Kingdom of Keys, bury a captive man alive under orders from two suited operatives: Mr. Nothing and Mr. Polygraph. Jordan's friend Alex captures footage via drone before Mr. Nothing shoots it down. Sam is discovered, trapped, and interrogated at gunpoint before Jordan warps the space to let them escape. A brutal, desperate fight follows. Sam bites off metal from machinery to fashion improvised spears, Jordan stabs Mr. Nothing through the stomach, and both teenagers sustain severe injuries - Sam suffers two gunshot wounds, a broken nose, cracked ribs, and a broken ankle. Police sirens from Jordan's earlier 911 call force the criminals to retreat. In the hospital, doctors discover Sam's fractures have already consolidated and sharp teeth are growing from her bones, revealing an accelerated healing ability far beyond what her initial assessment suggested. Sam's parents confront her, terrified but ultimately supportive, with her mother insisting she stay with the Young Defenders but leave dangerous investigations to adults. The arc closes with Sam examining a vial of teeth extracted from her bones, determined to find answers about her evolving powers and the Kingdom of Keys.
+Sam visits Jordan's hideout - an abandoned music hall in Tacony - where they choreograph a staged confrontation planned for the Dobson Textile Factory. When they scout the factory at night, they witness Mudslide, now free and working for a criminal organization called the Kingdom of Keys, bury a captive man alive under orders from two suited operatives: Mr. Nothing and Mr. Polygraph. Jordan's friend Alex captures footage via drone before Mr. Nothing shoots it down. Sam is discovered and interrogated at gunpoint before Jordan warps the space to let them escape. A brutal fight follows - Sam bites off metal from machinery to fashion improvised spears, Jordan stabs Mr. Nothing through the stomach, and both teenagers sustain severe injuries including gunshot wounds, broken bones, and cracked ribs. Police sirens from Jordan's earlier 911 call force the criminals to retreat. In the hospital, doctors discover Sam's fractures have already consolidated and sharp teeth are growing from her bones, revealing an accelerated healing ability far beyond her initial assessment. Sam's parents confront her, terrified but ultimately supportive, with her mother insisting she stay with the Young Defenders but leave dangerous investigations to adults. The arc closes with Sam examining a vial of teeth extracted from her bones, determined to find answers about her evolving powers and the Kingdom of Keys.
 
 ## Chapter List
 
-| # | File | Summary |
-|---|------|---------|
-| 1 | 1.txt | Sam undergoes her PERKS assessment interview at a police station, documenting her shark teeth and blood-sensing abilities, and is granted a provisional JLUMA. |
-| 2 | 2.txt | The Small family attends Shabbat dinner at Pop-Pop Moe's in Ventnor, where Sam receives her approved JLUMA and Moe tells her to "save people's lives." |
-| 3 | 3.txt | Sam's blood sense detects Liberty Belle's internal bleeding during a pickup basketball game; she later researches possible villains responsible for Belle's condition. |
-| 4 | 4.txt | Liberty Belle visits Sam's home, reveals her terminal cancer, and recruits Sam for the Young Defenders; Sam agrees to join on a trial basis. |
-| 5 | 5.txt | Sam tours DVD headquarters, meets the Young Defenders team, undergoes physical assessments, and has her baseline abilities evaluated. |
-| 6 | 6.txt | Sam pushes herself to collapse on the obstacle course trying to prove her worth, then wakes to find Gossamer has designed her a costume and the codename Bloodhound. |
-| 7 | 7.txt | On her first patrol with Gale, Sam detects a robbery at a Walgreens where they subdue Mudslide, but Safeguard appears and warps the store's space around them. |
-| 8 | 8.txt | Sam fights Safeguard inside the Walgreens, tracks them using spat blood, survives a compressed bathroom, and completes her first patrol. |
-| 8.5 | 8-5.txt | Interlude: Excerpts from the Young Defenders group chat showing team banter, Sam receiving the Bloodhound name, and casual team dynamics. |
-| 9 | 9.txt | A training montage spanning two weeks: Sam trains with Puppeteer, patrols with Gale, testifies against Mudslide, researches Safeguard with Marcus, visits Mom-Mom Leah's grave with Pop-Pop, and starts high school. |
-| 10 | 10.txt | Sam spots Jordan at school wearing Safeguard's distinctive boots, confronts them after school, and Jordan proposes staging fake superhero-villain fights for notoriety. |
-| 11 | 11.txt | Sam visits Jordan's abandoned music hall hideout where they choreograph a staged confrontation, share personal vulnerabilities, and rehearse combat moves. |
-| 12 | 12.txt | While scouting the Dobson Textile Factory, Sam and Jordan witness Mudslide murder a captive under orders from Mr. Nothing and Mr. Polygraph of the Kingdom of Keys; Sam is discovered and interrogated at gunpoint. |
-| 13 | 13.txt | Sam and Jordan fight for their lives against Mudslide, Mr. Nothing, and Mr. Polygraph in the factory, sustaining severe injuries before police sirens force the criminals to retreat. |
-| 14 | 14.txt | Sam recovers in the hospital where doctors discover her accelerated healing and bone-teeth growth; her parents confront her; Alex delivers drone footage of the murder; the arc ends with Sam determined to find answers. |
+| # | Summary |
+|---|---------|
+| 1 | Sam undergoes her PERKS assessment interview, documenting her shark teeth and blood-sensing abilities, and is granted a provisional JLUMA. |
+| 2 | The Small family attends Shabbat dinner at Pop-Pop Moe's in Ventnor, where Sam receives her approved JLUMA and Moe tells her to "save people's lives." |
+| 3 | Sam's blood sense detects Liberty Belle's internal bleeding during a pickup basketball game; she later researches possible villains responsible for Belle's condition. |
+| 4 | Liberty Belle visits Sam's home, reveals her terminal cancer, and recruits Sam for the Young Defenders. |
+| 5 | Sam tours DVD headquarters, meets the Young Defenders, undergoes physical assessments, and has her baseline abilities evaluated. |
+| 6 | Sam pushes herself to collapse on the obstacle course, then wakes to find Gossamer has designed her a costume and the codename Bloodhound. |
+| 7 | On her first patrol with Gale, Sam detects a robbery at a Walgreens where they subdue Mudslide, but Safeguard appears and warps the store's space around them. |
+| 8 | Sam fights Safeguard inside the Walgreens, tracks them using spat blood, survives a compressed bathroom, and completes her first patrol. |
+| 8.5 | Interlude: Excerpts from the Young Defenders group chat showing team banter, Sam receiving the Bloodhound name, and casual team dynamics. |
+| 9 | Training montage spanning two weeks: Sam trains with Puppeteer, patrols with Gale, testifies against Mudslide, researches Safeguard with Marcus, visits Mom-Mom Leah's grave, and starts high school. |
+| 10 | Sam spots Jordan at school wearing Safeguard's distinctive boots, confronts them after school, and Jordan proposes staging fake fights for notoriety. |
+| 11 | Sam visits Jordan's abandoned music hall hideout where they choreograph a staged confrontation and rehearse combat moves. |
+| 12 | While scouting the Dobson Textile Factory, Sam and Jordan witness Mudslide murder a captive under orders from Mr. Nothing and Mr. Polygraph; Sam is discovered and interrogated at gunpoint. |
+| 13 | Sam and Jordan fight for their lives against Mudslide, Mr. Nothing, and Mr. Polygraph, sustaining severe injuries before police sirens force the criminals to retreat. |
+| 14 | Sam recovers in the hospital where doctors discover her accelerated healing and bone-teeth growth; her parents confront her; Alex delivers drone footage; the arc ends with Sam determined to find answers. |
 
 ## Characters
 
@@ -146,23 +146,3 @@ Sam visits Jordan's hideout - an abandoned music hall in Tacony - where they cho
 ## Threads Resolved
 
 - *(This is the first arc; no prior threads exist to resolve.)*
-
-## Sources
-
-- 1.txt - Sam's PERKS assessment interview, power classification details, boating accident flashback, JLUMA issuance
-- 2.txt - Shabbat dinner at Pop-Pop Moe's, JLUMA delivery, family dynamics, Moe's wisdom and advice
-- 3.txt - Basketball game with Liberty Belle, blood sense detection of Belle's injuries, friend group introductions, Sam's research into villains
-- 4.txt - Liberty Belle's home visit, cancer revelation, recruitment pitch, family discussion, Sam joins Young Defenders on trial basis
-- 5.txt - DVD headquarters tour, Young Defenders team introductions, physical assessment, facility details
-- 6.txt - Obstacle course attempt, Sam collapses from overexertion, receives costume and Bloodhound codename from Gossamer
-- 7.txt - First patrol with Gale, Walgreens robbery, Mudslide apprehension, Safeguard's first appearance and space-warping
-- 8.txt - Safeguard fight in Walgreens, blood-tracking strategy, bathroom compression, Safeguard escapes, patrol completion
-- 8-5.txt - Young Defenders group chat: team banter, food discussions, Blink's graffiti sighting, casual dynamics
-- 9.txt - Two-week training montage: Puppeteer combat training, Gale patrol bonding, court testimony, Marcus research, Pop-Pop cemetery visit, high school start
-- 10.txt - High school environment, spotting Jordan as Safeguard, after-school confrontation, staged-fight proposal
-- 11.txt - Jordan's hideout visit, staged fight choreography, personal vulnerability exchange, ethical struggle
-- 12.txt - Factory scouting, witnessing Kingdom murder, drone footage, Sam discovered and interrogated, escape attempt
-- 13.txt - Full factory battle: Sam and Jordan vs. Mudslide, Mr. Nothing, Mr. Polygraph; severe injuries; police arrival
-- 14.txt - Ambulance ride, hospital surgery, accelerated healing discovery, bone-teeth extraction, parental confrontation, drone footage review, arc conclusion
-- THE CANON DOCUMENT 1 & 2.txt - Chapter-by-chapter canon summaries and detailed timeline verification
-- THE FACTSHEET.txt - PERKS power classification system, legal framework details, worldbuilding context

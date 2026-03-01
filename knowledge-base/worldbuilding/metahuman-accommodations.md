@@ -16,64 +16,62 @@
 
 ## Overview
 
-Metahuman accommodations refer to the broad ecosystem of federal programs, employer obligations, and safety protocols designed to support individuals whose superhuman abilities impose functional limitations on their daily lives. While public discourse around metahumans often centers on heroes and villains, the majority of the approximately 500,000 powered individuals in the United States live outside that dynamic entirely, and many contend with abilities that complicate rather than enhance their capacity to work, live independently, or interact safely with others.
+Metahuman accommodations encompass the federal programs, employer obligations, and safety protocols supporting individuals whose superhuman abilities impose functional limitations. While public discourse centers on heroes and villains, many of the approximately 500,000 U.S. metahumans contend with abilities that complicate rather than enhance daily life.
 
-The accommodation system operates on two primary tracks. The federal track is administered through the Federal Bureau of Metahuman Affairs and its Conditional Ability Support Program (CASP), which provides housing subsidies, containment equipment, medical monitoring, and other direct support to qualifying individuals. The private-sector track obligates employers to engage in an interactive accommodation process analogous to disability law, governed by the Federal Metahuman Employment Act and integrated with existing ADA compliance infrastructure. Both tracks rely on the NSRA's registration and classification systems for eligibility verification and risk assessment.
+The system operates on two tracks. The federal track, administered through the Federal Bureau of Metahuman Affairs and its Conditional Ability Support Program (CASP), provides housing subsidies, containment equipment, medical monitoring, and other direct support. The private-sector track obligates employers to provide reasonable accommodations under the Federal Metahuman Employment Act, integrated with existing ADA compliance infrastructure. Both tracks rely on the NSRA's registration and classification systems for eligibility verification.
 
-These programs reflect a broader societal recognition that metahuman conditions are not uniformly advantageous. Powers that fluctuate unpredictably, impose physiological changes incompatible with standard environments, or create hazardous conditions for bystanders require structured institutional responses that go well beyond traditional disability services.
+These programs reflect the recognition that metahuman conditions are not uniformly advantageous. Powers that fluctuate unpredictably, impose incompatible physiological changes, or create hazardous conditions require institutional responses beyond traditional disability services.
 
 ## Mechanics
 
 ### Conditional Ability Support Program (CASP)
 
-The CASP is a federal benefits program administered by the Federal Bureau of Metahuman Affairs. Applicants must hold an NSRA registration number and submit Form MH-SSI-401(c). The application requires disclosure of power classification, date of initial manifestation, and a detailed limitation assessment.
+The CASP is a federal benefits program administered by the Federal Bureau of Metahuman Affairs. Applicants must hold an NSRA registration number and submit Form MH-SSI-401(c), disclosing power classification, manifestation date, and a detailed limitation assessment.
 
-The program recognizes six primary limitation types:
+The program recognizes six limitation types:
 
-- **Temporal** -- Powers that fluctuate based on time-based or external factors (diurnal cycles, lunar phases, seasonal changes, weather conditions, or emotional triggers).
-- **Control-Related** -- Inability to fully regulate power activation or deactivation.
-- **Physiological** -- Physical changes that are incompatible with standard human functioning or environments.
-- **Cognitive** -- Mental alterations that impact decision-making or perception.
-- **Environmental** -- Powers that create hazardous conditions for the user or those nearby.
-- **Resource-Dependent** -- Powers that require specific environmental factors to function or to remain stable.
+- **Temporal** - Powers that fluctuate based on time or external factors (diurnal cycles, lunar phases, seasons, weather, or emotional triggers).
+- **Control-Related** - Inability to fully regulate power activation or deactivation.
+- **Physiological** - Physical changes incompatible with standard human environments.
+- **Cognitive** - Mental alterations impacting decision-making or perception.
+- **Environmental** - Powers creating hazardous conditions for the user or those nearby.
+- **Resource-Dependent** - Powers requiring specific environmental factors to function or remain stable.
 
-Applicants must also document the employment impact of their condition, ranging from complete inability to work during manifestation periods to full work capacity with standard accommodations. Available support services include specialized housing subsidies, containment equipment, medical monitoring, transportation accommodations, caregiver assistance, and employment adaptation services.
+Applicants also document employment impact, from complete inability to work during manifestation to full capacity with standard accommodations. Support services include specialized housing, containment equipment, medical monitoring, transportation, caregiver assistance, and employment adaptation.
 
-Treatment options covered under CASP include sedation during active power periods, ongoing symptom management, and enrollment in experimental treatment programs.
+Treatment options include sedation during active power periods, ongoing symptom management, and experimental treatment enrollment.
 
 ### Workplace Accommodations
 
-The private-sector accommodation process is modeled on standard disability accommodation law but adapted for metahuman-specific concerns. Employees submit a confidential request to Human Resources, disclosing their NSRA registration number and power classification. Verification is conducted through a secure NSRA portal.
+The private-sector process mirrors disability accommodation law, adapted for metahuman concerns. Employees submit a confidential request to HR with their NSRA registration number and power classification, verified through a secure NSRA portal.
 
-Limitation patterns are classified as consistent, cyclical, episodic, progressive, or fluctuating. For cyclical limitations, employees specify whether the pattern operates on a daily, weekly, monthly, or seasonal basis. Available workplace accommodations include modified schedules, telecommuting arrangements, specialized equipment, environmental modifications, containment facility access, flexible break schedules, temporary reassignment during active periods, and safety protocol implementation.
+Limitation patterns are classified as consistent, cyclical, episodic, progressive, or fluctuating. Accommodations include modified schedules, telecommuting, specialized equipment, environmental modifications, containment facility access, flexible breaks, temporary reassignment during active periods, and safety protocols.
 
-Employers are required to evaluate requests based on business necessity and undue hardship considerations, consistent with existing reasonable accommodation law. The interactive process is overseen through meetings between the employee, HR, and where necessary, a Metahuman Integration Officer (MIO).
+Employers evaluate requests based on business necessity and undue hardship, with the interactive process overseen by HR and, where necessary, a Metahuman Integration Officer (MIO).
 
 ### Risk Assessment and Monitoring
 
-Both the federal and workplace tracks incorporate structured risk assessment. The CASP application evaluates applicants' history of uncontrolled manifestations on a four-tier severity scale (none, minor, moderate, serious) and their ongoing public safety risk level. Applicants who receive CASP benefits consent to biannual power assessment evaluations, home inspections, mandatory reporting of changes in power expression, and participation in the National Metahuman Registry database.
+Both tracks incorporate structured risk assessment. CASP evaluates applicants' history of uncontrolled manifestations on a four-tier severity scale (none, minor, moderate, serious) and ongoing public safety risk. CASP beneficiaries consent to biannual power evaluations, home inspections, mandatory reporting of power changes, and National Metahuman Registry participation.
 
-In workplace settings, safety considerations may trigger additional requirements including designated safe areas, emergency response protocols, co-worker notification and training, and modified evacuation plans. Employers may consult with Metahuman Integration Officers and require containment verification documentation.
+In workplace settings, safety considerations may require designated safe areas, emergency response protocols, co-worker notification and training, and modified evacuation plans.
 
 ### Confidentiality Protections
 
-Metahuman accommodation information is treated as confidential medical data. In the workplace, disclosure is limited to supervisors who need to know about restrictions, safety personnel who may need to provide emergency treatment, government officials investigating ADA or MHA compliance, and Metahuman Integration Officers as required by federal law. Failure to disclose a relevant metahuman condition may result in disciplinary action under both company policy and federal statute.
+Accommodation information is treated as confidential medical data. Workplace disclosure is limited to supervisors needing to know about restrictions, safety personnel, government compliance investigators, and MIOs as required by federal law. Failure to disclose a relevant metahuman condition may result in disciplinary action under company policy and federal statute.
 
 ## History
 
-The metahuman accommodation system developed in response to the growing recognition that existing disability and social safety-net frameworks were insufficient to address the unique challenges posed by superhuman physiology and abilities. The Federal Metahuman Disclosure Act and the Federal Metahuman Employment Act established the legal foundations, though the exact dates of their enactment are not documented in available sources.
+The accommodation system developed as existing disability and social safety-net frameworks proved insufficient for superhuman-specific challenges. The Federal Metahuman Disclosure Act and Federal Metahuman Employment Act established the legal foundations, though their exact enactment dates are undocumented.
 
-The Conditional Ability Support Program appears to have been modeled in part on the Supplemental Security Income (SSI) system, as suggested by its form designation (MH-SSI-401(c)), adapted to address the distinct categories of limitation that metahuman conditions produce. The workplace accommodation framework extended existing ADA protections to encompass metahuman-specific needs, creating a parallel compliance infrastructure that accounts for containment requirements and public safety concerns absent from conventional disability law.
+CASP appears modeled on the Supplemental Security Income (SSI) system, as suggested by its form designation (MH-SSI-401(c)). The workplace framework extended ADA protections to metahuman-specific needs, creating parallel compliance infrastructure accounting for containment requirements and public safety concerns absent from conventional disability law.
 
 ## Implications
 
-The accommodation system has significant implications for metahuman civil rights, public safety, and economic participation. By providing structured pathways for powered individuals to receive support and remain in the workforce, the system reduces the likelihood that metahumans with difficult-to-manage abilities will be driven to the margins of society where they might pose greater risks or be more susceptible to criminal recruitment.
+By providing structured support pathways, the system reduces the likelihood that metahumans with difficult-to-manage abilities are driven to societal margins where they might pose greater risks or face criminal recruitment.
 
-The mandatory monitoring and disclosure requirements attached to CASP benefits, however, represent a significant trade-off. Beneficiaries must consent to regular home inspections, power evaluations, and participation in the National Metahuman Registry -- surveillance measures that have no direct parallel in conventional disability programs. This creates a tension between the support the system provides and the civil liberties it demands in return.
+However, CASP's mandatory monitoring - home inspections, power evaluations, Registry participation - represents a significant civil liberties trade-off with no parallel in conventional disability programs.
 
-In the workplace, the accommodation framework introduces novel safety considerations that do not exist in traditional disability law. The possibility that an employee's uncontrolled power manifestation could injure coworkers, damage facilities, or require evacuation fundamentally changes the calculus of "reasonable accommodation" and "undue hardship." The involvement of Metahuman Integration Officers and the requirement for containment verification reflect a regulatory apparatus that goes substantially beyond the standard HR accommodation process.
-
-The system also highlights the economic dimension of metahuman life. Not all powers are assets. For individuals whose abilities impose cyclical incapacitation, require expensive containment infrastructure, or prevent them from occupying standard workspaces, the accommodation system is the primary mechanism through which they maintain economic participation and access to housing.
+In the workplace, the possibility that uncontrolled power manifestation could injure coworkers or require evacuation fundamentally changes the calculus of "reasonable accommodation." For individuals whose abilities impose cyclical incapacitation or require expensive containment, the accommodation system is often the primary mechanism for maintaining economic participation.
 
 ## Classification / Taxonomy
 
@@ -118,24 +116,19 @@ The system also highlights the economic dimension of metahuman life. Not all pow
 
 ## Related Concepts
 
-- **PERKS Assessment** -- The power classification system used by the NSRA; PERKS classification codes are referenced in both CASP applications and workplace accommodation requests to identify the nature and scope of an applicant's abilities.
-- **NSRA (National Superhuman Response Agency)** -- Provides the registration infrastructure, verification portals, and oversight capacity that the accommodation system depends upon.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework for legal metahuman activity; CASP and workplace accommodations address a different population segment, specifically those whose powers create functional limitations rather than actionable capabilities.
-- **Federal Bureau of Metahuman Affairs** -- The federal agency that administers the CASP program and processes accommodation benefit applications.
-- **Federal Metahuman Employment Act** -- The statute requiring employers to provide reasonable accommodations for metahuman employees and establishing Metahuman Integration Officer oversight.
-- **Federal Metahuman Disclosure Act** -- The statute governing mandatory disclosure of metahuman status in certain contexts, with penalties for false statements or concealment.
-- **National Metahuman Registry** -- The database in which CASP beneficiaries are required to participate as a condition of receiving benefits.
-- **Metahuman Healthcare** -- The broader medical infrastructure for powered individuals; CASP covers medical monitoring and treatment as part of its support services.
+- **PERKS Assessment** - PERKS classification codes are referenced in both CASP and workplace accommodation requests to identify ability scope.
+- **NSRA (National Superhuman Response Agency)** - Provides the registration infrastructure and verification portals the accommodation system depends upon.
+- **LUMA (License to Utilize Metahuman Abilities)** - The licensing framework for legal metahuman activity; CASP addresses a different population segment whose powers create functional limitations.
+- **Federal Bureau of Metahuman Affairs** - Administers CASP and processes accommodation benefit applications.
+- **Federal Metahuman Employment Act** - Requires employers to provide reasonable accommodations and establishes MIO oversight.
+- **Federal Metahuman Disclosure Act** - Governs mandatory disclosure of metahuman status, with penalties for concealment.
+- **National Metahuman Registry** - Database in which CASP beneficiaries must participate as a condition of benefits.
+- **Metahuman Healthcare** - The broader medical infrastructure for powered individuals; CASP covers medical monitoring and treatment.
 
 ## Trivia
 
-- The CASP application form designation (MH-SSI-401(c)) mirrors real-world SSI disability benefit form numbering conventions, suggesting the program was built on or modeled after existing social safety-net infrastructure.
-- Lunar-cycle power fluctuations are specifically listed as a recognized temporal pattern on the CASP application, indicating that lycanthropic or lunar-dependent metahuman conditions are common enough to warrant their own checkbox.
-- Workplace accommodation requests require an "NSRA Workplace Integration Certificate," a document with no equivalent in conventional disability accommodation processes.
-- The workplace form references both ADA and MHA compliance investigations, confirming that metahuman accommodation law exists as a parallel legal track alongside traditional disability protections rather than replacing them.
-- Sedation during active power periods is listed as a standard pharmaceutical management option under CASP, reflecting the severity of some uncontrolled manifestations.
-- Employers may require "co-worker notification/training" as a safety measure, raising questions about workplace confidentiality versus collective safety that are unique to metahuman employment law.
+- Lunar-cycle power fluctuations have their own checkbox on the CASP application, indicating lycanthropic or lunar-dependent conditions are common enough to warrant specific recognition.
+- Workplace accommodation requests require an "NSRA Workplace Integration Certificate," a document with no equivalent in conventional disability processes.
+- The workplace form references both ADA and MHA compliance, confirming metahuman accommodation law exists as a parallel track alongside traditional disability protections.
+- Employers may require "co-worker notification/training" as a safety measure, raising confidentiality-versus-safety questions unique to metahuman employment law.
 
-## Sources
-
-- metahuman-accommodations.txt -- Full source for CASP application details (Form MH-SSI-401(c), limitation types, employment impact tiers, support services, risk assessment, monitoring consent), workplace accommodation request structure (limitation patterns, available accommodations, safety considerations, confidentiality provisions), and references to governing legislation (Federal Metahuman Disclosure Act, Federal Metahuman Employment Act, ADA/MHA compliance).

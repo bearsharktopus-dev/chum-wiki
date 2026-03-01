@@ -16,93 +16,93 @@
 
 ## Overview
 
-Metahuman regeneration refers to the capacity of certain metahumans to recover from physical injury at rates far exceeding those of baseline humans. The phenomenon spans a wide spectrum, from the rapid closure of minor lacerations to the complete reformation of severed limbs and destroyed organs. The majority of regenerators heal at a rate of approximately eight to ten times the normal human baseline, though outliers exist on both ends of the scale.
+Metahuman regeneration is the capacity of certain metahumans to recover from injury at rates far exceeding baseline humans, from rapid closure of minor lacerations to complete reformation of severed limbs. Most regenerators heal at 8-10x the normal rate, though outliers exist on both ends.
 
-The defining feature that distinguishes metahuman regeneration from ordinary healing is the "template" -- an intrinsic biological blueprint to which a regenerator's body attempts to conform following any deviation. Unlike conventional wound repair, which produces scar tissue and often results in imperfect restoration, template-guided regeneration returns the body to a pre-established physiological configuration. This mechanism has profound implications for medicine, emergency response, and the daily lives of regenerators, influencing everything from pharmacology and surgical protocols to psychological well-being and body autonomy.
+The defining feature is the "template" - an intrinsic biological blueprint to which a regenerator's body conforms following any deviation. Unlike conventional wound repair, which produces scar tissue, template-guided regeneration returns the body to a pre-established configuration. This has profound implications for medicine, emergency response, pharmacology, body autonomy, and psychological well-being.
 
-The NSRA classifies regenerators into three distinct types for emergency response purposes: Holistic Template Regenerators, Localized Template Regenerators, and Enhanced Natural Regenerators. Each type demands different medical protocols and presents different risks in both field treatment and long-term care.
+The NSRA classifies regenerators into three types: Holistic Template Regenerators (HTR), Localized Template Regenerators (LTR), and Enhanced Natural Regenerators (ENR), each demanding different medical protocols.
 
 ## Mechanics
 
 ### Wound Healing Process
 
-Metahuman regeneration operates through the same four stages observed in baseline human wound healing -- hemostasis, inflammation, proliferation, and maturation -- but each stage is dramatically compressed and may overlap temporally.
+Regeneration operates through the same four stages as baseline wound healing - hemostasis, inflammation, proliferation, and maturation - but each stage is dramatically compressed and may overlap.
 
-- **Hemostasis** -- Clot formation occurs near-instantaneously in most regenerators, minimizing blood loss and rapidly establishing a barrier against pathogens.
-- **Inflammation** -- The inflammatory response is condensed into a brief, efficient window, reducing the risks associated with prolonged inflammation while still serving its protective function.
-- **Proliferation** -- New cell production and migration to the wound site are exponentially increased. This is the stage in which regenerators display the most dramatic variation from baseline humans, with tissue rebuilding at visibly accelerated rates.
-- **Maturation** -- The remodeling phase, which in baseline humans can take months or years, is completed in a fraction of the expected time, restoring strength and functionality to regenerated tissue.
+- **Hemostasis** - Near-instantaneous clot formation minimizes blood loss.
+- **Inflammation** - Condensed into a brief, efficient window while retaining its protective function.
+- **Proliferation** - Exponentially increased cell production; the stage showing the most dramatic variation from baseline humans, with visibly accelerated tissue rebuilding.
+- **Maturation** - The remodeling phase, normally taking months or years, completes in a fraction of the time.
 
 ### The Template
 
-The template is the central mechanism that separates true regeneration from merely accelerated healing. First theorized by Dr. Lillian Haversham in her 1998 paper "Beyond Traditional Healing: The Metahuman Physiological Blueprint," the template functions as an internal standard to which a regenerator's body returns following any deviation. Rather than simply repairing damage based on the body's current state, the template directs restoration toward a specific, pre-established configuration.
+The template separates true regeneration from merely accelerated healing. First theorized by Dr. Lillian Haversham in her 1998 paper "Beyond Traditional Healing: The Metahuman Physiological Blueprint," it functions as an internal standard directing restoration toward a pre-established configuration rather than repairing based on current state.
 
-Key characteristics of the template include:
+Key characteristics:
 
-- **Aging interaction** -- For most regenerators, the template evolves alongside natural aging, preventing post-injury reversion to a younger physiological state. However, some individuals possess static templates that cause chronological and physiological age disparities after healing events.
-- **Body composition** -- The template generally accommodates natural fluctuations in weight and muscle mass, but extreme deviations may be "corrected" during regeneration.
-- **Scar tissue** -- Standard templates typically omit scar formation, producing flawless healing. A subset of regenerators, however, possess scar-sensitive templates that allow scars to persist.
-- **External modifications** -- Elective modifications such as tattoos, piercings, and surgical alterations are often treated as deviations and reversed upon regeneration. Long-standing modifications may eventually integrate into the template and persist through healing events.
+- **Aging interaction** - For most, the template evolves with natural aging. Some possess static templates causing chronological/physiological age disparities after healing events.
+- **Body composition** - Generally accommodates natural fluctuations, but extreme deviations may be "corrected" during regeneration.
+- **Scar tissue** - Standard templates omit scar formation. A subset possess scar-sensitive templates allowing scars to persist.
+- **External modifications** - Tattoos, piercings, and surgical alterations are often reversed as deviations. Long-standing modifications may eventually integrate into the template.
 
 ### Biomass Source
 
-The origin of the material that fuels regeneration remains an open scientific question. Four principal hypotheses have been advanced:
+The biomass source fueling regeneration remains an open question. Four hypotheses exist:
 
-1. **Endogenous Biomass Conversion** -- The regenerator breaks down existing non-essential body mass (fat and muscle tissue) to supply material for repair, resulting in temporary weight loss and requiring high caloric intake post-healing.
-2. **Anomalously Originated Material (AOM) Integration** -- The regenerative process harnesses transient "false matter" (AOM) to temporarily replace lost tissue, which is subsequently replaced by natural tissue through normal metabolic processes.
-3. **Interdimensional Mass Exchange** -- A fringe hypothesis proposing that regenerators draw biomass from alternate dimensions. This theory remains largely untestable with current technology.
-4. **Enhanced Cellular Efficiency** -- Regenerator cells may possess hyper-efficient metabolic processes capable of generating biomass rapidly from a minimal nutrient base.
+1. **Endogenous Biomass Conversion** - Breaking down existing body mass (fat, muscle) for repair, causing temporary weight loss and high caloric demand.
+2. **AOM Integration** - Harnessing transient "false matter" (Anomalously Originated Material) to temporarily replace lost tissue, later replaced by natural tissue.
+3. **Interdimensional Mass Exchange** - Drawing biomass from alternate dimensions (fringe; largely untestable).
+4. **Enhanced Cellular Efficiency** - Hyper-efficient metabolism generating biomass rapidly from minimal nutrients.
 
-Growing evidence suggests that AOM integration plays a role in at least some regenerators, potentially explaining how rapid tissue restoration can occur without violating classical mass conservation constraints.
+Growing evidence supports AOM integration in at least some regenerators, potentially explaining how rapid restoration occurs without violating mass conservation.
 
 ### Physiological Interactions
 
-The heightened cellular turnover in regenerators produces distinctive pharmacological and metabolic profiles:
+Heightened cellular turnover produces distinctive pharmacological and metabolic profiles:
 
-- **Drug metabolism** -- Regenerators display accelerated absorption and elimination of medications, often requiring more frequent dosing or higher doses to achieve therapeutic levels. Hepatic enzyme activity may be elevated, complicating drug-drug interactions.
-- **Toxin processing** -- Detoxification is more efficient, providing a wider margin of safety against poisons, though prolonged or extreme exposure can still overwhelm the system.
-- **Substance response** -- Alcohol and psychoactive substances may produce diminished or unpredictable effects. Dependency can develop faster due to heightened metabolic rates, and withdrawal symptoms may be intensified despite a shorter detoxification period.
-- **Nutritional demands** -- Accelerated cellular activity increases turnover of essential nutrients, often necessitating dietary supplementation or specialized products such as commercially available "Regenerator Nutrient Bars."
+- **Drug metabolism** - Accelerated absorption and elimination often require more frequent or higher dosing. Elevated hepatic enzyme activity complicates drug interactions.
+- **Toxin processing** - More efficient detoxification provides wider safety margins, though extreme exposure can still overwhelm the system.
+- **Substance response** - Alcohol and psychoactive substances produce diminished or unpredictable effects. Dependency can develop faster, and withdrawal may intensify despite shorter detoxification.
+- **Nutritional demands** - Increased nutrient turnover often necessitates supplementation or specialized products like "Regenerator Nutrient Bars."
 
 ### Interaction with Disease
 
-Regeneration is most effective against conditions the body interprets as cellular or tissue damage. It does not function as a general-purpose cure:
+Regeneration is most effective against cellular or tissue damage and does not function as a general-purpose cure:
 
-- **Infections** -- Regenerators remain susceptible to viral and bacterial illness. Rapid cell turnover may speed recovery from tissue damage caused by infection, but does not prevent infection or enhance immune response.
-- **Cancer** -- Regeneration cannot identify or eliminate malignant cells. However, secondary effects of malignancy such as necrosis and tissue invasion damage may be attenuated.
-- **Autoimmune disorders** -- Regeneration can accelerate recovery from immune-mediated tissue destruction, but may also produce a cycle of damage and repair if the underlying autoimmune response is untreated.
-- **Degenerative diseases** -- Conditions involving progressive cell loss (e.g., Alzheimer's disease, muscular dystrophies) may progress more slowly in regenerators due to continuous cell replacement, though the root cause remains unaffected.
-- **Metabolic disorders** -- Conditions like diabetes that do not cause direct cellular trauma generally fall outside the scope of regenerative healing, though secondary complications (e.g., diabetic ulcers) may benefit.
+- **Infections** - Regenerators remain susceptible; rapid turnover speeds tissue damage recovery but does not prevent infection or enhance immunity.
+- **Cancer** - Cannot identify or eliminate malignant cells, though secondary necrosis and tissue damage may be attenuated.
+- **Autoimmune disorders** - Accelerates recovery from immune-mediated destruction but may create damage-repair cycles if untreated.
+- **Degenerative diseases** - Conditions like Alzheimer's or muscular dystrophy may progress more slowly due to continuous cell replacement, though root causes remain unaffected.
+- **Metabolic disorders** - Conditions like diabetes fall outside regenerative scope, though secondary complications (e.g., diabetic ulcers) may benefit.
 
 ## History
 
-Metahuman regeneration has been observed since the emergence of the metahuman population, but systematic study of the phenomenon began in earnest during the early 1990s as the number of regenerators in the population grew. Clinicians initially attempted to explain the accelerated healing by analogy to naturally occurring regeneration in amphibians and echinoderms, but the speed and fidelity of metahuman healing quickly outstripped these comparisons.
+Systematic study began in the early 1990s. Clinicians initially drew analogies to amphibian regeneration, but metahuman healing's speed and fidelity quickly outstripped those comparisons.
 
-The critical theoretical breakthrough came in 1998, when Dr. Lillian Haversham published "Beyond Traditional Healing: The Metahuman Physiological Blueprint." Through extensive clinical observation, Haversham identified a consistent pattern in which regenerators did not merely heal but reverted to a specific, pre-established physiological state. Her "template" theory provided the first coherent framework for understanding regenerative phenomena and became foundational in metahuman medical literature.
+Dr. Lillian Haversham's 1998 paper provided the critical breakthrough, identifying that regenerators revert to a pre-established physiological state rather than merely healing. Her template theory became foundational.
 
-Subsequent decades saw the development of specialized emergency response protocols, culminating in the NSRA's standardized First Responder Field Guide for Regenerative Metahumans. The current revision (2023.4) was developed in conjunction with the NSRA Medical Division and the American College of Emergency Physicians. This guide codified the three-type classification system and established type-specific treatment protocols now used nationwide.
+The NSRA's First Responder Field Guide for Regenerative Metahumans (current revision 2023.4, developed with the American College of Emergency Physicians) codified the three-type classification and type-specific protocols used nationwide.
 
-Research into the biomass question has been ongoing since at least the early 2000s, with the AOM integration hypothesis gaining increased traction following the publication of Chen and Gupta's 2022 paper on anomalously originated material in regenerative healing. The connection between regeneration and the vermiform appendage -- a worm-like organ discovered in the 1990s during autopsies of AOM-generating metahumans -- has added another dimension to the biomass question, as the vermiform itself is noted for its extreme regenerative properties and template-like behavior.
+The AOM integration hypothesis gained traction following Chen and Gupta's 2022 paper. The vermiform appendage - a worm-like organ discovered in the 1990s during autopsies of AOM-generating metahumans - added another dimension, as the vermiform itself exhibits extreme regenerative properties and template-like behavior.
 
 ## Implications
 
 ### Medical Practice
 
-Regeneration fundamentally alters the standard of care for affected metahumans. Surgical materials such as sutures and staples may need early removal to prevent embedding in rapidly healing tissue. Prolonged immobilization via casts is generally unnecessary, with functional braces preferred. Pharmacological treatment requires careful dose adjustment and monitoring due to accelerated drug metabolism and altered therapeutic windows. Standard immunization schedules remain necessary, as regeneration does not confer immune enhancement.
+Regeneration alters standard care: sutures and staples may need early removal to prevent embedding, casts are generally replaced by functional braces, and pharmacological treatment requires careful dose adjustment. Standard immunization schedules remain necessary, as regeneration does not confer immune enhancement.
 
 ### Emergency Response
 
-The NSRA's three-type classification directly shapes field treatment decisions. Holistic Template Regenerators often require only metabolic support and foreign object removal, as the body will self-correct to its template. Localized Template Regenerators demand differential treatment, with template-covered systems left to self-repair while non-template systems receive conventional care. Enhanced Natural Regenerators present the greatest urgency: because they heal quickly but without template guidance, injuries must be properly aligned within a narrow window to prevent permanent malunion or functional impairment.
+HTRs often need only metabolic support and foreign object removal. LTRs require differential treatment - template-covered systems self-repair while others receive conventional care. ENRs present the greatest urgency: injuries must be properly aligned within a narrow window to prevent permanent malunion.
 
-Common field complications include metabolic depletion (sudden healing slowdown, pallor, confusion), template conflicts (pain and discoloration at healing sites), healing seizures (muscle spasms and altered consciousness during intense regeneration), and vermiform impairment (irregular healing patterns and healing stalls).
+Common field complications include metabolic depletion (healing slowdown, pallor, confusion), template conflicts (pain and discoloration), healing seizures (muscle spasms during intense regeneration), and vermiform impairment (irregular patterns and stalls).
 
 ### Psychological and Social Impact
 
-While regeneration eliminates physical scars, it does not erase psychological trauma. Pain perception typically remains intact during healing, and the experience of regeneration itself -- particularly from severe injuries -- can be profoundly distressing. The template's tendency to reverse elective body modifications raises significant issues of bodily autonomy, and regenerators with static age templates may experience identity and social difficulties stemming from the disparity between their chronological and apparent ages. Regular psychological counseling is recommended as part of standard regenerator care.
+Regeneration eliminates physical scars but not psychological trauma. Pain perception remains intact during healing, and severe regeneration can be profoundly distressing. The template's reversal of elective modifications raises bodily autonomy issues, and regenerators with static age templates face identity difficulties from chronological/apparent age disparities. Regular psychological counseling is recommended.
 
 ### Nutrition and Metabolism
 
-Regenerators, particularly those with high healing rates, have substantially increased caloric and nutritional requirements following significant injury. This has driven development of specialized commercial products such as Regenerator Nutrient Bars, designed to provide concentrated calories and nutrients. Emergency protocols include standardized superhuman nutritional support (SNP-R4) for field treatment of major regenerative events.
+Regenerators have substantially increased caloric needs following significant injury, driving development of products like Regenerator Nutrient Bars and the standardized superhuman nutritional support protocol (SNP-R4) for field treatment.
 
 ## Classification / Taxonomy
 
@@ -143,25 +143,17 @@ Regenerators, particularly those with high healing rates, have substantially inc
 
 ## Related Concepts
 
-- **Anomalously Originated Material (AOM)** -- A form of transient "false matter" generated by certain metahumans; one of the leading hypotheses for the biomass source in regeneration and potentially involved in the regenerative process itself.
-- **The Vermiform Appendage** -- A worm-like organ found in AOM-generating metahumans, notable for its own extreme regenerative properties and template-like behavior; its impairment can cause irregular healing patterns and regeneration stalls.
-- **The Template** -- The intrinsic biological blueprint central to Type 1 and Type 2 regeneration; first theorized by Dr. Lillian Haversham in 1998.
-- **PERKS Assessment** -- The NSRA's metahuman classification system; regenerative abilities typically fall under the Gigant (G) category with Self (S) targeting.
-- **LUMA (License to Utilize Metahuman Abilities)** -- LUMA cards may indicate a metahuman's regenerative classification, and licensed regenerators carry specialized medical information for first responders.
-- **Bracing Effect** -- The universal force distribution mechanism in metahumans; distinct from but sometimes co-occurring with regenerative abilities.
+- **Anomalously Originated Material (AOM)** - Transient "false matter"; a leading biomass source hypothesis for regeneration.
+- **The Vermiform Appendage** - Worm-like organ in AOM-generating metahumans with extreme regenerative properties; impairment causes irregular healing.
+- **The Template** - The biological blueprint central to Type 1 and Type 2 regeneration; first theorized by Haversham in 1998.
+- **PERKS Assessment** - Regenerative abilities typically fall under Gigant (G) with Self (S) targeting.
+- **LUMA** - LUMA cards may indicate regenerative classification; licensed regenerators carry specialized medical info for first responders.
+- **Bracing Effect** - Universal force distribution mechanism; distinct from but sometimes co-occurring with regeneration.
 
 ## Trivia
 
-- The benchmark regeneration rate of 8-10x normal human healing speed applies to the majority of regenerators, but outliers exist with rates exceeding 100x.
-- Medical alert jewelry for regenerators commonly displays their type classification and affected systems.
-- Foreign objects such as bullets and shrapnel must be removed from Holistic Template Regenerators before healing completes, as the body will regenerate tissue around them, causing recurrent damage.
-- Pediatric regenerators may have unstable or still-developing templates, requiring specialized care at facilities with metahuman experience.
-- The NSRA First Responder Field Guide for regenerative metahumans is currently on Revision 2023.4, replacing the 2021 edition.
-- Regeneration does not prevent intoxication, but it may produce unpredictable responses to alcohol and psychoactive substances.
+- Medical alert jewelry for regenerators commonly displays type classification and affected systems.
+- Foreign objects must be removed from HTRs before healing completes, as the body regenerates tissue around them, causing recurrent damage.
+- Pediatric regenerators may have unstable or still-developing templates, requiring specialized care.
 - The term "template rebound" refers to over-regeneration, a monitored complication in HTR patients.
 
-## Sources
-
-- all-about-metahuman-regeneration.txt -- Primary source for regeneration mechanics, template theory, biomass hypotheses, wound healing process, disease interactions, pharmacological considerations, medical recommendations, and historical context (presented as a journal article from the Journal of Metahuman Medicine).
-- metahuman-regeneration-2.txt -- Primary source for the NSRA three-type classification system (HTR/LTR/ENR), emergency response protocols, field treatment procedures, metabolic support guidelines, common complications, LTR system frequencies, ENR healing rate subclassifications, and documentation requirements (presented as an NSRA First Responder Field Guide).
-- THE FACTSHEET.txt (lines 887-957) -- Condensed reference for regeneration statistics, template characteristics, biomass theories, medical implications, and treatment recommendations. Also contains vermiform appendage details (lines 1087-1098) relevant to AOM-based regeneration.

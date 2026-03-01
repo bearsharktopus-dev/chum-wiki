@@ -10,7 +10,7 @@
 | **Full Name** | Lucy King |
 | **Aliases** | Sundial |
 | **Date of Birth** | Unknown |
-| **Age** | 21 |
+| **Age** | Early twenties |
 | **Gender** | Female |
 | **Ethnicity** | Blasian (Black and Asian mixed heritage) |
 | **Place of Birth** | Unknown (native to Tacony) |
@@ -24,11 +24,9 @@
 
 ## Background
 
-Lucy King is a mixed Blasian metahuman who grew up in Tacony, a neighborhood in Northeast Philadelphia, within a middle-class family with high expectations. She operates under the alias Sundial and leads the Tacony Titans, a team of young heroes who serve as the defensive, community-oriented counterpart to the Auditors in the Northeast Philadelphia vigilante ecosystem. Prior to her on-page introduction, the Tacony Titans had already established enough of a local presence to maintain a basic website listing their members, which Sam Small's school friends discovered during an online search in September 2023.
+Lucy King is a Blasian metahuman who grew up in Tacony, Northeast Philadelphia, within a middle-class family with high expectations. She operates under the alias Sundial and leads the Tacony Titans, a team of young heroes who serve as the defensive, community-oriented counterpart to the Auditors. The Titans were first referenced when Sam's school friends discovered their basic website on NetSphere in September 2023 (Ch. 17), and first appeared in person in late April 2024 at Wissinoming Park (Ch. 70).
 
-Lucy and the Titans first appeared in person in late April 2024, when Sam Small and Jordan Westwood encountered Sundial and Bubble intervening in a drunken dispute at Wissinoming Park during one of Sam's first patrols after her hospitalization. Sundial demonstrated immediate competence, neutralizing the threat with an aikido technique before formal introductions revealed the team's name. She suggested that future collaboration between their groups could be "mutually beneficial," establishing the cautious, professional tone that would define her relationship with the Auditors going forward.
-
-Lucy's role expanded significantly when she approached Sam after the failed sting operation on Squeal in early May 2024, proposing a formal alliance between the Titans and the Auditors to address the growing drug crisis in Philadelphia. This alliance proved critical in subsequent operations against the Jump distribution network and remained a cornerstone of the Northeast Philadelphia vigilante infrastructure through subsequent arcs. Lucy balances her leadership of the Titans with independent investigative work, often assisting the Delaware Valley Defenders and local law enforcement with cases that benefit from her psychometric abilities.
+Lucy proposed a formal alliance with the Auditors after the failed Squeal sting operation (Ch. 79), which proved critical in subsequent operations against the Jump distribution network and remained a cornerstone of the Northeast Philadelphia vigilante infrastructure. She balances team leadership with independent investigative work, regularly assisting the Delaware Valley Defenders and local law enforcement with cases that benefit from her psychometric abilities.
 
 ## Powers & Abilities
 
@@ -52,28 +50,28 @@ No official PERKS assessment on file.
 
 ### Training & Skills
 
-- Highly skilled aikido practitioner who combines her martial art with precognitive awareness to create an extremely effective close-combat fighting style. She neutralized a threat at Wissinoming Park with a single technique during her first on-page appearance and demonstrated skilled combat against armed opponents at the Sunoco station confrontation.
-- Accomplished illustrator, capable of producing accurate sketches from her psychometric visions. Her drawing of Aaron McKinley was detailed enough to be used as an identification tool on news broadcasts.
-- Experienced investigator who regularly assists the Delaware Valley Defenders and local police with cases, leveraging her psychometry to reconstruct crime scenes and identify perpetrators.
-- Competent team leader and strategic coordinator, managing the Tacony Titans' operations and facilitating multi-team alliances across Philadelphia's vigilante community.
+- Highly skilled martial artist who combines joint locks and grappling techniques with her precognitive awareness for an extremely effective close-combat fighting style.
+- Accomplished illustrator capable of producing accurate sketches from psychometric visions - her drawing of Aaron McKinley was used for identification on news broadcasts (Ch. 140).
+- Experienced investigator who regularly assists police and the Delaware Valley Defenders, leveraging her psychometry to reconstruct crime scenes.
+- Competent team leader and multi-team strategic coordinator across Philadelphia's vigilante community.
 
 ## Personality
 
-Lucy is pragmatic, professional, and methodical in her approach to both leadership and fieldwork. She maintains a calm, formal demeanor under pressure and speaks with a directness that conveys authority without aggression. Her perfectionist streak manifests in thorough preparation and a preference for evidence-gathering over impulsive action. She is emotionally reserved, rarely displaying vulnerability even when situations deteriorate, and channels her commitment to the Titans' mission through careful planning rather than overt displays of passion.
+Lucy is pragmatic, professional, and methodical. She maintains a calm, formal demeanor under pressure and speaks with a directness that conveys authority without aggression. Her perfectionist streak manifests in thorough preparation and a preference for evidence-gathering over impulsive action. She is emotionally reserved and channels commitment through careful planning rather than passion.
 
-Beneath her composed exterior, Lucy possesses a sharp wit and a willingness to make blunt assessments. She dismissively referred to Miss Mayfly as "Mosquito" during the post-Ricochet confrontation, made casual inquiries about Crossroads' personal life in the same scene, and warned Team Mayfly plainly about the inevitability of injuries if they continued field operations without powers. She is deeply committed to the safety of her teammates and the broader vigilante community, proposing inter-team coordination and mutual protection strategies in response to the Argus Corps' anti-vigilante initiatives. Her leadership style prioritizes defensive, reactive operations -- the Titans are described as "the boy scouts of Tacony" -- in contrast to the Auditors' more aggressive approach, a distinction she has noted directly when referencing Sam's violence-oriented methods.
+Beneath her composed exterior lies a sharp wit and willingness to make blunt assessments - she dismissively nicknamed Miss Mayfly "Mosquito" and warned Team Mayfly plainly about the inevitability of injuries in unpowered field operations. She is deeply committed to the safety of the broader vigilante community, proposing inter-team coordination and mutual protection in response to the Argus Corps' anti-vigilante initiatives. Her leadership style prioritizes defensive, community-oriented operations - food distribution, neighborhood patrols, search-and-rescue - in contrast to the Auditors' more aggressive approach.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Sam Small (Bloodhound) | Ally / Fellow Leader | Leader-to-leader relationship built on mutual respect and strategic cooperation. Lucy proposed the initial alliance between their teams and serves as a regular point of contact for intelligence sharing. She has commented on Sam's tendency toward violence but maintains a productive working relationship. |
-| Joshua Clark (Sandman) | Teammate / Second-in-Command | The Titans' second-in-command. Sandman provided covert surveillance of Sam's neighborhood during the arson crisis and serves as the team's night watchman and tactical planner. |
-| Rosa Acosta (Bubble) | Teammate | The youngest Titan and the team's defensive specialist. Bubble attempted to protect Lucy when she was injured during the Dobson Mills warehouse battle. Lucy instructed Bubble to flee during that confrontation. |
-| Natasha Sokolov (Compass) | Teammate | The Titans' navigator and tech specialist. Compass arrived with Moonshot to support Lucy's investigation at the burned coffee shop. Considered moving operations underground in response to the Safer Streets Initiative. |
-| Min-ji Kim (Moonshot) | Teammate | The Titans' bruiser and oldest member. Moonshot arrived as reinforcement during the Ricochet battle and provided support during the arson investigation. |
-| Maxwell Martinez (Crossroads) | Professional Contact | Leader of the Young Defenders. Lucy made casual inquiries about his leadership style and personal life during the post-Ricochet confrontation, suggesting professional interest in his methods. Crossroads instructed her and Moonshot to return to patrol after the battle. |
-| Kate Smith (Miss Mayfly) | Acquaintance | Lucy dismissively nicknamed her "Mosquito" and warned about the dangers of unpowered individuals participating in field operations. The Titans helped devise a cover story to protect Kate's identity after the Dobson Mills battle. |
+| Sam Small (Bloodhound) | Ally / Fellow Leader | Leader-to-leader relationship built on mutual respect and strategic cooperation. Regular point of contact for intelligence sharing. Has commented on Sam's tendency toward violence. |
+| Joshua Clark (Sandman) | Teammate / Second-in-Command | The Titans' second-in-command, night watchman, and tactical planner. |
+| Rosa Acosta (Bubble) | Teammate | Youngest Titan and the team's defensive specialist. |
+| Natasha Sokolov (Compass) | Teammate | Navigator and tech specialist. Considered moving operations underground in response to the Safer Streets Initiative. |
+| Min-ji Kim (Moonshot) | Teammate | The Titans' bruiser and oldest member. |
+| Maxwell Martinez (Crossroads) | Professional Contact | Leader of the Young Defenders. Lucy knows him personally - asked about his mom at the market during the post-Ricochet confrontation - suggesting pre-existing familiarity beyond hero work. |
+| Kate Smith (Miss Mayfly) | Acquaintance | Lucy dismissively nicknamed her "Mosquito." The Titans helped devise a cover story to protect Kate's identity after the Dobson Mills battle. |
 
 ## Arc Appearances
 
@@ -87,13 +85,13 @@ Beneath her composed exterior, Lucy possesses a sharp wit and a willingness to m
 
     **Role:** Supporting
 
-    First on-page appearance in Chapter 70, where Sundial and Bubble are observed handling a drunken dispute at Wissinoming Park. Sundial neutralizes the threat with an aikido technique and suggests future collaboration with the Auditors. Arrives as reinforcement during the Ricochet battle in Chapter 72. In Chapter 73, makes casual inquiries about Crossroads and dismisses Miss Mayfly as "Mosquito." Proposes a formal alliance with the Auditors in Chapter 79 after independently investigating the drug problem. Leads the Titans in the alliance formation meeting at their garage headquarters in Chapter 80. Displays precognitive awareness during the Dobson Mills stakeout. Injured during the ensuing warehouse battle in Chapter 81, protected by Bubble and assisted by Sam. Warns about risks of unlicensed vigilantism during the aftermath in Chapter 82. Warns Team Mayfly about field operation dangers and helps negotiate their limited role in Chapter 83. Participates in the final Sparkplug confrontation in Chapter 84.
+    First on-page appearance (Ch. 70), handling a drunken dispute at Wissinoming Park with a joint lock. Arrives as reinforcement during the Ricochet battle (Ch. 72), where she dismisses Miss Mayfly as "Mosquito" and asks Crossroads about his mom (Ch. 73). Proposes a formal Titans-Auditors alliance (Ch. 79) and leads the alliance formation meeting at the Titans' garage HQ (Ch. 80). Displays precognitive awareness during the Dobson Mills stakeout; injured during the warehouse battle (Ch. 81), protected by Bubble and assisted by Sam. Helps devise a cover story for Kate's identity (Ch. 82) and uses a fabricated precognitive warning to scare Team Mayfly into accepting a recon-only role (Ch. 83).
 
 ??? warning "Book 8: Big"
 
     **Role:** Supporting
 
-    Attends the combined briefing at the Music Hall with Sandman, sharing intelligence about the Kingdom's planned zoo heist. Sam meets with Sundial and Manta Rei at a cafe near UPenn to share information about the zoo operation.
+    Attends a meeting at Devonte's hospital room alongside Sandman, Multiplex, and Fury Forge after Devonte is shot investigating the Kingdom. Offers to reach out to other street teams, including unlicensed ones, to rally support against Operation Ivory - the Kingdom's planned zoo heist. In Chapter 132, Sam meets with Sundial and Manta Rei at a cafe near UPenn to share information about the zoo operation. Sundial appears at the zoo battle in Chapter 134 as part of the reinforcements, using her precognition to dodge attacks before they land.
 
 ??? warning "Book 9: Sheol"
 
@@ -111,39 +109,32 @@ Beneath her composed exterior, Lucy possesses a sharp wit and a willingness to m
 
     **Role:** Supporting
 
-    Lucy arrives at an Auditors training session behind the Music Hall and pulls Sam aside to discuss urgent team business. Reports that Bubble was caught by police and warns about Patriot's "Safer Streets Initiative" offering $500 bounties for reporting powered youth. Suggests coordinating between hero teams for mutual protection and proposes reaching out to Pattinson's Pals despite ideological differences. Mentions Jump activity on the east side before departing. The Tacony Titans are identified as one of three major vigilante factions operating in Philadelphia alongside the Auditors and Pattinson's Pals.
+    Accompanies Sam, Maggie, and Lily on the Sunoco station infiltration (Ch. 181), using psychometry to confirm Jump distribution and identify product codes. Fights armed opponents when Marathon's crew returns. In Chapter 184, reports that Bubble was caught by police and warns about Patriot's "Safer Streets Initiative" offering $500 bounties for reporting powered youth. Proposes inter-team coordination for mutual protection, including reaching out to Pattinson's Pals despite ideological differences.
 
 ??? warning "Book 13: Burn After Reading"
 
     **Role:** Mentioned
 
-    Moonshot is observed intervening in a mugging while Sam watches, restricted by parental curfew rules. The Tacony Titans continue operating in Northeast Philadelphia.
-
-??? warning "Book 14: Shelter in Place"
-
-    **Role:** Mentioned
-
-    The Tacony Titans report spotting a tall, thin figure in dark clothes dropping birds during the Shrike crisis but lose pursuit. The team contributes to the broader investigation into the escalating bird-killing pattern.
+    Moonshot is observed intervening in a mugging while Sam watches, restricted by parental curfew rules. Sandman reports a Shrike sighting to the broader hero network. The Tacony Titans continue operating in Northeast Philadelphia.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Lily contacts Lucy to arrange a meeting regarding the Jump distribution investigation. Sundial agrees to meet despite a busy schedule. Accompanies Sam, Maggie, and Lily on the Sunoco station infiltration, using psychometry to confirm Marathon's identity and observe past drug transactions. Demonstrates skilled combat against armed opponents when Marathon's crew returns. Escapes with Maggie when Sam is captured by Drop, then circles back with the team to assist in Sam's extraction. Sam uses the threat of Sundial's psychometry as a tactical deterrent against Marathon's plan to bomb the Bellwether site. Sam distributes intelligence to Sundial as part of her intel distribution circuit. Sundial responds first to Sam's Bellwether message. During the targeted blizzard in Chapter 229, Sundial requests the Auditors' help as the Titans are overwhelmed with search and rescue operations across Northeast Philadelphia, reporting 15 commercial break-ins overnight in the Kingdom's expansion zone. Her surname (King) is revealed for the first time.
+    Sam texts Sundial about worsening conditions in Tacony. During the targeted blizzard (Ch. 229), Sundial arrives at Sam's house requesting Auditor help - the Titans are overwhelmed with search and rescue. Reports 15 commercial break-ins overnight, all in the Kingdom's expansion zone during the power outage. Establishes a shared communication channel between the teams. Her physical appearance outside of costume is described for the first time - dark skin, natural hair pulled back, early twenties.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Supporting
 
-    A joint communication channel is established between the Titans and Auditors to coordinate the ongoing response to Kingdom territorial expansion. Sam proposes involving Sundial for temporal intelligence in planned operations against the Bellwether site.
+    Sam mentions Sundial's psychometry being used by police for crime scene analysis while discussing the Bellwether operation. Sam distributes intelligence about the Bellwether site to Sundial as part of her intel distribution circuit in Chapter 237. Sundial responds first to Sam's Bellwether message, replying simply with "When and where?" Sam activates all her channels for the Bellwether operation, with the Titans as one of her key allied teams.
 
 
 ## Trivia
 
-- The Tacony Titans operated a basic website listing their members before any on-page appearance, discovered by Sam's friends in September 2023. The original roster listed on the site included Bubble, Compass, Weave, Sandman, and Sundial -- Weave was later apparently replaced by Moonshot on the team.
-- Lucy dismissively referred to Miss Mayfly as "Mosquito," a nickname that stuck among the Titans, with Bubble also expressing dislike for the "mosquito" prior to Kate's identity being known.
-- Sam used the mere threat of Sundial's psychometry to talk Marathon out of bombing the Bellwether drug operation, marking the first tactical use of the Titans' powers as leverage without Lucy even being present.
-- When Sam sent out the Bellwether intelligence message to all her contacts, Sundial was the first to respond, replying simply with "When and where?"
-- Lucy's current status as of the beginning of Arc 16 is listed as "N/A, presumably working and handling school," making her one of the few characters whose civilian life remains largely undetailed.
+- The original Titans website roster included Bubble, Compass, Weave, Sandman, and Sundial - Weave was later apparently replaced by Moonshot.
+- Police regularly call on Sundial for sketches and crime scene analysis, even though psychometric evidence is not admissible in court.
+- Lucy's civilian life remains largely undetailed - one of the few characters whose day-to-day outside hero work is unknown.
 - The Tacony Titans operate out of a garage headquarters, in contrast to the Auditors' Music Hall and later Community Center.
-- Lucy's fighting style -- aikido combined with precognition -- makes her one of the most technically skilled martial artists in the story, capable of neutralizing threats with minimal force.
+- Sundial has become something of an internet personality on HIRC (a Philly metahuman gossip forum), with "Sundial memes" among the topics of discussion.
+- Her costume features a distinctive sundial pendant, a white gi-style outfit with padded armor, and a visor-mask.

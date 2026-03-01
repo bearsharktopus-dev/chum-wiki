@@ -24,11 +24,9 @@
 
 ## Background
 
-Joseph Jones, known as Pumice, is a metahuman who underwent a complete transformation into a humanoid entity composed entirely of mobile, motile stone. The circumstances surrounding his activation event are not documented in available records. His stone physiology is permanent and constantly active, leaving him as a hulking figure covered in dark grey rock with a surface roughness equivalent to 24-grit sandpaper. He weighs approximately 630 pounds.
+Joseph Jones, known as Pumice, is a metahuman whose entire body has been permanently converted into mobile, motile stone - a hulking figure at six foot six, 630 pounds, covered in dark grey rock with white cuboid teeth and craggy features. The circumstances of his activation are undocumented.
 
-Pumice was a member of the Philly Phreaks, a gang of visually apparent metahumans operating in Philadelphia. He participated in the Phreaks' confrontation with the Young Defenders on South Street, where he fought Rampart and other heroes before fleeing alongside Chrysalis when fellow member Spindle betrayed the group. Following the arrest of the Phreaks' leader Patches, Pumice was recruited by Aaron McKinley into an alliance against Sam Small. He participated in the kidnapping and torture of Sam during winter of 2023, though he expressed visible discomfort with Aaron's sadistic methods. Sam damaged his stone face during her escape, and the Phreaks subsequently severed ties with Aaron, with Pumice punching him when Aaron attempted to threaten Chrysalis.
-
-Pumice later reappeared at LOVE Park during the crisis involving the mutagenic drug Jump, attacking Sam and Rampart before escaping on the back of Elias (Chimera). His involvement in the Phreaks' terrorist attack at the Philadelphia courthouse during the Fedorov trial ultimately led to his arrest. He was subdued through the combined efforts of Playback, Spindle, and Gale, and was subsequently incarcerated at the Daedalus Correctional Facility.
+Pumice was a member of the Philly Phreaks, a gang of visually apparent metahumans in Philadelphia. He fought the Young Defenders on South Street (Arc 3), participated in Sam Small's kidnapping alongside Aaron McKinley (Arc 4), and later joined the Phreaks' courthouse terrorist attack during the Fedorov trial (Arc 6). He was ultimately subdued by the combined efforts of Playback, Spindle, and Gale, and incarcerated at the Daedalus Correctional Facility.
 
 ## Powers & Abilities
 
@@ -66,21 +64,21 @@ Pumice later reappeared at LOVE Park during the crisis involving the mutagenic d
 
 ## Personality
 
-Pumice views his criminal actions as a necessary response to societal marginalization and injustice, expressing little remorse for his involvement in terrorist activities while simultaneously showing a noted desire to see a "body count." He is blunt and direct in conversation, preferring to get straight to the point and dismissing what he considers unnecessary drama. Despite his willingness to engage in violence, he demonstrated visible discomfort during Aaron McKinley's torture of Sam Small, suggesting limits to his tolerance for cruelty even if he did not intervene.
+Pumice views his criminal actions as a necessary response to societal marginalization, expressing little remorse while simultaneously showing a desire to see a "body count." Blunt and direct, he dismisses unnecessary drama. Despite his willingness to engage in violence, he has clear limits - he vocally objected to Aaron McKinley's torture of Sam and refused to participate (Arc 4).
 
-Outside of criminal activity, Pumice has a strong interest in Philadelphia sports, particularly the Phillies and Sixers. He was frequently seen wearing Allen Iverson and Sixers jerseys, and was willing to engage in casual sports conversation even with adversaries. His containment procedures at Daedalus note that updates on Philadelphia professional sports teams and approved sports paraphernalia serve as effective behavioral incentives.
+An avid Philadelphia sports fan (Phillies, Sixers), he frequently wears Allen Iverson and Sixers jerseys and engages in casual sports talk even with adversaries mid-fight, remarking that "Sports are the great equalizer." Also makes wrestling references (Stone Cold stunners, People's Elbow). His Daedalus containment procedures note that sports updates and paraphernalia serve as effective behavioral incentives.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Patches (Amira Irshad) | Leader | Respected Patches as the Phreaks' leader and cared about her well-being. Her arrest motivated his continued criminal activity. |
-| Chrysalis (Angela Perez) | Teammate | Fellow Philly Phreak. Protective of her; punched Aaron McKinley when Aaron tried to threaten her with fire. |
-| Deathgirl (Daisy Zhen) | Teammate | Fellow Philly Phreak. Gently chided her when she went off-topic during group discussions. |
-| Connor (Spindle) | Former teammate | Fellow Philly Phreak who betrayed the group by blinding Pumice with adhesive spray during the South Street battle. |
-| Aaron McKinley | Temporary ally | Formed an alliance based on mutual hatred of Bloodhound. Relationship dissolved after the failed kidnapping of Sam, with Pumice and the Phreaks cutting ties. |
-| Sam Small (Bloodhound) | Enemy | Primary adversary. Fought her multiple times. Sam managed to chip his stone face during her escape from captivity. |
-| Elias Franklin (Chimera) | Associate | Escaped LOVE Park on Chimera's back, indicating ongoing collaboration. |
+| Patches (Amira Irshad) | Leader | Respected Patches as the Phreaks' leader. Her arrest motivated his continued criminal activity. |
+| Chrysalis (Angela Perez) | Teammate | Protective of her; punched Aaron when he threatened her with fire. |
+| Deathgirl (Daisy Zhen) | Teammate | Protective of her. Gently chides her when she goes off-topic during group discussions. |
+| Connor (Spindle) | Former teammate | Betrayed the group by blinding Pumice with adhesive spray during the South Street battle. |
+| Aaron McKinley | Temporary ally | Allied against Bloodhound after Patches' arrest. Phreaks severed ties after Aaron's torture of Sam went too far. |
+| Sam Small (Bloodhound) | Enemy | Primary adversary across multiple fights. Calls her "little fishy," "Smalls," and "Jaws." |
+| Elias Franklin (Chimera) | Associate | Escaped LOVE Park on Chimera's back in quadruped form. |
 
 ## Arc Appearances
 
@@ -88,26 +86,19 @@ Outside of criminal activity, Pumice has a strong interest in Philadelphia sport
 
     **Role:** Supporting
 
-    Introduced during the Young Defenders' briefing on the Philly Phreaks. Participates in the South Street confrontation, fighting Rampart. Flees when Spindle betrays the Phreaks.
+    Introduced during the Young Defenders' briefing on the Philly Phreaks, wearing an Allen Iverson jersey. Sam attempts to build rapport with him over their shared appreciation for Iverson. During the South Street confrontation, he fights Rampart and nearly chokes him unconscious, throws parking meters at Sam like shuriken, and drags a broken car across asphalt to create a dust cloud for cover. Spindle blinds him by spraying stolen adhesive into his eyes, and he flees alongside Chrysalis while Blink crashes into him from above.
 
 ??? warning "Book 4: Exorcism"
 
     **Role:** Supporting
 
-    Recruited by Aaron McKinley at a dockside warehouse for an alliance against Bloodhound. Participates in the ambush and kidnapping of Sam, assisting in her captivity. Expresses discomfort with Aaron's torture methods. Gets his stone face chipped by Sam during her escape. Severs ties with Aaron alongside the other Phreaks.
+    Participates alongside Aaron McKinley and the remaining Phreaks in an ambush and kidnapping of Sam. During her captivity, expresses open discomfort with Aaron's torture methods, telling him "this is messed up" and declining to participate in the fingernail removal. Puts out Daisy's hair when Aaron accidentally sets her on fire, and argues about Sixers basketball with Aaron between bouts of violence. Gets his stone body chipped by Sam's tooth-knuckles during her escape - the first time he experiences real pain from an attack. After the botched kidnapping, the Phreaks confront Aaron at the docks to dress him down. Pumice punches Aaron across the wet dock, and the Phreaks sever ties with him, leaving him alone on the waterfront.
 
 ??? warning "Book 6: Sideshow"
 
     **Role:** Supporting
 
-    Reappears at LOVE Park during the Jump crisis, attacking Sam and Rampart. Engages in brutal hand-to-hand combat with Sam. Escapes on Chimera's back. Later participates in the Phreaks' terrorist attack at the courthouse during the Fedorov trial. Subdued by Playback, Spindle, and Gale, and arrested.
-
-??? warning "Book 7: Security"
-
-    **Role:** Mentioned
-
-    Referenced as incarcerated at Daedalus Correctional Facility. His PERKS assessment and containment procedures are established.
-
+    Reappears at LOVE Park during the Jump crisis, revealing that Deathgirl now leads the Phreaks. Grabs Sam by the neck and throws her, then seizes Rampart in a bear hug and suplexes him. Engages Sam in an extended fight where her tooth-knuckles and shin-teeth manage to crack his stone body, causing him genuine pain. Taunts Sam mid-fight about her height and references the nails Aaron removed. Escapes on Chimera's back in quadruped form. Later participates in the Phreaks' terrorist attack at the courthouse during the Fedorov trial, trudging through the crowd impervious to rubber bullets and tear gas with Deathgirl perched on his back. Sent after Playback by Deathgirl, but subdued through the combined efforts of Playback, Spindle, and Gale, and arrested.
 
 ## Trivia
 
@@ -116,6 +107,7 @@ Outside of criminal activity, Pumice has a strong interest in Philadelphia sport
 - His containment unit uses ultra-high-performance concrete or steel-fiber-reinforced concrete, with vibration sensors to detect attempts to wear down the walls.
 - High-pressure quick-hardening foam dispensers are installed in his cell as an immobilization measure.
 - A carefully controlled supply of inorganic repair materials is provided in his containment unit to facilitate his regeneration.
+- When his stone body is cracked, water has been observed spraying from the wounds, suggesting his stone physiology retains some form of internal moisture.
 - Spindle refers to him casually as "Joe" in conversation with other heroes.
 - His surface areas vary in roughness, with his palms, the soles of his feet, and facial stone being smoother than the rest of his body.
 - His Daedalus inmate number is 84928166.

@@ -1,6 +1,6 @@
 # Gerald "Jerry" Caldwell
 
-> Defense attorney specializing in metahuman cases who first represents Illya Fedorov (Chernobyl) through his trial and later becomes Sam Small's legal counsel during her fugitive arc, serving as a narrative bridge between the two cases.
+> Defense attorney specializing in metahuman cases who represents both Illya Fedorov (Chernobyl) through his trial and Sam Small during her fugitive arc, creating continuity between the two cases.
 
 ## Infobox
 
@@ -24,11 +24,9 @@
 
 ## Background
 
-Gerald "Jerry" Caldwell is a defense attorney who specializes in metahuman legal cases. He first appears representing Illya Fedorov (Chernobyl) after Fedorov's voluntary surrender following the Chernobyl Incident in Philadelphia. Caldwell agreed to take the case and immediately established trust with his client by forgoing protective gear during their first meeting in Illya's containment cell -- a deliberate gesture that moved Illya to tears when contrasted with his paralegal Riya Kapoor, who wore full hazmat equipment.
+Gerald "Jerry" Caldwell is a defense attorney specializing in metahuman legal cases. He first appears representing Illya Fedorov (Chernobyl) after Fedorov's voluntary surrender, building a necessity defense that argued Illya's actions during the Chernobyl Incident were taken "to avoid greater harm." He represented Fedorov through arraignment, trial, and sentencing.
 
-Caldwell built a necessity defense for Fedorov, arguing that Illya's actions during the Chernobyl Incident were taken "to avoid greater harm." He represented Fedorov through his arraignment (Interlude IF.3), his trial in Book 6 where he cross-examined Sam Small and introduced Liberty Belle's handwritten note as evidence, and through the sentencing and courthouse attack in Book 7. His courtroom style is described as smooth and sharp -- he presents as an affable, warm presence but conceals a razor-sharp legal intellect beneath the surface.
-
-In Book 15, Rachel and Benjamin Small hired Caldwell to represent their daughter Sam during her fugitive arc, after Sam was framed by four "Alice" impersonation incidents and fled arrest. Caldwell secured Sam's release with an ankle monitor, navigated her hearing to a plea of disorderly conduct with time served, and had the monitor removed on February 3, 2026. Sam noted the significance of having Chernobyl's former lawyer: "He'll know me. Good" -- suggesting the prior interaction during the trial created a foundation of trust.
+In Book 15, Rachel and Benjamin Small hired Caldwell to represent their daughter Sam during her fugitive arc. Sam noted the significance: "He'll know me. Good" - their prior interaction during the trial had created a foundation of trust. Caldwell secured Sam's release with an ankle monitor, navigated her hearing to a plea of disorderly conduct with time served, and had the monitor removed on February 3, 2026.
 
 ## Powers & Abilities
 
@@ -36,30 +34,27 @@ Gerald Caldwell has no metahuman abilities. His expertise is entirely legal and 
 
 ### Training & Skills
 
-- Specialist in metahuman and superhuman legal defense, handling cases involving powered individuals, government agencies (NSRA), and the complex intersection of superhuman activity and criminal law.
-- Sharp cross-examiner capable of dismantling prosecution witnesses while maintaining affable composure. Bianca Agnelli (Fury Forge) described him as "a legal buzzsaw."
-- Skilled at building rapport and trust with unusual clients, demonstrated by his gesture of forgoing protective gear with Chernobyl and his warm, immediate connection with Sam.
+- Specialist in metahuman legal defense, handling cases involving powered individuals, government agencies (NSRA), and the intersection of superhuman activity and criminal law.
+- Sharp cross-examiner who plants seeds in the jury's mind through questions he knows will be sustained on objection - he does not need the answer, just the implication.
 - Knowledgeable about federal de-gunning initiatives, post-Genesis gun restrictions, premises liability, and metahuman contractor regulations.
 
 ## Personality
 
-Caldwell presents as warm, genuine, and disarmingly approachable. Sam describes him as having "Santa Claus energy -- fat and jolly in a way that immediately makes you trust him," and his initial impression reads as "overgrown fratboy" rather than "soulless legal shark." His handshake is firm and warm, his voice carries "resolute compassion," and he compliments his clients' families with unforced sincerity.
+Caldwell presents as warm, genuine, and disarmingly approachable. Sam describes him as having "Santa Claus energy - fat and jolly in a way that immediately makes you trust him." He is big, Black, upper-middle-aged, wearing suits that are "professional but slightly rumpled." His handshake is firm, his voice carries "resolute compassion," and he insists clients call him "Jerry."
 
-This warmth is genuine but coexists with formidable professional capability. In the courtroom, he transforms: his gaze sharpens, his questioning becomes relentless, and Sam describes him as having the "coiled energy of a predator ready to strike." His cross-examination technique involves planting seeds in the jury's mind through questions he knows will be sustained on objection -- he does not need the answer, just the implication. Clara (DVD leadership) expressed concern about his "tendency to prioritize metahuman affairs over guilt or innocence," while Bianca internally dismissed his clients as "a mewling cadre of supervillain-sympathizers."
-
-He stays for dinner at the Small house, discusses monitoring rules with patience, and tells Sam's parents: "You really raised a stupendous young girl here." He insists Sam call him "Jerry" rather than "Mr. Caldwell."
+This warmth is genuine but coexists with formidable professional capability. In the courtroom he transforms: his gaze sharpens, his questioning becomes relentless, and Sam describes him as having the "coiled energy of a predator ready to strike." Bianca Agnelli (Fury Forge) described facing him as "a legal buzzsaw," while Clara (DVD leadership) expressed concern about his "tendency to prioritize metahuman affairs over guilt or innocence."
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Illya Fedorov (Chernobyl) | Client | Represented Illya from containment through arraignment, trial, and sentencing. Built a necessity defense. Forgoing protective gear during their first meeting was a deliberate trust-building gesture that moved Illya to tears. |
-| Sam Small (Bloodhound) | Client | Hired by Sam's parents during her fugitive arc in Book 15. Previously cross-examined Sam during Chernobyl's trial in Book 6. Secured her release with ankle monitor, navigated hearing to disorderly conduct plea, and had the monitor removed. Sam trusts him partly because of their prior interaction. |
-| Rachel Small | Employer / Client's Parent | Rachel and Ben hired Caldwell to represent Sam. Rachel coordinates with him as legal counsel during the crisis and relays his updates through voicemail. |
-| Benjamin Small | Employer / Client's Parent | Alongside Rachel, hired Caldwell for Sam's defense. |
-| Riya Kapoor | Paralegal | Caldwell's paralegal who accompanied him to Illya's containment cell wearing full hazmat gear, contrasting with Caldwell's deliberate decision to forgo protection. Assisted in building the necessity defense. |
-| Anne-Marie Gibson | Opposing Counsel | Prosecutor in the Fedorov trial. Caldwell and Gibson stood "side by side, united in their shared concern for safety" during the courthouse attack, showing professional respect despite adversarial roles. |
-| Bianca Agnelli (Fury Forge) | Professional Adversary | DVDs leadership views Caldwell as a dangerous opponent. Bianca described squaring off against him as facing "a legal buzzsaw" and internally dismissed his clients as "supervillain-sympathizers." |
+| Illya Fedorov (Chernobyl) | Client | Represented from containment through sentencing. Forgoing protective gear in their first meeting was a deliberate trust-building gesture. |
+| Sam Small (Bloodhound) | Client | Hired by Sam's parents in Book 15. Previously cross-examined Sam during Chernobyl's trial. |
+| Rachel Small | Employer | Hired Caldwell for Sam's defense and relays his updates through voicemail. |
+| Benjamin Small | Employer | Alongside Rachel, hired Caldwell for Sam's defense. |
+| Riya Kapoor | Paralegal | Accompanied Caldwell to Illya's containment cell in full hazmat gear, contrasting with his deliberate decision to forgo protection. |
+| Anne-Marie Gibson | Opposing Counsel | Prosecutor in the Fedorov trial. The two stood "side by side, united in shared concern for safety" during the courthouse attack. |
+| Bianca Agnelli (Fury Forge) | Professional Adversary | DVDs leadership views Caldwell as a dangerous legal opponent. |
 
 ## Arc Appearances
 
@@ -83,9 +78,9 @@ He stays for dinner at the Small house, discusses monitoring rules with patience
 
 ??? warning "Book 7: Security"
 
-    **Role:** Minor
+    **Role:** N/A
 
-    Present during the courthouse attack when the Phreaks assault the building. Stands alongside Mrs. Gibson in shared concern for the safety of those under their charge. Agrees with Crossroads about keeping Illya away from Deathgirl to avoid escalation (Interlude IF.4).
+    No documented appearances.
 
 ??? warning "Book 15: Severe Weather Warning"
 
@@ -96,11 +91,7 @@ He stays for dinner at the Small house, discusses monitoring rules with patience
 
 ## Trivia
 
-- Caldwell has no entry in the character reference guide despite being one of the more developed recurring secondary characters in the story.
-- His physical description is vivid: big, Black, upper-middle-aged, wearing suits that are "professional but slightly rumpled." Sam says he has "Santa Claus energy -- fat and jolly."
-- His paralegal Riya Kapoor is described as petite with auburn hair cropped short. She wore full hazmat gear to Illya's containment cell while Caldwell deliberately went without protection.
-- The plot thread tracker explicitly calls his representation of both Chernobyl and Sam the "Legal Bridge" thread (R35/Thread 45), noting that "Caldwell representing both Chernobyl and Sam creates interesting continuity. He has insight into government corruption from Chernobyl's case."
-- He explained federal de-gunning initiatives to the Small family -- post-Genesis gun restrictions designed to prevent powers-versus-firearms escalation -- adding worldbuilding context through natural conversation.
-- A character named "Gerald (Insurance)" gives Sam a premises liability briefing at the Tacony Community Center grand opening in Book 16 (Ch. 234). Whether this is Gerald Caldwell in a new capacity handling the center's legal and insurance needs, or a separate character, is unclear from the text.
-- Sam's courtroom description of Caldwell evolves across their interactions: during the deposition he seems like an "overgrown fratboy," but at trial she recognizes "the brilliance that lurks behind those easy smiles and casual quips" and describes him as having "razor-sharp intellect lurking just beneath the surface."
+- His representation of both Chernobyl and Sam is tracked as the "Legal Bridge" thread, noted for creating continuity and giving him insight into government corruption from Chernobyl's case.
+- He explained federal de-gunning initiatives to the Small family - post-Genesis gun restrictions designed to prevent powers-versus-firearms escalation - adding worldbuilding context through natural conversation.
+- A character named "Gerald (Insurance)" gives Sam a premises liability briefing at the Tacony Community Center grand opening in Book 16 (Ch. 234). Whether this is Gerald Caldwell in a new capacity or a separate character is unclear from the text.
 - He is unrelated to Emily Caldwell (Mr. Antithesis's mother) or Liam Caldwell (Mr. Antithesis's birth name), despite the shared surname.

@@ -16,9 +16,9 @@
 
 ## Overview
 
-Metahuman economics encompasses the full spectrum of financial and market consequences arising from the presence of roughly 500,000 superpowered individuals in the United States alone. On the macroeconomic side, entire industries have restructured around metahuman risk and capability, from specialized insurance products and biotech healthcare ventures to superhuman-enhanced construction and private security. On the microeconomic side, individual metahumans face a wide range of financial realities depending on their power profile, legal status, and chosen lifestyle, ranging from lucrative government hero salaries to crippling out-of-pocket medical costs.
+Metahuman economics encompasses the financial and market consequences of roughly 500,000 superpowered individuals in the United States. On the macro side, entire industries have restructured around metahuman risk and capability - insurance, biotech, superhuman-enhanced construction, and private security. On the micro side, individual metahumans face financial realities ranging from lucrative government hero salaries to crippling medical costs.
 
-The field is broadly studied through two complementary lenses. Market analysts track industry growth, investment opportunities, and corporate adaptation to a superhuman-altered world. Socioeconomic researchers examine the lived financial experiences of metahumans themselves, documenting the often-hidden costs of possessing extraordinary abilities. Together, these perspectives reveal an economy in rapid transformation, one in which the old rules of labor, risk, and value are being rewritten by the simple fact that some people can fly, lift buildings, or glow in the dark.
+The field is studied through two lenses. Market analysts track industry growth and corporate adaptation, while socioeconomic researchers document the often-hidden costs of possessing extraordinary abilities.
 
 ## Mechanics
 
@@ -26,38 +26,38 @@ The field is broadly studied through two complementary lenses. Market analysts t
 
 The metahuman economy has reshaped several major sectors:
 
-- **Insurance** -- Specialized superhuman-incident policies represent one of the fastest-growing segments in the industry. UltraShield Insurance, the sector leader, reached a market capitalization of $10 billion by pioneering coverage for metahuman-related damage and liability. The company's claims payouts reached upward of $500 million in 2021, reflecting the scale of superhuman-induced property and casualty events. The global metahuman insurance market is estimated at over $30 billion.
-- **Healthcare and Biotech** -- Venture capital investment in metahuman-focused healthcare startups surged by 40% over two years, with average returns on investment around 25%. Companies such as GenHeal have secured over $200 million in funding each, specializing in regenerative medicine and psychological care tailored to superhuman physiology.
-- **Technology and Security** -- Firms employing superhumans for private security services have seen explosive growth. ZenithGuard Security Solutions reported a 35% increase in contracts since 2020, while investment in superhuman-augmenting technology grew by 30% over the same period. The combined technology-security market was projected to exceed $50 billion by 2025.
-- **Construction and Real Estate** -- Superhuman labor has reduced project completion times by up to 30% and costs by approximately 15%, translating to savings exceeding $200 million annually for major urban development firms such as Atlas BuildTech. Property values in superhuman-protected zones have appreciated at an average rate of 25%, pushing urban real estate valuations in those areas past $75 billion.
+- **Insurance** - UltraShield Insurance, the sector leader, reached a $10 billion market cap pioneering superhuman-incident coverage. Claims payouts exceeded $500 million in 2021 alone. The global metahuman insurance market is estimated at over $30 billion.
+- **Healthcare and Biotech** - VC investment in metahuman healthcare surged 40% over two years, averaging 25% ROI. Companies like GenHeal have secured over $200 million each, specializing in regenerative medicine and psychological care.
+- **Technology and Security** - ZenithGuard Security Solutions reported 35% contract growth since 2020. The combined tech-security market was projected to exceed $50 billion by 2025.
+- **Construction and Real Estate** - Superhuman labor has cut project completion times by 30% and costs by 15%, saving firms like Atlas BuildTech over $200 million annually. Property values in superhuman-protected zones have appreciated 25%, pushing those real estate valuations past $75 billion.
 
 ### Individual Financial Realities
 
-The personal economics of being metahuman vary dramatically based on three broad archetypes:
+The personal economics of being metahuman vary dramatically:
 
-- **Civilian Metahumans** -- The majority of metahumans use their abilities in conventional employment or personal life rather than engaging in hero or villain activity. Even those with minor powers face non-trivial costs, including specialized physical therapy, workplace safety modifications, and legal consultations arising from incidental power use. Annual power-related expenses for a typical civilian metahuman can range from several thousand to over $15,000.
-- **Complex-Condition Metahumans** -- Individuals whose powers carry debilitating side effects face the most severe financial hardship. Medical treatment costs for conditions such as power-induced skin damage or sensory impairment can exceed $20,000 annually, while employment limitations compound the burden. Many in this category rely on government assistance programs.
-- **Registered Superhuman Entities** -- Government-employed heroes receive salaries (approximately $80,000 per year) and comprehensive medical insurance, but incur significant hidden costs including advanced pain management, public relations management, costume maintenance, and the incalculable financial risk of career-ending injury.
+- **Civilian Metahumans** - The majority use abilities in conventional employment. Even minor powers incur costs for specialized physical therapy, safety modifications, and legal consultations - ranging from several thousand to over $15,000 annually.
+- **Complex-Condition Metahumans** - Those with debilitating side effects face the worst hardship: medical costs exceeding $20,000 annually, compounded by employment limitations. Many rely on government assistance.
+- **Registered Superhuman Entities** - Government heroes earn approximately $80,000 per year with comprehensive insurance, but face hidden costs including pain management, PR, costume maintenance, and career-ending injury risk.
 
 ### Investment Landscape
 
-Market analysts have identified clear winners and losers in the metahuman economy. Companies that have adapted to superhuman demand, such as AeroDyne Technologies (40% revenue increase to $5.2 billion) and BrightHorizon Developments (30% property value growth, $3 billion net income), have outperformed the market. Firms slow to adapt, such as Continental Utility Solutions (15% revenue decline) and Heritage Realty Group (significant market share losses), have struggled to remain competitive.
+Companies adapting to superhuman demand have outperformed: AeroDyne Technologies saw 40% revenue growth to $5.2 billion, and BrightHorizon Developments achieved 30% property value growth with $3 billion net income. Slow adapters like Continental Utility Solutions (15% revenue decline) and Heritage Realty Group have struggled.
 
 ## History
 
-The metahuman economy did not emerge as a discrete event but evolved alongside the growing superhuman population. As the number of empowered individuals increased and their activities became a routine feature of daily life, existing industries were forced to adapt. The insurance sector was among the first to respond, developing specialized products to cover the novel category of superhuman-induced damage. Healthcare followed as the unique medical needs of metahumans became apparent, and the construction and security sectors soon recognized the productive potential of superhuman labor.
+The metahuman economy evolved alongside the growing superhuman population rather than emerging as a discrete event. Insurance was first to respond with specialized products, followed by healthcare and then the construction and security sectors recognizing superhuman labor's potential.
 
-By 2022, the metahuman economy had matured into a recognized area of both market analysis and academic study. Forbes magazine published dedicated coverage through columns such as Johnathan H. Mercer's "By The Numbers" series, which tracked investment trends across metahuman-affected sectors. Simultaneously, socioeconomic researchers like Dr. Anya Petrova documented the personal financial toll of superhuman status, bringing attention to the gap between the visible prosperity of the metahuman economy and the hidden hardship experienced by many within it.
+By 2022, the field had matured into recognized market analysis and academic study. Forbes published Johnathan H. Mercer's "By The Numbers" series tracking investment trends, while researchers like Dr. Anya Petrova documented the gap between visible metahuman-economy prosperity and hidden individual hardship.
 
-NSRA studies conducted around this period found that nearly 40% of unregistered metahumans faced financial hardship attributable to power-related expenses. These findings contributed to policy discussions about expanding financial support programs for the metahuman population and addressing the mental health costs associated with superhuman status, estimated at roughly 30% higher rates of depression and anxiety compared to the general population.
+NSRA studies found nearly 40% of unregistered metahumans faced power-related financial hardship, contributing to policy discussions about expanded support. The metahuman population also experiences roughly 30% higher rates of depression and anxiety than the general population.
 
 ## Implications
 
-The metahuman economy has far-reaching consequences for public policy, social equity, and everyday life. The concentration of economic benefit among adapted corporations and superhuman-protected urban zones risks creating a two-tiered system in which communities without metahuman presence fall behind in property values, security, and infrastructure investment. At the individual level, the financial burden of possessing powers, particularly for those with complex or debilitating conditions, raises urgent questions about the adequacy of existing social safety nets.
+The concentration of economic benefit in superhuman-protected urban zones risks creating a two-tiered system where communities without metahuman presence fall behind. At the individual level, the financial burden of powers raises questions about social safety net adequacy.
 
-The LUMA licensing system intersects directly with metahuman economics: licensed metahumans gain access to specialized healthcare and legal protections that offset some power-related costs, while unlicensed individuals bear the full financial weight of their abilities without institutional support. This creates a strong economic incentive toward licensing, though the system does not fully address the needs of those whose powers are more burden than benefit.
+LUMA licensing intersects directly with economics: licensed metahumans access healthcare and legal protections that offset costs, while unlicensed individuals bear the full financial weight alone - creating strong incentive toward licensing, though the system does not fully address those whose powers are more burden than benefit.
 
-For investors and policymakers alike, the metahuman economy demands new frameworks for risk assessment, labor valuation, and social welfare. Traditional economic models struggle to account for variables such as superhuman-enhanced productivity, catastrophic incident liability, and the unpredictable emergence of new powers in the workforce. As the superhuman population continues to grow, these challenges are expected to intensify.
+Traditional economic models struggle to account for superhuman-enhanced productivity, catastrophic incident liability, and unpredictable power emergence in the workforce.
 
 ## Classification / Taxonomy
 
@@ -81,21 +81,14 @@ For investors and policymakers alike, the metahuman economy demands new framewor
 
 ## Related Concepts
 
-- **PERKS Assessment** -- The power classification system that indirectly shapes a metahuman's economic prospects by determining their legal status, employability, and access to institutional support.
-- **LUMA (License to Utilize Metahuman Abilities)** -- The licensing framework that provides licensed metahumans with legal protections and healthcare access, directly reducing their personal financial burden.
-- **NSRA (National Superhuman Response Agency)** -- The federal agency whose regulatory framework and support programs form the institutional backbone of metahuman economic policy.
-- **Metahuman Healthcare** -- The specialized medical sector serving the superhuman population, representing one of the fastest-growing areas of the metahuman economy.
+- **PERKS Assessment** - Indirectly shapes economic prospects by determining legal status, employability, and institutional access.
+- **LUMA (License to Utilize Metahuman Abilities)** - Provides legal protections and healthcare access that reduce personal financial burden.
+- **NSRA (National Superhuman Response Agency)** - Regulatory framework and support programs form the institutional backbone of metahuman economic policy.
+- **Metahuman Healthcare** - The specialized medical sector; one of the fastest-growing areas of the metahuman economy.
 
 ## Trivia
 
-- UltraShield Insurance paid out over $500 million in superhuman-related claims in 2021 alone, yet the company's stock continued to rise due to premium growth outpacing losses.
-- Billionaire developer Marlon Hayes became one of the most prominent investors in superhuman-centric urban development projects.
-- Nearly 40% of unregistered metahumans experience financial hardship directly tied to the costs of managing their powers.
-- The metahuman population exhibits approximately 30% higher rates of depression and anxiety compared to the general population, adding mental health treatment to the economic burden.
-- Registered superheroes earn a government salary of roughly $80,000 per year, placing them squarely in the middle class despite the extraordinary dangers of their work.
-- Forbes magazine's "By The Numbers" column, authored by Johnathan H. Mercer, became a widely followed source for metahuman market investment analysis.
+- UltraShield Insurance's stock continued to rise despite $500 million in 2021 claims payouts, as premium growth outpaced losses.
+- Billionaire developer Marlon Hayes became one of the most prominent investors in superhuman-centric urban development.
+- Registered superheroes' $80,000 salary places them squarely in the middle class despite the extraordinary dangers of their work.
 
-## Sources
-
-- metahuman-economics-1.txt -- Macroeconomic analysis of metahuman-affected industries (insurance, healthcare/biotech, technology/security, construction/real estate), investment insights, company performance data, and market projections. Authored in-universe by Johnathan H. Mercer for Forbes.
-- metahuman-economics-2.txt -- Microeconomic analysis of individual metahuman financial realities across three archetypes (civilian, complex-condition, registered hero), NSRA statistical findings on metahuman financial hardship and mental health, and policy discussion. Authored in-universe by Dr. Anya Petrova for Forbes.

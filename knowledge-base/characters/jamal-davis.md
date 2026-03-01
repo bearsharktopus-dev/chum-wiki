@@ -24,11 +24,11 @@
 
 ## Background
 
-Jamal Davis is a Philadelphia city councilman who serves as the civilian liaison for the Delaware Valley Defenders, the city's premiere registered superhuman team. In this capacity, he functions as the de jure leader of the organization, managing its political relationships, providing institutional cover, and coordinating with law enforcement and government agencies on the team's behalf. While Liberty Belle served as the de facto field leader during her lifetime, Davis handled the administrative and political dimensions of the DVD's operations.
+Jamal Davis is a Philadelphia city councilman who serves as the civilian liaison and de jure leader of the Delaware Valley Defenders. Under the RSE legal framework, every registered superhuman team requires a civilian regulator for oversight; Davis fills this role, managing political relationships, institutional cover, and coordination with law enforcement and government agencies. While Liberty Belle served as de facto field leader during her lifetime, Davis handled the DVD's administrative and political dimensions.
 
-Davis first came to Sam Small's attention during her early days with the Young Defenders, when he joined the senior DVD members to assess drone footage of a Kingdom of Keys murder at Dobson Mills. His role expanded significantly during Arc 4, when Sam confronted him with evidence of a government conspiracy protecting Chernobyl. Sam initially suspected Davis of complicity in the cover-up, but Davis forcefully denied any knowledge, explaining that he had been following NSRA safety directives without awareness of the underlying arrangement. He proposed an off-the-books investigation to avoid government scrutiny, offering to provide surplus equipment and resources while working official channels. This covert arrangement effectively gave birth to "The Auditors," an unofficial investigative team comprising Sam, Jordan, and Spindle, with Davis providing political cover from behind the scenes.
+After Liberty Belle's death and Sam Small's discovery of the government's arrangement with Chernobyl, Davis became one of Sam's most important institutional allies. Convinced of his own ignorance of the cover-up, he proposed an off-the-books team - Sam, Jordan, and Spindle with Miasma as adult supervision - operating outside the DVD's FOIA-accessible records. Davis would work official channels, provide surplus equipment through discreet "dumpster drops," and offer political cover, at enormous personal risk: exposure would cost him his council seat, team leadership, and potentially the entire DVD. He delivered the story's title drop during this meeting: "Chumming the water before we can go hunting for sharks. Pun somewhat intended."
 
-Over the course of the story, Davis has evolved from a background authority figure into one of Sam's most important institutional allies. He has repeatedly navigated the tension between his public office and his private support for Sam's increasingly aggressive methods, maintaining official distance when necessary while quietly providing intelligence, resources, and political protection. His relationship with Sam deepened through moments of crisis - advising her during the Maya Richardson election, providing a keycard override granting Sam access to DVD headquarters, and texting quiet encouragement after her confrontation with Richardson at town hall.
+Over the course of the story, Davis has navigated the tension between his public office and private support for Sam's increasingly aggressive methods. He has provided intelligence, resources, keycard access to DVD headquarters, and political protection while maintaining official distance. His role has expanded from background authority figure to active political combatant - ultimately building a five-member council coalition that stripped Maya Richardson of Argus Corps oversight and championing the conversion of the Auditors' Music Hall into the Tacony Community Center.
 
 ## Powers & Abilities
 
@@ -38,124 +38,135 @@ No official PERKS assessment on file. Davis possesses no superhuman abilities.
 
 ### Abilities
 
-- N/A - Jamal Davis has no superpowers. His value to the Delaware Valley Defenders and to the broader Philadelphia superhero community is entirely political, strategic, and institutional.
+- N/A - Jamal Davis has no superpowers. His value is entirely political, strategic, and institutional.
 
 ### Limitations
 
-- As a baseline human, Davis has no physical capabilities beyond those of an ordinary person. He cannot participate in combat operations or field missions.
-- His effectiveness is constrained by political realities - every action he takes must be weighed against potential consequences for his elected position, the DVD's legal standing, and the broader political landscape.
+- Baseline human with no combat capabilities.
+- Every action must be weighed against consequences for his elected position, the DVD's legal standing, and the broader political landscape.
 - His off-the-books support for Sam places his career and legal standing at considerable risk.
 
 ### Training & Skills
 
 - Experienced politician with deep knowledge of Philadelphia's government structure, legislative processes, and municipal bureaucracy.
-- Skilled negotiator and diplomat, capable of managing relationships across the superhero community, law enforcement, federal agencies, and city government simultaneously.
-- Knowledgeable about RICO laws, chain of evidence requirements, and the legal complexities surrounding superhuman prosecution.
-- Adept at redirecting government funding and navigating institutional channels - demonstrated by his ability to redirect historical preservation funding triggered by Garbage Day's attack on the Music Hall into the community center renovation.
-- Maintains professional connections across Pennsylvania state government, including relationships with families like the Kirbys (mid-level state government functionaries from Harrisburg).
+- Skilled negotiator and diplomat across the superhero community, law enforcement, federal agencies, and city government.
+- Knowledgeable about RICO laws, chain of evidence requirements, and the legal complexities of superhuman prosecution.
+- Adept at navigating government funding streams - secured insurance, emergency city funds, and historical preservation funding for the Music Hall repairs.
+- Understands the legal architecture of the RSE system, including FOIA requirements, registration constraints, and insubordination consequences.
 
 ## Personality
 
-Davis is diplomatic, strategic, and cautious to his core. He speaks carefully, weighing the political implications of every word before it leaves his mouth. He genuinely believes in the value of superhero work and has demonstrated real courage in supporting Sam's investigations off-the-books, but he never loses sight of the political realities that constrain his actions. He intervenes in disputes among DVD members with measured authority, reminding colleagues of the importance of unity and communication rather than taking sides.
+Davis is diplomatic, strategic, and cautious to his core, weighing the political implications of every word. He genuinely believes in superhero work and has demonstrated real courage in supporting Sam's off-the-books investigations, but never loses sight of political realities. He can command silence in a packed room with a single word: "Quiet." Usually jovial, he shifts to gravity and urgency when the situation demands it, and his nostrils flare when thinking hard.
 
-Beneath the politician's polish, Davis possesses a moral seriousness that has sharpened over time. The Shrike incident in Arc 14 - watching Sam, a teenager, kill a white supremacist on live television - triggered a crisis of faith in the entire young-superhuman-to-hero pipeline. His growing disillusionment did not lead to paralysis but to action: he spearheaded a mentorship program designed to offer powered youth an alternative to becoming child soldiers. When pushed past his limits, Davis does not explode - he plans. Maya Richardson sending Garbage Day after Sam and injuring Tasha Reynolds, a civilian noncombatant, crossed a line in his book. His response has been to bide his time, build evidence, and wait. As the character reference guide notes, "the guns will come out soon enough."
+Beneath the politician's polish, Davis possesses a moral seriousness that has sharpened over time. His discovery that people above him had been using him to protect a supervillain made him "sick to his stomach," and his response was to risk his career on a covert investigation rather than accept the status quo. When pushed past his limits, Davis does not explode - he plans, marshaling his political tools methodically against his targets.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Sam Small (Bloodhound) | Ally / Political patron | Initially suspected by Sam of complicity with Chernobyl; proven innocent. Proposed the off-the-books investigation that created the Auditors. Provides political cover, intelligence, and resources. Has grown more supportive of Sam's methods over time while maintaining official distance. Texts encouragement: "Nice work tonight. -JD" |
-| Multiplex (Elijah Brooks) | Colleague | Fellow DVD leadership. Davis handles the political side while Multiplex serves as the effective field leader. Occasional friction over approach - Davis is more willing to bend rules for Sam than Multiplex initially was. |
-| Fury Forge (Bianca Agnelli) | Colleague | Fellow DVD member. Present together in leadership meetings and strategy sessions. |
+| Sam Small (Bloodhound) | Ally / Political patron | Initially suspected by Sam of Chernobyl complicity; proven innocent. Created the off-the-books arrangement that became the Auditors. Provides political cover, intelligence, and equipment while maintaining official distance. Signs texts "-JD." |
+| Multiplex (Elijah Brooks) | Colleague | Fellow DVD leadership. Davis handles the political side; Multiplex serves as effective field leader. |
+| Fury Forge (Bianca Agnelli) | Colleague | Fellow DVD member. Davis mediates when she clashes with other leadership. |
 | Bulwark (Kwame Adjei) | Colleague | Fellow DVD member. Works alongside Davis in briefings and mission coordination. |
-| Clara Parker | Colleague | DVD legal counsel. Works closely with Davis on navigating the legal dimensions of the team's operations. Present together at the community center grand opening. |
-| Maya Richardson (Mrs. Zenith) | Political adversary | Richardson repeatedly attempts to contact Davis regarding Argus Corps and other matters; Davis manages these interactions to maintain cover. Furious about Richardson sending Garbage Day after Sam and injuring Tasha Reynolds. Building a case against her. |
-| Crossroads (Maxwell Martinez) | DVD member | Davis announced Crossroads' graduation from the Young Defenders to the senior team. Crossroads attended the community center grand opening representing the DVD despite his injuries. |
-| Rampart (Jason Reynolds) | DVD member | Davis oversaw Rampart's transition to leadership of the Young Defenders after Crossroads' graduation. |
-| Liberty Belle (Diane Williams) | Former colleague (deceased) | Served as DVD civilian liaison during Belle's tenure as field leader. Belle's death left a leadership vacuum that reshaped the organization. |
-| Alex Kirby (Hellhound) | Mentee (indirect) | Davis knows the Kirby family professionally through Pennsylvania state government connections, which is how Alex entered the mentorship program. |
+| Clara Parker | Colleague | DVD legal counsel. Together they announced the Young Defenders' dissolution under SARA and managed the Argus Corps oversight transition. |
+| Maya Richardson (Mrs. Zenith) | Political adversary | The DVD has suspected Richardson's identity for years but lacked concrete evidence. Davis was furious about Richardson sending Garbage Day after Sam and injuring Tasha Reynolds. Built a five-member council coalition to strip her of Argus Corps oversight. |
+| Crossroads (Maxwell Martinez) | DVD member | Davis announced Crossroads' graduation to the senior team in Chapter 100. |
+| Rampart (Jason Reynolds) | DVD member | Davis oversaw Rampart's appointment as Young Defenders leader after Crossroads' graduation. |
+| Liberty Belle (Diane Williams) | Former colleague (deceased) | Admitted they "often butted heads" but with "deepest respect." Gave the final eulogy at her funeral. Ordered Belle to stand down during the Chernobyl crisis - an order she defied. |
+| Miasma (Joshua Pleasants) | Ally (complicated) | Miasma initially suspected Davis of complicity, calling the DVDs "government stooges." Davis knows him as one of Belle's early comrades and describes him as "a bit of an anarchist." Davis proposed Miasma as adult supervision for the Auditors. |
+| Jasmine Walker | Mentee | Arrived at the mentorship session with Davis, suggesting he personally recruited her. |
 
 ## Arc Appearances
+
+??? warning "Book 1: Pup"
+
+    **Role:** Mentioned
+
+    Referenced in Chapter 6 as "Mr. Davis" via his labeled locker at DVD headquarters. Identified as the de jure head and civilian regulator of the DVD.
 
 ??? warning "Book 2: Keys"
 
     **Role:** Supporting
 
-    First appearance in Chapter 15. Arrives with the senior DVD members to assess drone footage of a Kingdom of Keys murder at Dobson Mills. Identified as the de jure leader of the DVD. Present during strategy discussions about the Kingdom threat.
+    First appearance in Chapter 15. Present at DVD headquarters when Sam and the Young Defenders review drone footage of a Kingdom of Keys murder at Dobson Mills. Described as bald, wearing professional attire, with gentle charisma and warm wise eyes. His signature greeting is a firm, friendly handshake. Has been trying to push the Kingdom investigation through bureaucratic channels with limited success - "like trying to make headway through thick molasses." Asks practical questions about the footage, including whether the drone operator had permission to fly.
 
-??? warning "Book 4: Exorcism"
+??? warning "Book 3: Dybbuk"
 
     **Role:** Supporting
 
-    Central role in Chapter 49. Sam confronts Davis about the government conspiracy protecting Chernobyl, initially accusing him of complicity. Davis forcefully denies knowledge, slams the table, and calls Sam by her full name. Proposes an off-the-books investigation to avoid government scrutiny, effectively creating the Auditors. Offers government surplus equipment and agrees to work official channels while Sam acts as bait. They seal the agreement with a fist bump and "For great justice."
+    Appears across multiple chapters with an expanding operational role. In Chapter 32, he leads the briefing on the Philly Phreaks threat with stern authority, confirming cell phone tracking of the tipster and Sam's classification as a Visually-Apparent Metahuman. In Chapter 34, he confirms from footage that Deathgirl is a power copier. In Chapter 37, he leads the tactical briefing on the Chernobyl industrial thefts in northeast Philadelphia, outlining the two-fold threat of Chernobyl and Kingdom synergy and assigning the Young Defenders to disaster relief and civilian management rather than direct combat. In Chapter 41, he mediates at the debriefing after Sam witnesses a Kingdom execution, initially expressing skepticism - "Are we sure this isn't just bravado for the crowd?" - before proposing that the Kingdom may be trying to establish direct contact with Chernobyl rather than merely scavenging his leftovers. In Chapter 44, he issues evacuation orders during the Chernobyl crisis, directing teams to evacuate south of Broad Street and warning about Kingdom operatives using the chaos. He ordered Liberty Belle to stand down and appease Chernobyl per government policy - an order Belle defied.
+
+??? warning "Book 4: Exorcism"
+
+    **Role:** Major Supporting
+
+    Appears at Liberty Belle's will reading in Chapter 46, looking haggard, tired, and sunken. Contradicts Multiplex's warning that the government might contest Sam's inheritance: "I have no intention of contesting this will." Tells Sam, "This city owes a lot to heroes like you and Liberty Belle." Gives the final eulogy at Belle's funeral in Chapter 47, carefully navigating the political complexities of Belle's defiance: "When the time came to make the call, to evacuate or to stand and fight, Diane did what she believed was right for the city she loved." Admits they "often butted heads" but with "deepest respect."
+
+    Central role in Chapter 49. Sam confronts Davis with the Chernobyl confession video, accusing him of knowing about the government-Chernobyl arrangement. Davis slams the table hard enough to break a folding chair leg and shouts her full name: "Samantha Elisabeth Small!" Claims ignorance - he received NSRA reports saying "Avoid at all costs" and "Minimize contact" regarding Chernobyl, which he interpreted as safety advisories about radiation danger. Once convinced, he proposes "Young Defenders Dark" - Sam, Jordan, and Spindle operating off the books with Miasma as adult supervision. Davis will work official channels and provide government surplus equipment via "dumpster drops." He identifies the strategic logic: all DVD operations are recorded and FOIA-accessible, so the investigation must exist outside official channels. Sam will serve as bait to provoke the NSRA into overreacting. The stakes for Davis are enormous: exposure would cost him his team leadership, council seat, and could destroy the entire DVD. He lowers his fist to Sam's chest: "For great justice?" Sam bumps it. He also delivers the title drop: "Chumming the water before we can go hunting for sharks. Pun somewhat intended." Notable detail: Davis slid Sam's phone back across the table noting "It has not been recording anything" - Sam had not thought to record the conversation.
 
 ??? warning "Book 6: Sideshow"
 
-    **Role:** Interlude (BA.1)
+    **Role:** Supporting
 
-    Appears in the BA.1 interlude set two days after Chapter 88. Participates in a DVD leadership meeting discussing the upcoming Chernobyl trial and the need to recruit new members. Intervenes when Elijah and Bianca clash over Sam's emotional state, reminding them of the importance of unity. Raises the topic of recruiting new members through promotion of Young Defenders or bringing in unaffiliated metahumans.
+    Appears in Chapter 91 at a DVD leadership meeting, noting that losses of Professor Franklin and Liberty Belle have left the DVD "stretched alarmingly thin" and raising the need to promote Young Defenders. Intervenes with measured authority when tensions arise: "something you'd like to share with the rest of the class?" In Chapter 92, Davis draws Crossroads, Puppeteer, and Rampart aside for a private discussion about the graduation process. In Chapter 100, he congratulates Crossroads on graduation to the senior team and oversees Rampart's appointment as new Young Defenders leader, as well as Captain Plasma's transfer from Los Angeles.
 
 ??? warning "Book 7: Security"
 
     **Role:** Supporting
 
-    Present at the full DVD meeting in Chapter 113 following Patriot's attack on Sam at the Tacony Charter homecoming dance. Participates in the discussion about the team's response alongside Multiplex, Fury Forge, Bulwark, Captain Plasma, Crossroads, and Clara Parker. Sam announces her upcoming congressional testimony at this meeting.
+    Present at the full DVD meeting in Chapter 113 following Patriot's attack on Sam at the Tacony Charter homecoming dance. Seated at the head of the table with shoulders slumped. Will contact DC legal aid groups for superhero and vigilante rights in preparation for Sam's congressional testimony.
 
 ??? warning "Book 8: Big"
 
     **Role:** Supporting
 
-    Appears in Chapter 120. Sam seeks Davis's guidance on how to handle Maya Richardson's ties to the Kingdom of Keys after Richard Duvall dismisses her concerns. Davis reveals the DVD has had suspicions about Richardson (Mrs. Zenith) for some time but lacks concrete evidence. Advises Sam to continue gathering intelligence and to let the democratic process play out.
+    In Chapter 120, Sam seeks Davis's guidance after Richard Duvall dismisses her concerns about Richardson's Kingdom ties. Davis confirms the DVD has suspected Richardson's alter ego as Mrs. Zenith for years but cannot build a concrete case: "they're slippery, always one step ahead." Explains the Kingdom's use of intermediaries with no connections higher up the ladder, discusses limitations of postcognitive background checks, and advises: "We have to follow the rules. Even when - especially when - it's inconvenient." In Chapter 125, present at the DVD debrief after Sam's Kingdom investigation at the Crescent, described as having an "unreadable expression, tired but firm." Advocates for gathering more intel before making moves.
 
 ??? warning "Book 10: Plume"
 
     **Role:** Supporting
 
-    Appears in Chapter 151. Informs the Young Defenders, alongside Clara Parker, of their impending dissolution under Maya Richardson's Superhuman Activity Regulation Act. Offers limited support within legal boundaries during the heated discussion about resistance versus compliance. Also appears in Chapter 152 when Sam calls him to discuss legal limitations in pursuing the Kingdom; Davis explains the complexities of RICO laws and prosecution challenges. Appears in Chapter 153 alongside the team as they await the legislation vote. Referenced in Chapter 160 during a city council emergency session, where he advocates for balance between security and superhuman rights while Richardson announces war against Rogue Wave.
+    Calls a meeting in Chapter 151 where Clara Parker announces the Young Defenders' impending dissolution under Richardson's Superhuman Activity Regulation Act. In Chapter 152, Sam calls Davis to discuss legal limitations of pursuing the Kingdom; Davis explains RICO prosecution complexities - establishing shell companies, burden of proof, and paper trails. Referenced in Chapter 160 as present at an emergency city council session responding to the Rogue Wave crisis.
 
 ??? warning "Book 11: Alarm Will Sound"
 
     **Role:** Supporting
 
-    Provides Sam with a keycard override granting access to DVD headquarters (referenced in Chapter 166). Sam uses this to access medical treatment from Nurse Sylvia. Referenced in Interlude MR.6 (early June 2025) as repeatedly attempting to contact Maya Richardson about Argus Corps' off-the-books involvement in the Stheno warehouse incident. Sam texts Davis before her meeting with Mr. Antithesis in New York (Ch. 174) and calls him afterward to inform him and establish a safety protocol; Davis expresses concern and notes he cannot legally use evidence Sam gathered through vigilante diplomacy. Present at DVD headquarters in Chapter 177 when Sam delivers the Stheno data flash drive and Hypeman sample; participates in reprimanding Sam for reckless behavior alongside Multiplex, Fury Forge, and Bulwark in a heated argument about tactics and Liberty Belle's legacy.
+    Provides Sam with a keycard override granting access to DVD headquarters (Chapter 166), which Sam uses for medical treatment from Nurse Sylvia Moore. Sam texts Davis before meeting Mr. Antithesis in New York (Chapter 173) as a safety protocol: "try to scry me in 2-3 hours." After the meeting, Davis says he cannot legally condone her actions or use evidence gathered through vigilante diplomacy. Present in Chapter 177 when Sam delivers the Stheno data flash drive and one Hypeman autoinjector. Davis is "concerned but more measured" compared to Multiplex's fury over Sam's three gunshot wounds and near-drowning. Commits to analyzing the data and building a case, saying "if" evidence leads to Richardson. Referenced in Interlude MR.6 as repeatedly texting Richardson - "Need to talk about what happened at the warehouse" - angry about Argus Corps' off-the-books warehouse involvement. Richardson ignores his texts.
 
 ??? warning "Book 12: Authorized Personnel Only"
 
-    **Role:** Supporting
-
-    After Sam's confrontation with Richardson at the town hall (Ch. 192), Davis texts Sam: "Nice work tonight. -JD," signaling covert political alignment without public commitment.
-
-??? warning "Book 13: Burn After Reading"
-
     **Role:** Mentioned
 
-    Provides a vague update about "wheels turning slowly" when Sam texts for updates during the drive to Harrisburg for Rachel's testimony.
+    After Sam's confrontation with Richardson at town hall (Chapter 192), Davis texts Sam: "Nice work tonight. -JD," signaling covert political alignment without public commitment. Referenced as supporting Rachel Small's Parents of Powered Kids coalition.
 
 ??? warning "Book 14: Shelter in Place"
 
     **Role:** Supporting
 
-    Central role in Chapters 204-206 and Chapter 211. Sam calls Davis directly requesting official protection after the Shrike crisis; Davis arrives proposing witness protection and NSRA intervention, presenting official options including temporary relocation and security details. Expresses legal reservations but acknowledges limited alternatives. In Chapter 211, Davis arrives at the Music Hall on Halloween night with blueprints for renovating it into a community center. Delivers a comprehensive critique of the superhero system's reliance on child soldiers, citing the Shrike incident as a turning point. Proposes an immediate peer mentoring program with four initial cases (Zara Khan, Liam O'Connor, Alex Kirby, Jasmine Walker). Reveals the project will proceed with or without the Auditors' involvement. Appears in Chapter 212 during the first mentorship session at the Parkway Central Library, arriving with Zara Khan and Liam O'Connor. Provides materials and retreats to the reference section, letting Sam and Maggie lead. Accepts that they abandoned his prepared curriculum.
+    Sam calls Davis at 3:42 AM in Chapter 204 after the Shrike crisis. He arrives in a hastily thrown-on suit with toothpaste on his collar. Proposes witness protection (weeks to set up), an NSRA manhunt, and Defenders safe rooms as options, reminding Sam: "You're sixteen, Sam." Sam includes Davis on her protection list.
+
+    In Chapter 211, Davis visits with architect John Horvath's blueprints for converting the Music Hall into a community center with youth programs, after-school activities, and meeting space. Pitches it as legitimizing the Auditors' presence: "A community center with a superhero team isn't a vigilante hideout." Also proposes a mentorship program for Activated youth who do not want to become heroes or villains, citing the Whitford Institute as a model. Wants to use his council position to zone the building properly. Sam and Tasha are interested; Derek is ambivalent.
+
+    In Chapter 215, Davis brings snacks (cookies, juice boxes) to the mentorship session. Four students attend: Zara Khan (glass sensing and control), Liam O'Connor (partial dragon transformation), Alex Kirby (pyrogenesis), and Jasmine Walker (who passes on demonstrating her power). Davis sets ground rules - "You're not lab rats" - and mentions plans for a press conference in a few months. He leaves for about an hour, letting Sam and Maggie lead.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Referenced in subsequent chapters as Sam uses him as a contact and political channel. Facilitates the mentorship program's ongoing operations. Davis meets with Sam at his City Hall office to discuss emergency funding for Music Hall repairs after Garbage Day's attack and warns her about Kingdom threats. Gives Sam a phone number for anonymously tipping the DVD. Later calls Sam to discuss the 19 arrests at Roxborough Memorial Hospital, implicitly acknowledging her role in the anonymous tip. Informs Sam that Music Hall repairs will take approximately nine weeks.
+    Meets with Sam at his City Hall office (Room 507) in Chapter 219 following Garbage Day's attack on the Music Hall. Looks terrible - stubble, bloodshot eyes. Reports the Music Hall will be out of commission for months due to water damage, insurance complications, and historic preservation requirements. Furious about Tasha being attacked, pledges to use his political tools against Richardson. Gives Sam a phone number for anonymously tipping the DVD on a post-it note, and notes the Music Hall falls within Richardson's district. In Chapter 221, Davis calls Sam about the 19 arrests at Roxborough Memorial - including high-value target Mr. Polygraph (Lucas Donovan) - implicitly acknowledging Sam's anonymous tip: "whoever made that call - they did the right thing." Informs Sam that Music Hall repairs are funded through insurance and emergency city funds, approximately nine weeks. Warns that the Kingdom will respond to losing Mr. Polygraph. In Chapter 222, Tasha reports Davis called with a construction update: upper floors by late February or early March, lobby usable by mid-February. Davis is aware of the Silverstein shell company evidence but cannot convince the DA without a preponderance of evidence; the data sits encrypted on Jordan's server.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Supporting
 
-    Gives the keynote speech at the Tacony Community Center grand opening, explicitly indicting the child-soldier superhero pipeline. Announces the center as an alternative offering counseling, education, and vocational training rather than superhero recruitment. Performs ceremonial key handoff to Sam and the Auditors. Warns Sam that the center will be targeted through complaints, family harassment, and efforts to make it toxic until funding dries up. Confirms federal movement against Maya Richardson: FBI questions, NSRA power registration review, grand jury convening. Redirected historical preservation funding triggered by Garbage Day's attack to fund the renovation. Had the Faraday cage room professionally built to classified signal-blocking standards, clearly knowing what the Auditors would use it for. Referenced as a contact in Sam's intel distribution circuit alongside the DVD, Titans, Argus Corps, and Pals.
+    Gives a speech at the Tacony Community Center grand opening (Chapter 233), critiquing the child-soldier superhero pipeline and introducing the center as an alternative. Performs a ceremonial key handoff to Sam in Chapter 234 - a velvet box with a photographer present, containing keys for the office, Faraday cage room, and roof access. Warns Sam the center will be a target from "Songbirds, Kingdom, anyone who benefits from powered kids having nowhere to go." Referenced in Chapter 237 as part of Sam's intel distribution circuit.
 
+    In Chapter 244, Silverstein pauses when he sees Davis's name on Sam's community center paperwork, and Sam directs Silverstein to speak with Davis as a colleague-to-colleague channel. In Interlude MR.10, Davis has built a coalition of five council members to vote for stripping Richardson of Argus Corps oversight, with Silverstein co-sponsoring the motion. The transition is effective April 1st. After Richardson's resignation, Davis comments diplomatically: "personal decision that we respect."
 
 ## Trivia
 
-- Davis sealed his secret alliance with Sam in Chapter 49 with a fist bump and the phrase "For great justice," establishing a tone of conspiratorial idealism that has characterized their relationship since.
-- He signs his text messages to Sam with "-JD."
-- Miasma initially warned Sam against trusting Davis, calling him "the governmentest, stoogiest of them all" - an assessment that proved wrong when Davis proposed the off-the-books investigation.
-- Davis knows the Kirby family professionally through Pennsylvania state government connections, which is how Alex Kirby entered the mentorship program rather than being flagged through Dr. Jensen's referral system like the other students.
-- The community center renovation was made possible because Garbage Day's attack on the Music Hall triggered historical preservation funding, which Davis redirected to the project - turning an act of violence against Sam into institutional support for powered youth.
-- His keynote speech at the grand opening was deliberately timed by Miasma to coincide with Elena Morales's televised confession, maximizing media impact in Maya Richardson's district.
-- The legal case United States v. Davis (2005), which established the legal framework for treating superhuman abilities as weapons, shares his surname but is not confirmed to involve him directly.
+- Sealed his alliance with Sam with a fist bump and the phrase "For great justice?" - lowering his fist to Sam's chest level.
+- Sam rejected his proposed team name "Young Defenders Dark": "Respectfully, Mr. Davis, sir, that's a stupid name."
+- Slid Sam's phone back after their Chapter 49 meeting, noting "It has not been recording anything" - Sam had not thought to record the conversation.
+- Signs his texts to Sam with "-JD."

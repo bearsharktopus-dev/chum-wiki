@@ -24,11 +24,9 @@
 
 ## Background
 
-Natasha Sokolov is a Russian-American metahuman who operates under the codename Compass as the navigator and technological specialist of the Tacony Titans, a neighborhood superhero team based in the Tacony section of Northeast Philadelphia. She is the oldest or most responsible child in a Russian immigrant family with a working-class background, and her upbringing instilled in her a DIY mindset and resourcefulness that would later define her role within the team.
+Natasha Sokolov is a Russian-American metahuman who operates under the codename Compass as navigator and tech specialist of the Tacony Titans, a neighborhood superhero team in the Tacony section of Northeast Philadelphia. She is the oldest or most responsible child in a Russian immigrant family with a working-class background, and her upbringing instilled the DIY resourcefulness that defines her role on the team.
 
-The Tacony Titans were first referenced in Chapter 17 when Sam Small's school friends mentioned the team by name after discovering their basic website. At that time, Compass was listed alongside Bubble, Sandman, Sundial, and a member called Weave. The team formally entered the narrative in Chapter 70 when Sam and Jordan encountered Bubble and Sundial at Wissinoming Park. Compass herself first appeared on-page during the alliance formation meeting in Chapter 80, where the Tacony Titans and the Auditors gathered at the Titans' garage headquarters to coordinate against the Jump drug distribution network. There, she introduced herself and her magnetic field control abilities to the assembled heroes.
-
-The specific circumstances of Natasha's power activation are not documented. She serves as the team's navigator and tech specialist, providing scavenged or repurposed gadgets to support operations. Her combination of magnetic powers and practical engineering skills makes her a versatile asset in both field reconnaissance and logistical support.
+First mentioned alongside the other Titans on their website (Ch. 17), Compass appeared on-page during the Titans-Auditors alliance formation meeting (Ch. 80), where she introduced her magnetic field control abilities. The specific circumstances of her power activation are not documented. Her combination of magnetic powers and practical engineering skills makes her a versatile asset in both field reconnaissance and logistical support.
 
 ## Powers & Abilities
 
@@ -51,27 +49,24 @@ No official PERKS assessment on file.
 
 ### Training & Skills
 
-- Skilled in scavenging, repairing, and repurposing technology, providing her team with improvised gadgets and equipment sourced from salvaged materials.
-- Practical mechanical and technical knowledge developed through her working-class upbringing and DIY mindset.
-- Field experience gained through regular patrols and operations with the Tacony Titans across Northeast Philadelphia.
-- Tactical coordination experience from participating in joint operations with the Auditors, Team Mayfly, and other allied hero groups.
+- Skilled in scavenging, repairing, and repurposing technology - she provided the alliance with encrypted earpieces scavenged from behind the NSRA building (Ch. 80).
+- Practical mechanical and technical knowledge developed through her working-class upbringing.
+- Field and tactical coordination experience from joint operations with the Auditors, Team Mayfly, and other allied groups.
 
 ## Personality
 
-Natasha is adventurous, resourceful, and outgoing, approaching problems with a practical, no-nonsense mentality. She uses humor and wit to connect with her teammates while maintaining a pragmatic outlook on the challenges they face. She is a natural problem-solver who favors direct, actionable solutions over extended deliberation.
-
-Her working-class background and immigrant family experience have shaped a self-reliant disposition. She developed her DIY mindset out of necessity, and this resourcefulness translates directly into her role as the team's tech specialist. She is comfortable operating under pressure and adapts quickly to changing circumstances, whether navigating chaotic battlefield conditions or improvising equipment from whatever materials are available. When the Argus Corps bounty system threatened underage heroes in Arc 12, Compass was noted as considering moving operations underground, demonstrating a willingness to prioritize the team's survival over pride.
+Natasha is adventurous, resourceful, and outgoing, approaching problems with a practical, no-nonsense mentality. She uses humor and wit to connect with teammates while maintaining a pragmatic outlook. She is a natural problem-solver who favors direct, actionable solutions over extended deliberation. Comfortable under pressure, she adapts quickly to changing circumstances and is willing to prioritize the team's survival over pride - as when she considered moving operations underground in response to the Safer Streets Initiative bounties.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Lucy King (Sundial) | Team Leader | Sundial leads the Tacony Titans and coordinates strategy. Compass operates under her direction as the team's navigator and tech specialist. |
-| Joshua Clark (Sandman) | Teammate | Second-in-command of the Tacony Titans. Both serve in the team's operational core. |
-| Rosa Acosta (Bubble) | Teammate | Defensive specialist of the Tacony Titans. Compass and Bubble operate together on field missions and patrols. |
-| Min-ji Kim (Moonshot) | Teammate | Bruiser and mobility specialist. Compass and Moonshot arrived together to provide support during the arson investigation in Chapter 140. |
-| Sam Small (Bloodhound) | Ally | Leader of the Auditors. The two teams formed an alliance in Chapter 80 to combat the Jump drug network and have maintained cooperative operations since. |
-| Jordan Westwood (Safeguard) | Ally | Co-founder of the Auditors. Participated alongside Compass in joint operations beginning with the Dobson Mills warehouse confrontation. |
+| Lucy King (Sundial) | Team Leader | Operates under Sundial's direction as the team's navigator and tech specialist. |
+| Joshua Clark (Sandman) | Teammate | Titans' second-in-command. |
+| Rosa Acosta (Bubble) | Teammate | Titans' defensive specialist. |
+| Min-ji Kim (Moonshot) | Teammate | Titans' bruiser. The two were blown into walls together by Sparkplug's electrical burst (Ch. 81) and arrived together during the arson investigation (Ch. 140). |
+| Sam Small (Bloodhound) | Ally | Leader of the Auditors. Teams have maintained cooperative operations since the alliance formed in Chapter 80. |
+| Jordan Westwood (Safeguard) | Ally | Auditors co-founder. Participated alongside Compass in joint operations beginning with the Dobson Mills warehouse. |
 
 ## Arc Appearances
 
@@ -85,31 +80,31 @@ Her working-class background and immigrant family experience have shaped a self-
 
     **Role:** Supporting
 
-    First on-page appearance in Chapter 80 during the alliance formation meeting at the Tacony Titans' garage headquarters, where she introduces herself and her magnetic field control abilities. Participates in the weeklong stakeout of Squeal's apartment and the Dobson Mills warehouse. Present during the chaotic warehouse battle against Squeal, Sparkplug, and their henchmen in Chapter 81, fighting alongside Moonshot. Assists in devising a cover story to protect Kate's vigilante identity in the aftermath (Chapter 82). Attends the combined strategy session between the Auditors, Tacony Titans, and Team Mayfly at the Music Hall in Chapter 83. Present during planning for the Sparkplug capture operation in Chapter 84.
+    First on-page appearance at the alliance formation meeting (Ch. 80), where she introduces her abilities and is described as a "human GPS." Provides encrypted earpieces scavenged from behind the NSRA building. Participates in the weeklong Squeal stakeout and the Dobson Mills warehouse battle (Ch. 81), where she and Moonshot are blown into walls by Sparkplug's electrical burst. Attends the combined Auditors-Titans-Mayfly strategy session at the Music Hall (Ch. 83).
 
 ??? warning "Book 6: Sideshow"
 
     **Role:** Mentioned
 
-    The Tacony Titans are referenced during the broader alliance discussions involving Philadelphia's hero teams, including the combined meeting of the Delaware Valley Defenders, Young Defenders, and Tacony Titans addressing the Rogue Wave threat.
+    The Tacony Titans are referenced as one of the hero teams stretched thin during the escalating Jump crisis, described as "fighting a losing battle to maintain order" in their corner of the city (Ch. 94).
 
-??? warning "Book 7: Security"
+??? warning "Book 8: Big"
 
     **Role:** Mentioned
 
-    Dr. Mikhail Sokolov, who shares Natasha's surname, appears as a figure in Chapter 96 during the Chernobyl trial proceedings. Whether a familial connection exists is unconfirmed. The Tacony Titans continue to operate in the background of the broader Philadelphia hero landscape.
+    Sundial references Compass alongside Moonshot when volunteering to reach out to other street teams in Chapter 131, after Devonte Harris is shot during an investigation into Kingdom operations. Sundial tells the assembled heroes that she, Moonshot, and Compass will contact other unlicensed teams across the city to rally support.
 
 ??? warning "Book 9: Sheol"
 
     **Role:** Supporting
 
-    Arrives with Moonshot in Chapter 140 to provide additional support during the investigation of the coffee shop arson attributed to Aaron McKinley. Present as Sundial uses psychometry to reconstruct the fire's timeline and identify the perpetrator. Returns to the Music Hall with the group as evidence mounts against Aaron.
+    Arrives on foot (Ch. 140) to support the investigation into Aaron McKinley's arson attacks, analyzing the situation as "territorial behavior" and reassuring Sam with "We keep us safe."
 
 ??? warning "Book 12: Authorized Personnel Only"
 
-    **Role:** Supporting
+    **Role:** Mentioned
 
-    Referenced in Chapter 184 as considering moving operations underground in response to Patriot's "Safer Streets Initiative" and the Argus Corps bounty system targeting powered youth. The Tacony Titans operate as one of the three major vigilante factions in Philadelphia alongside the Auditors and Pattinson's Pals throughout the arc. Assists the Auditors in covering neighborhood patrols during escalating tensions.
+    Sundial reports Compass is "already talking about going underground" in response to the Safer Streets Initiative bounties and mentions a meeting with her about Jump activity on the east side (Ch. 184).
 
 ??? warning "Book 13: Burn After Reading"
 
@@ -119,16 +114,14 @@ Her working-class background and immigrant family experience have shaped a self-
 
 ??? warning "Book 15: Severe Weather Warning"
 
-    **Role:** Supporting
+    **Role:** Mentioned
 
-    Part of the Tacony Titans contingent overwhelmed with storm response during the blizzard crisis in Chapter 229, when Maya Richardson uses weather manipulation to bury Northeast Philadelphia under sixteen inches of snow as cover for coordinated Kingdom break-ins. Compass, along with Moonshot, Sandman, and Bubble, is occupied with search and rescue operations while Sundial reaches out to the Auditors for additional coverage. A joint communication channel is established between the Titans and Auditors during the crisis.
+    During the blizzard crisis (Ch. 229), Sundial reports Compass and Bubble are handling residential check-ins while the Titans are overwhelmed with emergency response across Northeast Philadelphia.
 
 
 ## Trivia
 
-- In her earliest mention in Chapter 17, the Tacony Titans roster included a member called "Weave" who does not appear in later chapters. By the time of the alliance formation in Chapter 80, the roster had shifted to include Moonshot in Weave's place.
-- Dr. Mikhail Sokolov appears in Chapter 96 as a figure involved in the Chernobyl trial proceedings. The shared surname with Natasha has not been confirmed or denied as indicating a familial connection within the narrative.
-- Compass is the oldest member of the Tacony Titans at 19, tying with or slightly younger than Moonshot (22) and Sundial (21). She is described as the "oldest or most responsible child" in her family.
-- Her codename "Compass" directly references her magnetic sense ability, which functions as a biological compass.
-- She is one of the few characters in the series whose tech contributions come from scavenged and repurposed materials rather than purchased or professionally manufactured equipment, reflecting her working-class background.
-- The character reference guide describes her current status as of the beginning of Arc 16 as "N/A, presumably working and handling school."
+- Dr. Mikhail Sokolov appears in Chapter 96 as a defense expert witness during the Chernobyl trial. The shared surname has not been confirmed or denied as indicating a familial connection.
+- At 19, Compass is the youngest of the three older Titans, behind Moonshot (22) and Sundial (21).
+- She is one of the few characters whose tech contributions come from scavenged materials rather than purchased or professionally manufactured equipment.
+- Her Eastern European accent becomes more pronounced the more she speaks (noted in Ch. 83).

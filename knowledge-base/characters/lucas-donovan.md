@@ -24,11 +24,9 @@
 
 ## Background
 
-Lucas Donovan was born on September 15, 1985, in Trenton, New Jersey, to Victoria and Raymond Donovan. He grew up in a household characterized by dishonesty and maintained appearances, an environment that would prove formative in shaping both his temperament and his eventual relationship with his metahuman abilities. His power first manifested on June 17, 2001, during a family dinner when he experienced an itching sensation in his skull as his father lied about his whereabouts the previous night. This initial activation event tied Lucas's abilities directly to the domestic deceptions that defined his upbringing.
+Lucas Donovan was born on September 15, 1985, in Trenton, New Jersey, to Victoria and Raymond Donovan. His power first manifested on June 17, 2001, during a family dinner when he felt an itching sensation in his skull as his father lied about his whereabouts - tying his abilities directly to the domestic deceptions that defined his upbringing.
 
-After relocating to Philadelphia in 2007, Lucas worked as a bartender, quietly using his nascent lie-detection abilities to identify patrons who were cheating or running scams. By 2010, he had drifted into organized crime, joining a small-time criminal gang where he earned the nickname "Polygraph" for his uncanny ability to identify deception. His powers proved invaluable during gang operations, most notably in 2012 when he uncovered a planned double-cross that saved the group from a disastrous outcome. When the gang disbanded following a major police crackdown in 2016, Lucas freelanced his interrogation services throughout Philadelphia's criminal underworld.
-
-On October 31, 2019, Mr. Antithesis approached Lucas and offered him the role of lead interrogator for the newly forming Kingdom of Keys. Lucas accepted, formally adopting the designation "Mr. Polygraph" and cultivating a more professional appearance to align with the organization's corporate criminal ethos. As a founding member of the Kingdom, he became instrumental in vetting recruits, maintaining internal security, and conducting interrogations alongside his partner, Mr. Nothing (Darnell Hayes). The two operated as the Philadelphia branch's co-lead interrogators, a role that placed Lucas at the center of the Kingdom's intelligence operations for several years until his capture and depowering by Rogue Wave in late 2025.
+After relocating to Philadelphia in 2007, Lucas worked as a bartender while quietly using his lie-detection to identify cheating patrons. By 2010, he had drifted into organized crime, earning the nickname "Polygraph" in a small-time gang and freelancing his interrogation services after the gang disbanded in 2016. On October 31, 2019, Mr. Antithesis recruited him as a founding member of the Kingdom of Keys, where he became co-lead interrogator alongside Mr. Nothing (Darnell Hayes). He served at the center of the Kingdom's intelligence operations until his capture and depowering by Rogue Wave in late 2025.
 
 ## Powers & Abilities
 
@@ -42,11 +40,11 @@ No official PERKS assessment on file.
 
 ### Limitations
 
-- The ability requires spoken communication to function and is completely ineffective against written statements, non-verbal cues, or text-based deception.
-- Clever wordplay, half-truths, and statements that are technically correct but misleading can circumvent the power, as the subjective belief component may not register these as falsehoods.
-- The physical manifestation of the ping as a skull sensation can become distracting or overwhelming in environments where multiple lies are being told simultaneously, requiring significant mental discipline to manage during complex interrogations.
-- Recorded playback of another person's voice does not trigger the power, as demonstrated during the Soot sting operation when the Auditors used Devonte's sound-replaying abilities to feed Kate's pre-recorded voice through Sam's mask, bypassing Lucas's detection entirely.
-- Following his capture by Rogue Wave, Snake Oil extracted Lucas's lie-detection power through direct physical contact, crystallizing it into a blue-green substance over approximately 90 seconds. This left Lucas permanently depowered. As of the beginning of Arc 16, Mr. Antithesis is actively hunting Fly to provide Lucas with a replacement power, and it is implied he has re-acquired a new ability, though its nature has not yet been revealed.
+- Requires spoken communication; completely ineffective against written statements, non-verbal cues, or text-based deception.
+- Clever wordplay, half-truths, and technically correct but misleading statements can circumvent the power.
+- Simultaneous lies from multiple speakers can overwhelm the ping sensation, requiring mental discipline to manage.
+- Recorded playback does not trigger the power - only live speech from the actual speaker (exploited by the Auditors during the Soot sting, Arc 11).
+- Following capture by Rogue Wave (Arc 15), Snake Oil extracted Lucas's power, leaving him permanently depowered. Mr. Antithesis is coordinating Fly acquisition to restore his abilities.
 
 ### Training & Skills
 
@@ -59,21 +57,21 @@ No official PERKS assessment on file.
 
 ## Personality
 
-Lucas Donovan presents as professional and controlled, maintaining a composed exterior that belies significant anger management issues simmering beneath the surface. He is impulsive in his thinking but disciplined in his actions, possessing the self-awareness to lid his volatile impulses most of the time. When that lid slips, the results are explosive: he has been observed firing his gun into machinery in frustration, breaking a subordinate's nose as a substitute for cutting off his finger, and escalating confrontations beyond what the tactical situation requires. His rage appears rooted in a deep-seated frustration with dishonesty, a trait likely exacerbated by a power that forces him to confront untruths constantly.
+Lucas presents as professional and controlled, but significant anger management issues simmer beneath the surface. He is impulsive in his thinking but disciplined in his actions, possessing the self-awareness to lid his volatile impulses most of the time. When the lid slips, the results are explosive - firing his gun into machinery in frustration (Arc 1), breaking a subordinate's nose (Arc 4), or escalating confrontations beyond tactical necessity. His rage appears rooted in a deep-seated frustration with dishonesty, exacerbated by a power that forces him to confront untruths constantly.
 
-In his professional capacity, Lucas is direct, authoritative, and comfortable exercising lethal force. He executed a suspected informant with two gunshots during a recruitment meeting on Halloween to silence dissent and demonstrate consequences. He assigned Aaron McKinley to kill Bloodhound as casually as delegating a work task. Yet he is not purely sadistic; he simply operates within the Kingdom's framework of criminal pragmatism, treating violence as a business tool rather than a source of personal pleasure. Outside of work, Lucas is described as someone who simply has his life and lives it, with interests in classic detective novels, jazz music, poker, and a collection of vintage polygraph machines that reflects his respect for the tradition of lie detection.
+Professionally, he is direct, authoritative, and comfortable with lethal force, treating violence as a business tool within the Kingdom's criminal pragmatism. Outside of work, he enjoys classic detective novels, jazz music, poker, and maintains a collection of vintage polygraph machines.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Darnell Hayes (Mr. Nothing) | Partner / Close friend | Co-lead interrogator and operational partner for the Philadelphia branch. The two form an inseparable duo described as "heterosexual life mates," despite having met only relatively recently through the Kingdom. They complement each other tactically: Lucas provides intelligence-gathering through lie detection while Darnell provides power nullification in the field. |
-| Trent Fairfax (Mr. Antithesis) | Superior / Benefactor | Leader of the Kingdom of Keys who recruited Lucas as a founding member in 2019. Following Lucas's depowering, Mr. Antithesis personally undertook a campaign to acquire Fly to restore Lucas's abilities, demonstrating the organization's investment in his value. |
-| Maya Richardson (Mrs. Zenith) | Colleague | Acting boss of the Philadelphia branch. Maya coordinated Lucas's legal representation following his arrest and visited him in the hospital after his depowering. She assigned him and Mr. Nothing to oversee Hypeman production coordination with Mrs. Xenograft. |
-| Sam Small (Bloodhound) | Adversary | Teenage vigilante who became Lucas's most persistent antagonist. Their encounters escalated from the Dobson Factory confrontation through the NSRA impersonation to the Soot sting, culminating in Sam orchestrating the tip that led to his capture and depowering by Rogue Wave. |
-| Aaron McKinley (The Coyote) | Subordinate | Low-level criminal whom Lucas intimidated and then assigned to assassinate Bloodhound as repayment for lost Kingdom funds. |
-| Blake Matthews (Mr. Tyrannosaur) | Colleague | Kingdom enforcer. Lucas socialized with him outside of operations, inviting him to a strip club after a Kingdom meeting, and the two met jointly with Aaron McKinley to collect debts. |
-| Maria Valdez (Mrs. Heartbeat) | Colleague | Kingdom assassin and medic who accompanied Lucas during the Halloween warehouse recruitment meeting and the zoo heist operation. |
+| Darnell Hayes (Mr. Nothing) | Partner / Close friend | Co-lead interrogator; described as "heterosexual life mates" despite meeting only through the Kingdom. Lucas provides lie detection while Darnell provides power nullification. |
+| Trent Fairfax (Mr. Antithesis) | Superior / Benefactor | Recruited Lucas as a founding member in 2019. Personally coordinating Fly acquisition to restore his abilities after depowering. |
+| Maya Richardson (Mrs. Zenith) | Colleague | Acting boss of the Philadelphia branch. Coordinated his legal representation and visited him in hospital after his depowering. |
+| Sam Small (Bloodhound) | Adversary | Encounters escalated from the Dobson Factory (Arc 1) through the NSRA impersonation (Arc 4) and Soot sting (Arc 11), culminating in Sam's tip enabling his capture by Rogue Wave (Arc 15). |
+| Aaron McKinley (The Coyote) | Subordinate | Intimidated and assigned to assassinate Bloodhound as repayment for lost Kingdom funds (Arc 4). |
+| Blake Matthews (Mr. Tyrannosaur) | Colleague | Kingdom enforcer; socialized together outside operations. |
+| Maria Valdez (Mrs. Heartbeat) | Colleague | Accompanied Lucas during the Halloween recruitment meeting (Arc 3). |
 
 ## Arc Appearances
 
@@ -81,78 +79,61 @@ In his professional capacity, Lucas is direct, authoritative, and comfortable ex
 
     **Role:** Supporting
 
-    First appears in Chapter 12 alongside Mr. Nothing and Mudslide at the abandoned Dobson Textile Factory. Interrogates a captive about connections to Liberty Belle while overseeing Mudslide's loyalty test, which results in the captive's murder. Discovers Sam Small and Jordan Westwood observing from the catwalks. Interrogates Sam at gunpoint, revealing his lie-detection abilities and threatening to shoot her if she lies. Fires his gun wildly in frustration when Sam bluffs about streaming audio, allowing the teens to escape. Engages in a brutal fight in Chapter 13, during which Sam bites his shoulder and punches him repeatedly. Appears in drone footage presented to the Delaware Valley Defenders as evidence of Kingdom criminal activity.
+    First appears in Chapter 12 alongside Mr. Nothing and Mudslide at the abandoned Dobson Textile Factory. Described as a white man with dark black hair, facial stubble, wearing a navy blue suit with a black undershirt and sunglasses, with a holstered pistol. Interrogates a captive about connections to Liberty Belle while overseeing Mudslide's loyalty test, which results in the captive being buried alive. Discovers Sam Small and Jordan Westwood after they fall through rotten floorboards. Interrogates Sam at gunpoint, revealing his lie-detection abilities and threatening to shoot her if she lies. References "Mr. B" - a Kingdom lawyer or fixer. Sam exploits the limitation that he can't directly reference the murder in his questions. Fires his gun into machinery in frustration when Sam bluffs about streaming audio, allowing the teens to escape. Engages in a brutal fight in Chapter 13, emptying his clip wildly at Jordan's elevated platform (grazing Sam twice on the upper arm and thigh). Fights hand-to-hand with his larger, heavier frame before Sam bites deep into his shoulder, breaking bone. Gets punched repeatedly by Sam. Pistol-whips Sam with his gun handle. Retreats when police sirens approach.
 
 ??? warning "Book 2: Keys"
 
     **Role:** Mentioned
 
-    Referenced as a subject in the drone footage shown to the adult Delaware Valley Defenders by the Young Defenders team. The footage of the Dobson Factory murder becomes key evidence identifying the Kingdom of Keys as a criminal organization.
+    Referenced as a subject in the drone footage shown to the adult Delaware Valley Defenders by the Young Defenders team. Sam's intel provides "Mr. Nothing, Mr. Polygraph, Mudslide" as the first identified Kingdom operative names - a major breakthrough for the adults, who previously had zero operative names despite knowing of the organization. Mrs. Zenith later references "P and N" (Mr. Polygraph and Mr. Nothing) as the operatives Sam "fucked up" in her encounter with Mr. Tyrannosaur.
 
 ??? warning "Book 3: Dybbuk"
 
     **Role:** Supporting
 
-    Leads the Halloween night recruitment meeting at the Kingdom warehouse on Trenton Avenue alongside Mrs. Heartbeat. Addresses recruits, explains the initiation test requiring them to convert stolen goods into $20,000 by mid-December, and threatens to shoot any undercover officers. Executes a suspected informant with two gunshots (one to the head, one to the chest) to demonstrate the consequences of betrayal. This event is witnessed by Sam, Jordan, Jamila, and Spinelli, who are hiding inside the warehouse. Video footage of his address is later presented to the Delaware Valley Defenders as evidence. Referenced in Sam's thoughts during subsequent chapters as a looming threat.
+    Leads the Halloween night recruitment meeting at the Kingdom warehouse at 4547 Trenton Avenue alongside Mrs. Heartbeat. Described with salt-and-pepper hair, a dense grey-white mustache, red-rimmed eyes, and a tailored dark sharp suit. Addresses approximately 30 recruits, explains the initiation test requiring them to convert stolen goods from the Chernobyl haul into $20,000 cash each by mid-December, and threatens to shoot any undercover officers - quizzing each person with his lie-detection power before they leave. In Chapter 41, executes a suspected informant with two gunshots (one through the forehead, one through the sternum) after the man was tested by his lie detection and "found wanting." This event is witnessed by Sam, Jordan, Jamila, and Spinelli, who are hiding inside the warehouse. Jordan records his speech on an iPhone, capturing his reference to tailing Chernobyl and using the word "fruitful." Video footage is later presented to the Delaware Valley Defenders and Councilman Davis as evidence.
 
 ??? warning "Book 4: Exorcism"
 
     **Role:** Supporting
 
-    Appears in the AMK.1 interlude alongside Mr. Tyrannosaur. Summons Aaron McKinley to demand repayment of lost Kingdom funds. Threatens to cut off Aaron's pinky finger in a Yakuza-style punishment, terrorizing him with a knife before instead breaking his nose with a punch. Reveals that the Kingdom has identified "Wolf" as Bloodhound, a junior cape interfering with their operations. Assigns Aaron to kill Bloodhound as a means of redeeming himself. Appears in Chapter 57 posing as NSRA Agent Parker alongside Mr. ESP (Agent Evans) at the Hatboro-Horsham NSRA crime scene. His arm shows injuries from his previous encounter with Sam. Interrogates the teens about their presence, growing increasingly specific and suspicious. Triggers Spindle's recognition by using the word "fruitful" from their Halloween encounter. Sam deliberately lies to trigger his powers and test his reactions. Falters when Sam questions his specific reference to abandoned buildings, confirming Kingdom surveillance of their activities. Pulled away by Agent Evans after the confrontation escalates. Photograph taken by Sam becomes evidence of Kingdom members impersonating federal officers. Later shown in video evidence to NSRA Agent Torres during intelligence sharing.
+    Appears in the AMK.1 interlude alongside Mr. Tyrannosaur. Summons Aaron McKinley to demand repayment of lost Kingdom funds. Threatens to cut off Aaron's pinky finger in a Yakuza-style punishment (Yubitsume), terrorizing him with a utility knife before pocketing it and instead breaking his nose with a punch. Reveals that the Kingdom has identified "Wolf" as Bloodhound, a junior cape interfering with their operations. Assigns Aaron to kill Bloodhound as a means of redeeming himself, but withholds her name and address to avoid making it "easy mode." Appears in Chapter 57 posing as NSRA Agent Parker alongside Mr. ESP (Agent Evans) at the Hatboro-Horsham NSRA crime scene. His shoulder is still visibly injured from Sam's bite months earlier - arm cradled close to his body. Has shaved off his mustache to change his appearance. Sam and Jordan deliberately tell lies to trigger his power and make him reveal information through his reactions. Falters when Sam questions his specific reference to abandoned buildings, confirming Kingdom surveillance of their activities. Agent Evans pulls him away after the confrontation escalates. Photograph taken by Sam becomes evidence of Kingdom members impersonating federal officers, later shown to NSRA Agent Torres during intelligence sharing, who confirms the man in the photo matches the Halloween warehouse video.
 
 ??? warning "Book 5: Mayfly"
 
     **Role:** Supporting (Interlude)
 
-    Appears in the BM.1 interlude (Mr. Tyrannosaur's POV) at a Kingdom leadership meeting. Arrives visibly injured from a recent assault by Fly-powered attackers ("gutter punks"). Reports on the emergence of the Fly drug and its implications. References the recent Chernobyl/Fedorov failure. Treats his injuries at the first aid station. Invites Mr. Tyrannosaur to unwind at a strip club afterward, and they depart Kingdom headquarters together in a Cadillac.
-
-??? warning "Book 7: Security"
-
-    **Role:** Mentioned
-
-    Referenced in discussions about the Kingdom's potential interest in the Philadelphia Zoo and their operational planning. His role as interrogator is part of the broader Kingdom threat assessment during Arc 7.
-
-??? warning "Book 8: Big"
-
-    **Role:** Mentioned
-
-    Not directly present during the zoo heist (Operation Ivory), which was led by Mr. Nothing, Mrs. Heartbeat, Mudslide, and Mr. Tyrannosaur. Referenced as part of the Kingdom's operational structure during the arc's events. Mr. Nothing and Mudslide are captured at the conclusion of the zoo battle.
-
-??? warning "Book 10: Plume"
-
-    **Role:** Supporting (Interlude)
-
-    Assigned by Maya Richardson alongside Mr. Nothing to coordinate with Mrs. Xenograft on rebuilding Hypeman production in Camden, as detailed in the MR.7 interlude following the Soot sting operation. Part of the strategic planning discussion at the Kingdom safehouse regarding Rogue Wave's silence and anti-vigilante legislation expansion.
+    Appears in the BM.1 interlude (Mr. Tyrannosaur's POV) at a Kingdom leadership meeting. Arrives visibly injured from a recent assault by Fly-powered attackers ("gutter punks from the Liberties"). Asks the room what they know about Fly, then reports on the emergence of the drug and its implications - powers in pill form without an activation event. References Mr. ESP's failure with the Chernobyl/Fedorov recruitment. Treats his injuries at the break room's first aid dispenser, popping ibuprofen and applying bandaids. Invites Mr. Tyrannosaur to unwind at a strip club afterward, and they depart Kingdom headquarters together in Lucas's Cadillac.
 
 ??? warning "Book 11: Alarm Will Sound"
 
     **Role:** Supporting
 
-    Present during the Soot sting operation (the Washes operation) alongside Mr. Retribution, Mrs. Quiet, and Mr. Nothing. Arrives at Lardner's Point Park and offers $2,000 to the Washes for first interrogation rights. Questions the disguised Sam about her knowledge of the Trenton Avenue warehouse. Demands to see "Soot's" face to confirm identity, threatening to expose the entire deception. His lie-detection powers are bypassed during the interrogation because Sam was not actually speaking; Devonte's sound-replaying ability was feeding Kate's pre-recorded voice through the mask. A police siren diversion prevents him from unmasking Sam.
+    Present during the Soot sting operation (the Washes operation) alongside Mr. Retribution, Mrs. Quiet, and Mr. Nothing. Described with a chinstrap beard (having shaved off his mustache) and a raspy, tired voice. Arrives at Lardner's Point Park where the Kingdom offers $2,000 to the Washes for first interrogation rights. Questions the disguised Sam about her knowledge of the Trenton Avenue warehouse. His lie-detection powers are bypassed during the interrogation because Sam was not actually speaking - Devonte's sound-replaying ability was feeding Kate's pre-recorded voice through the mask, and Lucas confirms "She's being honest." Demands to see "Soot's" face to confirm identity, threatening to expose the entire deception. A police siren diversion created by Devonte prevents him from unmasking Sam. In the MR.7 interlude following the operation, stands behind his chair during the Kingdom debriefing at the Spruce Street safehouse (a paranoid habit - he never sits during debriefs). Assigned by Maya Richardson alongside Mr. Nothing to coordinate with Mrs. Xenograft on rebuilding Hypeman production at the Camden backup facility.
+
+??? warning "Book 14: Shelter in Place"
+
+    **Role:** Mentioned
+
+    Referenced as the target of Rogue Wave's favor demand. Rogue Wave delivers an envelope to Sam via hospital mail containing a single folded paper reading "Mr. Polygraph. We'll be in touch." - establishing that their price for helping protect Sam's family from Shrike is assistance capturing Lucas. Sam later explains to the team that Rogue Wave wants help capturing Mr. Polygraph, describing him as the Kingdom's internal security.
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Captured in the Rogue Wave operation at Roxborough Memorial Hospital. Sam tips off Rogue Wave about the Kingdom's evidence disposal, and Monkey Business correctly predicts Lucas's involvement. Lucas and Mr. Nothing arrive to investigate, where they are ambushed by Rogue Wave's combat team (Rush Order, Birthday Suit, Dead Drop). Rush Order captures Lucas, and he is transported to a secondary location in Camden where Snake Oil performs the power extraction, placing his hand on Lucas's neck after administering local anesthetic. Over 90 seconds, Lucas's lie-detection power materializes as a blue-green crystal, leaving him permanently depowered. Rogue Wave tips police about his location 45 minutes later. He is found at Our Lady of Lourdes Hospital in Camden, traumatized but physically unharmed, with attorney Catherine Giuliano present. Maya Richardson visits him that evening. Mr. Antithesis subsequently announces that Lucas will lose his "Mr. Polygraph" designation but maintain his salary, territory, and operational authority, pledging to acquire Fly to restore his abilities. The operation results in 19 total arrests, including Lucas, transforming Sam from a "tactical nuisance" to a "strategic problem" in the Kingdom's assessment.
+    Captured in the Rogue Wave operation at Roxborough Memorial Hospital. Sam tips off Rogue Wave about the Kingdom's evidence disposal at the hospital, and Rush Order uses his "pigeon sense" - the ability to locate anyone by full legal name - to track Lucas's movements. Rogue Wave sets up a multi-day stakeout using a geased private investigator as bait. When the Kingdom finally sends advance security along with Lucas and Mr. Nothing to investigate, they are ambushed by Rogue Wave's combat team (Rush Order, Birthday Suit, Dead Drop). Rush Order tackles and captures Lucas while Birthday Suit takes down Mr. Nothing. Lucas is transported to Rogue Wave's Camden safehouse where Elias (Chimera) administers novocaine and Snake Oil performs the power extraction through direct physical contact on Lucas's neck. Over approximately 90 seconds, Lucas's lie-detection power crystallizes into a blue-green, fist-sized crystal, leaving him permanently depowered. Lucas screams during the process - described as not a scream of pain but of wrongness - and slumps afterward "like someone cut his strings." He is dumped at a Camden police station approximately two hours later, unconscious and restrained. He is subsequently found at Our Lady of Lourdes Hospital in Camden (Room 347, secure wing), traumatized but not physically injured, with attorney Catherine Giuliano of Kline-Morrison present. Maya Richardson visits him that evening after receiving the Kingdom emergency call from Mr. Nothing. Mr. Antithesis arrives at a Port Richmond warehouse debrief and announces that Lucas will lose his "Mr. Polygraph" designation (a structural necessity, as the Kingdom's alphabetized system requires demonstrated superhuman capability) but maintain his salary, territory, and operational authority, pledging to personally coordinate Fly acquisition to restore his abilities. The operation results in 19 total arrests (4 Kingdom including Lucas, 15 Rogue Wave expendable foot soldiers), transforming Sam from a "tactical nuisance" to a "strategic problem" in the Kingdom's assessment.
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Mentioned
 
-    Referenced as going through the legal system following his arrest. Mr. Antithesis is personally involved in hunting Rogue Wave to acquire Fly for Lucas's re-powering. It is implied that Lucas has re-acquired a new power, though its nature has not been revealed.
+    Referenced as going through the legal system following his arrest. The DA was unable to make anything stick beyond minor charges despite his fingerprints appearing in multiple unsolved cases, and he was expected to be released by late January. Mr. Antithesis is coordinating efforts to acquire Fly for Lucas's re-powering.
 
 
 ## Trivia
 
-- Lucas received a toy lie detector for Christmas in 1990 at age five, an early spark for his lifelong fascination with truth and deception.
-- He maintains a collection of vintage polygraph machines, fascinated by the history and evolution of mechanical lie detection technology.
-- Lucas is an avid poker player who used his powers to detect bluffs, giving him a significant edge at the table.
-- He enjoys classic detective novels, particularly those featuring Sherlock Holmes and Hercule Poirot, characters renowned for penetrating deception.
-- His fondness for classic jazz music is noted as a relaxation habit during downtime, and the connection between jazz improvisation and authentic expression may parallel his power's relationship to spoken truth.
-- He was the first Kingdom member to physically encounter Sam Small, establishing the adversarial relationship between the Kingdom and the protagonist that would drive much of the story's central conflict.
+- Received a toy lie detector for Christmas in 1990 at age five.
+- Uses his powers at poker to detect bluffs.
+- Enjoys Sherlock Holmes and Hercule Poirot novels - characters renowned for penetrating deception.
 - The "Agent Parker" alias he used while impersonating an NSRA agent was paired with badge number 7742.
-- His power extraction by Snake Oil produced a blue-green crystal, which was subsequently processed into Fly, the metahuman drug distributed by Rogue Wave.
-- Lawrence Sullivan (Monkey Business), the leader of Rogue Wave, acquired Lucas's lie-detection power after having Snake Oil extract it, making Sullivan the current wielder of the ability Lucas lost.
-- He and Darnell Hayes (Mr. Nothing) are described as "heterosexual life mates" in the Kevin Smith sense, despite having only met when the Kingdom was founded.
+- His extracted power crystal was blue-green; Lawrence Sullivan (Monkey Business) acquired the resulting ability, making him the current wielder of Lucas's former lie-detection power.

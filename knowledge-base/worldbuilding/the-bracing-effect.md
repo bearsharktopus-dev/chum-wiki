@@ -16,9 +16,9 @@
 
 ## Overview
 
-The Bracing Effect describes the distribution of force across a superhuman's body when they employ extra-physiological powers - abilities that operate outside the body without emanating from a specific physiological source, such as telekinesis or elemental manipulation. When such powers are used, a previously unknown fifth fundamental force activates to redistribute the resultant strain energy across the user's entire anatomical structure, including bones, muscles, capillaries, and nerve fibers. The phenomenon was first quantified and named by Dr. Emily Hargrove in her 2009 paper, "Distributed Force Absorption in Extra-Physiological Abilities."
+The Bracing Effect describes the distribution of force across a superhuman's body when they employ extra-physiological powers - abilities that operate outside the body without emanating from a specific physiological source, such as telekinesis or elemental manipulation. A fifth fundamental force, the Universal Force Distribution Mechanism (UFDM), redistributes the resultant strain energy across the user's entire anatomical structure. The phenomenon was first quantified by Dr. Emily Hargrove in her 2009 paper, "Distributed Force Absorption in Extra-Physiological Abilities."
 
-The Bracing Effect has significant consequences for superhuman health. While the UFDM prevents catastrophic localized injury during power use, the distributed strain produces a range of medical complications, from minor nosebleeds and bruising to fractures, muscle tears, and - in cases of prolonged use over decades - symptoms resembling neurodegenerative disorders. Understanding and managing the Bracing Effect is a central concern of the field of dynology and has led to the development of specialized medical protocols, imaging techniques, and pharmaceutical interventions for superhuman populations.
+While the UFDM prevents catastrophic localized injury, the distributed strain produces medical complications ranging from nosebleeds and bruising to fractures, muscle tears, and - over decades - symptoms resembling neurodegenerative disorders.
 
 ## Mechanics
 
@@ -40,31 +40,31 @@ The Bracing Effect also plays a protective role for superhumans capable of fligh
 
 ## History
 
-Prior to 2009, the consistent and often baffling injuries sustained by superhumans using extraphysical abilities lacked a satisfactory scientific explanation. Several competing theories attempted to account for the phenomenon:
+Prior to 2009, several theories competed to explain the injuries sustained by superhumans using extraphysical abilities:
 
-**Fourth-Dimensional Force Theory** - Proposed by theoretical physicist Dr. Julian Park, this theory attributed superhuman injuries to forces originating from a fourth or higher spatial dimension. Under this model, telekinetic effects were reinterpreted as normal bodily force exerted through an orthogonal spatial connection. The theory gained initial popularity but ultimately failed to comprehensively model the diverse range of power types and their physiological effects.
+**Fourth-Dimensional Force Theory** (Dr. Julian Park) - Attributed injuries to forces from higher spatial dimensions. Gained initial popularity but failed to model the diverse range of power types.
 
-**Biochemical Feedback Loop Hypothesis** - Molecular biologist Dr. Katherine Lozano led a group proposing that injuries resulted from rapid accumulation of lactic acid and metabolic waste during power use, causing tissue damage and capillary rupture. While this hypothesis accounted for muscle fatigue and minor injuries, it could not explain more severe outcomes such as bone fractures.
+**Biochemical Feedback Loop Hypothesis** (Dr. Katherine Lozano) - Proposed injuries resulted from rapid accumulation of lactic acid and metabolic waste. Accounted for muscle fatigue but not bone fractures.
 
-**Micro-Singularity Convergence** - Physicist Dr. Leonard Harmon proposed that superhuman abilities were the product of micro-singularities converging at specific points in spacetime, creating rifts that produced physiological stress upon interaction. The theory did not survive rigorous testing.
+**Micro-Singularity Convergence** (Dr. Leonard Harmon) - Proposed micro-singularities creating physiological stress. Did not survive rigorous testing.
 
-Dr. Emily Hargrove's 2009 paper took a classical-physics-based approach, initially labeling the phenomenon the "Universal Force Distribution Mechanism." Her framework described a previously unknown physical mechanism responsible for distributing the forces exerted through superhuman abilities evenly across the body. Though met with initial skepticism, successive rounds of peer review and experimental validation - including tests with telekinetic and elemental manipulators - confirmed the model's predictive accuracy regarding injury outcomes. The term was eventually simplified to "the Bracing Effect," which has since gained universal acceptance across scientific, superhuman, and popular science communities.
+Dr. Emily Hargrove's 2009 paper took a classical-physics approach, describing a previously unknown mechanism distributing forces evenly across the body. Initially labeled the "Universal Force Distribution Mechanism," successive peer review and experimental validation confirmed the model's predictive accuracy. The simplified term "Bracing Effect" has since gained universal acceptance.
 
 ## Implications
 
 ### Medical Consequences
 
-The Bracing Effect produces a spectrum of health issues for superhumans who regularly employ extraphysical abilities. Short-term effects include vascular tension, nosebleeds, random bruising, fractures, and muscle tears. Superhumans who use their powers frequently over a period of ten to twenty years may develop symptoms akin to neurodegenerative disorders as a result of chronic low-level nerve cell damage.
+Short-term effects include vascular tension, nosebleeds, bruising, fractures, and muscle tears. Over ten to twenty years of frequent use, chronic nerve cell damage may produce symptoms akin to neurodegenerative disorders.
 
-A particularly contentious area of research concerns superhumans with cognitive powers - abilities such as precognition or psychometry that do not appear to exert physical force. Despite this, these individuals frequently experience spontaneous nosebleeds, migraines, and transient ischemic attacks during periods of overuse. If the connection between cognitive abilities and the Bracing Effect is verified, it could dramatically broaden the understanding of the phenomenon and potentially lead to a unified theory encompassing all superhuman abilities.
+A contentious area of research concerns cognitive-power users (precognition, psychometry) who experience nosebleeds, migraines, and transient ischemic attacks despite exerting no apparent physical force. Confirming a link between cognitive abilities and the Bracing Effect could lead to a unified theory encompassing all superhuman abilities.
 
 ### Medical Protocols and Treatment
 
-The unique health challenges posed by the Bracing Effect have driven the development of superhuman-specific medical guidelines. These include regular health screenings prioritizing cardiovascular and skeletal wellness, specialized medical imaging designed to detect micro-damage and internal hemorrhages, and protocols for immediate medical intervention following intensive power use. The medication Capilastin-XR, commercially available as VeiloGuard, has been approved to mitigate vascular complications associated with the Bracing Effect, though it carries its own documented side effects.
+Superhuman-specific guidelines include regular cardiovascular and skeletal screenings, specialized imaging to detect micro-damage and internal hemorrhages, and immediate intervention protocols following intensive power use. Capilastin-XR (brand name VeiloGuard) mitigates vascular complications, though it carries documented side effects.
 
 ### Training Applications
 
-The medical community has leveraged the understanding of the UFDM to develop targeted training regimens for superhumans. These programs aim to help powered individuals exert greater conscious control over the fifth fundamental force during power use, thereby minimizing harmful side effects.
+Targeted training regimens help powered individuals exert greater conscious control over the UFDM during power use, minimizing harmful side effects.
 
 ## Classification / Taxonomy
 
@@ -80,21 +80,13 @@ The Bracing Effect does not possess a formal sub-type classification system. How
 
 ## Related Concepts
 
-- **PERKS Assessment** - The standardized power classification system for superhumans. Understanding the Bracing Effect informs threat level and collateral damage ratings, as the physiological toll of power use factors into a superhuman's operational limits.
-- **Dynology** - The academic field devoted to the scientific analysis of superhuman abilities. Dr. Emily Hargrove is recognized as a pioneer researcher in the discipline, and the Bracing Effect is one of its foundational subjects of study.
-- **Anomalously Originated Materials (AOM)** - Materials generated by superhuman powers. The UFDM governs force distribution during the creation of AOM, making the two phenomena closely linked in metahuman physics research.
-- **LUMA (License to Utilize Metahuman Abilities)** - The legal licensing framework for power use. Medical complications from the Bracing Effect are relevant to LUMA fitness evaluations and ongoing eligibility.
-- **Superhuman Flight** - The Bracing Effect has a documented protective interaction with flight-capable superhumans, with manifestation varying by flight method.
+- **PERKS Assessment** - The Bracing Effect's physiological toll factors into threat level and collateral damage ratings.
+- **Dynology** - The academic field studying superhuman abilities; the Bracing Effect is one of its foundational subjects.
+- **Anomalously Originated Materials (AOM)** - The UFDM governs force distribution during AOM creation, linking the two phenomena.
+- **LUMA (License to Utilize Metahuman Abilities)** - Bracing Effect complications are relevant to LUMA fitness evaluations.
+- **Superhuman Flight** - The Bracing Effect has a documented protective interaction with flight, varying by method.
 
 ## Trivia
 
-- The formal scientific name, Universal Force Distribution Mechanism (UFDM), predates the colloquial term "Bracing Effect," but the latter has become universally preferred across scientific, superhuman, and popular audiences.
-- Dr. Leonard Harmon's Micro-Singularity Convergence theory is noted as having failed rigorous testing particularly badly - the source material remarks that it did not survive testing "at all."
-- The UFDM is classified as a fifth fundamental force, placing it alongside gravity, electromagnetism, the strong nuclear force, and the weak nuclear force.
+- Dr. Leonard Harmon's Micro-Singularity Convergence theory is noted as having failed testing particularly badly - it did not survive testing "at all."
 - VeiloGuard (Capilastin-XR) is one of the few pharmaceutical products specifically developed for superhuman physiology.
-- The factsheet notes the cognitive-power connection to the Bracing Effect with the parenthetical aside "weird, because there's no physical force in cognitive powers (right?)," suggesting this remains a genuine puzzle even at the authorial level.
-
-## Sources
-
-- the-bracing-effect.txt - Primary source. Full worldbuilding article covering history, physics, and medical implications of the Bracing Effect.
-- THE FACTSHEET.txt - Supplementary details including structured summary of core concept, medical effects, historical theories, current research areas, interaction with superhuman flight, and connection to the field of dynology.

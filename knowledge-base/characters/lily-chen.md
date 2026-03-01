@@ -17,18 +17,22 @@
 | **Residence** | Bridesburg, Philadelphia, PA (family rowhome on Almond Street) |
 | **Affiliation** | Auditors |
 | **Former Affiliations** | Young Defenders |
-| **Occupation** | Superhero, College Student |
+| **Occupation** | Superhero, College Student (Temple University) |
 | **Status** | Active |
 | **First Appearance** | Chapter 5 |
 | **Last Appearance** | Ongoing |
 
 ## Background
 
-Lily Chen is a superhuman who gained the ability to manipulate acceleration through touch. She was initially assessed by PERKS in 2021 at approximately age 15, receiving a provisional JLUMA (juvenile license) with required monthly check-ins. Her interviewing officer, Michael Reynolds, encouraged her to join the Young Defenders, where she could train alongside peers and develop her abilities in a structured environment.
+Lily Chen is a superhuman who manipulates acceleration through touch. Assessed by PERKS in 2021 at approximately age 15, she received a provisional JLUMA with monthly check-ins. Her interviewing officer, Michael Reynolds, encouraged her to join the Young Defenders.
 
-As a member of the Young Defenders, Lily served primarily as a mobility asset, using her inline skates and acceleration powers to achieve speeds faster than most cars. When Sam Small's home in Mayfair was destroyed by Mr. Tyrannosaur, Lily and her family took Sam in, hosting her at their modest rowhome on Almond Street in Bridesburg for several months. Her parents, Mei and Jiang Chen, run the Golden Panda Buffet and are aware of their daughter's superhero activities.
+With the Young Defenders, Lily served primarily as a mobility asset, using inline skates and acceleration powers to achieve speeds faster than most cars. When Sam's home was destroyed by Mr. Tyrannosaur (Book 2), Lily's family took Sam in at their rowhome on Almond Street in Bridesburg for several months. Her parents, Mei and Jiang Chen, run the Golden Panda Buffet on Stiles Street - the only Huaiyang-style buffet in Northeast Philadelphia - and are aware of her superhero activities.
 
-Following the passage of Mayor Maya Richardson's anti-vigilante legislation in 2025, the Young Defenders faced dissolution. While some members chose to comply or transition to government-aligned teams, Lily refused to quit and joined the Auditors alongside Sam Small. She adopted the undercover alias "Powerwash" during the team's gambit against the Kingdom of Keys on the Tacony-Palmyra Bridge. As of early 2026, Lily continues to serve as the Auditors' primary transport and quick-response operative while attending college.
+After Maya Richardson's anti-vigilante legislation dissolved the Young Defenders, Lily refused to quit and joined the Auditors. She continues to serve as the team's primary transport and quick-response operative while attending Temple University.
+
+## Appearance
+
+Approximately four inches shorter than Sam, with short hair dyed different colors over time - pinkish early on, then purple, then purple and white. Her costume is predominantly white with purple accents and a matte coating. She wears a rainbow scarf-cape that doubles as meteor hammers, with colored marbles woven into the fabric. By Arc 16, her field outfit includes a white cowl and domino mask. Her Powerwash disguise featured industrial yellows and whites, football padding, and a reinforced gas mask.
 
 ## Powers & Abilities
 
@@ -69,27 +73,28 @@ Following the passage of Mayor Maya Richardson's anti-vigilante legislation in 2
 
 - Trained with the Young Defenders in field operations, team coordination, and combat tactics.
 - Proficient with slingshot, achieving sniper-like precision when combined with her acceleration power.
-- Skilled with a meteor hammer, used both as a weapon and as a demonstration tool for de-escalation.
+- Skilled with a meteor hammer (disguised as a scarf), used both as a weapon and as a demonstration tool for de-escalation.
 - Experienced in urban traversal and high-speed skating maneuvers.
 - Currently learning boxing fundamentals from Sam Small, though more comfortable with weapons than empty-hand combat.
 - Capable of independent intelligence gathering, leveraging her family's restaurant as a source of information from local police officers and community members.
+- Fluent in Mandarin.
 
 ## Personality
 
-Lily is good-natured, optimistic, and energetic, bringing an unembellished enthusiasm to her team interactions. She is not the most intellectually sharp member of any group she belongs to, but this quality gives her a disarming earnestness that serves a valuable function. Her tendency to ask clarifying questions when she does not understand something can lead to eureka moments for her teammates or, occasionally, waste time. She has a knack for cutting through overthinking and getting straight to the point.
+Lily is good-natured, optimistic, and energetic, with a disarming earnestness. Not the most intellectually sharp on any team she joins, but her tendency to ask clarifying questions often sparks eureka moments for teammates. She cuts through overthinking and gets straight to the point.
 
-She possesses a strong personal moral code against lethal force and demonstrates restraint and situational awareness in combat. Her PERKS assessments consistently note her altruistic nature and zero hostility toward state actors or the public. Despite being characterized as reckless in her earlier years, particularly regarding high-speed maneuvering, she has matured into a competent and reliable operative capable of handling crises independently, as demonstrated when she managed a Songbird confrontation at the community center without violence.
+She holds a strong moral code against lethal force, with PERKS assessments consistently noting zero hostility. Though characterized as reckless in her earlier years, she has matured into a competent operative capable of handling crises independently. She is a horror movie fan, good at reading people, visibly uncomfortable in behavioral health facilities, and expresses affection physically - twisting her hands nervously, offering hugs freely.
 
 ## Relationships
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| Sam Small (Bloodhound) | Close friend / Teammate | Hosted Sam at her family home for months after Sam's house was destroyed. Core Auditors teammate. |
-| Mei Chen | Mother | Runs the Golden Panda Buffet with her husband. Knows about Lily's superhero activities. English-speaking restaurant hostess. |
-| Jiang Chen | Father | Head chef at the Golden Panda Buffet. Mandarin-speaking, does not speak English. Knows about Lily's superhero activities. |
+| Sam Small (Bloodhound) | Close friend / Teammate | Hosted Sam at her family home for months after Sam's house was destroyed. Core Auditors teammate. Describes Sam as "my rock." Calls Sam "Bee." |
+| Mei Chen | Mother | Runs the Golden Panda Buffet with her husband. Knows about Lily's superhero activities. English-speaking restaurant hostess. Learned English for business. |
+| Jiang Chen | Father | Head chef at the Golden Panda Buffet. Does not speak English but understands it. Speaks Mandarin only, translating through Lily or Mei. Knows about Lily's superhero activities. |
 | Akilah Washington (Puppeteer/Marionette) | Former team leader | Served under Akilah on the Young Defenders. Visited Akilah during her inpatient treatment at Elysium. |
 | Jordan Westwood (Safeguard) | Teammate / Ally | Fellow Auditor before Jordan left for MIT. Worked together on multiple operations. |
-| Maggie O'Brien (Flashpoint) | Teammate | Fellow Auditors member. Operates together on field missions and surveillance. |
+| Maggie O'Brien (Flashpoint) | Teammate | Fellow Auditors member. Operates together on field missions and surveillance. Hosted Maggie at her house during the blizzard. |
 | Amelia Li (Gossamer) | Teammate | Fellow Auditors member. Joined the Auditors at the same time as Lily following anti-vigilante legislation. |
 | Tasha Reynolds (Lighthouse) | Teammate | Fellow Auditors member. Coordinates on communications and intelligence. |
 | Maxwell Martinez (Crossroads) | Former teammate | Served together on the Young Defenders. |
@@ -102,106 +107,109 @@ She possesses a strong personal moral code against lethal force and demonstrates
 
     **Role:** Supporting
 
-    Introduced as a Young Defenders member. Greets Sam during team introductions and offers encouragement during obstacle course training. Participates in team missions and post-mission conference calls.
+    Introduced as a Young Defenders member in Chapter 5. Asian, approximately four inches shorter than Sam, with short hair and a white costume with purple accents and a matte coating. Wears a long scarf woven with colored marbles. Greets Sam warmly and offers her a hug during team introductions. Participates in team missions and post-mission conference calls. Dodges one of Sam's swings during an early training exercise.
 
 ??? warning "Book 2: Keys"
 
     **Role:** Supporting
 
-    Hosts Sam at her family's rowhome in Bridesburg after Sam's home is destroyed by Mr. Tyrannosaur. Sam meets Lily's parents and bonds with the family. Visits Akilah at Elysium. Participates in the South Street battle against Patches and Deathgirl.
+    Active in team operations. Squeezes Crossroads's arm during a tense moment (Ch. 19). Present on a conference call where she almost accidentally reveals Sam's civilian name (Ch. 25). Her civilian name - Lily Chen - is revealed in Chapter 29, along with details about her pinkish dyed hair and her family's home on Almond Street in Bridesburg. Offers Sam temporary housing at her family's rowhome after Sam's home is destroyed by Mr. Tyrannosaur at the end of the arc.
 
 ??? warning "Book 3: Dybbuk"
 
     **Role:** Supporting
 
-    Provides Sam with a stable home base during the arc. Sam and Lily bond through everyday activities at the Chen household. Present for team operations during the Philly Phreaks and Kingdom conflicts.
+    Provides Sam with a stable home base during the arc. The Chen household is detailed: boxy tube TV, milk crate coffee table with varnished wood top, DVD collection, folding card table, mismatched silverware, and duct tape repairs. Lily is fluent in Mandarin, switching between English and Mandarin at home. She is a horror movie fan. Present for team operations during the Philly Phreaks and Kingdom conflicts, including the South Street fight where she uses area control tactics and throws accelerated marbles against Chrysalis (Ch. 32-33). Questions the evidence linking Kingdom to recent events and gets snapped at by Belle (Ch. 37). Visits Akilah at Elysium alongside Sam, where she appears uncomfortable in the behavioral health facility (Ch. 31). Sleeps most of Thanksgiving Day due to exhaustion from Belle's training, then chats in Mandarin with her parents at dinner (Ch. 42). Buys Sam a menorah for Hanukkah and receives Heelies as a gift (Ch. 43). Suits up with Sam for the Chernobyl emergency in her costume - mostly white with a rainbow scarf-cape incorporating meteor hammers (Ch. 44).
 
 ??? warning "Book 4: Exorcism"
 
     **Role:** Supporting
 
-    Present during the Chernobyl crisis and its aftermath.
+    NSRA agents appear at Lily's door (Ch. 48). Sam is alone at Lily's house during a key scene (Ch. 49). Lily arrives at a Young Defenders party alongside Blink (Ch. 53). Sam wears one of Lily's school uniforms, which is the wrong size. Belle's training regimen exhausts both Sam and Lily during this period.
 
 ??? warning "Intermission 4.5: Amnion"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    Visits Sam in the hospital alongside Marcus and Kate during her recovery from radiation injuries (Ch. 64). The three friends reveal they merged friend groups while Sam was unconscious.
+    Drops off a backpack stuffed with schoolwork for Sam while Sam is hospitalized at Thomas Jefferson (prior to Ch. 64 visit). Visits Sam in the hospital in Chapter 64 alongside Marcus Johnson and Kate Smith. Lily brings a bag of comics and snacks. Marcus brings a mini drone he built. The visit reveals that Sam's separate friend groups merged while she was in a coma - Lily and Kate, who previously did not know each other, have become friends.
 
 ??? warning "Book 5: Mayfly"
 
-    **Role:** Mentioned
+    **Role:** Supporting
 
-    Referenced as part of the Young Defenders during the post-Liberty Belle era.
+    Present during the post-Liberty Belle era of the Young Defenders. Appears in the Chapter 74 locker room scene wearing inline skates with heavy wheels. Participates in the Fly briefing, asking "shouldn't this create new heroes too?" and mentioning a snake mask guy. Subject of the in-joke brand name "Blink's Bags."
 
 ??? warning "Book 6: Sideshow"
 
     **Role:** Supporting
 
-    Present during team philosophical debates about artificial powers, expressing hopefulness about potential new heroes.
+    Present during the Chapter 91 DVD/YD briefing on the Jump crisis, described as an anxious younger girl who picks up landscaping gigs and is heading into senior year. Raises concern about Rampart being too young during the Chapter 92 graduation discussion, reacting emotionally to Gale's departure and Puppeteer's NPD disclosure. Absent from the courthouse attack in Chapter 97 - she is stationed with crisis response teams away from the building. Returns for the aftermath (Ch. 99), darting in and out of rubble using her powers to move debris during rescue operations. Present during Sam's recovery montage (Ch. 100). Part of the remaining YD roster after departures: Rampart, Gossamer, Blink, Spindle, Bloodhound.
 
 ??? warning "Book 7: Security"
 
     **Role:** Supporting
 
-    Continues as a Young Defenders member under Rampart's leadership. Present at team briefings where the growing Pattinson's Pals threat is discussed. Expresses concern about the escalating tensions and Patriot's activities. Present at the DVD headquarters meeting in Chapter 113 following the homecoming attack, where the team discusses Patriot's suspension and the path forward.
+    Continues as a Young Defenders member under Rampart's leadership. Present at the Pattinson's Pals briefing (Ch. 109), exclaiming "they're clearly targeting people!" and noting the implications of deputizing. Present at the DVD headquarters meeting in Chapter 113 following the homecoming attack, asking "won't it make us look bad?" about the team's response. During the real names reveal scene (Ch. 116), spars with Sam and loses quickly - "You're too fast for me, man." Calls Sam "Bee" as a nickname. Described as having big eyes swirling with concern.
 
 ??? warning "Book 8: Big"
 
     **Role:** Supporting
 
-    Remains with the Young Defenders during team restructuring after Akilah and Devonte's resignations.
+    Present at the Music Hall studying criminal procedure, specifically the admissibility of evidence gathered by superhumans (Ch. 123). Has purple-dyed hair, blowing a strand from her eyes. Expresses concern about Sam's undercover plan but supports the investigation, barely restraining herself from hugging Sam. Waits in the hallway on skates, hands twisting nervously, exclaiming "You're like a real spy now!" (Ch. 124). Present at the Young Defenders' Thanksgiving dinner at the Golden Panda Buffet, now with purple and white hair, described by Sam as "my rock, always there with a smile or a hug when I need it most" (Ch. 132).
+
+??? warning "Book 9: Sheol"
+
+    **Role:** Mentioned
+
+    Absent from the arc's events. Texts Sam "Family emergency. Be safe, okay?" when Sam reaches out to the team for the Sheol operation (Ch. 140).
 
 ??? warning "Book 10: Plume"
 
     **Role:** Supporting
 
-    Participates in Young Defenders operations. Training session where Devonte and Akilah reveal Project Titan intelligence.
+    Refuses to quit alongside Sam after SARA anti-vigilante legislation passes, declaring her intent to continue hero work (Ch. 151). Present at the Music Hall with the other Auditors watching the SARA vote results, responding to a nearby scanner hit on Gossamer's scooter where they encounter Soot for the first time (Ch. 153). Provides sniper support from a commandeered apartment window during the marina confrontation, hitting Patriot with accelerated marbles from her slingshot. Forced to cease fire when Patriot uses a human shield (Ch. 157). Participates in subsequent Auditors operations including the Stheno warehouse raid, where a guard jumps from a window onto a fireproof cloak stretched out by Jordan and Blink (Ch. 164). Rides her moped alongside the team during the escape, skating alongside while Jordan drives (Ch. 164).
 
 ??? warning "Book 11: Alarm Will Sound"
 
     **Role:** Supporting
 
-    Joins the Auditors alongside Amelia after the passage of anti-vigilante legislation forces dissolution of the Young Defenders. Analyzes Tremont & Fairfax data with Sam and Jordan. Refuses to quit despite legal consequences.
+    Joins the Auditors alongside Amelia after anti-vigilante legislation forces the dissolution of the Young Defenders. Analyzes Tremont & Fairfax data with Sam and Jordan, connecting it to the Stheno-Kingdom pipeline. Refuses to quit despite legal consequences. Plays "Powerwash" during the staged Soot death operation at Lardner's Point Park - her Powerwash disguise features industrial yellows and whites, football padding, and a reinforced gas mask, presenting a fake super-strength power. During the staged confrontation, hurls the severely injured Sam approximately twenty feet into the Delaware River as part of the plan. Shows genuine sorrow at the extent of Sam's injuries afterward (Ch. 175). Texts Sam "Jordan is fine and Max is roped in... Please stay save :>" during the planning phase (Ch. 174).
 
 ??? warning "Book 12: Authorized Personnel Only"
 
     **Role:** Supporting
 
-    Participates in Auditors operations including undercover mission planning at the Crescent nightclub and surveillance work.
+    Active in Auditors field operations throughout the arc. Talks to a barista named Eric to gather intelligence (Ch. 180). Participates in the night raid on a Sunoco station, freeing Sam with a slingshot marble (Ch. 181). Gathers police intel from the Golden Panda Buffet, leveraging her parents' relationships with local officers (Ch. 183). Trains boxing with Sam alongside Maggie and Tasha, with neighborhood kids watching and Mrs. Miller bringing lemonade (Ch. 184). Visits Sam in the hospital after the Rush Order fight (Ch. 189). Provides cover for Sam's City Hall reconnaissance, with Sam using "physical therapy with Lily" as an excuse to scout security (Ch. 190). Waits with a scooter to provide extraction after Sam's speech at Richardson's town hall, picking Sam up after she jumps from a second-floor window (Ch. 190, 192).
 
 ??? warning "Book 13: Burn After Reading"
 
     **Role:** Supporting
 
-    Runs background operations with Jordan during the Rogue Wave Jump distribution confrontation. Provides sniper support with her slingshot from a commandeered apartment, striking Patriot and drawing blood. Forced to cease fire when Patriot uses a human shield.
+    Meets Sam at a loading dock behind an old paint factory to exchange intelligence. Updates Sam on the current landscape: Kingdom fronts still closed, Rogue Wave selling Jump openly, Argus Corps operating downtown only (Ch. 200). Serves as a fast mover during the citywide Shrike manhunt, checking booby-trapped addresses with Maggie while other teams cover different parts of the city (Ch. 202).
 
 ??? warning "Book 14: Shelter in Place"
 
     **Role:** Supporting
 
-    Operates as "Powerwash" during the gambit against the Kingdom of Keys. Throws the severely injured Sam into the Delaware River as part of the staged execution plan on the Tacony-Palmyra Bridge. Participates in subsequent Kingdom confrontations.
+    Arrives at Sam's house with Amelia after Shrike's home invasion, asking if Derek is part of the team and insisting "There's no option where you face him alone" (Ch. 204). Stops by at noon with sandwiches and energy drinks, and observes that Rogue Wave surveillance is already active - someone followed her but just nodded and kept walking (Ch. 205). Arrives for her shift wearing body armor under her jacket and confirms continued Rogue Wave surveillance presence (Ch. 206). Positioned on the eastern car yard roof as overwatch with her bow and slingshot during the Shrike confrontation, while Maggie covers the southern edge and Amelia circles the perimeter on her scooter (Ch. 207). Snipes skinheads with accelerated marbles from her rooftop position during the fight. Sam orders her to disengage but she ignores the order and keeps shooting (Ch. 208). Her marbles hit Shrike directly - striking his shoulder, cheek (reopening an existing wound), and removing a chunk of his ear - providing critical support when Sam is pinned (Ch. 209). Confesses afterward that she was the one who called in the DVDs during the fight despite Sam's wishes. Sam is not angry but grateful. Lily is emotional during the hospital visit, updating Sam on team activities - Amelia finished costume repairs, Derek handled Music Hall cleanup (Ch. 210). Takes charge during a subsequent team meeting, assigning research roles to the Auditors with noticeably more assertiveness since the Shrike crisis (Ch. 215). Present at Temple University between classes, expressing concern about the risks of Sam's contact with Nina de la Cruz (Ch. 216).
 
 ??? warning "Book 15: Severe Weather Warning"
 
     **Role:** Supporting
 
-    Active in Auditors operations including the warehouse raid on Kingdom chemical stores, the Rogue Wave Jump distribution surveillance, intelligence gathering from her family's restaurant, and the confrontation with Rush Order. Provides rooftop sniper support during the Sunoco station operation. Provides extraction and transport during the City Hall town hall infiltration. Visits Sam in the hospital after the Rush Order shooting. Scouts City Hall with Sam. Provides cover fire with marbles during the Shrike confrontation. Confesses to calling in the DVDs despite Sam's orders, leading to a tense but ultimately resolved discussion.
+    Checks in with Sam on Sunday morning, suggesting that Rogue Wave may have "sacrificed their own people" (Ch. 221). Present at the Music Hall meeting, taking on more leadership responsibilities since Jordan's departure for MIT (Ch. 222). Participates in an emergency Auditors video call from a Temple University study room, planning recon operations with Amelia (Ch. 228). Hosts Maggie and Amelia at her house during the blizzard - "Mom won't mind" - and reports the next morning: "Holy shit... We got like 2 feet" (Ch. 229). Alongside Maggie and Amelia, stops two attempted break-ins in Bridesburg during the blizzard (Ch. 230). Provides text updates to Sam and coordinates with Tasha on scanner activity (Ch. 231).
 
 ??? warning "Book 16: Category Five Hurricane"
 
     **Role:** Supporting
 
-    Handles Songbird confrontation at the community center independently using meteor hammer demonstration. Gathers intelligence from the Golden Panda Buffet. Serves as quick-response and center security for the Auditors. Takes charge during team planning sessions. Relays messages between Sam and her parents during Sam's fugitive period.
+    Assigned to community center protection and patrols alongside Maggie during the Auditors team meeting in the Faraday room (Ch. 238). Heads to the community center in costume - white cowl, domino mask, and meteor hammer - when Songbirds show up during a bomb threat lockdown (Ch. 240). Handles the Songbird confrontation independently before Sam arrives, using a meteor hammer demonstration to disperse them without hitting anyone (Ch. 241). Her meteor hammer is disguised as a scarf. Gathers intelligence from the Golden Panda Buffet. Serves as quick-response and center security for the Auditors.
 
 
 ## Trivia
 
-- Her PERKS classification was originally categorized as H3/G2 (Hopper/Gigant) before being reclassified to A4 (Adjust) in 2023 following further analysis by the NSRA.
-- Her power assessment was conducted by Dr. Leonard Harris, a specialist in metahuman power assessment for the National Superhuman Response Agency.
-- Her interviewing officer noted that she expressed interest in understanding the physics behind her power but suspected she would ask her teammates to handle the calculations for her.
-- The character reference guide describes her as "the least intelligent person in the room" without Connor around, but frames this as a source of her good-natured energy rather than a deficiency.
-- Her family's rowhome features a futon in the living room where Sam slept during her months-long stay, along with mismatched furniture including a milk crate coffee table.
-- She adopted the alias "Powerwash" as part of "The Washes," a fake villain team consisting of herself, Amelia (as "Brainwash"), and Kate Smith (as "Mouthwash") during the Kingdom gambit.
-- Her current status as of the beginning of Arc 16 is described as "still the transport" for the Auditors.
-- A young superhuman named Liam O'Connor recognized Lily from Young Defenders operations three years prior when meeting her at the Auditors' mentorship program.
+- Her PERKS classification was originally H3/G2 (Hopper/Gigant) before being reclassified to A4 (Adjust) in 2023.
+- Her power assessment was conducted by Dr. Leonard Harris, an NSRA metahuman power assessment specialist.
+- Her interviewing officer noted she expressed interest in understanding the physics behind her power but suspected she would ask teammates to handle the calculations.
+- "The Washes" fake villain team consisted of Lily as "Powerwash," Amelia Li as "Brainwash," and Kate Smith as "Mouthwash."
+- Liam O'Connor recognized Lily from Young Defenders operations three years prior when meeting her at the Auditors' mentorship program.
