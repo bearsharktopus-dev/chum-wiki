@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 2 |
+| **Act** | 1 |
 | **Book Number** | 6 |
 | **Title** | Sideshow |
 | **Chapters** | 86–100 |

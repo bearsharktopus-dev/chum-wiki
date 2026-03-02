@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 2 |
+| **Act** | 1 |
 | **Book Number** | 10 |
 | **Title** | Plume |
 | **Chapters** | 149–164 |
@@ -15,7 +15,7 @@
 | **POV** | Samantha "Sam" Small (Chs. 149–164); Captain Plasma / Rodney Greene (RG.1); Mr. Tyrannosaur / Blake Matthews (BM.2); Soot (So.1); Maya Richardson / Mrs. Zenith (MR.4, MR.5 - document format) |
 | **Preceded By** | Book 9: Sheol |
 | **Followed By** | Book 11: Alarm Will Sound |
-| **Note** | Final arc of Year Two and of what the author describes as "Act One (of Three)" of the overall narrative |
+| **Note** | Final arc of Year Two and of Act One (Books 1-10) |
 
 ## Summary
 
@@ -122,7 +122,7 @@ The climax unfolds across four chapters. From house arrest, the Auditors trace T
 
 - **Investigation as weapon** - Book 10 marks the Auditors' evolution from street-level vigilantes to intelligence operatives. Their most significant victories come not from fights but from following paper trails: Tremont & Fairfax's statistical anomalies, Stheno Pharmaceuticals' corporate filings, the USB drives stolen from the warehouse. The pen proves mightier than the fist - though the arc ends with an explosion, the real prize is data.
 
-- **End of innocence / End of Act One** - The arc closes Year Two and what the author calls "Act One (of Three)." The landscape has transformed completely from Book 1: organized crime operates at a national and international scale (Red Calf), the government fields its own cape team, the drug crisis has spawned supernatural mind-control networks, and Sam's teenage team is wanted by every faction. The warehouse explosion serves as both a literal and figurative detonation of the status quo - everything that comes next will be different.
+- **End of innocence / End of Act One** - The arc closes Year Two and Act One (Books 1-10). The landscape has transformed completely from Book 1: organized crime operates at a national and international scale (Red Calf), the government fields its own cape team, the drug crisis has spawned supernatural mind-control networks, and Sam's teenage team is wanted by every faction. The warehouse explosion serves as both a literal and figurative detonation of the status quo - everything that comes next will be different.
 
 ## Threads Planted
 

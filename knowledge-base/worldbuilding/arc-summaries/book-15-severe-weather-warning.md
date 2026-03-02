@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 15 |
 | **Title** | Severe Weather Warning |
 | **Chapters** | 219–232 |

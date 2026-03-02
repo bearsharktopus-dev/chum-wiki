@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 16 |
 | **Title** | Category Five Hurricane |
 | **Chapters** | 233–247 |

@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 2 |
+| **Act** | 1 |
 | **Book Number** | 9 |
 | **Title** | Sheol |
 | **Chapters** | 136–148 |

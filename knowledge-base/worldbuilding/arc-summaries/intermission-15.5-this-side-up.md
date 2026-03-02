@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 15.5 (Intermission) |
 | **Title** | This Side Up |
 | **Chapters** | None (interludes only) |

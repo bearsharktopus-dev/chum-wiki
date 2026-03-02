@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 13 |
 | **Title** | Burn After Reading |
 | **Chapters** | 193–203 |

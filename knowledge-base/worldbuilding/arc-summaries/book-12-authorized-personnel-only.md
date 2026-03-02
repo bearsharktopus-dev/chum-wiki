@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 12 |
 | **Title** | Authorized Personnel Only |
 | **Chapters** | 178–192 |

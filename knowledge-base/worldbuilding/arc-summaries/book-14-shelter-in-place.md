@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 14 |
 | **Title** | Shelter in Place |
 | **Chapters** | 204–218 |

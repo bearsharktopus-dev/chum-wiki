@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 3 |
+| **Act** | 2 |
 | **Book Number** | 11 |
 | **Title** | Alarm Will Sound |
 | **Chapters** | 165–177 |
@@ -15,7 +15,7 @@
 | **POV** | Samantha "Sam" Small (Chs. 165–177); Sam Small impersonating Soot (So.2); Maya Richardson / Mrs. Zenith (MR.6, MR.7); Lawrence Sullivan / Monkey Business (LS.1) |
 | **Preceded By** | Book 10: Plume |
 | **Followed By** | Book 12 |
-| **Note** | First arc of the author's "Act Two (of Three)" narrative structure; begins immediately after the conclusion of Year Two and Act One |
+| **Note** | First arc of Act Two (Books 11-20); begins immediately after the conclusion of Year Two and Act One |
 
 ## Summary
 

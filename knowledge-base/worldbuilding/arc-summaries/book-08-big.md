@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 2 |
+| **Act** | 1 |
 | **Book Number** | 8 |
 | **Title** | Big |
 | **Chapters** | 119–135 |

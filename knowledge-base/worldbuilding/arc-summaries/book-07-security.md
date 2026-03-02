@@ -6,7 +6,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Act** | 2 |
+| **Act** | 1 |
 | **Book Number** | 7 |
 | **Title** | Security |
 | **Chapters** | 101–118 |
