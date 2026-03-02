@@ -62,21 +62,13 @@ The investigation thread accelerates as the team uncovers Silverstein's Kingdom 
 
 | Character | Cape Name | First Appearance | Role |
 |-----------|-----------|-----------------|------|
-| Birthday Suit | Birthday Suit | Ch. 205 | Rogue Wave enforcer; outlines three-layer protection arrangement; draws weapon when Sam cuts Monkey Business |
 | Dr. Theresa Song | - | Ch. 209 | Metahuman medicine specialist at Jefferson; treats Sam's Shrike injuries; notes "small benign tumors"; third hospitalization for self-endangerment |
-| Dr. Patel | - | Ch. 210 | Hospital psychiatrist; conducts trauma evaluation; provides Dr. Desai consultation consent |
-| Agent Sarah Jennings | - | Ch. 210 / DT.2 | NSRA representative; questions Sam post-Shrike; manages Derek's Vysera trial; suspicious of vigilante activity |
 | Special Agent Ford | - | Ch. 210 | FBI observer monitoring Shrike's extremist connections; confirms followers from known hate groups |
 | Dr. Eleanor Kaplan | - | Ch. 213 | Family therapist facilitating Small family sessions; identifies self-reliance patterns |
-| Finn Taylor | - | DT.2 | Derek's father; former criminal; dinner at Vincenzo's after Derek's first Vysera dose |
 | Alicia C. | - | DT.3 | Cape Watch Philly blogger; documents Bloodhound transition through investigative journalism |
 | Hector Peterkin | - | Ch. 212 | Senior EMT paramedic with 20+ years experience; teaches Sam stabilization philosophy; suggests medical school |
 | Deena Gaye | - | Ch. 212 | EMT paramedic; manages fluid resuscitation; performs CPR reviving Sam after cardiac arrest |
-| Zara Khan | - | Ch. 212 | 13-year-old mentee with glass sensing/control powers; government contacted her father about "containment systems"; from Sam's therapy group |
-| Liam O'Connor | - | Ch. 212 | 15-year-old mentee with dragon transformation; smoke emission during stress; sister Erin sold Maggie weed |
-| Alex Kirby | - | Ch. 215 | 16-year-old mentee with pyrogenesis; recent Philadelphia transplant; recognizes Sam from Harrisburg |
 | Jasmine Walker | - | Ch. 215 | Mentee transferred from Whitford Institute; withdrawn; powers undisclosed; declines demonstration |
-| Nina de la Cruz | - | Ch. 216 | 24-year-old with electrical powers; barback at Crescent nightclub; trapped by financial obligations supporting sister; witness to Kingdom-politician meetings |
 | "Garbage Day" | - | Ch. 217 | Kingdom contractor; bandaged face, 6'3"-6'4"; structural manipulation (tears through building materials) and superhuman strength; professional enforcer sent to destroy Music Hall and intimidate team |
 | Councilman David Silverstein | - | Ch. 217 | South Philly Republican councilman; six-year tenure; connected to Kingdom through shell company donors and fast-tracked liquor licenses |
 | The Songbirds | - | Ch. 214 | Anti-power civilian group; blue jackets, yellow bandanas; armed; film confrontations to provoke and document incidents; ideology that powers upset "natural meritocracy" |

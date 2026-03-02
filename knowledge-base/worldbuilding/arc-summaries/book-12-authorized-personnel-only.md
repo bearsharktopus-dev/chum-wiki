@@ -70,14 +70,11 @@ Intermission VB.2 follows Victor Blanc, Sam's estranged 72-year-old maternal gra
 | Costello | - | Ch. 180 | Darius's friend; provides context on Jump dealers |
 | Marathon | Marathon | Ch. 180 | Jump dealer running Sunoco distribution for Rogue Wave |
 | Dead Drop | Dead Drop | Ch. 181 | Rogue Wave enforcer; ferrokinesis/metal chain manipulation; professional |
-| Rush Order | Rush Order | Ch. 182 | Rogue Wave speedster; stages public fights as propaganda (previously referenced in LS.1) |
 | Sean McNulty | Bulldozer | Ch. 185 | New leader of Pattinson's Pals; operates from Patty's Bar |
 | Aurora Reyes | Pyrausta | LS.2 | Self-taught fire chemist; flame tulpa "Espada"; reverse-engineered Jump |
-| Elias Franklin | Chimera | LS.2 | Wheelchair-using biochemist; Fly user; Rogue Wave recruit testing Jump in the field (referenced as missing in Book 11) |
 | Jennifer Walsh | Blackout | LS.2 | Rejected for mercenary motivations |
 | Dr. Chambers | - | Ch. 191 | Planted child psychologist at town hall |
 | Mike | - | Ch. 188 | Civilian who drives Sam and Ben to hospital |
-| Victor Blanc | - | VB.2 | Sam's estranged maternal grandfather; 72-year-old trucker; lured to Philadelphia by unknown texter |
 | Whiteout | Whiteout | RS/DC/JF | Professional Chicago superhero |
 | Nour | - | RS/DC/JF | Chicago Powered Youth Initiative coordinator |
 

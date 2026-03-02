@@ -63,18 +63,11 @@ The combined teams infiltrate Sparkplug's penthouse at the Dorchester high-rise.
 | Natasha Sokolov | Compass (Tacony Titans) | Magnetic control powers; participates in the Ricochet battle and warehouse operations |
 | Min-ji Kim | Moonshot (Tacony Titans) | Gravity manipulation; hovers and redirects attacks; wears opaque goggles and a hoodie |
 | Joshua Clark | Sandman (Tacony Titans) | Controls sleeping people's bodies; partners with werewolf-Fenrir by riding and directing Derek's transformed body |
-| Derek Taylor | Fenrir (Auditors recruit) | Werewolf who transforms at sunset with no control; doses himself with veterinary tranquilizers nightly; enhanced daytime senses (smell); confrontational support group member who knows Sam's identity; later becomes Bloodhound II |
 | Elias Franklin | Chimera | Derek's friend who took Fly; chimeric form with bear arms, alligator tail, armadillo armor, and fox muzzle; motivated by revenge against Independence Blue Cross for denied healthcare claims; escapes in deer form |
 | Sparkplug | Drug distributor (Rogue Wave) | Bald white man with electrical powers; operates from a penthouse at the Dorchester; distributes Jump and Fly; captured by the alliance |
 | Steven Praznik | Squeal | Mid-level dealer with sonic scream powers; former sound engineer and briefly a Registered Superhuman Entity; escapes after the warehouse sting; GPS tracker found near the Delaware River |
-| Tasha Reynolds | Wasp (Team Mayfly) | Sam's school friend; handles comms and emergency services calls during Miss Mayfly operations |
-| Lilly Rodriguez | Moth (Team Mayfly) | Sam's school friend; chemical weapons specialist and field medic |
-| Marcus Johnson | Mite (Team Mayfly) | Sam's school friend; drone engineer and tech specialist; jury-rigs surveillance and payload drones |
-| Jenna Nguyen | Ant (Team Mayfly) | Sam's school friend; programmer and surveillance tactician; her top-floor strategy locates Sparkplug's penthouse |
-| Jerry Caldwell | Defense attorney | Chernobyl's lawyer; builds a necessity defense arguing Illya's actions were taken to avoid greater harm |
 | Judge Harold Bennett | Federal judge | Presides over Chernobyl's arraignment and sets the trial timeline |
 | Anne-Marie Gibson | Federal prosecutor | Leads the case against Chernobyl |
-| Riya Kapoor | Paralegal | Works with Jerry Caldwell on Chernobyl's defense |
 | Ricochet | Villain / Jump user | Supervillain with kinetic redirection powers; his "orange blood" is the first sign of the drug crisis Sam detects |
 
 ### Major Characters This Arc

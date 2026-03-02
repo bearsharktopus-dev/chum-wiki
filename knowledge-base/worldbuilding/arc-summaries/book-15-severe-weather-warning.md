@@ -62,21 +62,14 @@ The arc culminates on February 3rd: the Inquirer drops its exposé, Sam's monito
 
 | Character | Cape Name | First Appearance | Role |
 |-----------|-----------|-----------------|------|
-| Elena Morales | Alice / Mrs. Doppelganger | JP.1 (real identity) | Professional shapeshifter from Boston; face disfigured at 15; real identity of Mrs. Doppelganger (impersonated Maya since Book 13); captured and provides confession; falsely blames Rogue Wave |
-| Mrs. Heartbeat | Mrs. Heartbeat | MaM.1 | Kingdom assassin in maroon pantsuit; suppressed pistol and butterfly knife; nearly kills Crossroads; predicts predictions (second-order game theory) |
-| Gerald "Jerry" Caldwell | - | Ch. 221/227 | Defense lawyer, formerly represented Chernobyl; secures Sam's release with ankle monitor; navigates plea deal |
-| Darnell Hayes | Mr. Nothing | MR.9 | Kingdom lieutenant with power nullification; first named/detailed appearance (previously referenced); calls Maya with emergency about Polygraph |
-| Katherine Huang | - | MR.9 | Tremont & Fairfax lawyer representing Kingdom interests |
 | Catherine Giuliano | - | MR.9 | Kline-Morrison lawyer assisting depowered Polygraph at hospital |
 | Rick | - | DC.2 | Private investigator under geas contract; used as bait at Roxborough Memorial |
 | Mr. Pak | - | Ch. 230 | Grocery owner; register and safe stolen in blizzard break-ins |
 | Mrs. Okonkwo | - | Ch. 230 | Salon owner; nephew Chidi jumped as Kingdom intimidation |
 | Mr. Nowak | - | Ch. 229 | Hardware store owner; pressured by Kingdom during storm |
 | Mr. Hassan | - | Ch. 228 | Bodega owner; pressured by Kingdom operatives |
-| Melissa Marshall | - | Ch. 228 | Sam's classmate who walks home with her |
 | Isaiah Sternberg | - | Ch. 228 | Sam's classmate; walks home through Kingdom territory |
 | Ms. Patel | - | Ch. 228 | New pre-calc teacher; offers office hours |
-| Sundial / Lucy King | Sundial | Ch. 229 | Tacony Titans leader (surname revealed); requests Auditors' help during storm crisis |
 
 ## Major Characters
 

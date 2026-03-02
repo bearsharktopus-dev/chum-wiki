@@ -55,16 +55,9 @@ The arc's final threat escalates methodically. Dead birds appear throughout Nort
 
 | Character | Cape Name | First Appearance | Role |
 |-----------|-----------|-----------------|------|
-| Porcelain | Porcelain / Chezki Espinosa | MR.8 | "The strongest superhuman on Earth"; Red Calf leader; Israeli military background; forces Kingdom to extract Deathgirl; observed Daedalus construction as "Espinosa" in 2006; watches Daisy's hearing with braided beard disguise; connected to Belle's final investigation |
-| Daisy Zhen | Deathgirl | MR.8 / DZ.2 | 13-year-old with power-copying abilities; target of Daedalus extraction; copies powers through emotional connection without physical contact; escapes extraction team and prison; reaches parents in Albany; transferred to Whitford Institute in Chicago |
-| Niles Nolan | Shrike | Ch. 201 | Daedalus escapee; serial killer with spike-creation powers; one of Liberty Belle's first captures (2010); explicitly anti-Semitic motivations; targets Sam as Belle's successor; former medical student turned art student; judge's son |
 | Vector | Vector | EW.1 | Red Calf operative with telekinesis; part of Daedalus extraction team |
 | Tarbaby | Tarbaby | EW.1 | Red Calf operative generating/expelling resin; provides upgraded mask; plants tracker on Deathgirl as contingency |
-| Evan Williams | Mr. Mudslide | EW.1 | Kingdom operative with liquefaction powers; tunnels beneath Daedalus; first POV appearance (referenced in Book 10 prison transport as freed prisoner) |
 | Mrs. Synapse | Mrs. Synapse | BM.3 / EW.1 | Kingdom medical specialist with nerve manipulation; part of extraction team |
-| Mrs. Doppelganger | Mrs. Doppelganger | MR.8 | Kingdom shapeshifter; impersonates Richardson at Harrisburg hearings during Daedalus operation |
-| Mr. ESP | Mr. ESP | MR.8 / BM.3 | Kingdom communications specialist with rotating ESP abilities (changes each time he wakes) |
-| Mrs. Jellyjam | Mrs. Jellyjam | BM.3 | Kingdom operative; can turn into slime |
 | Mr. Camcorder | Mr. Camcorder | BM.3 | Kingdom surveillance and recording specialist |
 | Cold-Cut | Cold-Cut | DZ.2 | Daedalus escapee with freezing abilities; reluctantly accompanies Daisy south to Albany |
 | Switchback | Switchback | DZ.2 | Daedalus escapee with gravity manipulation; guides Daisy, provides money |

@@ -57,9 +57,6 @@ Two aftermath interludes follow: MM.3 is Kate's hospital admission report docume
 | Character | Role | Notes |
 |-----------|------|-------|
 | Victor Blanc | Sam's paternal grandfather (flashback) | 1960s child, pattern-oriented thinker, connects with the silverback gorilla at the zoo, breaks a classmate's nose in response to a slur; his WWII-veteran father's "finish fights" philosophy establishes a family legacy of violence Sam is unaware of (VB.1) |
-| Mr. Antithesis | Kingdom Upper Management | Sterile, clinical leader in a Manhattan skyscraper; his power negatively affects superpower-created things (Scylla can't enter his presence); obsessively uses hand sanitizer; approves Hypeman and rewards Xenograft (LTN.2) |
-| Melissa Marshall | Sam's classmate | Unwitting intermediary who placed Aaron's threatening envelope in Sam's locker (Chs. 141–142) |
-| Mack | Philadelphia Zoo zookeeper | Continued from Book 8; mentioned in context of Sam's zoo surveillance (Ch. 136) |
 | Liam Smith | Kate's father | Deals with insurance paperwork after the house fire; accompanies the group to Kalahari; bonds with Rachel over the impossibility of their children's lives (RS.2) |
 | Chief Patterson | Fire chief | Investigates the Amy's Coffee Shop fire; discusses sabotaged sprinkler systems (Ch. 139) |
 | Amy | Coffee shop owner | Her business is destroyed by Aaron's arson (Chs. 138–139) |

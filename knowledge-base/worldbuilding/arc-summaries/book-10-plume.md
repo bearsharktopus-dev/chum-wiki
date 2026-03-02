@@ -63,10 +63,8 @@ The climax unfolds across four chapters. From house arrest, the Auditors trace T
 | ADA Patel | - | Ch. 149 | Prosecutor handling Aaron's case |
 | Cryptid | Cryptid | RG.1 | Cape assisting on prison transport |
 | Basilisk | Basilisk | RG.1 | Federal agent maintaining anti-ESP field during transport |
-| Peregrine | Peregrine | RG.1 | Aerial surveillance on transport |
 | Mrs. Jellyjam | Mrs. Jellyjam | RG.1 / BM.2 | Kingdom operative; suffocates Plasma with gelatinous substance |
 | Mrs. Fulcrum | Mrs. Fulcrum | RG.1 / BM.2 | Kingdom operative; power to flip vehicles |
-| Mr. Yellowjacket | Mr. Yellowjacket | RG.1 / BM.2 | Kingdom operative; pressurized air bursts; runs the Baltimore branch |
 | Mrs. Laceration | Mrs. Laceration | BM.2 | Kingdom operative at Lancaster steakhouse |
 | Mrs. Doppelganger | Mrs. Doppelganger | RG.1 / BM.2 | Kingdom operative; disguised as rogue SWAT agent during ambush |
 | Soot | Soot | Ch. 153 / So.1 | Chemical-smoke vigilante; absorbs and releases gases; suspected to be Kate Smith |

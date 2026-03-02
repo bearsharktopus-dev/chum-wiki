@@ -55,11 +55,8 @@ Sam wakes clinging to a dock at the Wissinoming Yacht Club, teeth growing all ov
 
 | Character | Cape Name | First Appearance | Role |
 |-----------|-----------|-----------------|------|
-| Nurse Sylvia | - | Ch. 166 | DVD medical staff; treats Sam's ankle, advocates sustainable heroism |
 | Mr. Retribution | Mr. Retribution | MR.6 / Ch. 170 | Kingdom enforcer from Boston; massive, makes death threats as compliments |
 | Mrs. Quiet | Mrs. Quiet | MR.6 / Ch. 170 | Kingdom enforcer from Boston; sound-nullifying power; assassin |
-| Mr. Polygraph | Mr. Polygraph | So.2 | Kingdom lie detector; unexpected addition to the Soot operation |
-| Lawrence Sullivan | Monkey Business | LS.1 | Rogue Wave leader's civilian identity revealed; lawyer; contract architect |
 | Mr. Feldman | - | Ch. 173 | Music Hall landlord; knows about vigilante activities, supports them |
 | Officer Gross | - | Ch. 167 | New school security officer replacing Ridley |
 | Marcus | - | MR.6 | Kingdom street operative reporting to Richardson |

@@ -92,19 +92,15 @@ TF.3 closes the arc from Trent's perspective. He updates the Kingdom's organizat
 | Mrs. Castellano | - | Ch. 237 | English teacher; Homer's color words lecture; names Sam's feeling as *Vorahnung* (foreboding) |
 | Mrs. Marshall | - | Ch. 238 | Melissa's mother; aggressively normal mom energy; "It wasn't really a question, hon" |
 | Alex Garcia | - | Ch. 138 (named) | Lunch friend and parkour trainee; anime takes ("Evangelion is about labor relations"); hands spark with heat; impatient but athletic |
-| Dr. Desai | - | Ch. 242 | Sam's therapist; glasses on a chain; doesn't give reactions for free; provides "reality-testing" framework for hypervigilance; monitors for hypomania |
 | Mrs. Benedetto | - | Ch. 243 | Elderly Fox Chase resident (83); fall with hip bruise; Sam catches tachycardia via covert blood sense; has a cat |
 | Dana | - | Ch. 244 | Silverstein's receptionist; late twenties, dark hair, efficient; serves water in actual glasses |
 | Cassie | - | Ch. 245 | Victor Blanc's companion; 65, truck driver; throws sandwiches at him; "she doesn't try to fix me"; "uninterested in children or neighbors" |
 | Diesel | - | Ch. 245 | Victor Blanc's third cat (after Coal and Box); kitten, sleeps on engine block; Victor's "experiment" in non-functional wanting |
 | Dylan Kowalski | - | Ch. 243 | Melissa's prom date; asks via handwritten note ("Circle yes or no"); turns bright red |
-| Melissa Marshall | - | Ch. 238/243 | Sam's normal friend; color-coded SAT prep tabs; gentle persistence; portal to ordinary teenage life |
 | Lyle | - | Ch. 243 | New mentorship kid; plays cards with Liam |
 | Terrence | - | Ch. 245/MR.10 | Maya Richardson's receptionist; forwards Sam's meeting request; witnesses Sam's meeting with Maya |
-| Sarah Jennings | - | MR.10 | NSRA liaison; tablet, procedural; announces April 1st transition date |
 | Roxanne "Roxy" Elisabeth Hayes | - | MR.10 (revealed) | Maya Richardson's daughter, age 6; fathered by Mr. Nothing (Darnell Hayes); lives with his relatives in the Bronx; Maya claims Kingdom uses her as leverage |
 | Dr. Euphemia "Effie" Dunham | Mrs. Zygote | TF.3 | Brilliant, socially chaotic stem cell and chimera researcher; IVF specialist; introduced by Chezki Espinosa; joins Kingdom under Mrs. Xenograft; has killed people with her powers; forgot to vote in three consecutive elections |
-| Ophelia Grady | - | TF.3 | Works reception/lobby at Trent's office |
 | Sarah (Trent's wife) | - | TF.3 (text messages) | Trent's wife in Connecticut; pot roast; heart emoji |
 
 ## Major Characters

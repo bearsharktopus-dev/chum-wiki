@@ -58,17 +58,12 @@ The arc concludes with the jury finding Chernobyl guilty of manslaughter, not mu
 
 | Character | Role | Notes |
 |-----------|------|-------|
-| Anne-Marie Gibson | Federal prosecutor | Leads the case against Chernobyl; wealthy, formidable; reveals NSRA obstructed her contact with Sam for three months; prepares Sam for testimony |
-| Jerry Caldwell | Defense attorney | Chernobyl's lawyer; smooth, sharp cross-examiner; introduces Liberty Belle's handwritten note as evidence; builds a self-defense / necessity narrative |
-| Judge Harold Bennett | Federal judge | Presides over Chernobyl's trial; strict but fair; controls the courtroom with a stern hand |
 | Dr. Aisha Abara | CHOP physician | Sam's regular doctor at the Children's Hospital of Philadelphia; treats her Love Park and courthouse injuries with wry, maternal exasperation |
 | Sarah Katz | Journalist | Staff writer covering the Chernobyl trial; her articles narrate Days 4–9 in news format |
 | Mrs. Pollack | Paralegal | Gibson's paralegal; escorts Sam to the witness stand on Day 4 |
-| Agent Evelyn Shaw | NSRA Special Agent | Assigned to Fedorov's case file; her testimony on Day 9 reveals the NSRA's quid pro quo arrangement with Chernobyl, triggering public outrage |
 | Kate Green | Reporter | Television reporter covering the courthouse aftermath; appears during the post-attack news segment |
 | Captain Plasma (Rodney Greene) | DVD reinforcement | Relocates from Los Angeles to Philadelphia to bolster the depleted Delaware Valley Defenders |
 | Adam Wallace | Jump victim | Man undergoing horrific mutagenic transformation in Love Park; generates uncontrollable metal shrapnel |
-| Clara | DVD staff | DVD support personnel who participates in team strategy discussions regarding Young Defender graduations |
 
 ### Major Characters This Arc
 

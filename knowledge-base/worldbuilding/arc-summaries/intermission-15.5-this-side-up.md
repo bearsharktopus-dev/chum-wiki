@@ -64,7 +64,6 @@ CM.1 introduces Claymore (Clay) of the Boston Red Shocks - a leftist cell of pow
 
 | Character | Role | Notes |
 |-----------|------|-------|
-| Dead Drop | Camden vigilante, Monkey Business's operative | Ferrokinetic; drives a van; chains float around her as weapons; partners with Rush Order. |
 | Breakout | Baltimore vigilante | Athletic woman in domino mask and street clothes; meets Miasma during a convenience store robbery; takes him for coffee. |
 | Coilgun | Camden villain / activist arsonist | Kinetic multiplier who can compress air into devastating attacks ("100 shot palm wall"); targets corporate buildings of polluters and exploitative companies; forces Turbo Jett to confront systemic issues. |
 | DeShawn | Jasmine's childhood best friend | Present during the Poconos avalanche; refuses to leave the hospital. |
@@ -76,14 +75,11 @@ CM.1 introduces Claymore (Clay) of the Boston Red Shocks - a leftist cell of pow
 | Professor Whitman | Columbia Law School professor | Uses Socratic method; Trent's contracts instructor. |
 | Cryo / Cryobrand | Powered criminal | Hydrokinetic; leads a small crew (Firebrand, Rebrand, Storebrand); assaults Trent Fairfax in an alley after 1L year. |
 | Firebrand | Powered criminal | Heat-based contact powers; brands Trent's chest during the alley assault. |
-| Ophelia | Trent Fairfax's secretary/associate | Blue-skinned woman; accompanies Trent to the hospital ward; mistaken for his romantic partner by a stranger. |
 | Marcus Whitmore | Phreaks courthouse victim | Reduced to a pool of flesh during the courthouse attack; slowly reconstituted by healers over two years; visits funded by Trent. |
 | Diana Mitchell | Captain Devil's wife | Pediatric nurse; mother of Malik and Destiny. |
 | Malik Mitchell | Captain Devil's son | Ten years old; hides tablet under pillow. |
 | Destiny Mitchell | Captain Devil's daughter | Seven years old; wants to be a superhero. |
 | Director Harrison | Daedalus prison project director | American; oversees construction and security consulting. |
-| John Cross | British saboteur / chemist | Former Royal Engineers; stress-tests Daedalus containment cells; freelance operative; contacts Espinosa after his resignation. |
-| Moe Small | Weatherproofing contractor at Daedalus | Sam's grandfather; described as second-generation American, father was a child refugee in the 1930s; kind eyes; comic book reader. |
 | The Colonel | Leader of the Boston Red Shocks | Close-cropped hair; economical movements; carries a hazard-yellow Walther PPK; gives minimal but impactful direction. |
 | Ghostwriter | Boston Red Shocks member | Wears archival gloves; carries books as "soldiers"; can absorb/use text from documents; reads Russian literature. |
 | Red Scare | Boston Red Shocks member | Speed and stealth specialist; lean, liquid movements; teaches self-defense classes. |
