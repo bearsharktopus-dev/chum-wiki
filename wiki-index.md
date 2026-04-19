@@ -59,7 +59,7 @@ Sorted alphabetically by last name. Aliases limited to top 2-3.
 | `characters/rachel-small.md` | Rachel Small | -- | Parents of Powered Kids Coalition |
 | `characters/kate-smith.md` | Kaitlyn "Kate" Smith | Miss Mayfly, Soot | Independent (officially deceased as Soot) |
 | `characters/natasha-sokolov.md` | Natasha Sokolov | Compass | Tacony Titans |
-| `characters/connor-spindle.md` | Connor "Spindle" | Spindle | Auditors (retired) |
+| `characters/connor-spinelli.md` | Connor Spinelli | Spindle | Auditors (retired) |
 | `characters/lawrence-sullivan.md` | Lawrence Sullivan | Monkey Business | Rogue Wave (Leader) |
 | `characters/derek-taylor.md` | Derek Taylor | Bloodhound II, Fenrir | Auditors (loosely affiliated) |
 | `characters/maria-valdez.md` | Maria Valdez | Mrs. Heartbeat, Mrs. H | Kingdom of Keys |

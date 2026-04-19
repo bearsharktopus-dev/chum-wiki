@@ -16,7 +16,7 @@ Master index for the Chum wiki knowledge base. Characters are organized by prima
 | [maggie-obrien.md](characters/maggie-obrien.md) | Magdalene "Maggie" O'Brien (Flashpoint) | Member |
 | [derek-taylor.md](characters/derek-taylor.md) | Derek Taylor (Rampage) | Member (loosely affiliated) |
 | [tasha-reynolds.md](characters/tasha-reynolds.md) | Tasha Reynolds (Wasp) | Member |
-| [connor-spindle.md](characters/connor-spindle.md) | Connor (Spindle) | Support |
+| [connor-spinelli.md](characters/connor-spinelli.md) | Connor Spinelli (Spindle) | Support |
 | [kate-smith.md](characters/kate-smith.md) | Kate Smith (Soot) | Independent (formerly affiliated) |
 
 ### Delaware Valley Defenders (DVD)
