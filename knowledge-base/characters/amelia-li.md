@@ -194,6 +194,16 @@ She has grown increasingly confident with the Auditors, taking on field roles an
 
     Sam wears a Bloodhound costume that Amelia repaired (described as a "Frankenstein version") for the community center grand opening (Ch. 233). Sam gives Amelia the Bloodhound helmet for "archival" (Ch. 235). Sam opens Amelia's package at 11:04 PM - the Miss Megalodon suit: blue and white, recycled from the Remora suit, with lighter fabric, padded construction, tension-hardening knuckles with tooth seams at joints, a gauntlet on the right forearm (pepper spray, smoke, pig's blood tracking solution), a belt with first aid kit, two emergency drones folded flat, and zip ties, and a polymer printed shark-shaped helmet with a slight permanent grin and voice modulator (Ch. 239). Sam notes that heat-dispersing gloves for Alex Kirby would be a future project for Amelia (Ch. 240).
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Begins the arc prepping summer-weight upgrades to the Megalodon suit (Ch. 248), arriving at the community center with two rolling suitcases and a tape measure. Assesses Sam's lingering back injury from the Ch. 247 barokinesis hit. Over the arc, her work scales from a summer-weight refresh to a full survivorship-bias redesign of the suit after the Tacony warehouse raid (Ch. 261), focused on the three points of armor failure the Gallows fight exposed: throat/collar, side between front and back Kevlar panels, and ankle. Gives Sam a self-warming tooth-pattern blue scarf with dual-layer air-pocket construction for her 17th birthday (Ch. 252, "eighty percent good engineering, twenty percent I don't know how I did it"). Contacts a tailor on Cottman for Sam's Goodwill prom blazer alterations (Ch. 257, via Melissa).
+
+    Co-develops a fire-suppressant foam laced with blood-sense-detectable biological material for the Red Calf tracking operation with Fury Forge, riding on Sam's own "spray blood at people to track them" concept from the Megalodon gauntlet design. Demonstrates the foam at the May 22 DVD briefing; takes the quartermaster role for the operation and fits Jamila with infrared goggles for the aerial overwatch. Shoe-leather-level counter-surveillance for the Auditors continues through the arc at a diminished pace during Sam's grounding.
+
+    On the night of Sam's return from the tracking run with Gallows in the wind, Amelia texts Sam simply: "Don't." (Ch. 255, in the group chat after the Center City sniper attack.) She is credited as one of the few people who knows Sam best.
+
 
 ## Trivia
 

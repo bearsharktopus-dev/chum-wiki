@@ -153,6 +153,16 @@ Maggie has also shown a capacity for lethal intensity under extreme stress - the
 
     Present during the Faraday room briefing at the Tacony Community Center on the Bellwether operation and Songbird threats. Assigned alongside Lily to community center protection and patrols. Continues operating with the Auditors during the escalating Songbird conflict.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Brings donuts and a twenty-dollar bill to the April 4 Auditors meeting at the community center (Ch. 248), delivers the "Like someone told you the test was canceled and you already studied" read on Sam's post-Maya mood, takes the train up from South Philly for Sam's April 16 birthday dinner ("Save me food"), and delivers the hug-held-an-extra-second "Seventeen. Shit. One more year" (Ch. 252).
+
+    After Ford orders the standdown from the Red Calf investigation in Ch. 254, Maggie asks Sam the practical follow-up: "And if something happens anyway? In our neighborhood, on our streets, where our people live?" Sam directs her to stay in South Philly, build local superhero relationships, and contact Kay (Kate) Smith for introductions to the metahuman underground. This becomes the arc's longest-running assignment for Maggie.
+
+    At the May 19 Auditors meeting in Bridesburg (Ch. 261), she delivers an extended South Philly field report - a measured, transitioned-into-Flashpoint-giving-a-field-report register that Sam internally notes as significant. Enumerates the solo operators and small organizations active in South Philly: Switchboard (telekinetic repair shop on Passyunk), "The Block" (three Activated teens handling Rogue Wave dealers on their own block), Barricade (force-field bouncer), "If You Meet Buddha On The Road, Kill Him" / "Kill Buddha" (new four-armed vigilante with a baseball bat sniffing around metahuman underground fight clubs via Kay Smith's intel), Schulykill Sirens, Penn Street Pups (Razor's), Franklin Coalition (science-demonstration adjacent). Also reports two recent federal-agent harassment incidents (slashed tires, note-on-car). Receives a better-coverage vest upgrade from Amelia's redesign round and continues laying low rather than deploying to the Red Calf operation directly. Sends a prom-week voice memo that is just "study, idiot" and a hang-up.
+
 
 ## Trivia
 

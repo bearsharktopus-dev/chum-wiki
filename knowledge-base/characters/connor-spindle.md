@@ -163,6 +163,12 @@ In team settings, Connor provides levity and grounding. He has a talent for stat
 
     Jordan mentioned summer plans with Sam and Connor. Described Connor's foster family as "really protective. In a good way."
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Mentioned
+
+    Connor's absence from the Young Defenders reunion at the DVD briefing is explicitly noted and accepted by the team (Ch. 262). Amelia relays that he declined the invitation, having told her he was "good not doing crazy shit and is focusing on getting his GED since he never went to middle school." Sam respects the call - "Connor is choosing math homework over a federal operation, and that's the right call for him" - and files it as one of the arc's quiet positive outcomes, someone doing the boring thing without needing to be told.
+
 
 ## Trivia
 

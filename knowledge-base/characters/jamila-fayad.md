@@ -141,6 +141,16 @@ Beneath the nurturing exterior is a venomous protectiveness that surfaces when l
 
     Featured in the Jamila section of Interlude RS/DC/JF (approximately August 1, 2025). Now living in Chicago, she obsessively watches footage of Sam's beating by Rush Order. She is enrolled at a university while participating in the CPYI under the codename "Zephyr," performing sanctioned community service including lakefront storm barrier support at Navy Pier. She meets Whiteout, a professional Chicago superhero who approves of her "structured" approach. Her friend Sana confides about previously using Jump, revealing the drug has reached Chicago. Her brother Ahmed calls, urging her to contact Sam after the Rush Order incident; they argue about her decision to make a "clean break" when moving to Chicago. The interlude ends with Jamila contemplating calling Sam but remaining uncertain whether she should reconnect, struggling with guilt over abandoning Philadelphia and Sam.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    The day after the Philadelphia Inquirer runs Maya Richardson's resignation piece, Jamila calls Sam from a Chicago (773) area code at the Tacony Community Center (Ch. 248) - their first contact since the Book 6 breakup. Opens the call with "are you eating enough?" and follows up on Sam's schedule, therapist sessions, and sleep. Reveals she has been tracking Philadelphia news coverage closely through the Rush Order fight, the Torresdale video, and the Bellwether raid. She does not explain herself beyond "family stuff." Sam saves the number as "Her." Reaches out by text after the Roosevelt Boulevard pileup news cycle with "I'm watching the news. Are you okay?" (Ch. 255), answering Sam's returned question with "No. But that's okay."
+
+    Jason Reynolds called her two weeks before the Friday DVD briefing at Parker & Co LLC on Spring Garden (Ch. 262) with a request; she watched the Center City sniping on the news, stopped thinking about his ask, and flew into Philadelphia on a red-eye from O'Hare the night before the briefing. She attends in hijab with a hot drink, greets Sam plainly ("Hey, Sam"), comments that the garrote scar across Sam's throat looks "dignified," and accepts the aerial overwatch role for Sam's federal tracking operation.
+
+    On the night of May 23 she deploys with Amelia's infrared goggles and uses cloud-cover camouflage ("a cloud feather boa") to stay unseen above West Philadelphia while Sam tracks tagged Red Calf operatives through an unmapped storm-drain corridor at street level. Coordinates by text. After the clean extraction at 61st and Kingsessing, texts Sam: "Nice work tonight, Firefly." A later text opens a deferred conversation: "Hey. We should talk. Not tonight. But soon. About Chicago and stuff. If you want." Sam answers: "Yeah. I want."
+
 
 ## Trivia
 

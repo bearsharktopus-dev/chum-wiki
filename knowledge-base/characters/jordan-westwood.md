@@ -252,6 +252,16 @@ Beneath the sardonic exterior, Jordan carries significant emotional weight from 
 
     Referenced indirectly. The police scanner HIRC setup that Jordan built continues to serve the Auditors, pinging for Sam's zip code. Jordan's ongoing technical infrastructure supports the team's operations from a distance.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting (remote)
+
+    Absent from Philadelphia throughout the arc but maintains communication infrastructure and emotional presence. At Sam's April 16 seventeenth birthday dinner (Ch. 252), Jordan video-calls from their MIT dorm in a too-big MIT sweatshirt, a wall of sticky notes and whiteboard equations visible behind them. Reports a quantum mechanics seminar, a board game club, and Tuesday Catan. Confirms a gift is in the mail with USPS.
+
+    Reveals the existence of the "Sam's Adults" group chat between themselves, Miasma, and Maxwell Martinez - Maxwell named it. Asks Sam to confirm she will give them "the real version" of how things are going, not the bright version, at a later time.
+
+    Jordan's counter-surveillance architecture continues in use: Tasha's encrypted-channel file uploads to "Jordan's server" remain the team's primary secure data pipeline, and the RF/GSM detection kit Tasha uses to sweep the community center after NSRA visits is "all Jordan's stuff." Amelia confirmed Connor Spindle declined to participate in the Red Calf operation because he was focusing on his GED; Jordan's absence was filled implicitly through Maxwell and Miasma's coordination.
+
 ## Trivia
 
 - Was eating cold Chef Boyardee from a can when Sam first spotted them at the school lunch table.

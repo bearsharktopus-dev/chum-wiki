@@ -115,6 +115,16 @@ Alex is an interesting counterpoint to Sam's increasing cynicism. Where Sam thin
 
     Present during the Songbird attack on the community center (Chapter 241), pacing and furious, wanting to fight back and wanting to help. Sam shuts him down, telling the mentorship kids that their only job is to not fight Songbirds because the Songbirds want them to fight - a powered kid hurting a Songbird would become "dangerous superpowered kids attack protestors." Sam explicitly addresses Alex in the de-escalation speech, warning that setting a Songbird on fire would destroy the narrative advantage of adults harassing children. His parents do not come to pick him up - they send a taxi, a detail Sam files away as significant.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Mentorship sessions continue through the arc. Alex starts carrying a DBT workbook (Ch. 248-257) and reads it through the month. Attempts dumpster-vaulting with safety cones, works on force-field and fire-control techniques alongside the parkour training. Brings up the Lincoln High "pharmacy ghost" bounty in mentorship circle; Sam pulls him aside and recruits him to listen rather than speak (Ch. 249).
+
+    In subsequent weeks Alex begins raising the broader city situation with Sam ("Is Philly getting weirder?") and channels his frustrations through his politico dad's talking points ("Federal marshals from Virginia. Like after 9/11 except smaller and nobody knows who the enemy is." Ch. 257). After Sam returns from the Tacony warehouse raid with a scarred throat (Ch. 260), she delivers to Alex and Jasmine - with explicit vulnerability - the downstream version of Maxwell's "addicted to being needed" warning: "I see it in you. The energy. The need to do something. The way being benched feels like being buried. That feeling is not the same thing as altruism. It might also be something else, something more like an addiction." Asks him to ask himself why when he feels the pull.
+
+    Alex pushes back on the state-police presence at Tacony Charter after being carded repeatedly by an out-of-state officer, and Sam explicitly warns him: "Tired and stupid are different things, and right now the city is full of people who are looking for a reason. I don't want you to give them one." Parents still send taxis rather than coming to collect him from mentorship sessions.
+
 
 ## Trivia
 

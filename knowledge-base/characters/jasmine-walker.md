@@ -98,6 +98,18 @@ Beneath the affect is a teenager who craves positive attention but is scared to 
 
     Attended the Tacony Community Center grand opening in Chapter 233 alongside the other mentorship kids. Receiving individual therapy with Dr. Hernandez at the community center as of Valentine's Day. During the Songbird attack on the Tacony Community Center in March 2026 (Chapter 241), Sam could smell Jasmine's plant growth before reaching the building - hedges straining toward the center, weeds pushing through pavement in February. Inside, Jasmine was in the corner with a ficus draped over her, a spider plant reaching for her, and plants growing thorns oriented toward the door. She told Sam she could not make them stop. Sam talked her through breathing to help her calm down. Sam addressed the mentorship kids about de-escalation and the PR trap - that Songbirds wanted powered kids to fight back so the narrative would become "dangerous superpowered kids attack protestors." Sam specifically noted the racial disparity in how the system would treat Jasmine and Zara compared to white-passing kids. Foster mother arrived last, forty-five minutes after the incident, in scrubs, exhausted and guilty. Jasmine walked to the car without speaking.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting (pivotal)
+
+    Continues mentorship at the community center. Her chlorokinesis continues growing faster than her conscious control - she accidentally sprouts moss across a bathroom floor during a math-test stressor, grows a sunflower seed-to-six-inches in ten minutes of practice, and begins demonstrating intentionality exercises with plants leaning toward her without her instruction.
+
+    Her arc-shaping intervention comes in Ch. 255: her uncle works the overnight shift at a warehouse on State Road near Linden, and the new tenants next door are "scary-looking. Not like gang military, like actual military." Jasmine walked past the building repeatedly in the weeks leading up to the raid, and her anxiety-driven chlorokinesis fed the ivy at the warehouse's foundation into overgrowth that Red Calf tenants repeatedly cut back. She reports the intel to Sam, who records it without acting on it until the warehouse operation activates.
+
+    On the night of the federal raid (Ch. 257), Jasmine calls Sam at 11:45 PM after her uncle phones her from a locked-dark break room describing strange "thunderclap" sounds outside. Sam instructs her to keep her uncle sheltered and stay home herself, then breaks Ford's stand-down order to head to State Road as an EMT, carrying the Megalodon suit in a backpack. During the ensuing raid, Sam identifies the ivy pile at the warehouse foundation as Jasmine's unintentional tracing of the building through its plant growth.
+
+    Confronted by Sam the following Saturday (Ch. 260), Jasmine admits to repeatedly walking past the warehouse to "see if anything changed." Sam lectures her carefully - "brave and reckless is a combination I have some personal experience with" - and reframes her actions as both correct (calling for help) and reckless (proximity). Her uncle is relocated to a site in Bensalem. Receives Sam's downstream Maxwell-diagnosis speech about compulsion alongside Alex Kirby. Accepts Fatima al-Qadi's arrival at the center politely and comments "she's pretty" in the flattest possible voice.
+
 
 ## Trivia
 

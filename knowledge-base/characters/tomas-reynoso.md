@@ -95,6 +95,12 @@ Reynoso treats life like a casino game - unpredictable but riggable. He is a thr
 
     Present at the Camden safehouse in Interlude DC.2, playing Mario Kart against Dead Drop (losing badly) when Rush Order receives Sam Small's tip about Kingdom evidence disposal at Roxborough Memorial Hospital. Not part of the combat team deployed for the subsequent operation to capture and depower Mr. Polygraph. After the operation, scrolls his phone looking defeated while Dead Drop celebrates her Mario Kart tournament victory by controlling the safehouse stereo.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Cameo
+
+    Shopping with Dead Drop (Renee Costello) at the CVS on Cottman in civilian clothes, holding a case of Red Bull and checking his phone (Ch. 260). Does not recognize Sam on sight and only notices her because Dead Drop's stare draws his attention. Second look at Sam goes nowhere before he returns to his phone. Exits with Dead Drop at a casual pace when she decides to leave. Sam recalls him from Jordan's prior intelligence: "casino dealer aesthetic - tan, greased hair, peach fuzz mustache."
+
 
 ## Trivia
 

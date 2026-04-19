@@ -106,6 +106,14 @@ Liam is the "good brash" counterpart to Alex Kirby's romantic brashness - ground
 
     Present at the Tacony Community Center grand opening event where Davis delivers his keynote speech (Chapter 233). Sam spots him in the crowd alongside Zara, Alex, and Jasmine after the Songbirds arrive to disrupt the event. Described as "around" at the center during its expanded operations (Chapter 235), talking to staff members while Zara does homework and Jasmine attends individual therapy sessions. Present at the community center during a Songbird confrontation (Chapter 241), sitting on the couch hugging his backpack like a stuffed animal when Sam arrives to debrief the mentorship kids. Sam counsels the group on de-escalation: the provocation is the strategy, and a powered kid hurting a Songbird changes the narrative. Liam gives Alex a look that says "dude, just listen" when Alex resists sitting down. Sam also specifically notes that the danger is heightened for Zara and Jasmine as non-white kids, and Liam is among the white mentees she acknowledges have a different risk profile. Liam's father arrives in his electrician's work truck, still in uniform with sawdust in his hair, claps Liam on the shoulder, shakes Sam's hand, and offers help without asking questions. Referenced by McNulty at Patty's Bar (Chapter 238), who knows the O'Connor family personally and tells Sam she is doing good work with "the O'Connors' kid."
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Transformation endurance improves dramatically across the arc: dragon-arms held for 2:40 in Ch. 249, 3:00 in Ch. 250, and 12 coordinated walking steps in dragon-arms by Ch. 254. He begins learning "Lindwurm" neck-extension transformations around mid-arc, which Sam characterizes as "mildly terrifying." The walking practice is a coordination challenge - scales flicker whenever his brain tries to manage both transformation and locomotion; Sam coaches him on letting his legs do what legs already know how to do.
+
+    Sits in on the mentorship fear-circle discussion (Ch. 250): his stated fear is "what he looks like when he transforms." Continues mentorship sessions during Sam's post-warehouse grounding with Lily covering when Sam is absent. Sam's family-stability speech to Rachel about Pumice in Ch. 256 implicitly includes Liam among the mentees with parents who showed up.
+
 
 ## Trivia
 

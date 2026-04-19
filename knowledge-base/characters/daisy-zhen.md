@@ -169,6 +169,16 @@ Despite her conditioning, Daisy has shown genuine vulnerability and capacity for
 
     Invoked by Songbird protesters confronting Sam, who argue against metahumans by citing Deathgirl: "Like Deathgirl was a child? The one you let walk away from that courthouse? How many people died because you didn't put her down when you had the chance?" (Ch. 233).
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Mentioned (major off-page reveal)
+
+    Details of Daisy's circumstances surface during Sam's Sunday phone interview with constitutional rights attorney Patricia Gilly (Ch. 256). The Zhen family hired Gilly originally, which is how Gilly became entangled with the broader Daedalus wrongful-detention issues.
+
+    Gilly reveals that Daisy was a product of **Project Hollywood**, an operation that kidnapped young children - usually from itinerant or displaced populations - and attempted to force superhuman activation. Daisy identified herself to Daedalus staff after admission, which triggered immediate parental contact, but she remained in federal custody until the September 2025 mass Daedalus breakout, during which she escaped. Unlike the rest of the "Magnificent Seven" escapees, Daisy returned to her parents (who had taken up residence in Albany to be closer to the facility). She is now housed safely in a psychiatric institution whose location Sam is not told. The Zhens visit weekly. Gilly reports that Daisy is recovering.
+
+    Sam, privately, reframes Daisy internally from "my nemesis" to "a kid who got dealt the worst possible hand and played it the worst possible way and I happened to be the person standing in front of her when it all fell apart." The Zhens' pursuit of Gilly initiated the larger Daedalus class-action case now underway on behalf of Pumice, Chrysalis, and other minors detained without trial.
+
 
 ## Trivia
 

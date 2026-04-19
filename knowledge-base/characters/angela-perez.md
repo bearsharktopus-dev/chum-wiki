@@ -97,6 +97,16 @@ She is not without moral limits. During Sam's torture at Aaron's hands, Chrysali
 
     Participates in the courthouse attack during Fedorov's trial, where the Phreaks force-fed tainted Jump to protesters outside the courthouse, causing violent mutations and mass casualties. Fights Rampart during the ensuing chaos. Captured along with Pumice and Deathgirl in the aftermath, chemically sedated, and transported to Daedalus Correctional Facility in upstate New York.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Mentioned (off-page; transfer to Curran-Fromhold)
+
+    Part of constitutional rights attorney Patricia Gilly's emerging class action against the Daedalus Correctional Facility on behalf of minors placed in federal superhuman containment without trial or legal representation (Ch. 256). After the Daedalus breach and the Joint FBI-NSRA Daedalus Task Force investigation identified extensive due-process violations in the facility's minor-detention records, Chrysalis is formally transferred from Daedalus to the Curran-Fromhold Correctional Facility's superhuman ward in Philadelphia pending Gilly's legal proceedings.
+
+    Her case notes in the class action include the observation that she had no family advocacy throughout her detention: her parents kicked her out before she was eighteen. Rachel Small characterizes this to Sam as one of the defining differences between Sam and the incarcerated Phreaks - "Angela Perez's kicked her out even earlier" - in the context of arguing that Sam's parents' presence, not Sam's character, is the salient variable.
+
+    Sam agrees to take Curran-Fromhold reentry referrals through the Tacony Community Center's pilot program (June start), which will likely include Chrysalis if Gilly's case progresses to supervised release.
+
 
 ## Trivia
 

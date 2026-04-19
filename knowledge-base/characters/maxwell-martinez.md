@@ -252,6 +252,22 @@ A steadfast ally who places great trust in those he believes in, he calls Sam hi
 
     Shoulder reaches 80-85% mobility. Departs the Small home on a Sunday morning after approximately three months on the couch, planning to finish physical therapy from his dorm. Dad hugs him on the way out. Final words to Sam: "You built something good, Sam. Let it work."
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting (confrontational)
+
+    First appears on-page via a text thread around the time of Jacob Abraham's murder: "DVD is hearing things." Joins Sam, Devonte, and Akilah by phone from MIT during the Saturday morning meeting at the Small house (Ch. 252) and reveals that a new federal multi-city task force related to the Daedalus breakout is being assembled - "the kind that interviews material witnesses and subpoenas construction records." Warns Sam the acceleration "is going to touch everything" and advises her to "actually read that book Miasma gave you."
+
+    Attends the May 7 cross-reference meeting at the community center where Sam names Red Calf (Ch. 254) and stands down with the rest of the team after Ford's order.
+
+    On May 16 Sam uses a coded phone conversation with Maxwell ("meet a friend at the library or at the basketball court?") to pass him the State Road warehouse intel via his precognition without speaking the information aloud on an unsecured line. Maxwell's precognitive response - "basketball court, don't walk the library path" - indicates the intel has been routed to Ford and an operation is in preparation (Ch. 255-256).
+
+    After Sam breaks the stand-down at the Tacony warehouse and is recovered unconscious by Ford's team (Ch. 258), Maxwell drives down from MIT the next afternoon and delivers the arc's unsparing pivot speech (Ch. 259). His diagnosis: Sam is not brave, she is compulsive; she runs toward danger because stillness makes her feel as powerless as she did drowning at fourteen; her generosity is real and is in service of an addiction to being needed; the cost is paid by everyone who loves her. Names the Red Calf Philadelphia cell's callsign roster (Antfarm, Barefoot, Cypress, Dogwalker, Empty, Famine, Gallows, Higgs; only three are powered). Cuts her off from his coin-flip precognition until she gets real help. "Family doesn't let family kill themselves for applause."
+
+    Assigned operational command / precognitive branch assessment for Rampart's federal raid plan against Red Calf (Ch. 262). On May 23, during Sam's clean federal tracking run through West Philadelphia, Maxwell monitors and relays routing decisions. On the morning of prom (May 30), he delivers a burner phone to the Small house with a sticky note reading "check it when you need to, not before" - an act of either forgiveness or good operational planning that lets Sam learn the raid outcome without abandoning the dance.
+
+    Known outside the Small house for his "Sam's Adults" group chat with Miasma and Safeguard, revealed by Jordan on the April 16 birthday video call (Ch. 252).
+
 
 ## Trivia
 

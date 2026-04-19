@@ -205,6 +205,16 @@ She holds a strong moral code against lethal force, with PERKS assessments consi
 
     Assigned to community center protection and patrols alongside Maggie during the Auditors team meeting in the Faraday room (Ch. 238). Heads to the community center in costume - white cowl, domino mask, and meteor hammer - when Songbirds show up during a bomb threat lockdown (Ch. 240). Handles the Songbird confrontation independently before Sam arrives, using a meteor hammer demonstration to disperse them without hitting anyone (Ch. 241). Her meteor hammer is disguised as a scarf. Gathers intelligence from the Golden Panda Buffet. Serves as quick-response and center security for the Auditors.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Opens the arc with seafoam-green hair at the Tacony Community Center (Ch. 248) and greets Sam with an arms-out full-commitment hug. Across the arc she absorbs more mentorship-program coverage during Sam's grounding periods and shares surveillance intel for the Auditors' tracking of NSRA activity in the Roosevelt corridor.
+
+    Hosts the May 19 Auditors OPSEC meeting at her Bridesburg house with parents working late at the Golden Panda (Ch. 261). Provides hand-made paired silver shark rings for Sam's 17th birthday from a jewelry-making class she has been taking (Ch. 252).
+
+    Reassigned by Amelia's redesign roster to reinforced shin guards integrated into her skating boots for further field work. At the May 22 DVD briefing for the Red Calf operation, assigned the EMT engine "speed-boost" role to move wounded operators fast during the upcoming raid (Ch. 262). Continues cousin-in-NYC carrier-pigeon-photograph updates as a running team group-chat gag throughout the arc.
+
 
 ## Trivia
 

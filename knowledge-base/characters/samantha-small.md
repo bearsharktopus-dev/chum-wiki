@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Samantha Small |
-| **Aliases** | Bloodhound (retired), Remora (temporary cover identity), Miss Megalodon (current identity) |
+| **Aliases** | Bloodhound (retired), Remora (temporary cover identity), Miss Megalodon (current identity), "Firefly" (federal contractor callsign during Red Calf tracking operation) |
 | **Date of Birth** | April 16, 2009 |
 | **Age** | 14–17 |
 | **Gender** | Female |
 | **Ethnicity** | Ashkenazi Jewish (paternal) and Hispanic (maternal, via the de Leon family) |
 | **Place of Birth** | Philadelphia, Pennsylvania |
 | **Residence** | Mayfair, Philadelphia, PA (Small family home) |
-| **Affiliation** | Auditors (Leader), Tacony Community Center (Associate Program Coordinator) |
+| **Affiliation** | Auditors (Leader), Tacony Community Center (Associate Program Coordinator), Delaware Valley Defenders (federal contractor, LUMA minor contractor provision) |
 | **Former Affiliations** | Young Defenders |
 | **Occupation** | Student (Tacony Charter Academy High School), EMT Intern, Vigilante, Peer Mentor |
 | **Status** | Active (as Miss Megalodon) |
@@ -361,6 +361,36 @@ Her relationships are defined by fierce protectiveness and an inability to deleg
     The meeting with Maya is the arc's climax. Sam delivers a three-doors speech: the Kingdom goes away, stalemate while the feds close in, or kill Sam and activate everyone on her thirteen-name list. She holds Nothing's screwdriver to her own neck: "I'm willing to blade myself for cheap heat." Maya blasts Sam into the door with barokinesis, tries to redirect her toward Porcelain and the Daedalus breakout, and when Sam refuses: "Get the fuck out of my office."
 
     In the aftermath, Maya loses Argus Corps oversight through a Davis-led council coalition. Turbo Jett confronts Maya about Duvall's autopsy showing decompression injuries. Maya deploys barokinesis at six to seven atmospheres; Jett walks through it. Maya manipulates Jett with selective truth, admitting to killing Duvall and revealing her daughter Roxy is held hostage. Maya ultimately chooses EXIT, resigning from City Council.
+
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Main
+
+    The arc opens the Saturday after Maya's April 3 resignation with Sam's back still clicking from the barokinesis hit in Ch. 247. Jamila Fayad calls from a 773 area code for the first time in two years; Sam saves the number as "Her." The Auditors pick up a phase-walker case targeting Northeast Philadelphia pharmacies and, through Chambers & Woo and Sam's EMT work, identify the phase-walker as Marco Sanchez, a sixteen-year-old destroying the legacy tainted Jump distributed before the Bellwether raid. Marco's cousin Gabriel was paralyzed by the blue-and-white gel caps. Sam saves Marco from an NSRA stakeout at Lee's Pharmacy by teaching him to phase sideways through strip mall interior walls, then is caught in civvies by Agent Miguel Torres - the man who gave her Chernobyl's location three years earlier - who offers her "one mulligan" and orders her off the investigation.
+
+    Ricochet returns as Danny Diaz, an ex-con construction worker asking about Jump resources for his brother Dante. Agent Sarah Jennings, now running the NSRA's Philadelphia liaison desk, crashes the community center as "community liaison" with Agent Tiffany Reeves while Marco is in a therapy room with Sam; Marco phases out through the interior walls undetected. Mrs. Patterson asks Sam to start calling her Jennifer. Patricia Gilly, a constitutional rights attorney, is building Rachel's coalition's SSI injunction filing.
+
+    On April 15 (the day before Sam's seventeenth birthday), Miasma arrives at the Small house in full hazmat suit with a birthday gift: a used copy of *Pedagogy of the Oppressed* carrying fourteen years of Liberty Belle's and Miasma's joint marginalia, a Baltimore 2013 photo of the two of them, $100 cash, a Temple School of Social Work accreditation contact for the mentorship program, and a 2013 clipping about a Roxbury powered-youth center shut down by "compliance review." Miasma reveals that Maya Richardson is in federal witness protection. April 16 is Sam's birthday dinner; Jordan video-calls from MIT and reveals the existence of the "Sam's Adults" group chat among Miasma, Crossroads, and Safeguard.
+
+    On April 21, Agent Ford calls Sam on a bus to give her advance notice that the FBI will be interviewing Pop-pop Moe as a construction-era material witness on Daedalus. Sam chooses not to volunteer Belle's parallel Daedalus investigation thread. On April 24, the Joint FBI-NSRA Daedalus Task Force is announced, HQ'd in Philadelphia, scope including "original construction." Moe's interview with FBI Agent Bryan Whitfield takes place April 23.
+
+    On May 3, Sam takes the SAT at Tacony Charter and scores 800 verbal, 580 math, 1380 combined. That afternoon on an EMT shift she responds to a multi-vehicle I-95 pileup; the critical patient turns out to be Whitfield, whose brakes failed. Sam blood-senses the internal injuries and stabilizes him long enough for the trauma team. Two days later pharmacist Jacob Abraham is found shot dead at a West Philadelphia compounding facility; three other pharmacists in the network go silent overnight.
+
+    On May 7 the Auditors reunite with Chambers & Woo and Rampart at the community center. Cross-referencing produces a timeline showing eleven clustered events in the twelve days following the task-force announcement. Sam names the organization responsible: Red Calf. She calls Ford, who arrives in civilian clothes within twenty-five minutes, confirms the attribution, briefs the room on Red Calf's methodology, and orders the entire team to stand down. Sam agrees.
+
+    On May 13 Jasmine Walker calls at 11:45 PM: her uncle, an overnight warehouse worker on State Road, is hiding in a break room during a federal operation next door. Sam breaks the stand-down. She runs three miles to State Road as an EMT, pulls a dying federal agent out of a sniper's kill zone, identifies the sniper on the underside of a highway billboard as Red Calf callsign Golf (Samuel Royce / Gallows), suits up in the Megalodon costume, and climbs in through a broken second-floor window to head off his rearguard ambush. The fight on the warehouse mezzanine runs a full weapon rotation - pistol, fixed-blade knife, tear gas, chain garrote - before Gallows, wounded and hemorrhaging tear gas into his own cuts, stomps Sam's right ankle into component parts, tells her "stay down," and extracts. Sam is recovered unconscious by Ford's tactical ambulance. She needed two units of blood. Ford constructs a SARA-proof cover story framing Sam's role as "acting in a civilian capacity as an EMT," which holds.
+
+    The next afternoon Maxwell drives down from MIT to deliver a prepared diagnosis: Sam is not brave, she is compulsive; she runs toward danger because stillness makes her feel as powerless as she did drowning at fourteen; her generosity is in service of an addiction to being needed; the cost of the addiction is paid by everyone who loves her. He cuts her off from his coin-flip precognition until she gets real help. Two days later Dr. Desai clinically confirms the frame: Sam has built structures across Book 16 that "look like recovery and function like avoidance - the sprint wearing a marathon costume." The foothold of being load-bearing is also the trap.
+
+    Sam passes the warning downstream to Alex Kirby. She confronts Jasmine Walker about the anxiety-driven chlorokinesis that had been feeding ivy at the Red Calf warehouse for weeks and accidentally marking the building as a surveillance target. Patricia Gilly interviews Sam about her role at the courthouse Phreaks incident for an emerging class-action lawsuit against the Daedalus detention of minors. Gilly also reveals that Daisy Zhen escaped during the September 2025 breakout, is safely in psychiatric care, and has been reunited with her parents; Deathgirl was a product of a mass-kidnapping superpowers-forcing operation called Project Hollywood. Sam agrees to take center-based reentry referrals as Pumice and Chrysalis are transferred from Daedalus to Curran-Fromhold.
+
+    Fatima al-Qadi walks into the community center and becomes a fixture across the second half of the arc. The two grow close over afternoons in the third-floor emergency shelter space sharing an earbud.
+
+    Rampart pitches a specific DVD contract role over brisket at the Small house: Sam will use blood sense to track Red Calf operators tagged during a planned engagement with a custom Fury Forge foam laced with biological material. Non-combat, compensated, under the LUMA minor-contractor provision. Sam's parents negotiate conditions across a napkin - body armor, tracking bracelet, two-minute response radius, anti-identification gear, academic-calendar accommodation.
+
+    Jamila Fayad flies in from Chicago for the operation briefing on May 22 and takes the aerial overwatch role with Amelia's infrared goggles. Sam's callsign is "Firefly." The tag engagement deploys May 23 in West Philadelphia; Sam, in level-IV ceramic plate carrier and an oversized hoodie, tracks two tagged operators and a four-operator rendezvous through an underground transit network of storm drains and unmapped excavated corridors south from 52nd and Spruce. The signatures concentrate beneath a building at 58th and Kingsessing. Sam transmits coordinates and extracts clean at 61st without drawing a shot. Jamila's post-op text: "We should talk. Not tonight. But soon. About Chicago and stuff. If you want." Sam answers: "Yeah. I want."
+
+    The raid goes in on May 30. Sam attends Tacony Charter's junior prom the same night with Fatima, Melissa Marshall, Alex Garcia, and others, in a twenty-six-dollar maroon Goodwill blazer tailored on Cottman. During a slow-dance sequence Maxwell's burner phone - which he left for her that morning - buzzes with the outcome: eighteen hostiles engaged, fourteen in custody, four escaped including Gallows; full staging base recovered with weapons cache and tunnel access to three other city locations; entire assault team injured, four critical but stable, Rampart shot through the forearm. Royce is degraded, mobile, and in the wind with three operators. Sam performs a 5-4-3-2-1 grounding drill in a bathroom stall and returns to the floor. Fatima stays over. Sam ends the arc at three in the morning, unable to sleep, still wishing she had been underground with the fight.
 
 ## Trivia
 

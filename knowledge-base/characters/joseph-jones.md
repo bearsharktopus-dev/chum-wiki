@@ -100,6 +100,16 @@ An avid Philadelphia sports fan (Phillies, Sixers), he frequently wears Allen Iv
 
     Reappears at LOVE Park during the Jump crisis, revealing that Deathgirl now leads the Phreaks. Grabs Sam by the neck and throws her, then seizes Rampart in a bear hug and suplexes him. Engages Sam in an extended fight where her tooth-knuckles and shin-teeth manage to crack his stone body, causing him genuine pain. Taunts Sam mid-fight about her height and references the nails Aaron removed. Escapes on Chimera's back in quadruped form. Later participates in the Phreaks' terrorist attack at the courthouse during the Fedorov trial, trudging through the crowd impervious to rubber bullets and tear gas with Deathgirl perched on his back. Sent after Playback by Deathgirl, but subdued through the combined efforts of Playback, Spindle, and Gale, and arrested.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Mentioned (off-page; transfer to Curran-Fromhold)
+
+    Part of constitutional rights attorney Patricia Gilly's emerging class action on behalf of Daedalus detainees placed in the facility as minors without trial or counsel (Ch. 256). Following the post-breach audit by the Daedalus Task Force, Pumice is formally transferred from Daedalus to the Curran-Fromhold Correctional Facility's superhuman ward in Philadelphia pending Gilly's proceedings.
+
+    His class-action record notes that he had no family advocacy during his detention: his parents kicked him out the instant he turned eighteen. Rachel Small cites Pumice's and Chrysalis's situations to Sam as the anchors of the argument that Sam's own functional adolescence is attributable to her parents' persistence, not her character.
+
+    Sam's Tacony Community Center agreed in-arc to accept Daedalus-reentry referrals through the June 2026 pilot program, which is expected to include Pumice if Gilly's case produces supervised release.
+
 ## Trivia
 
 - His PERKS assessment was conducted by Officer Michael Thompson in August 2024, with a detailed power analysis by Dr. Emily Nakamura in September 2024.

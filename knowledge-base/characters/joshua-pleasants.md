@@ -156,6 +156,18 @@ Intellectual rigor is his defining trait. Unable to exercise or socialize conven
 
     Conspicuously absent from the Argus Corps Oversight Transition meeting at City Hall (Interlude MR.10), where Maya's civilian oversight of the team was being transferred to a broader council committee under Davis's coalition. Maya internally assessed that she was 99% sure Miasma had turned on her - that he had helped Sam avoid consequences and that she was 90% sure he had planned the Doppelganger operation to expose her. She reflected: "That's the problem with building a weapon. Eventually, it develops opinions about who it should be pointed at." As the arc closes, Maya has resigned from City Council and Argus Corps oversight has transitioned to a new committee structure, removing the primary lever Miasma was exploiting from within.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Continues to operate inside post-Maya Argus Corps, handling Bellwether evidence processing with Patriot and participating in the broader task-force coordination. On April 15 (the day before Sam's seventeenth birthday) he arrives at the Small house in a full neon-yellow sealed hazmat suit carrying a brown paper bag (Ch. 251). Rachel receives him without visible alarm and addresses him as Mr. Pleasants; she makes him coffee in a 1/3-full Drexel mug, which he holds for the warmth rather than drinking.
+
+    The birthday gift is an annotated used hardcover of Paulo Freire's *Pedagogy of the Oppressed*, inscribed by Liberty Belle with the date "June 2012" on the inside cover. The book contains fourteen years of joint marginalia between Belle (red ink) and Miasma (blue ink), including a representative disagreement where Miasma's "overly idealistic - ignores power asymmetry" is countered by Belle's "the idealism IS the point, Josh." Additional items concealed in the pages: $100 cash, a birthday card ("You're doing it right. Keep going. - J.P."), a business card for Dr. Anika Osei at Temple School of Social Work for mentorship-program accreditation, a printed article titled "Community-Based Alternatives to Carceral Power Management," a 2013 Boston Globe clipping about a Roxbury powered-youth center shut down by "compliance review," and a 2013 photograph of Miasma standing with a healthy pre-cancer Belle outside a Baltimore diner.
+
+    Intel shared during the visit: Maya Richardson is not in early retirement but in federal witness protection; her Argus Corps transition paperwork is being processed through federal channels. Agent Jennings has positioned herself to fill the NSRA Philadelphia liaison portfolio since Maya's departure. Delivers the "use the year" framing for Sam's 17-to-18 window: "After eighteen, the JLUMA expires, the juvenile protections expire, and you're an adult operating in a space that treats adults very differently than children."
+
+    Revealed by Jordan on the same birthday video call as a member of the "Sam's Adults" group chat (with Crossroads and Safeguard). After-dinner departs for a 7 PM Bellwether-evidence meeting with Patriot.
+
 
 ## Trivia
 

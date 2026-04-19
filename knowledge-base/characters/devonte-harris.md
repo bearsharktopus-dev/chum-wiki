@@ -183,6 +183,14 @@ Beneath the humor, Devonte is perceptive and supportive, consistently offering q
 
     Participates in the gambit against the Kingdom from the Tacony-Palmyra Bridge alongside Akilah and Jordan. Plays police sirens and Kate's recorded voice from Soot's mask to deceive Mr. Polygraph's lie-detection powers. Visits Sam during recovery.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Now twenty years old, sleeping and eating well, with Fury Forge's custom hearing aid catching the light. Arrives with Akilah at the Small house on the Saturday after Sam's 17th birthday (Ch. 252) to loop her in on Marco Sanchez's civil suit and the Jacob Abraham compounding-operation lead. Finishes a bowl of Rachel's leftover chicken paprikash during the briefing. Helps parse Sam's SAT book between case beats: "This train problem is just a systems of equations thing, right?"
+
+    Accompanies Akilah to the May 7 Auditors reunion meeting at the community center where Sam names Red Calf (Ch. 254). Closes the Abraham case with Akilah after Ford's stand-down order and prepares the material for federal referral. At the May 22 DVD briefing at Parker & Co LLC, takes the Chambers & Woo evidence-collection role for the forthcoming raid alongside Akilah (Ch. 262). Handles the referral that puts Marco in direct text contact with Sam so he does not need to route communications through the community center.
+
 
 ## Trivia
 

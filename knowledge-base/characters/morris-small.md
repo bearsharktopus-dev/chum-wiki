@@ -168,6 +168,20 @@ Beneath the warmth, Morris carries significant moral weight. His regret over Dae
 
     Morris's firm (Horvath-Small) is mentioned again in Daedalus documentation Sam reads at Miasma's safehouse library during her fugitive period. His connection to Daedalus and Porcelain remains an open narrative thread.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    The Joint FBI-NSRA Daedalus Task Force is announced on April 24, 2026 with scope explicitly covering "the facility's operational history dating back to its original construction." On April 21, Agent Imani Ford calls Sam on a bus to give her advance notice that the FBI will be seeking a voluntary interview with Morris as a material witness on Horvath-Small's involvement in the 2006-2007 Daedalus build. The interview takes place April 23 with Agent Bryan Whitfield at Morris's kitchen table in Ventnor, NJ. Morris described the sessions afterward as a straightforward factual exchange and reported to Ben that "it went well."
+
+    On Shabbat that Friday (Ch. 253), Morris hosts Ben, Rachel, and Sam in Ventnor. Counts the Omer - Day 23, week of Netzach - and delivers the arc's thematic frame, teaching Sam "Gevurah she'b'Netzach": discipline within endurance. "You can't just push forward forever. You have to know when to hold, when to rest. Otherwise your endurance becomes recklessness." Of the interview itself he tells Sam, "I feel good, Samantha. I told the truth. I gave them what I had... What happens next is not my department. My department was the information. Their department is what to do with it."
+
+    After Agent Whitfield is critically injured in an I-95 brake-failure "accident" ten days later while cross-referencing construction-contractor files (Ch. 253) - and Morris sees the news coverage - he begins to quietly put the pieces together and blames himself. Ben talks him down by phone. Morris does not know that his granddaughter was the roadside EMT who stabilized the man who interviewed him.
+
+    Agent Ford commits informally to Ben and Rachel that she will personally ensure Morris's safety if Red Calf's pattern of attacks on the task force extends to its witnesses (Ch. 254).
+
+    Later mentioned as the recipient of Rachel's all-caps text cascade when Sam's SAT results come back at 800 verbal ("I'M TELLING YOUR GRANDFATHER"). His cat Schlemiel - who walks into doorframes and sleeps with his legs in four directions - is introduced on-page for the first time at the Shabbat visit.
+
 
 ## Trivia
 

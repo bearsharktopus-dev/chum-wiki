@@ -167,6 +167,18 @@ He maintains a warm, older-brother dynamic with Sam - good-natured ribbing, hair
 
     Sam reflects on Rampart's training while working out, noting boxing fits her better than the BJJ and aikido he taught her.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Major (DVD liaison and raid commander)
+
+    By this arc Rampart is 21, significantly broader than in prior books, and officially acts as the DVD's external-liaison operator. On May 7 he delivers a banker's box of sanitized DVD operational reports from April 1 through that week to the Young Defenders reunion meeting at the Tacony Community Center, enabling the cross-reference that identifies Red Calf as the coordinated force behind the Philadelphia degradation campaign (Ch. 254). Multiplex's signoff: "if any of this ends up on CapeWatch, he will personally come here and be very disappointed in all of you."
+
+    On Wednesday May 20 he phones Sam directly to request a dinner-table meeting with her and her parents the next evening (Ch. 261). At the Small house for brisket the following night, he pitches the three-phase DVD operational plan against Red Calf and proposes Sam for a non-combat tracking role under the LUMA minor contractor provision. Negotiates through Ben and Rachel's conditions across a napkin: Level IV plate carrier (rated .308 Winchester), tracking bracelet on Sam's wrist in real time, two-minute tactical response radius, anti-identification gear, academic-calendar accommodation. Discloses that Gallows (Samuel Royce) is assessed as degraded from his Tacony warehouse injuries and probably operationally reduced for the near term.
+
+    Delivers the full briefing at the DVD's field office "Parker & Co LLC" on Spring Garden on Friday May 22, coordinating Sam's "Firefly" tracker role, Jamila Fayad's aerial overwatch, Lily's EMT engine-juicing role, Amelia's quartermaster role with Fury Forge, Maxwell's operational command, Akilah and Devonte's evidence-collection role, and Ford's federal legal coordination.
+
+    On May 30 leads the raid on the Red Calf staging base at 58th and Kingsessing. The action results in 14 captures out of 18 hostiles engaged with the full staging site recovered including a weapons cache and tunnel access to three additional city locations. Rampart takes a .308 round through the forearm; recovers, reportedly "mad about it" and annoyed that he did not see it coming. Relays final operation results to Sam via Maxwell's burner phone while she is at junior prom: "Your tracking data was essential. Good work. Enjoy your dance."
+
 
 ## Trivia
 

@@ -57,7 +57,7 @@ Throughout the story, the DVD has maintained a complicated relationship with Sam
 
 **Civilian Liaison:** Councilman Jamal Davis bridges the team and Philadelphia's municipal government, providing political cover, resources, intelligence, and law enforcement coordination.
 
-**Young Defenders (Disbanded):** Former youth training program that mentored teenage superhumans. Members included Sam Small, Jordan Westwood, Lily Chen, Maxwell Martinez, Jason Reynolds, Amelia Li, Jamila Fayad, Connor, Akilah Washington, and Devonte Harris. Dissolved following SARA in March 2025.
+**Young Defenders (Disbanded):** Former youth training program that mentored teenage superhumans. Members included Sam Small, Lily Chen, Maxwell Martinez, Jason Reynolds, Amelia Li, Jamila Fayad, Connor, Akilah Washington, and Devonte Harris. Dissolved following SARA in March 2025.
 
 ## Members
 

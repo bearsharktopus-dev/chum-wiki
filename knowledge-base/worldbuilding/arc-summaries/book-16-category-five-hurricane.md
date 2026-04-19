@@ -14,7 +14,7 @@
 | **Timeline** | February 7 – April 3, 2026 |
 | **POV** | Samantha "Sam" Small (Chapters 233–247); Maya Richardson (MR.10); Trent Fairfax (TF.3) |
 | **Preceded By** | Intermission 15.5: This Side Up ← Book 15: Severe Weather Warning |
-| **Followed By** | TBD |
+| **Followed By** | Book 17: Rules of Engagement |
 | **Entries** | 18 (15 chapters + 3 interludes) |
 | **Note** | First arc where Sam is medicated and in active therapy; Sam's third identity (Miss Megalodon) debuts in Ch. 239; first Maya Richardson POV since MR.9; contains the Bellwether federal raid payoff; Sam-Maya face-to-face confrontation in Ch. 247; Maya resigns from City Council (PI.2); Kingdom of Keys restructures under Trent's direction (TF.3) |
 

@@ -101,6 +101,14 @@ She has a taste for macabre art and horror movies, a small rebellion against her
 
     Present at the Tacony Community Center grand opening (Chapter 233), spotted by Sam in the crowd. Present at the center during the Songbird attack (Chapter 241), where she asked the hard question - "what if they actually hurt someone?" - while the other mentees reacted with frustration, silence, or fear. Hugged Sam before leaving, a notable gesture given that she is normally a "hoverer not hugger." Her father Dr. Khan arrived furious in a quiet professor way. Sam addressed racial disparity in the justice system directly to Zara and Jasmine during the debrief, noting that the system is less forgiving toward them than toward white-passing kids. Referenced as continuing homework at the center, with her mother attending parent sessions. Appeared in mentorship meetings throughout the arc, including power practice where her glass echolocation abilities were noted.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Mentorship sessions continue. Her passive glass-sensing has sharpened to the point that she can feel every pane in the community center without trying - described as "a hundred extra fingers that are all touching cold things" - and she works with Sam on range control to dial back ambient perception and prevent headaches (Ch. 249).
+
+    Practices with small stained-glass panes from a glassblowing class at Drexel, apparently arranged via her dad (Ch. 255). Takes up juggling, without powers, "for no particular reason" and texts Sam about it (Ch. 250). Raised by parents who remain the most engaged family of the four mentees; her mother attends parent sessions and her father picks her up from mentorship personally.
+
 
 ## Trivia
 

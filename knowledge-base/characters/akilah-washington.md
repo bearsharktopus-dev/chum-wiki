@@ -171,6 +171,17 @@ Beneath the controlled exterior, she struggles with the tension between her desi
 
     Sam's EMT colleague Hector mentions Chambers & Woo and specifically Akilah. Sam internally notes she knows her.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Arrives at the Small house with Devonte on the Saturday after Sam's birthday (Ch. 252) to brief Sam on Chambers & Woo's new client: sixteen-year-old Marco Sanchez, who wanted to build a civil suit against the pharmacists who sold his cousin Gabriel the tainted blue-and-white Jump that paralyzed him. Akilah has already obtained Dr. Mori at Penn's chemical-analysis confirmation that the adulterant is the same methylphenidate-family compound recovered at the Bellwether raid. She identifies four pharmacists on Roosevelt Boulevard and flags the fourth - Jacob Abraham - as the most interesting because he also operates a West Philly compounding facility with two sealed state-board complaints for "unauthorized novel formulation."
+
+    Calls Sam on Frankford Avenue on Wednesday May 6 (Ch. 254) with the news that Abraham has been shot dead and the other three pharmacists have simultaneously gone silent. Opens the door to the Red Calf attribution by combining the Whitfield crash with the Abraham murder in a single sentence. Attends the May 7 cross-reference meeting at the community center, runs the analytical pass on the DVD operational data, and closes her folder professionally when Ford orders the stand-down.
+
+    At the Friday May 22 DVD briefing at Parker & Co LLC, she is assigned to Phase 3 - evidence collection and case building - alongside Devonte. Chambers & Woo will document financial records, communications equipment, and operational materials after the raid site is secured, feeding Ford's federal prosecution and (Jason hopes) the legal predicate for authorizing broader federal force against Red Calf.
+
+
 ## Trivia
 
 - Her PERKS assessment was originally a JLUMA (juvenile license) in 2020, upgraded to a full LUMA in 2021 when she came of age.

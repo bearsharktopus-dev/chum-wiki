@@ -175,6 +175,18 @@ Beneath the measured exterior, Ben struggles with fear he rarely articulates. He
 
     Sam asks Ben for maps of NE Philly from the city planning archives under the cover of a "school project" lie - receives survey maps from the 1920s, infrastructure overlays, zoning plans, and sewer plans. Calls Sam's school to yell during a bomb threat lockdown - described as a "classic dad move" (Ch. 240). Deduces Sam is Megalodon after Mr. Donovan asks around the neighborhood about the new shark-themed vigilante - "He didn't put it together. But I did" (Ch. 242). Participates in the family negotiation of Megalodon patrol terms: a diagrammed route, bail points, home by ten, text check-ins. Helps with tactical information, spotting a construction detour on Harbison that narrows an alley along the patrol route. Tells Sam "You look like a superhero" when she returns from her first real Megalodon patrol at 9:40 PM through the front door in costume. Hugs Maxwell Martinez when he departs after approximately three months recovering on the Smalls' couch.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Ben continues providing tactical infrastructure support: construction detour alerts, sewer and subway maps for Sam's patrols, and traffic updates sent by text during vigilante patrols ("There's construction on Harbison, detour around it"). After the Roosevelt/Rhawn multi-vehicle pileup (Ch. 256), he delivers an impassioned speech over dinner about six years of failed advocacy for redesigning Roosevelt Boulevard: twelve lanes, no median, forty-seven fatalities since 2020, "disproportionately poor and brown."
+
+    When Miasma visits the Small house in full hazmat suit to deliver Sam's birthday gift (Ch. 251), Ben does PT stretches quietly in the living room while the conversation happens, embodying "present without hovering." After Miasma leaves, Ben assesses him drily: "So. He seems nice."
+
+    Drives to State Road in sleepwear after the Tacony warehouse raid, reaches the FBI tactical ambulance at 5 AM, hugs Sam carefully around her IV line, and delivers the arc's emotional hinge: "You don't need to prove yourself anymore. To anyone. You're done. It's over... No more altruism. Please. At least for a while. We can't do this anymore as human beings." Insists Sam say "okay" aloud even if she is lying.
+
+    Across the brisket-dinner negotiation with Rampart for Sam's DVD contract role (Ch. 261), Ben pitches the academic-calendar-accommodation clause ("She has finals in two weeks. She has a prom to attend") and ticks off Liberty Belle's "integrated survivability onion" - "don't be seen, don't be acquired, don't be hit, don't be penetrated" - conspicuously omitting the fifth layer. Offers to buy Sam a corsage for prom; she informs him that corsages are not current practice; he commits to one anyway.
+
 
 ## Trivia
 

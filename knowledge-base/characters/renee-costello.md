@@ -116,6 +116,12 @@ She presents a gothic aesthetic and "surly" demeanor. In the field, she is ruthl
 
     Kingdom forces continue intercepting and sabotaging Rogue Wave's Jump distribution; Dead Drop is not featured directly.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Cameo
+
+    Encountered by Sam in civilian clothes in the energy-drink aisle at the CVS on Cottman alongside Jackpot (Tomás Reynoso), both apparently off-duty and shopping (Ch. 260). Dead Drop recognizes Sam immediately; Sam recognizes Dead Drop from the 2 AM Sunoco station encounter in Arc 12 where Dead Drop had suspended her upside-down in ferrokinetic chains. Neither can credibly act in a CVS under security camera with Rachel Small at the pharmacy counter. Three-second mutual stare; Dead Drop says something quiet to Jackpot, and they walk out at normal pace without incident.
+
 
 ## Trivia
 

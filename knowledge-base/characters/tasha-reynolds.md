@@ -175,6 +175,18 @@ Beneath her composed exterior, she privately struggles with self-harm, concealed
 
     Attends the community center grand opening, where she debuts her Lighthouse costume for the first time - showing Sam around in the blue-and-white outfit with mechanical arm brace and leashed drone. Conducts deep-dive research into the Songbirds from the center office, cross-referencing neighborhood watch Facebook groups with Songbird event photos to identify the radicalization pipeline. Discovers that Mike D'Ambrosio had zero anti-powered online presence before October, confirming the Songbirds as an astroturfed operation rather than an organic grassroots movement. Notes the etymological connection - "A Shrike is a kind of songbird" - suggesting a possible rebranding of Shrike's ideology. Provides intelligence support during Auditors' Faraday room briefings. Assigned deep Songbird research including forums, money trail, and drone surveillance. Raises the possibility that the Songbird bounty on Sam and the Bellwether drug operation are unconnected, since the Songbirds were already escalating independently. Calls 911 from a school bathroom during the Songbird confrontation at the community center. Assists Sam with surveillance file research, going through 63 photos and timestamped observations. Identified as one of the many independent threads in Sam's "mousetrap strategy" against Maya Richardson - a thread that would continue operating regardless of what happened to Sam.
 
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Supporting
+
+    Tasha provides the Auditors' strategic backbone throughout the arc. Texts Sam the Maya Richardson resignation article with a single period in the group chat (Ch. 248). Runs drone perimeter on the NE Philly pharmacy corridor; confirms the third Marco Sanchez hit at Mayfair Rx on Frankford through an owner who handled damages internally (Ch. 248). Identifies surveillance vehicle patterns on Roosevelt Boulevard - two dark sedans rotating through three parking positions for three consecutive nights - and supports the correct conclusion that the stakeout is NSRA rather than Kingdom, Rogue Wave, or Safer Streets (Ch. 249). Coaches Sam on the tracking-run ear discipline during the Lee's Pharmacy stakeout.
+
+    After Agent Jennings's visit to the community center with Agent Reeves (Ch. 250), Tasha performs a 35-minute RF + GSM sweep of every room Jennings entered, using Jordan's inherited counter-surveillance kit. Saves a clean RF baseline for future comparison (Ch. 251). Re-sweeps the center Monday and confirms the baseline holds.
+
+    Builds the arc's keystone intelligence product at the May 7 Auditors reunion meeting: a 5-week composite timeline that overlays Auditors, Chambers & Woo, DVD, NSRA, and incident data, with a vertical April-24 line that exposes an 11-event cluster. The visual makes Red Calf attribution obvious to the room and to Ford (Ch. 254). Attends the May 22 briefing at Parker & Co LLC as field-technology support. Provides Sam's earpiece-linked Overwatch handler voice and coordinates drone/infrared coverage with Jamila during the West Philly tracking run (Ch. 262).
+
+    At Sam's 17th birthday gives her a small gift wrapped in newspaper ("waste of money, the paper just gets thrown away"). Declines Rampart's offer to be part of the Red Calf operation directly ("What, not me, the random civilian friend?") and covers the computing, drones, signals, and "most of the things that actually work." Takes a hardshell field kit upgrade from Amelia's survivorship-bias redesign round.
+
 
 ## Trivia
 
