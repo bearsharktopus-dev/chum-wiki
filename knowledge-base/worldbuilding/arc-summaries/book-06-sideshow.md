@@ -79,7 +79,7 @@ The arc concludes with the jury finding Chernobyl guilty of manslaughter, not mu
 | Daisy Zhen / Deathgirl | Leads the Phreaks' terrorist attack on the courthouse, force-feeding tainted Jump to protesters; fights Sam in a brutal one-on-one battle; dissolves into sobbing and apologies after being pinned; captured and sent to Daedalus |
 | Joseph Jones / Pumice | Attacks Sam at Love Park and again at the courthouse; fights Playback, Spindle, and disguised Gale; captured after being taken down by coordinated wind and asphyxiation tactics |
 | Elijah Brooks / Multiplex | Commands DVD response to the Jump crisis and courthouse attack; orders Young Defenders to follow NSRA suppression directives; coordinates search and rescue |
-| Connor Spindle / Spindle | Fights alongside Playback against Pumice; corroborates intelligence on Deathgirl's instability; visits Sam during recovery |
+| Connor Spinelli / Spindle | Fights alongside Playback against Pumice; corroborates intelligence on Deathgirl's instability; visits Sam during recovery |
 | Bianca Agnelli / Fury Forge | Receives Sam at her apartment post-breakup; participates in DVD leadership discussions about recruitment and trial strategy |
 | Councilman Jamal Davis | Hints at Young Defenders graduations; leads the formal announcement of team restructuring; supports Puppeteer and Playback's resignations |
 | Dr. Lena Trinh-Norwood / Mrs. Xenograft | Flashback interlude shows her 2021 recruitment into the Kingdom of Keys by Mrs. Zenith and Mr. Bomb; accepts unlimited resources for her genetic engineering research |

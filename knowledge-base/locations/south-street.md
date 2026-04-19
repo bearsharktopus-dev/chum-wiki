@@ -10,7 +10,7 @@
 | **Type** | Public Street |
 | **Location** | Philadelphia, PA (runs west past Broad Street to West Philadelphia) |
 | **Status** | Active |
-| **Associated Characters** | Sam Small (Bloodhound), Dean Carver (Rush Order), Benjamin Small, Daisy Zhen (Deathgirl), Connor Spindle |
+| **Associated Characters** | Sam Small (Bloodhound), Dean Carver (Rush Order), Benjamin Small, Daisy Zhen (Deathgirl), Connor Spinelli (Spindle) |
 | **Associated Organizations** | [Young Defenders](../organizations/delaware-valley-defenders.md), [Philly Phreaks](../organizations/philly-phreaks.md), [Rogue Wave](../organizations/rogue-wave.md) |
 | **First Appearance** | Chapter 10 |
 

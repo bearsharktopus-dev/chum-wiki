@@ -260,7 +260,7 @@ Beneath the sardonic exterior, Jordan carries significant emotional weight from 
 
     Reveals the existence of the "Sam's Adults" group chat between themselves, Miasma, and Maxwell Martinez - Maxwell named it. Asks Sam to confirm she will give them "the real version" of how things are going, not the bright version, at a later time.
 
-    Jordan's counter-surveillance architecture continues in use: Tasha's encrypted-channel file uploads to "Jordan's server" remain the team's primary secure data pipeline, and the RF/GSM detection kit Tasha uses to sweep the community center after NSRA visits is "all Jordan's stuff." Amelia confirmed Connor Spindle declined to participate in the Red Calf operation because he was focusing on his GED; Jordan's absence was filled implicitly through Maxwell and Miasma's coordination.
+    Jordan's counter-surveillance architecture continues in use: Tasha's encrypted-channel file uploads to "Jordan's server" remain the team's primary secure data pipeline, and the RF/GSM detection kit Tasha uses to sweep the community center after NSRA visits is "all Jordan's stuff." Amelia confirmed Connor Spinelli declined to participate in the Red Calf operation because he was focusing on his GED; Jordan's absence was filled implicitly through Maxwell and Miasma's coordination.
 
 ## Trivia
 

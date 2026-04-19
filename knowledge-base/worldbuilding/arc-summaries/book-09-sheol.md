@@ -145,4 +145,4 @@ Two aftermath interludes follow: MM.3 is Kate's hospital admission report docume
 ## Threads Resolved
 
 - **Aaron McKinley's fire campaign** - Aaron's escalating psychological warfare and arson attacks are ended when Sam tracks him to the Vogt Park house and defeats him in brutal hand-to-hand combat; he is arrested and taken into custody with permanent arm damage (planted Chs. 136–144, resolved Ch. 148)
-- **Connor Spindle's adoption** - Connor is officially adopted during this arc, completing the CPS evaluation process established in Book 8 (planted Book 8 Ch. 129, resolved Ch. 136)
+- **Connor Spinelli's adoption** - Connor is officially adopted during this arc, completing the CPS evaluation process established in Book 8 (planted Book 8 Ch. 129, resolved Ch. 136)

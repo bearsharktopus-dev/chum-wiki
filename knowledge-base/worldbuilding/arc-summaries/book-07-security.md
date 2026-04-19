@@ -87,7 +87,7 @@ The arc culminates on Halloween night in an abandoned warehouse at Penn Treaty P
 | Richard Johnson / Patriot | Plans anti-superhuman legislation and private security expansion; storms homecoming with police; beats Sam in front of the school; revealed as a Project Titan test subject; accepts a forced truce after the warehouse fight |
 | Tasha Reynolds / Lighthouse | Contributes technical skills; helps with spy operations and evidence gathering; remotely operates Sam's light killswitch during the warehouse fight (Chs. 110, 111, 118) |
 | Maggie O'Brien / Flashpoint | Trains in Aikido and repulsion field combat; chased by Zero; joins the proto-Auditors (Chs. 106, 109-110, 116) |
-| Connor Spindle / Spindle | Participates in whistleblower website and intelligence gathering (Chs. 105, 110-111) |
+| Connor Spinelli / Spindle | Participates in whistleblower website and intelligence gathering (Chs. 105, 110-111) |
 | Derek Taylor / Fenrir | Tracks Pattinson's Pals members by scent; dives through trash for incriminating evidence (Chs. 105, 111) |
 | Pop-Pop Moe | Hosts Rosh Hashanah dinner; Daedalus involvement revealed; tells Sam the story of Great-Grandpa Elijah; gives her the "Hard Traveling Heroes" graphic novel (Chs. 108, 110) |
 | Jason Reynolds / Rampart | Orders a stand-down regarding the Pals; patrols with Sam (Chs. 106, 109, 113) |

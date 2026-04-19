@@ -7,7 +7,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Full Name** | Connor (surname unknown/undisclosed; used the alias "Spinelli" in early appearances) |
+| **Full Name** | Connor Spinelli |
 | **Aliases** | Spindle |
 | **Date of Birth** | Unknown |
 | **Age** | 18 |
@@ -172,7 +172,6 @@ In team settings, Connor provides levity and grounding. He has a talent for stat
 
 ## Trivia
 
-- "Spinelli" appears to be an alias used during his time with the Phreaks rather than his legal surname, as he is consistently listed without a last name elsewhere.
 - His codename "Spindle" references his contortion abilities and is evocative of the Batman villain Ragdoll.
 - Connor is one of only two original Auditors (alongside Sam) who did not attend college. He is the only founding Auditor to fully retire from vigilante work.
 - Prior to joining the Phreaks, Connor had a family who "ditched me like wet garbage" and survived through drug dealing and sleeping in abandoned buildings and tents.
