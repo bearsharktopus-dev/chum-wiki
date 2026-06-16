@@ -16,7 +16,7 @@
 | **Preceded By** | Book 17: Rules of Engagement |
 | **Followed By** | TBD |
 | **Entries** | 16 chapters + 2 interludes |
-| **Note** | First book to open from a non-Sam POV (Rampart, JR.1). Lina Robinson and Douglas Furr's underground fight club debut; Sam fights it as "Superbeast" / "Alice Weiss." Aaron McKinley returns as Mr. Prometheus and dies. Sam takes her first permanent scarring. |
+| **Note** | First book to open from a non-Sam POV (Rampart, JR.1). Lina Robinson and Douglas Furr's underground fight club debut; Sam fights it as "Superbeast" / "Alice Weiss." Aaron McKinley returns as Mr. Prometheus and dies. Sam takes permanent scarring. |
 
 ## Summary
 
@@ -85,7 +85,7 @@ The denouement is quiet and bruised. Sam's regeneration triages her lungs first 
 
 | Character | Cape Name | Role in Arc |
 |-----------|-----------|-------------|
-| Samantha "Sam" Small | Miss Megalodon / "Superbeast" (ring name) / "Alice Weiss" (cover) | Benched from heroics; trains under Lina; secretly joins the fight club; reads and is hunted by Kill Buddha; dates Fatima; punches a Songbird who slurs her; is helpless at the fundraiser attack; pre-stages the South Street response (zero deaths); walks into the hostage trap, survives Fatima's reveal, and - at maximum temptation - does not chase her. Takes her first permanent scarring. |
+| Samantha "Sam" Small | Miss Megalodon / "Superbeast" (ring name) / "Alice Weiss" (cover) | Benched from heroics; trains under Lina; secretly joins the fight club; reads and is hunted by Kill Buddha; dates Fatima; punches a Songbird who slurs her; is helpless at the fundraiser attack; pre-stages the South Street response (zero deaths); walks into the hostage trap, survives Fatima's reveal, and - at maximum temptation - does not chase her. Takes permanent scarring. |
 | [Fatima al-Qadi](../../characters/fatima-al-qadi.md) | [Kill Buddha](../../characters/kill-buddha.md) | Sam's girlfriend and, secretly, the four-armed operative Kill Buddha; cultivated Sam as "an asset" to confirm Megalodon. Kills Aaron McKinley at the finale, blows her cover, declines Sam's sanctuary, and vanishes. Employer unknown; "Fatima al-Qadi" may itself be a cover. |
 | Aaron McKinley | The Coyote / Mr. Prometheus | Returning antagonist (tortured Sam as a 15-year-old); escaped Daedalus, Kingdom-coached; gaze-pyrokinetic with an eye-covered arm; attacks the fundraiser and firebombs South Street; abducts Fatima; **killed by her at the Kensington trap house** |
 | Kaitlyn "Kate" Smith | Soot (officially "dead") | Brings Sam into the South Philly underground and the fight club; does remediation work for Douglas Furr; her network supplies the fake IDs; gets the truth about Fatima = Kill Buddha at the end |
@@ -142,7 +142,7 @@ The denouement is quiet and bruised. Sam's regeneration triages her lungs first 
 - **How Aaron McKinley got out / who paid the hit** - RESOLVED in the interlude (3814): the **Kingdom** engineered his release from Curran-Fromhold (favors + a single vial of Fly + "12 hours of D's time") and orchestrated the whole campaign as a deliberate **chaos-for-market-entrenchment** play; Aaron was "the most sound investment money could buy." (The "D" who sprang him is most likely Mrs. Doppelganger - a body-double swap to take his place.) (Chs. 276-278)
 - **New (interlude 3814):** Red Calf's recommended **disengagement from Philadelphia** + **psychological warfare against Sam** (pressure her out of public life rather than martyr her); the **Superbeast/Megalodon "two people" misdirection** that has Red Calf doubting Sam is Megalodon; and the open question of **Mrs. Zygote (Dr. Euphemia Dunham)'s bio "projects"** with Mrs. Xenograft (the Kingdom scene features established Arc-16 figures **Mr. Preclude / Lucas Donovan** and Mrs. Zygote, not new ones)
 - **The Songbirds as a Kingdom-aligned operational front** - they blocked exits and covered Aaron's escape; the harassment campaign reframed as coordination/cover (Chs. 276, 278)
-- **Sam's permanent scars** - tiger-stripe arms + faint nose scar; the first lasting physical marks on her (Ch. 279)
+- **Sam's permanent scars** - tiger-stripe arms + faint nose scar; lasting marks from the arc (her regeneration triages the lungs first and the extremities last, so the worst-burned areas scar) (Ch. 279)
 - **Sam's fight-club career** - "Superbeast" / "Alice Weiss"; undercard record drifting to 5-5; ongoing (Chs. 271-279)
 - **Sam vs. Rex Rampage (Mr. Tyrannosaur)** - an old enemy is a fixture at her secret club, has clocked her, and Kate has mapped his exploitable weaknesses (Ch. 273)
 - **The city radicalizes** - post-July-18 surges in guns and "anti-powered" deterrents, a held curfew, a joint FBI/NSRA probe into metahuman criminal networks, and September congressional hearings (Ch. 279)
