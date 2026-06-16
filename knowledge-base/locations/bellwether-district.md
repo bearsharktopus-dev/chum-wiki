@@ -11,7 +11,7 @@
 | **Location** | South Philadelphia, PA (western edge, near the river) |
 | **Status** | Contaminated; site of federal investigation |
 | **Associated Characters** | Sam Small (Bloodhound), Marathon, Agent Ford, Tasha Reynolds (Lighthouse), McNulty (Bulldozer) |
-| **Associated Organizations** | [Kingdom of Keys](../organizations/kingdom-of-keys.md), FBI, ATF, [Pattinson's Pals](../organizations/pattinsons-pals.md) |
+| **Associated Organizations** | [Kingdom of Keys](../organizations/kingdom-of-keys.md), FBI, ATF, Pattinson's Pals |
 | **First Appearance** | Chapter 236 (Arc 16) |
 
 ## Overview

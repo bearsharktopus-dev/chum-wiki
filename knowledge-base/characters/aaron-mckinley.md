@@ -1,6 +1,6 @@
 # Aaron McKinley
 
-> A fire-manipulating villain and former gang leader who waged a prolonged campaign of violence against Sam Small, ultimately sentenced to 38 years in Daedalus Correctional Facility.
+> A fire-manipulating villain and former gang leader who waged a prolonged campaign of violence against Sam Small, was ultimately sentenced to 38 years at Daedalus, and was later recruited from prison by the Kingdom of Keys as "Mr. Prometheus."
 
 ## Infobox
 
@@ -14,13 +14,13 @@
 | **Gender** | Male |
 | **Ethnicity** | White (described as pale-skinned) |
 | **Place of Birth** | Unknown |
-| **Residence** | Philadelphia, PA (formerly); Daedalus Correctional Facility (current) |
+| **Residence** | Formerly Philadelphia, PA; incarcerated (Daedalus, later Curran-Fromhold) |
 | **Affiliation** | Kingdom of Keys (Mr. Prometheus, recruited while incarcerated) |
 | **Former Affiliations** | Tacony Coyotes (leader), Philly Phreaks (temporary alliance) |
 | **Occupation** | Criminal |
 | **Status** | Incarcerated |
 | **First Appearance** | Chapter 20 |
-| **Last Appearance** | Interlude tf-2 (Intermission 15.5, in person); mentioned through Intermission 15.5 |
+| **Last Appearance** | Intermission 15.5 (Interlude tf-2) |
 
 ## Background
 
@@ -129,6 +129,16 @@ Beneath the aggression is humiliation and a desperate need to prove his worth. R
 
     In Interlude tf-2, Trent Fairfax (Mr. Antithesis) visits Aaron at Curran-Fromhold prison, posing as new legal counsel. Aaron is described wearing a blackout mask over his eyes as containment, with his right arm fully braced from wrist to shoulder as a result of Sam's injuries. Trent renames him "Mr. Prometheus" and recruits him into the Kingdom of Keys, offering a dose of Fly (synergistic with pyrogenetic powers), Kingdom membership, a fiefdom over Camden, and millions of dollars in exchange for making his own jailbreak and killing Samantha Small.
 
+
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Main Antagonist (dies)
+
+    By Book 18, Aaron is out of prison. (A between-arcs interlude reveals the **Kingdom engineered his release** from Curran-Fromhold - "a couple of favors, a single vial of Fly, and about 12 hours of D's time" - as a deliberate chaos-for-market-entrenchment play, not on the strength of Aaron's own vendetta; he was a normal-conviction arsonist, not one of the juveniles freed by the Gilly injunction.) Styled now as **Mr. Prometheus** - a peacock-themed suit, a powered brace on the arm Sam broke, and a coached, theatrical delivery (Sam reads Mr. Antithesis's hand in his new stagecraft) - he attacks Rachel Small's July 18 accessibility fundraiser at the convention center annex. He takes the room hostage, declares his intent to "kill all superheroes," and reveals the eye-covered arm that defeats line-of-sight defenses. Rampart's takedown fails; Fury Forge beats him not by fighting the fire but by fogging the room to deny him targets, and the Songbirds (acting as his on-site support) cover his escape. Hours later he firebombs South Street with red fire, though Sam's pre-staged emergency response holds the death toll to zero.
+
+    For the finale he abducts Fatima al-Qadi to bait Sam to a Kensington trap house, demanding she come alone. He makes Sam kneel, then - on a whim - moves to kill Fatima. Fatima, secretly the operative [Kill Buddha](kill-buddha.md), had concealed a blade and two extra arms the entire time and kills him with a stab to the abdomen. Aaron's final magnesium blast burns both women before he dies; Sam, an EMT, confirms the wound is unsurvivable and leaves his body in the burning house. He had stated he was being paid "a lot of money" to kill Sam.
+
+    **Powers shown in Book 18:** his gaze-dependency is effectively solved by **ocular proliferation** - he can grow dozens of independently-tracking eyes across his bare arm ("two hundred eyeballs on a whim," sight from "six blocks from any rooftop"), defeating any line-of-sight defense (Rampart's head-pin takedown fails against it). Sam, as an EMT, catalogues his full fire taxonomy: yellow (sodium, sulfur smell), red (aluminum / road-flare), blue (pure sulfur, highly toxic), and white (magnesium - blinding, ignites on water, melts steel), plus a white escape smoke. Crucially he can only deploy yellow and red "on a whim" - the blue and white fires are not everyday tools, which is the lone ceiling on his mass-casualty potential.
 
 ## Trivia
 

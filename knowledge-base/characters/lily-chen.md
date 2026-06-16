@@ -216,6 +216,12 @@ She holds a strong moral code against lethal force, with PERKS assessments consi
     Reassigned by Amelia's redesign roster to reinforced shin guards integrated into her skating boots for further field work. At the May 22 DVD briefing for the Red Calf operation, assigned the EMT engine "speed-boost" role to move wounded operators fast during the upcoming raid (Ch. 262). Continues cousin-in-NYC carrier-pigeon-photograph updates as a running team group-chat gag throughout the arc.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting (hospitalized hero)
+
+    During Mr. Prometheus's attack on the July 18 fundraiser, Lily runs through a thin section of the burning east exit to reach her moped, then flags down a fire engine and "juices" it with her speed power, getting the trucks to the scene at roughly double speed and likely saving lives. The cost is second-degree burns across her arms and shoulders plus sulfur-dioxide smoke inhalation; she is hospitalized at Jefferson, conscious and (characteristically) asking for pizza. She later discharges against medical advice to rejoin the South Street fire response.
+
 ## Trivia
 
 - Her PERKS classification was originally H3/G2 (Hopper/Gigant) before being reclassified to A4 (Adjust) in 2023.

@@ -174,6 +174,12 @@ Her maternal instinct is equally prominent. She is fiercely protective of younge
     Referenced in the Interlude jb-1 (Professor Franklin) flashback to July 2016, where she is identified as a contributor to the DVD Training Curriculum. Described as having a firefighter background and gadgets/engineering expertise despite no engineering degree, with access to a training facility in Aramingo and responsibility for leading mobility training.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Major (the fundraiser's decisive responder)
+
+    In the opening interlude (JR.1), Fury Forge supports the Red Calf garrison raid - fielding new rebreathers tuned to survive Miasma's aura for about twenty minutes and handling the environmental/tech reads. Her defining moment comes at Rachel Small's July 18 accessibility fundraiser, when Mr. Prometheus takes the room hostage. Recognizing that the real problem is the hostages rather than the fire, she solves it as an engineer: she floods the hall with a fog that denies the gaze-based pyrokinetic his line of sight (plus a rain that captures the toxic chemical byproducts), making three hundred civilians invisible to his targeting and collapsing his leverage. She fights him with expanding fire-suppressant foam from a full firefighting exosuit, and is the single most effective responder in the room.
+
 ## Trivia
 
 - Chose the codename "Fury Forge" because she thought it sounded cool, not for any deeper significance.

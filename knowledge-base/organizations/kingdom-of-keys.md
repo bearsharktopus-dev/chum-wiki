@@ -221,6 +221,13 @@ Mr. Camcorder's sensory data recording enables surveillance and blackmail. Mrs. 
 | Delaware Valley Defenders | Adversary; Philadelphia's registered superhero team |
 | Philly Phreaks | Former associate; Deathgirl was "gifted" to the Phreaks by the Kingdom |
 | Philadelphia City Council | Formerly infiltrated; Mrs. Zenith held a seat until resignation in April 2026; political arm now fully severed |
+| The Songbirds | Anti-power provocateur movement the Kingdom has impersonated (false-flag robberies in Songbird colors) and, by Book 18, leveraged operationally. See [The Songbirds](songbirds.md). |
+
+??? warning "Book 18: Fire at Will"
+
+    Mr. Prometheus (Aaron McKinley) acted on the Kingdom contract to kill Sam Small. Out of prison, he attacked Rachel Small's July 18 accessibility fundraiser as a hostage-taking arson event and later firebombed South Street, with the **Songbirds providing on-the-ground operational cover** - blocking exits and screening his escape - the clearest operational link yet between the Kingdom and the ostensibly grassroots anti-power movement. The contract ended in failure: Prometheus was killed during the finale at a Kensington trap house. See [Aaron McKinley](../characters/aaron-mckinley.md).
+
+    A between-arcs interlude reframes the whole operation as a deliberate Kingdom market play. A senior Kingdom figure (the scene uses the org's single-letter codenames - "A" is Mr. Antithesis, who recruited Aaron) explains that Aaron was "the most sound investment money could buy - a couple of favors, a single vial of Fly, and about 12 hours of D's time in Curran-Fromhold" (i.e., the Kingdom engineered his release). The thesis: "chaos is good for business" - grey and black markets thrive on volatility, so South Street's destruction funnels construction money, displaced-resident drug demand, security demand, and state demand for anti-superpower drugs toward the Kingdom while undercutting Rogue Wave ("you entrench, and you become too big to fail"). The scene is run by **Mr. Preclude (Lucas Donovan**, formerly Mr. Polygraph; Mr. Nothing's Philadelphia second**)**, who frames the strategy for **Mrs. Zygote (Dr. Euphemia "Effie" Dunham)**, the stem-cell/chimera researcher running bio "projects" under Mrs. Xenograft. (Both are established Kingdom members from the Arc 16 restructuring.)
 
 ## Trivia
 

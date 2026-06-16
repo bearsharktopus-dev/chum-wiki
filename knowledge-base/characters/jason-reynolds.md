@@ -180,6 +180,14 @@ He maintains a warm, older-brother dynamic with Sam - good-natured ribbing, hair
     On May 30 leads the raid on the Red Calf staging base at 58th and Kingsessing. The action results in 14 captures out of 18 hostiles engaged with the full staging site recovered including a weapons cache and tunnel access to three additional city locations. Rampart takes a .308 round through the forearm; recovers, reportedly "mad about it" and annoyed that he did not see it coming. Relays final operation results to Sam via Maxwell's burner phone while she is at junior prom: "Your tracking data was essential. Good work. Enjoy your dance."
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Major (POV of Interlude JR.1)
+
+    Rampart narrates the book's opening interlude (JR.1): the federal/DVD raid on the Red Calf garrison beneath a rowhome at 58th and Kingsessing in West Philadelphia - the payoff of Sam naming Red Calf at the end of Book 17. On the forward element with Bulwark and Miasma (an NSRA HRT stack behind them, Crossroads running the breach, Fury Forge on the environmental reads, Multiplex on the perimeter, Ford commanding), he clears a tunnel network and a sleeping garrison - eight cots, a weapons cache, wipe protocols, three branch tunnels. The operation captures fourteen and recovers a cache drive; four escape. Rampart is shot through the left forearm - the first injury he has ever actually "felt" - and is told he faces six months of physical therapy, benching the DVD's frontline tank.
+
+    At Rachel Small's July 18 fundraiser, Rampart attempts to neutralize Mr. Prometheus with a textbook double-leg takedown and head-pin, but the arsonist's eye-covered arm defeats the line-of-sight control and the attempt fails. (See [Aaron McKinley](aaron-mckinley.md).)
+
 ## Trivia
 
 - His PERKS code F8/S/P/T stands for Filch category, power ranking 8, Self-affecting, Physical, Touch range.

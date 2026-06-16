@@ -131,6 +131,12 @@ Professionally, he is direct, authoritative, and comfortable with lethal force, 
     Appears in the TF.3 interlude (Mr. Antithesis's POV) at Trent's office. Rechristened Mr. Preclude - formerly Mr. Polygraph, "reborn through Fly" - as of April 2nd. Assigned as Mr. Nothing's second-in-command in Philadelphia, handling enforcement, compliance, and personnel discipline while Nothing handles the operational architecture. Trent notes that Lucas is "different than the man I knew as Polygraph" - same frame, same face, but "something behind his eyes has been recalibrated" after months depowered and weeks in a cell. His charges were dropped because prosecution couldn't establish a connection between his hospital presence and criminal activity. Trent kept him on salary, covered his legal fees, and provided a selection of Fly compounds. Lucas's new power is described as "authoritative" compared to his former "observational" ability - he "makes rules" (Preclusion). Trent tells Chezki Espinosa that Lucas's loyalty was "purchased through demonstrated investment." Sat in the waiting room with Effie Dunham (Mrs. Zygote) during her interview and was visibly miserable - described as enduring "the hollow aftermath of prolonged social endurance." Effie waves at him on her way out and tells him to think about glial cells. He does not respond. Receives train tickets back to Philadelphia from Ophelia; Mr. Nothing will meet him at the station.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting (between-arcs interlude)
+
+    In a Kingdom debrief, Mr. Preclude is the senior figure ("boss") setting Philadelphia strategy for Mrs. Zygote (Effie Dunham). He frames the Mr. Prometheus / South Street campaign as a deliberate chaos-for-market-entrenchment play - volatility benefits the Kingdom's grey and black markets (drugs, security, and state demand for anti-superpower drugs) while undercutting Rogue Wave ("you entrench, and you become too big to fail") - and reveals that the Kingdom engineered Aaron McKinley's release from Curran-Fromhold ("a couple of favors, a single vial of Fly, and about 12 hours of D's time"). He critiques but defends Mr. Antithesis's choice to use McKinley, and offers Zygote a good word on her "first review" if her bio projects prove market value.
+
 ## Trivia
 
 - Received a toy lie detector for Christmas in 1990 at age five.

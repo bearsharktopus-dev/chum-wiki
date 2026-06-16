@@ -164,6 +164,12 @@ The operation was deliberately timed to coincide with nationwide protests, the B
 | CIA Special Activities Division | Monitoring; the SAD's Counter-Terrorism Task Force compiled an operational analysis of Red Calf in September 2024 |
 | ISC (International Superhuman Coalition) | Unknown; Red Calf operates in the same global space as the ISC's Crisis Response Unit but no direct relationship is documented |
 
+??? warning "Book 18: Fire at Will"
+
+    Following Sam Small naming the organization at the end of Book 17, the federal and DVD apparatus moves on Red Calf's infrastructure. In the book's opening interlude (JR.1), a combined FBI/DVD/NSRA strike team raids a Red Calf garrison beneath a rowhome at 58th and Kingsessing in West Philadelphia - revealed to be a full sleeping garrison: eight cots, a weapons cache, a wipe protocol, a powered server (its cache drive recovered as intelligence), and three branch tunnels, one running under a public park. Fourteen operators are captured and four escape. The raid showcases Red Calf's scale and discipline - unbothered operators, professional tradecraft, a garrison that "people were sleeping in" - while leaving loose ends in the four escapees and an unrecovered north tunnel.
+
+    A between-arcs interlude reveals that the masked operative **Kill Buddha was a Red Calf agent - the same person as Fatima al-Qadi**, Sam Small's girlfriend across the arc. Her assignment was a Red Calf intelligence operation to confirm whether Sam is Megalodon; debriefed by Porcelain (Chezki Espinosa) alongside Gallows (Samuel Royce), she reports that she could not confirm it (assessing Sam at "30%") and recommends that Red Calf **disengage from Philadelphia entirely** ("the city is too tightly wound... you can't pull a thread without pulling twenty more"), and that - rather than assassinate Sam, which "makes a martyr" (a conclusion she notes Maya Richardson reached before stepping down) - the organization pressure her out of public life through psychological warfare.
+
 ## Trivia
 
 - The name "Red Calf" has not been explained in-universe. In Jewish eschatology, the red heifer (parah adumah) is associated with purification and the Messianic age - a potential thematic parallel given Porcelain's Israeli background and his philosophy of destruction as evolution.
