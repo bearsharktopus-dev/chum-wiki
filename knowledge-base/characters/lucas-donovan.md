@@ -135,7 +135,7 @@ Professionally, he is direct, authoritative, and comfortable with lethal force, 
 
     **Role:** Supporting (between-arcs interlude)
 
-    In a Kingdom debrief, Mr. Preclude is the senior figure ("boss") setting Philadelphia strategy for Mrs. Zygote (Effie Dunham). He frames the Mr. Prometheus / South Street campaign as a deliberate chaos-for-market-entrenchment play - volatility benefits the Kingdom's grey and black markets (drugs, security, and state demand for anti-superpower drugs) while undercutting Rogue Wave ("you entrench, and you become too big to fail") - and reveals that the Kingdom engineered Aaron McKinley's release from Curran-Fromhold ("a couple of favors, a single vial of Fly, and about 12 hours of D's time"). He critiques but defends Mr. Antithesis's choice to use McKinley, and offers Zygote a good word on her "first review" if her bio projects prove market value.
+    In a Kingdom debrief, Mr. Preclude is the senior figure ("boss") setting Philadelphia strategy for Mrs. Zygote (Effie Dunham). He frames the Mr. Prometheus / South Street campaign as a deliberate chaos-for-market-entrenchment play - volatility benefits the Kingdom's grey and black markets (drugs, security, and state demand for anti-superpower drugs) while undercutting Rogue Wave ("you entrench, and you become too big to fail") - and reveals that the Kingdom engineered Aaron McKinley's release from Curran-Fromhold ("a couple of favors, a single vial of Fly, and about 12 hours of D's time" - the unnamed "D" most likely Mrs. Doppelganger, i.e. a body-double swap). He critiques but defends Mr. Antithesis's choice to use McKinley, and offers Zygote a good word on her "first review" if her bio projects prove market value.
 
 ## Trivia
 
