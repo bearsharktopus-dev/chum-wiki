@@ -73,7 +73,7 @@ The arc culminates on Halloween night in an abandoned warehouse at Penn Treaty P
 | Dr. Emily Nakamura | Daedalus Correctional researcher | Testifies at congressional hearing about Aurora Springs containment protocols and the science of metahuman abilities (Ch. 115) |
 | Michael Turner | DEA Senior Agent | Testifies about Jump/Fly drug prevalence and the history of metahuman-related narcotics (Ch. 114) |
 | Senator Gantt | Senate committee chairman | Chairs the Governmental Affairs Committee hearing on superhuman regulation (Chs. 114–115) |
-| Abigail Small | Sam's cousin | Journalist and activist; bruised face from protest injuries at Rosh Hashanah; deduces Sam is Bloodhound via investigative reasoning (Ch. 108) |
+| Abigail Silverman | Sam's cousin | Journalist and activist; bruised face from protest injuries at Rosh Hashanah; deduces Sam is Bloodhound via investigative reasoning (Ch. 108) |
 | Schlemiel | Pop-Pop Moe's cat | Silver-furred cat with cerebellar hypoplasia; first appeared in Book 6 (Ch. 86); reappears in Ch. 110 |
 | Natalie | Patriot's partner | Present at Patriot's father's funeral; understands the importance of appearances (RJ.1) |
 | Sean | Patriot's associate | Large man in Patriot's inner circle; present at the funeral and referenced as a gym partner (RJ.1) |

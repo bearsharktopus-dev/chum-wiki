@@ -86,7 +86,6 @@ Despite her forceful exterior, she demonstrates genuine emotional warmth and loy
 
 - The plot thread tracker classifies Abigail's knowledge of Sam's identity as an open thread (O27), noting that if a civilian family member can independently deduce Sam's identity, others might too.
 - Her identity reveal is one of several identity compromises Sam faces in Book 7, alongside Patriot (Ch. 118) and federal agents (Ch. 114).
-- She is referred to as "Abigail Small" once (in the Book 7 arc summary table); her surname is Silverman from her father Aaron.
 - Her proximity to the Boston Activation Incident creates a geographic connection to Claymore's story in Intermission 15.5, though they have no known direct interaction.
 - Sam notes that Abigail started a school newspaper at ten and once stapled strongly worded letters to classroom doors (Ch. 16).
 - Miriam Small is collaborating with Abigail on an online magazine combining art, history, and journalism.
