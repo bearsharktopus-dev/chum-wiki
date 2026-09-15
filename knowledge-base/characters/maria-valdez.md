@@ -113,6 +113,11 @@ In the field, she is clinical and efficient, approaching assassination as a tech
 
     Referenced in Chapter 242 as the attacker who nearly killed Crossroads, who has been recovering on the Small family couch for two to three months since the attack. Crossroads eventually leaves with his shoulder at 80-85% to finish physical therapy from his dorm.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Referenced
+
+    When the Auditors connect the Stinger's frog-like tongue to the Kingdom, Maggie recalls the December 2024 Philadelphia Zoo Reptile House heist. Multiplex confirms it to Councilman Davis: "We recovered two of the tanks. Mrs. Heartbeat walked out with the rest in a cooler" - the frogs behind Mrs. Xenograft's breeding line. In Claymore's interlude (CM.2), an unnamed knife-fighting woman working with Rex Rampage at the Grays Ferry warehouse disrupts Red Scare's heartbeat and breathing by touch; she may be Mrs. Heartbeat, but she is not named in the text, so the identification is unconfirmed. Claymore's sabre goes through that woman's forearm and she withdraws.
 
 ## Trivia
 

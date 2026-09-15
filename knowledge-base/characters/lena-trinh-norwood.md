@@ -20,7 +20,7 @@
 | **Occupation** | Criminal scientist, drug developer, Kingdom of Keys operative |
 | **Status** | Active |
 | **First Appearance** | Chapter 25 |
-| **Last Appearance** | Ongoing |
+| **Last Appearance** | Interlude LTN.3 |
 
 ## Background
 
@@ -150,6 +150,11 @@ Her most notable trait is a frequent failure to register social cues related to 
 
     Trinh-Norwood does not appear directly. Mrs. Zygote (Dr. Effie Dunham) joins under her supervision for biological research.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (Interlude LTN.3 POV)
+
+    Narrates Interlude LTN.3. Tends 140 "beefrogs" across four vivaria - plum-sized, humming, bee-banded frog hybrids that serve as bioreactors. Her beefrog pipeline produces Hypeman, Vysera, "the melittin analog," and two products in FDA trials under a shell company's name; she finished the melittin painkiller (in phase two) and doesn't need her name on it. Cohort D, eleven weeks old, was raised from [Effie Dunham](effie-dunham.md)'s clone eggs as insurance against losing the breeding line, since there is "no second Philadelphia Zoo." Receives the glowing mass retrieved from the Tulip lot. In a flashback to a June presentation in Manhattan, she and Effie (Mrs. Zygote) pitch Project Bullfrog to the Kingdom leadership: [Dufay](dufay.md), an artificial organism built from Mr. Nothing and Deathgirl cell lines plus beefrog tissue. Lena corrects Mr. Keys's "containment protocol" to "handling protocol" - "he's an animal." On the eleven o'clock leadership call she confirms Dufay's commercial value, and Mr. Antithesis decides "We'll let it run." Privately admits Effie is her only real peer and more pleasant to work with than not, while finding her enthusiasm unsettling. Dufay's behavioral scaffolding includes donor engrams from 11-12 people, Lena among them (twenty minutes in a chair with a psionic and a technopath from Seattle). Her own rule is never to merge two living animals, only one dead and one living, because "the arithmetic is clean" - which leaves her unable to answer how many people Dufay is.
 
 ## Trivia
 

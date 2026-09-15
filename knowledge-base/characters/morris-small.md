@@ -183,6 +183,16 @@ Beneath the warmth, Morris carries significant moral weight. His regret over Dae
     Later mentioned as the recipient of Rachel's all-caps text cascade when Sam's SAT results come back at 800 verbal ("I'M TELLING YOUR GRANDFATHER"). His cat Schlemiel - who walks into doorframes and sleeps with his legs in four directions - is introduced on-page for the first time at the Shabbat visit.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Pop-Pop hosts Rosh Hashanah in Ventnor for seven people (the Extra Table is not up this year). He leads kiddush and the holiday foods, issues his annual new-fruit challenge (rambutan), and rules "No monsters at my table... The monster can have Tuesday." He mentions that Rachel's brother David called to wish him a sweet year and that they discussed "his knee," leaving the sentence unfinished; the table steers around it (Ch. 286).
+
+    On the balcony he tells Sam, "It's a good year, Sambina. Don't ruin it early with fibs to your grandfather." At tashlich he turns out his pockets (Ch. 286). He greets Sam at Yom Kippur break-fast ("Easy fast?" / "Liar") and tells his 1987 Yom Kippur story (Ch. 288).
+
+    On the day Abigail's Globe article runs and she goes quiet, he calls the Small house once, says one sentence to Ben, and hangs up; what he said is not revealed (Ch. 292).
+
 ## Trivia
 
 - Morris claims to have met Stan Lee and Steve Ditko, as well as Mr. Chakravarti (Mr. Genesis), whom he described as a true hero.

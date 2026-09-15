@@ -188,6 +188,12 @@ He maintains a warm, older-brother dynamic with Sam - good-natured ribbing, hair
 
     At Rachel Small's July 18 fundraiser, Rampart attempts to neutralize Mr. Prometheus with a textbook double-leg takedown and head-pin, but the arsonist's eye-covered arm defeats the line-of-sight control and the attempt fails. (See [Aaron McKinley](aaron-mckinley.md).)
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (relocation; congressional testimony)
+
+    After seeing evidence that [Dufay](dufay.md) can steal and quickly master a victim's power, Multiplex decides "Rampart's not staying here" (Ch. 291): Sam reasons that a stolen immovable-object power plus invulnerability would make a dangerous weapon, and that "Rampart would never forgive himself." Rampart is relocated out of Philadelphia. He testifies with Davis and Multiplex at the Ch. 292 congressional hearing; asked by a congresswoman whether he has ever been injured, he answers "Not yet," and does not laugh with the room.
+
 ## Trivia
 
 - His PERKS code F8/S/P/T stands for Filch category, power ranking 8, Self-affecting, Physical, Touch range.

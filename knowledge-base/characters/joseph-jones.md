@@ -18,9 +18,9 @@
 | **Affiliation** | Philly Phreaks |
 | **Former Affiliations** | N/A |
 | **Occupation** | N/A |
-| **Status** | Incarcerated |
+| **Status** | Paroled (Tacony Community Center reentry program) |
 | **First Appearance** | Chapter 32 |
-| **Last Appearance** | Chapter 99 |
+| **Last Appearance** | Chapter 282 |
 
 ## Background
 
@@ -109,6 +109,12 @@ An avid Philadelphia sports fan (Phillies, Sixers), he frequently wears Allen Iv
     His class-action record notes that he had no family advocacy during his detention: his parents kicked him out the instant he turned eighteen. Rachel Small cites Pumice's and Chrysalis's situations to Sam as the anchors of the argument that Sam's own functional adolescence is attributable to her parents' persistence, not her character.
 
     Sam's Tacony Community Center agreed in-arc to accept Daedalus-reentry referrals through the June 2026 pilot program, which is expected to include Pumice if Gilly's case produces supervised release.
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (reentry intake)
+
+    Paroled from Curran-Fromhold, Joseph arrives at the Tacony Community Center with Angela Perez for reentry intake, both wearing ankle monitors (Ch. 282). He greets Sam as "Smalls" and talks about the Phillies. Sam remembers that he once drew a line in the basement and said no when it cost him, and that his line moved at the courthouse "because of Deathgirl. And Elias" - which makes him harder, not easier, for her to face.
 
 ## Trivia
 

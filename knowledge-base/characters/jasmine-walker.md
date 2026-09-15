@@ -111,6 +111,12 @@ Beneath the affect is a teenager who craves positive attention but is scared to 
     Confronted by Sam the following Saturday (Ch. 260), Jasmine admits to repeatedly walking past the warehouse to "see if anything changed." Sam lectures her carefully - "brave and reckless is a combination I have some personal experience with" - and reframes her actions as both correct (calling for help) and reckless (proximity). Her uncle is relocated to a site in Bensalem. Receives Sam's downstream Maxwell-diagnosis speech about compulsion alongside Alex Kirby. Accepts Fatima al-Qadi's arrival at the center politely and comments "she's pretty" in the flattest possible voice.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Jasmine continues in mentorship, where plants still lean toward her when she is startled (Ch. 282); Alex mentions that her uncle had to move. When Sam tells the kids about the Stinger, Jasmine and Zara both suspect Sam went out and watched it (Ch. 287).
+
 ## Trivia
 
 - Her enamel butterfly pin in blue and yellow, worn to a later mentorship meeting (Ch. 231), was described as the most color Sam had ever seen on her - a small crack in the all-black goth aesthetic that hints at her actual interest in beautiful things.

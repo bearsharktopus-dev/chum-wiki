@@ -115,6 +115,11 @@ He struggles with the ethical implications of controlling other people's bodies 
 
     Part of the Tacony Titans' storm response during the Maya Richardson-engineered blizzard that dumps sixteen inches of snow on Northeast Philadelphia (Chapter 229). While the other Titans are in the field - Moonshot sweeping the Cottman corridor, Compass and Bubble handling residential check-ins - Sandman coordinates from the Titans' base. The team is overwhelmed with search-and-rescue operations and unable to address the coordinated Kingdom break-ins, prompting Sundial to request Auditors assistance and establish a joint communication channel.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (comms and analysis)
+
+    Sandman runs comms from the van with Tasha during the joint creek recon (Ch. 289; LC.1) and drives the van back afterward. In Ch. 290 he supplies the key analysis of Mr. Polygraph's power: the commands came over three mics "clear as day" and did not affect him or Tasha, so "it's not the words... it's ears in the same air as him," likely "neurological or neurochemical." He sleeps standing against a wall while his arms read a braille textbook, identifies the package on the Aramingo roof in Moonshot's footage ("Somebody left that") and the garden-center bag ("That's a register. Somebody bought that"), and transcribes Lucy's creek read alongside Sam; his variant transcription is stapled into the file handed to the DVD. He guesses "Mrs. Zombie" for the "Z" before Tasha lands on Zygote.
 
 ## Trivia
 

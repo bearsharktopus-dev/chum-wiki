@@ -14,13 +14,13 @@
 | **Gender** | Female |
 | **Ethnicity** | Jewish-American |
 | **Place of Birth** | Unknown |
-| **Residence** | Boston, MA (Emerson College) |
+| **Residence** | Bella Vista, Philadelphia, PA (sublet; formerly Boston, MA) |
 | **Affiliation** | Small family |
 | **Former Affiliations** | N/A |
-| **Occupation** | Student, Journalist / Activist |
+| **Occupation** | Freelance journalist |
 | **Status** | Active |
 | **First Appearance** | Chapter 16 (mentioned), Chapter 68 (in person) |
-| **Last Appearance** | Chapter 197 (mentioned) |
+| **Last Appearance** | Chapter 292 |
 
 ## Background
 
@@ -81,6 +81,18 @@ Despite her forceful exterior, she demonstrates genuine emotional warmth and loy
 
     Referenced as being at Emerson College in Boston during the Boston Activation Incident at Boston Commons. Mom (Rachel) panics when she realizes Abigail's proximity to the explosion, and Sam reaches out through HIRC to check on her. Later confirmed safe - she was at the protest on the periphery and returned to her dorm. All Emerson students placed under lockdown (Ch. 197).
 
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Abigail spends the week of Rosh Hashanah at Pop-Pop's house in Ventnor, arriving Tuesday night and swimming in the cold Atlantic twice. Over the holiday she gently interviews Sam about senior year, EMT work, and college plans, calls her "triage-brained," and lights candles with the mothers for the first time (Ch. 285-286).
+
+    On a beach walk she tells Sam she is not going back to Boston: she has pitched editors on the Stinger as a freelancer and taken a sublet in Bella Vista. She asks Sam once whether she is "for real retired," and Sam tells her the current Bloodhound is not her (Ch. 286).
+
+    In Philadelphia she joins the Smalls' Wednesday dinners and reports on the ground: she finds card players connected to a victim (one keeps the shirt he wrapped the victim's hands in), texts Sam from hospital intake about a fourth victim, and tracks down a victim with an unregistered cold power. Her Stinger piece goes up on Yom Kippur and closes on the line that the people the creature hunts best "are the ones no list has ever reached" (Ch. 287-288).
+
+    Her Philadelphia reporting runs in The Philadelphia Inquirer, and on September 28, 2026 the Boston Globe publishes her guest article "VYSERA & VIRTUE," reporting at least nine victims, four powered victims who lost their powers for about three hours, Vysera's undisclosed shell vendor, and foreign DNA in an excised nodule (AS.1). Congressman Braddock reads her line aloud at the congressional hearing. That morning she posts to the family chat that she is "laying low for a little bit," and the Small house turns into a phone bank of worried relatives (Ch. 292).
 
 ## Trivia
 

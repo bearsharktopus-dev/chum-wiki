@@ -178,6 +178,13 @@ Boxing brings out a different side - his sense of humor emerges and he becomes n
 
     Part of the DVD team assisting in the search operation for Shrike, the escaped Daedalus inmate targeting Bloodhound. Assigned to watching for Shrike with multiple copies while other DVD members check specific addresses across the city. Featured in Interlude JB.1, a flashback to 2016 where Professor Franklin hires him as the DVD's lead combat instructor after Elijah dismantles him in a 90-second spar. The interlude reveals his background at Knockout Gym and his philosophy that mercy should be a selection filter, not a training outcome.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (DVD liaison; congressional testimony)
+
+    Multiplex sits in on Sam's Labor Day briefing (Ch. 283) with a duplicate at the coffee maker. He confirms the frog source: "December '24. We recovered two of the tanks. Mrs. Heartbeat walked out with the rest in a cooler. I was there." Reading the photos of the cleaned nest, he notes "The city doesn't mop." At the airlock he tells Sam, "Tell O'Brien the ribs were worth something after all."
+
+    Two Multiplexes attend the Ch. 291 handover. Seeing stills of [Dufay](dufay.md) using Lily's copied power nine hours after taking it, they exchange a look and decide "Rampart's not staying here." He walks Sam out with "The muffs were smart," revealing he read the whole fourteen-page timeline. At the Ch. 292 congressional hearing he testifies alongside Davis and Rampart, calling South Street "successful, but not sufficient" because no civilians were killed.
 
 ## Trivia
 

@@ -24,5 +24,9 @@ South Street is a well-known Philadelphia street that serves as a recurring loca
 - **Arc 3 - Philly Phreaks Confrontation:** The Young Defenders are dispatched to South Street to confront the Philly Phreaks after an anonymous tip from Spindle. The battle reveals Deathgirl as the Phreaks' secret weapon - a twelve-year-old power copier who duplicates and amplifies multiple heroes' abilities in succession, including Puppeteer's strings, Gale's wind, and Bloodhound's regeneration. Spindle betrays the Phreaks during the fight, helping to capture Patches. Chrysalis and Pumice flee, and Deathgirl escapes through a storm drain (Arc 3).
 - **Arc 12 - Sam vs. Rush Order:** Sam tracks Elias Franklin's trail through Point Breeze to a warehouse near South Street, leading to a public confrontation with Rush Order. The fight becomes a spectacle with bystander crowds and drones filming. Benjamin Small arrives and shoots Rush Order in the left shoulder; Rush Order shoots Ben in the right thigh, narrowly missing the femoral artery. The "Gun Dad" video goes viral. Rush Order later recovers at the Camden safehouse, and Ben requires surgery and extended rehabilitation (Arc 12).
 
+??? warning "Book 19: Front Towards Enemy"
+
+    - **Book 19:** Two months after the firebombing, the street's edges still show fire damage ("REOPENING EVENTUALLY"). A Boston mutual-aid crew led by [Faith Chun](../characters/faith-chun.md) (as Faith Song; the Boston Red Shocks' Colonel) runs Thursday supply distribution out of a church lot off South Street; Sam and mentee Alex Kirby work the run (Ch. 287). At the congressional hearing, Multiplex calls the South Street response "successful, but not sufficient" (Ch. 292).
+
 !!! note "Stub"
     This article is a stub and may need expansion.

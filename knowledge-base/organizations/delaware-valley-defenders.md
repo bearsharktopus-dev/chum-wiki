@@ -106,6 +106,14 @@ The DVD also maintains an anonymous tip line used by civilian informants and all
 | Rogue Wave | Antagonist; drug-trafficking organization distributing Jump and Fly across Philadelphia |
 | Philadelphia City Government | Employer and oversight; Councilman Davis serves as liaison; relationship complicated by Richardson's anti-vigilante legislation |
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **The Stinger case.** On Labor Day 2026 Sam Small brought the neck-sting case to Councilman Davis, legal counsel **[Clara Parker](../characters/clara-parker.md)**, and Multiplex (Ch. 283). Multiplex confirmed that Mrs. Heartbeat left with the poison dart frogs in December 2024; Davis arranged an EMS intake flag for sting presentations, which caught nothing because powered victims avoided hospitals. Clara became Sam's direct evidence channel ("belief is not a chain of custody"). The DVD diverted patrols to the southeast corridor.
+
+    After the joint Auditors-Titans creek recon, the Auditors handed over a full file - timeline, sketches, video, audio, and a pollen-bag wrapper (Ch. 291). Clara called it the best-assembled intelligence file she had seen in six years, then chose not to log it, since logged material would become a subpoenable exhibit at the coming congressional hearing. Seeing footage of Dufay using a copied power, the DVD decided **Rampart would be relocated out of Philadelphia**, out of Dufay's reach.
+
+    **Congressional hearing (September 28, 2026).** Davis, Multiplex, and Rampart testified before a congressional oversight committee. Asked by Congressman Braddock whether a creature is hunting powered residents, Davis answered **"Yes,"** and used the moment to tell unregistered powered young people to tell someone and not be alone at night. He did not mention Vysera or the Kingdom. After the Boston Globe published Abigail Silverman's Vysera article, Braddock asked whether Davis had seen evidence tying the creature to the federal suppressant program; Davis said he had received unauthenticated information and **refused under oath to name its source** (Ch. 292).
+
 ## Trivia
 
 - The HQ's Young Defenders obstacle course was dismantled and packed away after the program's dissolution.

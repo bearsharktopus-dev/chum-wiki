@@ -109,6 +109,13 @@ Her demeanor counterbalances the more volatile personalities on the Titans. She 
 
     Listed among the Tacony Titans overwhelmed with storm response during the Maya Richardson-engineered blizzard in Chapter 229. Moonshot was assigned to sweep the Cottman corridor while Sandman coordinated from base and Compass and Bubble handled residential check-ins. The Titans had been doing search and rescue since before dawn - handling car accidents, people without power, and medical emergencies - and were now facing a wave of commercial break-ins. Sundial requested Auditors assistance with coverage, and a shared communication channel was established between the two teams.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (rescue and pursuit)
+
+    Paired with Lily Chen in a rescue car on Almond Street for the joint creek recon (Ch. 289; LC.1), Moonshot says "mm" about nine times while waiting. When Mr. Polygraph's commands freeze the forward team, she flips her gravity, skims sideways out the car window, and swoops upside down to scoop Sam and dump her on a rooftop. She then hauls Derek uphill and carpet-rolls Sundial out of reach of the corrosive pink figures, one of which grabs her ankle. When [Dufay](dufay.md) takes Lily's push by stinging her, Moonshot radios "In pursuit."
+
+    She returns at 4:50 AM still masked (Ch. 290): she tracked the creature to a warehouse roof off Aramingo, where "he went to his spot and he went to sleep." Her eleven minutes of footage show Dufay repeatedly overshooting with Lily's speed and improving ("He's just tired. He keeps forgetting he's fast"), eating from a pale loaf-sized package, and leaving behind a torn garden-center bag and yellowish dust. When the team guesses at the "Z" in Lucy's read, she observes that the pink figures "weren't dead people. They were people who were ten minutes old." Stills from her footage anchor the file handed to the DVD in Ch. 291.
 
 ## Trivia
 

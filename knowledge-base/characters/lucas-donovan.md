@@ -20,7 +20,7 @@
 | **Occupation** | Second-in-Command, Philadelphia Branch (under Mr. Nothing) |
 | **Status** | Active |
 | **First Appearance** | Chapter 12 |
-| **Last Appearance** | Ongoing (referenced) |
+| **Last Appearance** | Chapter 290 (referenced) |
 
 ## Background
 
@@ -36,7 +36,7 @@ No official PERKS assessment on file.
 
 ### Abilities
 
-- **Preclusion (Current)** - Gained through Fly compounds provided by Mr. Antithesis after his original power was extracted. Described as "authoritative" rather than observational - Lucas "makes rules." The full scope and mechanics of this ability have not yet been detailed, but Trent considers it "distinctive" and Chezki Espinosa immediately recognizes its tactical utility. Represents a fundamental shift in Lucas's operational posture from detecting problems to dictating solutions.
+- **Preclusion (Current)** - Gained through Fly compounds provided by Mr. Antithesis after his original power was extracted. Described as "authoritative" rather than observational - Lucas "makes rules." It takes the form of spoken commands that override a listener's body; see Book 19 for observed mechanics. Trent considers it "distinctive" and Chezki Espinosa immediately recognizes its tactical utility. Represents a fundamental shift in Lucas's operational posture from detecting problems to dictating solutions.
 
 - **Lie Detection (Former - Extracted)** - Lucas formerly possessed an extrasensory ability to determine whether someone was truthfully responding to a question he asked. When a subject spoke a falsehood, he experienced a distinct unpleasant twinge, referred to as a "ping," in the back of his skull. This ability functioned regardless of physical proximity and operated over telephone calls, video calls, and any other medium that transmitted spoken communication. The power detected subjective truth rather than objective reality, meaning it registered whether the speaker believed they were telling a falsehood rather than whether the statement was factually accurate. This power was extracted by Snake Oil during his capture by Rogue Wave (Arc 15), crystallizing into a blue-green crystal. The resulting ability was later acquired by Lawrence Sullivan (Monkey Business).
 
@@ -136,6 +136,12 @@ Professionally, he is direct, authoritative, and comfortable with lethal force, 
     **Role:** Supporting (between-arcs interlude)
 
     In a Kingdom debrief, Mr. Preclude is the senior figure ("boss") setting Philadelphia strategy for Mrs. Zygote (Effie Dunham). He frames the Mr. Prometheus / South Street campaign as a deliberate chaos-for-market-entrenchment play - volatility benefits the Kingdom's grey and black markets (drugs, security, and state demand for anti-superpower drugs) while undercutting Rogue Wave ("you entrench, and you become too big to fail") - and reveals that the Kingdom engineered Aaron McKinley's release from Curran-Fromhold ("a couple of favors, a single vial of Fly, and about 12 hours of D's time" - the unnamed "D" most likely Mrs. Doppelganger, i.e. a body-double swap). He critiques but defends Mr. Antithesis's choice to use McKinley, and offers Zygote a good word on her "first review" if her bio projects prove market value.
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    At the Frankford Creek culvert under the Betsy Ross Bridge, he is part of the Kingdom cleanup crew (with Mudslide and [Mrs. Zygote](effie-dunham.md)) recovering a discarded, breathing mass shed by [Dufay](dufay.md), covering the north approach by radio. Sam still calls him "Polygraph," noting more scars and salt-and-pepper hair. When Dufay attacks the crew and frostbites Mudslide's arm, he draws but holds fire because of the residential blocks and onlookers. His flashlight finds Sam and he names her "Megalodon" on sight, then shouts "YOU CAN'T MOVE" - the first on-page use of his command power, which freezes Sam, Derek, and Sundial in place. Lily Chen fires warning marbles and then steel ones, hitting him in the stomach and high in the chest; he fires at her roof and begins another command ("Bloodhound, you can't stop thro-") that doubles Derek over but fails on Lily, who covered her ears. Zygote calls him "P" and hurries him into the van, which escapes west. Afterward the Auditors and Titans work out the power's rules: it works on hearing in the same air (his crew wore ear protection), and Sam's paralysis lasted about fifty seconds. They theorize the power came from Fly, as Aaron McKinley's did.
 
 ## Trivia
 

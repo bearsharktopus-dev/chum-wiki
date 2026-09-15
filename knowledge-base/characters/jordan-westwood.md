@@ -262,6 +262,18 @@ Beneath the sardonic exterior, Jordan carries significant emotional weight from 
 
     Jordan's counter-surveillance architecture continues in use: Tasha's encrypted-channel file uploads to "Jordan's server" remain the team's primary secure data pipeline, and the RF/GSM detection kit Tasha uses to sweep the community center after NSRA visits is "all Jordan's stuff." Amelia confirmed Connor Spinelli declined to participate in the Red Calf operation because he was focusing on his GED; Jordan's absence was filled implicitly through Maxwell and Miasma's coordination.
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Minor (remote)
+
+    Appears only through the Auditors group chat. After the fundraiser attack, Jordan pulls news articles trying to work out how Aaron got out of Daedalus, and when South Street catches fire, texts "are you guys okay???" and asks whether anyone has eyes on Sam (Ch. 277). Sam also thinks of Jordan's precise way of moving when watching Fatima (Ch. 267), and of their first scheme to fake a hero-villain fight for reputation (Ch. 270).
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (remote)
+
+    Jordan is still at MIT, overwhelmed by a flood of new physics; their quantum mirage research is in preprint. They are not coming home for winter break. Jordan sends Sam a scanned toxicology text for the Stinger investigation and mentions that Boston's mutual-aid scene "never demobilized" after the Commons bombing. After the Boston Red Shocks' rooftop rally, Jordan checks the group's network requests and confirms the tip line really goes somewhere.
+
 ## Trivia
 
 - Was eating cold Chef Boyardee from a can when Sam first spotted them at the school lunch table.

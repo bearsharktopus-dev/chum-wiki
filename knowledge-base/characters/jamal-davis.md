@@ -164,6 +164,16 @@ Beneath the politician's polish, Davis possesses a moral seriousness that has sh
 
     In Chapter 244, Silverstein pauses when he sees Davis's name on Sam's community center paperwork, and Sam directs Silverstein to speak with Davis as a colleague-to-colleague channel. In Interlude MR.10, Davis has built a coalition of five council members to vote for stripping Richardson of Argus Corps oversight, with Silverstein co-sponsoring the motion. The transition is effective April 1st. After Richardson's resignation, Davis comments diplomatically: "personal decision that we respect."
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (institutional response; congressional testimony)
+
+    Sam briefs Davis, [Clara Parker](clara-parker.md), and Multiplex at DVD headquarters on Labor Day (Ch. 283). Davis's plan: skip the tip line and call him or Clara directly, and set an EMS medical-director intake flag for sting presentations with a subdermal cyst. The flag catches nothing, because the powered victims avoid hospitals (Ch. 285).
+
+    In Ch. 291 Sam, Tasha, and Lucy hand over the joint teams' full intelligence file on the Stinger. With DVD offices half-packed, Clara withholds it from the record: on Monday Davis, Multiplex, and Rampart testify at a congressional oversight hearing in Washington, and anything logged would become a subpoenable exhibit. Davis asks Sam "What you think happens if I say yes?" and declines to say how he will answer.
+
+    At the September 28 hearing (Ch. 292), watched by Sam's AP Chemistry class on C-SPAN, Davis tells Congressman Kessler he doesn't run Philadelphia - "I also run one superhero team." Asked by Braddock whether a creature is hunting powered residents in Philadelphia, he answers "Yes," and uses the moment to warn young people with unregistered abilities to tell somebody, not be alone at night, and not show off. He says he has watched children in his district recruited "by men with money and a syringe for six years," two of whom died. He does not name Vysera or the Kingdom. After recess, asked about a link to the federal suppressant program, he says he has received information he has not authenticated and refuses to name its source. Abigail Silverman's Boston Globe article (AS.1) runs an editor's note on his "Yes." Sam's teammates read his refusal as protecting Clara, and through her, Sam.
+
 ## Trivia
 
 - Sealed his alliance with Sam with a fist bump and the phrase "For great justice?" - lowering his fist to Sam's chest level.

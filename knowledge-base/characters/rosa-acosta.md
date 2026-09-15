@@ -119,6 +119,11 @@ Despite her youth, Rosa demonstrates genuine courage under fire - notably stayin
 
     During Maya Richardson's manufactured blizzard, all Tacony Titans members are overwhelmed with storm response - search and rescue operations throughout the night including car accidents, people without power, and medical emergencies. In Chapter 229, Sundial contacts the Auditors requesting intelligence support and coordination, setting up a shared communication channel between the two teams. Bubble and Compass are assigned to residential check-ins while Moonshot sweeps the Cottman corridor and Sandman coordinates from base. The Titans are stretched thin dealing with the storm's aftermath and the fifteen coordinated Kingdom break-ins it concealed.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (creek operation)
+
+    Bubble joins the first joint Auditors-Titans operation (Ch. 289), stationed with Maggie across the water on the Bridesburg side "so whatever's down there has to pick a shore." When the recon is ambushed (LC.1), Tasha's read that the commands work through ears sends Bubble and Maggie across to pinch, and after the retreat Bubble and Amelia handle first aid for the injured.
 
 ## Trivia
 

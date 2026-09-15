@@ -209,6 +209,16 @@ Rachel carries deep trauma from her childhood with Victor Blanc. Her fear that S
     Rachel drives Sam to the May 3 SATs, to the Friday DVD briefing, and to junior prom on May 30, where she meets Fatima al-Qadi and extends an immediate open invitation to the Small house. The eight hundred verbal SAT score produces an all-caps Rachel text response disproportionate to the heroics she has otherwise been watching: "SAMANTHA SMALL YOU GOT A PERFECT VERBAL SCORE. I'M TELLING YOUR GRANDFATHER. I'M TELLING EVERYONE."
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Sam asks her parents for permission before investigating the Stinger; Rachel's terms are no fighting, texts on arrival and departure, and the bracelet on (Ch. 281).
+
+    At Rosh Hashanah in Ventnor, Pop-Pop mentions that Rachel's brother David called him and that they discussed "his knee," leaving it unfinished; Sam guesses that Grandpa Victor did something to Uncle David, and the table reroutes around it. At tashlich Rachel stays at the waterline, and Ben stands with her while she leans her head on his shoulder (Ch. 286).
+
+    She cooks for nine at the Wednesday dinners Abigail now attends, keeps the phones-in-the-basket rule at Yom Kippur sundown (Ch. 287-288), and shuts down Ben's "lefty villains" commentary on the Red Shocks at Shabbat dinner (Ch. 291). On hearing day, as relatives call about Abigail, she is mid-call when Sam leaves for City Hall, telling her she is going to "the center" (Ch. 292).
+
 ## Trivia
 
 - She microwaves water for tea as her typical method, but unusually used a kettle when Liberty Belle visited - the first time Sam can remember her using it.

@@ -8,7 +8,7 @@
 | Field | Value |
 |-------|-------|
 | **Full Name** | Elias Franklin |
-| **Aliases** | Chimera |
+| **Aliases** | Chimera, Jabberwocky |
 | **Date of Birth** | Unknown |
 | **Age** | 26 |
 | **Gender** | Male |
@@ -145,6 +145,11 @@ His ideology centers on democratizing superpowers - he views Rogue Wave's drug d
 
     No documented appearances.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Referenced
+
+    Does not appear. Early in the Stinger investigation, Derek suggests Elias as a suspect; Sam rules him out because his power produces arm-sized animal parts, not a needle-sized stinger. In Interlude DT.4, Derek reveals more of their history - he was "the guy he called when his own family wouldn't pick up," and what ended them was that Elias "kept going" into Rogue Wave, which deals powers. Derek later inspects the creature's nest himself and crosses Elias off. In Interlude DC.4, Rush Order tells Sam to have "Elias" treat her wounds, then corrects the name - he now goes by "Jabberwocky." Sam: "So he finally picked a circus name like the rest of you."
 
 ## Trivia
 

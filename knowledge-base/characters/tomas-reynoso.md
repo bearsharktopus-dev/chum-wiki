@@ -101,6 +101,11 @@ Reynoso treats life like a casino game - unpredictable but riggable. He is a thr
 
     Shopping with Dead Drop (Renee Costello) at the CVS on Cottman in civilian clothes, holding a case of Red Bull and checking his phone (Ch. 260). Does not recognize Sam on sight and only notices her because Dead Drop's stare draws his attention. Second look at Sam goes nowhere before he returns to his phone. Exits with Dead Drop at a casual pace when she decides to leave. Sam recalls him from Jordan's prior intelligence: "casino dealer aesthetic - tan, greased hair, peach fuzz mustache."
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (Ch. 284)
+
+    Jackpot turns up at the underground fight club on a Tuesday, nursing one beer like a prop, with Birthday Suit guarding him. He canvasses Sam's fighter persona, "Alice"/"Superbeast," for information ("you hear things... I'm trying to diversify") and tells her to "walk home in groups anyway. It's a bad year." From his questions Sam deduces that Rogue Wave does not know what stung Dead Drop and is canvassing blind, and from his buoyant mood that Dead Drop has recovered.
 
 ## Trivia
 

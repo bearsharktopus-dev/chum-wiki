@@ -80,7 +80,7 @@ CM.1 introduces Claymore (Clay) of the Boston Red Shocks - a leftist cell of pow
 | Malik Mitchell | Captain Devil's son | Ten years old; hides tablet under pillow. |
 | Destiny Mitchell | Captain Devil's daughter | Seven years old; wants to be a superhero. |
 | Director Harrison | Daedalus prison project director | American; oversees construction and security consulting. |
-| The Colonel | Leader of the Boston Red Shocks | Close-cropped hair; economical movements; carries a hazard-yellow Walther PPK; gives minimal but impactful direction. |
+| [The Colonel](../../characters/faith-chun.md) | Leader of the Boston Red Shocks (Faith Chun) | Close-cropped hair; economical movements; carries a hazard-yellow Walther PPK; gives minimal but impactful direction. |
 | Ghostwriter | Boston Red Shocks member | Wears archival gloves; carries books as "soldiers"; can absorb/use text from documents; reads Russian literature. |
 | Red Scare | Boston Red Shocks member | Speed and stealth specialist; lean, liquid movements; teaches self-defense classes. |
 | Lavender Girl | Boston Red Shocks member | Plant growth powers; botanist; uses a wheeled office chair; grows food for mutual aid. |

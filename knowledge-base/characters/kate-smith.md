@@ -89,6 +89,7 @@ Beneath the sharp exterior, Kate grapples with class resentment, feelings of aba
 | Tasha Reynolds (Ant/Lighthouse) | Friend / Teammate (Team Mayfly) | Tactical leader and programmer. Part of Kate's middle school friend group. Later joined the Auditors as Lighthouse. |
 | Lilly Rodriguez (Moth) | Friend / Teammate (Team Mayfly) | Medical support and chemistry specialist. Part of Kate's middle school friend group. Note: "Lilly" with double-L, distinct from Lily Chen (Blink). |
 | Jenna Nguyen (Wasp) | Friend / Teammate (Team Mayfly) | Reconnaissance and emergency services communication. Part of Kate's middle school friend group. |
+| Maggie O'Brien (Flashpoint) | Colleague / Ally | Works with Kate on South Philly contacts; Kate introduced her to local figures such as Switchboard. |
 | Marco | Work acquaintance | Remediation crew member who vouched for Kate's entry into the underground fight club. |
 | Marianne | Fight club acquaintance | Middle-aged woman at the underground metahuman fight club in South Philadelphia. |
 | Mr. Grayson | Work supervisor | Site supervisor for Kate's remediation crew in Center City. |
@@ -208,6 +209,30 @@ Beneath the sharp exterior, Kate grapples with class resentment, feelings of aba
     **Role:** Mentioned
 
     Sam adds Kaitlyn Smith to her protection list despite their tension. Soot's old storehouse near Sam's school is used as a hiding place by Sam and Amelia after a confrontation with Patriot during the blizzard. Mrs. Quiet's mention of Sam's grandfather Victor during the faked death interrogation becomes intelligence the Kingdom later uses against the Small family.
+
+??? warning "Book 17: Rules of Engagement"
+
+    **Role:** Mentioned
+
+    After Red Calf's escalation, Sam tells Maggie to lay low in South Philly and get in touch with her friend "Kay Smith," expecting they will need local allies. Maggie later reports back with intel from Kay: a new four-armed fighter called Kill Buddha has been showing up at metahuman "clubs," which Kate says Sam will understand. During the Gallows warehouse raid, Sam wishes Kate were there to breathe through the tear gas residue.
+
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting
+
+    Sam texts Kate for the first time since an unanswered May message, and Kate meets her and Maggie at Pat's. Kate has dyed her hair darker, wears chunky glasses and an oversized hoodie, and has built a working relationship with Maggie, introducing her to South Philly contacts like Switchboard. She invites Sam to "the thing I do to unwind": an underground metahuman fight club. Kate supplies fake IDs from her "guys" (holdovers from her Soot days), hosts a sleepover at the Rittenhouse apartment she shares with Liam, and vouches for Sam ("Alice") and Maggie ("Bella") with the club's emcee, Douglas Furr, who calls her "Kay."
+
+    Furr treats Kate as the best watcher in the room and asks her read on Kill Buddha; she judges them trained and deliberately pulling lethal shots. Her remediation work doubles as a service to the club - she diagnoses the basement's sweating wall as condensation, not mold, in exchange for comped cover. She also absorbs menthol cigarettes through her fingers to calm down. Kate narrates bouts and technique for Sam, coaches from the wall once Sam starts fighting as "Superbeast," maps Rex Rampage's weaknesses ("he's not a god"), and warns Sam that Kill Buddha picked her for their exhibition specifically and that their approach looked like "a scan." After Sam loses the exhibition, Kate tells her, "That's not nothing, Sam."
+
+    When Aaron McKinley sets South Street ablaze, Kate goes in with Maggie and Amelia, pulling people out of a blocked restaurant; Maggie is burned, and Kate reports that the fire response was ready. She and Amelia visit Sam in the hospital, where Sam tells them that Fatima is Kill Buddha. Kate says, "I knew something was wrong with them." She reports zero fatalities thanks to the pre-staged response, but refuses to tell Sam the injury count.
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Kate walks Sam to the fight club, shares menthols with her, and is there when Sam tells Douglas Furr she is stepping back from fighting. When the Stinger hits Moloch Horrible half a block from the venue, Kate shouts for Dr. Demonic and handles crowd control without knowing what is happening. Afterward she calls Sam wanting context. Sam tells her about the danger and that the creature was built, but keeps the Kingdom theory from her, because the Kingdom once targeted Kate. Kate spreads warnings to Furr, the regulars, and Demonic, then widens them into a phone tree telling powered people to leave the southeast and river-ward corridor ("youre also exactly its people").
+
+    When Furr moves the Thursday card to a borrowed gym in Cobbs Creek, Kate reports that the new venue was packed with new faces, that someone asked her twice about Kill Buddha, and that someone asked about Sam. Her father Liam invites Sam to dinner.
 
 ## Trivia
 

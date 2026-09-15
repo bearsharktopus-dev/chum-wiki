@@ -20,7 +20,7 @@
 | **Occupation** | Kingdom operative; formerly construction worker, sanitation worker, factory worker, demolition specialist |
 | **Status** | Active |
 | **First Appearance** | Chapter 7 |
-| **Last Appearance** | Ongoing |
+| **Last Appearance** | Chapter 289 |
 
 ## Background
 
@@ -151,6 +151,11 @@ He harbors deep-seated resentment toward authority figures. Less boisterous and 
 
     Captain Devil notes that "Mr. Nothing and Mr. Mudslide" are "both gone now" when reviewing known Kingdom operatives with Patriot (Interlude AM.1). Mr. Antithesis separately references Mudslide as an example of reforming "unusable louts" into something professional (Interlude TF.2).
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor
+
+    Part of the Kingdom cleanup crew at the Frankford Creek culvert with Mr. Preclude and [Mrs. Zygote](effie-dunham.md), watching the perimeter. When [Dufay](dufay.md) comes for the bag the crew is loading, Mudslide softens the concrete to sink it ankle-deep and grabs it with both hands; Dufay palms his forearm and frosts it white from wrist to past the elbow instantly. He is left on his knees screaming about his hand while a crew member wraps it in a blanket. Zygote calls him "M" in Sundial's psychometric replay.
 
 ## Trivia
 

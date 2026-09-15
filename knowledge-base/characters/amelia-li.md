@@ -205,6 +205,24 @@ She has grown increasingly confident with the Auditors, taking on field roles an
     On the night of Sam's return from the tracking run with Gallows in the wind, Amelia texts Sam simply: "Don't." (Ch. 255, in the group chat after the Center City sniper attack.) She is credited as one of the few people who knows Sam best.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting
+
+    At the Auditors meeting (Ch. 269), Amelia reports that the suit upgrades are on track, that she is building Sam a new costume, and that she has an unpaid internship at a materials lab in University City.
+
+    Amelia attends the July 18 fundraiser independently alongside Lily (Ch. 275). During Mr. Prometheus's attack she finds Sam in the crowd looking for Lily (Ch. 276), and afterward, with her whip singed, tells Sam that Lily ran through the east exit fire, juiced a fire engine, and is at Jefferson with burns and smoke inhalation (Ch. 277). When South Street burns, she goes to work with the EMTs around the danger zone. Sam learns that Amelia had made the duplicate Megalodon gorget and vest her mother kept ready (Ch. 278).
+
+    Amelia visits Sam at the Jefferson burn ward with Kate, her whip forearm bandaged (Ch. 279). She reports on Lily and lays out the scale of the South Street damage, and she is one of the two people Sam tells the full story of what happened with Kill Buddha.
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    After Sam treats Rogue Wave's Dead Drop and Rush Order, Amelia asks why she helped them. She rejects Sam's favor-ledger reasoning ("Rogue Wave doesn't owe you anything. Rush Order might") and sets a rule: when Sam's feet start moving, she texts the chat *while* it's happening. She also asks whether the Auditors are a real superhero team or "your four friends and Derek in a room occasionally solving mysteries." Sam follows the rule through the arc, and Amelia hearts the texts. Amelia plans the team's response to the Stinger: getting Kate's network out of the river-ward corridor, warning the community center's parolees, putting everything in writing to Clara Parker, and nobody going looking for it.
+
+    Amelia works the Frankford Creek recon's north periphery with Compass. She gives first aid after the fight and drives the team home in Lily's parents' car. She reads the Red Shocks' "give us targets" as cover, so that half the city assumes whatever they hit next was requested. Since August she has been building Sam's new full-coverage Megalodon suit, which covers boots to throat to wrists, has panels that stiffen on impact, and keeps the shark helmet. She also helps make Maggie's rotor rig follow her movements. After Davis's hearing, she notes that his refusal to name a source protects Clara, "which protects Sam."
+
 ## Trivia
 
 - Her PERKS classification code B4/S/M/R indicates Brain-type, power level 4, affecting Self, Mental in nature, operating at Room-sized radius.

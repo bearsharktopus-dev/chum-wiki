@@ -64,6 +64,14 @@ Tall, thin, and unhurried - he "moves through crowds by existing at a slightly d
 
     Douglas Furr runs the underground fight club Sam is drawn into through Kate Smith. He approaches Kate for a read on the mysterious [Kill Buddha](kill-buddha.md), engages Kate's remediation services for the venue, and takes an interest in Sam after watching her set up the room and tape ropes - soft-recruiting her with the line that if she ever "Activates" she should come talk to him. When she does, he walks her through the terms (undercard only, he matches her, she signs a waiver), and she takes the ring name "Superbeast." He books and announces her bouts (against Slate, Joan the Fisherwoman) and personally referees the requested exhibition between Superbeast and Kill Buddha. Throughout, he treats the integrity and safety of "his room" as his own responsibility.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor
+
+    Sam tells Furr she is stepping back from fighting for college and essays. Furr: "Door swings both ways... You're good for the room whether you're bleeding or not" (Ch. 284). Kate passes the Stinger warnings on to him (Ch. 285).
+
+    With the Stinger active, Furr moves the Thursday card west to half a boxing gym in Cobbs Creek "thru a guy" and tells fighters to stay home or go west (Ch. 287). The Cobbs Creek card is packed with new faces (Ch. 291).
+
 ## Trivia
 
 - "Douglas Furr" is a pun on the Douglas fir tree, fitting the punny-codename pattern of the fight club's roster (Cocoa Carl, Mr. Stupendous, etc.).

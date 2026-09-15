@@ -67,6 +67,14 @@ Behind an absurd, fully-committed Frankenstein's-monster costume - green-gray ma
 
     Dr. Demonic appears throughout Sam's time at the fight club as the house medic. After Sam (as Superbeast) wins her debut against Slate with a hairline-fractured nose, two black eyes, and bruised ribs, she goes behind his curtain for treatment; he compresses the healing - the single worst pain of her life, during which she bites clean through his leather bite guard - and then explains both his history (rejected by hospitals because his power compresses pain rather than managing it) and his "durability is a trap" philosophy. He recognizes that her regeneration is far stronger than she admits and chooses not to push. He continues patching Sam (and other fighters) across the arc.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor
+
+    His curtain continues to do business at the club (Ch. 284). When Kate's Stinger warnings reach him, he has been "buying epinephrine in bulk since the first rumor" (Ch. 285).
+
+    When [Dufay](dufay.md) stings Lily Chen, she refuses a hospital and goes to Demonic instead, at an office behind a physical-therapy practice. He finds the puncture surgical and the lump encapsulated and inert, notes her power returned at about three hours, and says it can be removed under local anesthetic - with no fee if he keeps what he takes out. Lily refuses, noting that he wanted it (Ch. 290, 292).
+
 ## Trivia
 
 - His "office" is a curtained corner with a hand-lettered Comic Sans sign: "WHENEVER SOMEONE GETS HURT - NO INSURANCE ACCEPTED - TIPS APPRECIATED."

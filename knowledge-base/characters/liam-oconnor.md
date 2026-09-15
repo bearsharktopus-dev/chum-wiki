@@ -115,6 +115,12 @@ Liam is the "good brash" counterpart to Alex Kirby's romantic brashness - ground
     Sits in on the mentorship fear-circle discussion (Ch. 250): his stated fear is "what he looks like when he transforms." Continues mentorship sessions during Sam's post-warehouse grounding with Lily covering when Sam is absent. Sam's family-stability speech to Rachel about Pumice in Ch. 256 implicitly includes Liam among the mentees with parents who showed up.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Liam continues partial-transformation work in mentorship (Ch. 282). At the next session he opens with "are we gonna talk about the Stinger," and later asks why Philadelphia has so few monsters ("Where's the wibblies?") (Ch. 287).
+
 ## Trivia
 
 - Rides an undersized bicycle, noted when departing the Franklin Park training session.

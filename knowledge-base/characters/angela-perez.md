@@ -18,7 +18,7 @@
 | **Affiliation** | Philly Phreaks |
 | **Former Affiliations** | N/A |
 | **Occupation** | N/A (incarcerated) |
-| **Status** | Incarcerated |
+| **Status** | Paroled (Tacony Community Center reentry program) |
 | **First Appearance** | Chapter 32 |
 | **Last Appearance** | Ongoing |
 
@@ -107,6 +107,11 @@ She is not without moral limits. During Sam's torture at Aaron's hands, Chrysali
 
     Sam agrees to take Curran-Fromhold reentry referrals through the Tacony Community Center's pilot program (June start), which will likely include Chrysalis if Gilly's case progresses to supervised release.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (reentry intake)
+
+    Paroled from Curran-Fromhold, Angela arrives at the Tacony Community Center with Joseph Jones for reentry intake, both wearing ankle monitors (Ch. 282). She is flat and regulated, antennae folded: "Hi, Sam. We're good, thanks." Earlier, Amelia had raised Chrysalis's bee venom as a possible link to the Stinger; Sam privately rules her out (too little venom, the wrong smell, and she can only fall slowly) and feels bad for checking. After the Auditors map the Stinger's hunting corridor, Amelia and Tasha brief the reentry group, whose parolees must sleep at registered addresses inside it; Angela asks about curfew compliance (Ch. 287).
 
 ## Trivia
 

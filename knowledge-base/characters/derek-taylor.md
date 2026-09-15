@@ -158,6 +158,24 @@ Beneath the abrasive exterior, Derek demonstrates genuine loyalty and self-sacri
     Shows up as Bloodhound II at the Tacony Community Center grand opening, providing backup alongside Sam (who wears her repaired Bloodhound costume for the appearance). The sight of two Bloodhounds together intimidates Songbirds protesters into leaving. Assists Sam's network by helping run a DMV plate search while in the Bloodhound costume, using Liberty Belle's old contacts to identify a gray Honda Civic supply car linked to Kingdom drug operations. Included in Sam's intelligence distribution about the Bellwether District drug operation alongside other Auditors members, Councilman Davis, Sundial, and Miasma.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting (Interlude KB.1)
+
+    In Interlude KB.1, told from Kill Buddha's point of view, Kill Buddha corners Derek as Bloodhound II to ask about Megalodon. Kill Buddha's narration describes him as the successor who took the Bloodhound name after Sam stepped back. He does quiet PI work, tracking scents, talking down a man with a knife on 15th without raising his voice, and finding a woman's missing cat in a storm drain. His Vysera transformation is controlled through a wrist vambrace with two autoinjector slots. Derek eats a sandwich through the whole conversation, gives up nothing, and calls out that Kill Buddha is "trying to engineer something. For someone else." Kill Buddha reads him as loyal to Sam beyond professional obligation. He sends Kill Buddha off with "gargle my balls."
+
+    At the next Auditors meeting (Ch. 269), attending as an unofficial member, Derek reports the visit and what he found by pulling on it: Kill Buddha has been having the same conversation across Philadelphia for at least a month, turning up in neighborhoods forty minutes apart on the same night and asking who people know and what they can do. Tasha calls it a social graph. Derek warns the team that Kill Buddha will reach all of them eventually and advises giving the same answer he did.
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (POV, Interlude DT.4)
+
+    As Bloodhound II, Derek has been tracking a series of neck-sting attacks for more than a week before he calls Sam, which is a first for him. In Kensington he smells a large animal mixed with overripe bananas, pond water, and bleach, and the two agree to share information "both ways." When Sam passes on the word "Vysera," Derek recognizes the victims' nodule as a standard Vysera injection-site lump like the ones on his own arm. He explains that his trial doses (fourteen a week, in foam) are counted to the dose. He is shaken that someone is wasting his medicine on unpowered people.
+
+    In Interlude DT.4 he follows the trail to a nest in a collapsed warehouse near Graffiti Pier: a child's rocket sleeping bag, a food hoard, snapped padlocks. The creature comes home while he is still inside. It is about seven feet tall and cloaked, with a needle-tipped tongue, and it makes a threat display. Derek backs out without drawing, recognizing his own Fenrir instincts in it, and crosses Elias Franklin off the suspect list "with my eyes." The interlude fills in his past closeness with Elias, who is now with Rogue Wave. When Derek comes back for photos, the nest has been packed and wire-brushed: "Somebody tidied up." His detail that the stinger sits on a long folded tongue leads the Auditors to the Philadelphia Zoo frog theft.
+
+    Derek realizes that once his nightly dose wears off, he is a "porch light" for a power-hunting animal. His rented room is inside the danger zone and he refuses to move: "I don't do monsters. I do guys." He goes after the support crew instead, finding doorbell footage of the unmarked box truck that collected the glowing mass ("Your monster's got a support department") and passing on the Almond Street frost lead. At the Frankford Creek recon he works forward with Sam, wearing a gauntlet built from her old Bloodhound gear, and smells the Kingdom crew before anyone sees it. Mr. Polygraph's commands freeze him and then make him vomit. He is shot, and the vest stops the bullet, but he injures his ribs. The next morning he sweeps the bleached creek site. After Davis's testimony, he points out that he has been injecting Vysera for almost a year and asks someone to tell him what it is.
+
 ## Trivia
 
 - His temporary alias "Fenrir" was adopted on the spot during the Chimera confrontation - Sam introduced him as "my provisional member, uh-" and Derek immediately supplied "Fenrir," referencing the giant wolf of Norse mythology.

@@ -62,6 +62,7 @@ nav:
       - Diane Williams (Liberty Belle): characters/diane-williams.md
       - Elijah Brooks (Multiplex): characters/elijah-brooks.md
       - Councilman Jamal Davis: characters/jamal-davis.md
+      - Clara Parker: characters/clara-parker.md
       - Jason Reynolds (Rampart): characters/jason-reynolds.md
       - Kwame Adjei (Bulwark): characters/kwame-adjei.md
       - Maxwell Martinez (Crossroads): characters/maxwell-martinez.md
@@ -75,6 +76,8 @@ nav:
       - Lena Trinh-Norwood (Mrs. Xenograft): characters/lena-trinh-norwood.md
       - Lucas Donovan (Mr. Preclude): characters/lucas-donovan.md
       - Maria Valdez (Mrs. Heartbeat): characters/maria-valdez.md
+      - Effie Dunham (Mrs. Zygote): characters/effie-dunham.md
+      - Dufay: characters/dufay.md
     - Rogue Wave:
       - Lawrence Sullivan (Monkey Business): characters/lawrence-sullivan.md
       - Dean Carver (Rush Order): characters/dean-carver.md
@@ -122,6 +125,7 @@ nav:
       - Daisy Zhen (Deathgirl): characters/daisy-zhen.md
       - Douglas Furr: characters/douglas-furr.md
       - Dr. Demonic: characters/dr-demonic.md
+      - Faith Chun (The Colonel): characters/faith-chun.md
       - Fatima al-Qadi: characters/fatima-al-qadi.md
       - Felix Fleischer (Dr. Necrosis): characters/felix-fleischer.md
       - Gerald Caldwell: characters/gerald-caldwell.md
@@ -185,6 +189,7 @@ nav:
       - Costume Design: worldbuilding/costume-design.md
     - Substances & Drugs:
       - Jump and Fly: worldbuilding/jump-and-fly.md
+      - Vysera: worldbuilding/vysera.md
       - Dynology: worldbuilding/dynology.md
     - Society & Law:
       - Laws and Politics (US): worldbuilding/laws-and-politics-us.md
@@ -229,3 +234,4 @@ nav:
     - "Book 16: Category Five Hurricane": worldbuilding/arc-summaries/book-16-category-five-hurricane.md
     - "Book 17: Rules of Engagement": worldbuilding/arc-summaries/book-17-rules-of-engagement.md
     - "Book 18: Fire at Will": worldbuilding/arc-summaries/book-18-fire-at-will.md
+    - "Book 19: Front Towards Enemy (Part 1)": worldbuilding/arc-summaries/book-19-front-towards-enemy.md

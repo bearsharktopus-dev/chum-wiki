@@ -119,6 +119,12 @@ The ability to grant superhuman capabilities to any individual presents unpreced
 - **Anomalous Compound Alpha-Delta** - Core compound serving as the primary enforcement identification marker.
 - **Meritron Laboratories** - Developed the saliva-based Jump metabolite detection test.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Mrs. Xenograft's notes (Interlude LTN.3).** Xenograft's beefrog pipeline produces Hypeman and Vysera, so the Kingdom's power-enhancer and the federal suppressant share a source. Mrs. Zygote's Project Bullfrog presentation posed open questions: why Vysera runs on a fixed three-hour clock, why Fly cannot be split, and why two doses of Fly (or Fly plus Hypeman) reliably kill. Xenograft records no dose-response curve - "a threshold and a cliff" - with the rare survivors usually having regeneration and later developing aggressive cancers; Jump plus Fly and Jump plus Hypeman are survivable. Zygote's view is that "you need another microscope breaker" to replicate a supergenius's work. The Kingdom is considering culturing power-carrying tissue from [Dufay](../characters/dufay.md) into cell lines - generic Jump grown in freezers instead of extracted from people.
+
+    **Street and field notes.** Rush Order and Dead Drop run Jump routes of pill envelopes to street dealers (Interlude DC.4). The Auditors theorize that Mr. Preclude's new command power came from Fly, obtained the way the Kingdom obtained Fly for Aaron McKinley (Ch. 290). See also [Vysera](vysera.md).
+
 ## Trivia
 
 - The street price of a single Jump dose ($850-$1,200) is comparable to the price of a used smartphone, a comparison frequently cited in media coverage.

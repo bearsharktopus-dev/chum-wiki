@@ -129,6 +129,17 @@ Beneath her composed exterior lies a sharp wit and willingness to make blunt ass
 
     Sam mentions Sundial's psychometry being used by police for crime scene analysis while discussing the Bellwether operation. Sam distributes intelligence about the Bellwether site to Sundial as part of her intel distribution circuit in Chapter 237. Sundial responds first to Sam's Bellwether message, replying simply with "When and where?" Sam activates all her channels for the Bellwether operation, with the Titans as one of her key allied teams.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (commander of the Auditors-Titans creek operation)
+
+    When the Auditors' investigation into the Stinger - the neck-stinging creature later known as [Dufay](dufay.md) - produces a scene fresh enough to read, the group chat converges on Sundial, whose psychometry reaches back only 24 hours ("Anything before last night is gone"). Sam calls her about a frost event in East Juniata (Ch. 289): Ms. Delaney's garden hose frozen solid. Lucy handles the civilian with deliberately vague reassurances and lays out her working rules - don't talk to her, narrating isn't asking, sitting or falling down is normal. Her read reframes the creature: "He's not a monster... He's an animal," alone in the dark for two hours cleaning its arm. She recovers its full body shape - limb folds, a bony ridge along its back and shoulders, vents breathing cold - and by 11:15 the two teams have a sketch. Sam notes Lucy has seemed flatter at the edges since "Aaron 2," a year and a half earlier.
+
+    Lucy calls a joint meeting of both teams at the community center and runs the Wednesday dusk recon at the creek ("Auditors have the intel, we have the ward"): recon only, no engagement, positions split across both teams, and a request to bring Bloodhound II ("I like him"). In LC.1 the operation is ambushed: Mr. Polygraph's spoken commands freeze Sundial in place ("waiting for a bus"), and Moonshot carpet-rolls her out of reach of the corrosive pink "zombies."
+
+    Afterward (Ch. 290) she orders Derek to sit from inside the car, describes the command as being unable to "get off the bus," and, at Tasha's urging before her 24-hour window closes, reads the creek scene Thursday morning. Her narration identifies a small woman - "Z" - and notes that "He never looked at her... She watched him for two hours and he never once looked back." The Auditors' follow-up research points to [Dr. Euphemia Dunham](effie-dunham.md).
+
+    Lucy carries her two sketches to the DVD handover (Ch. 291), keeping her hands in her pockets in other people's buildings as a professional courtesy. [Clara Parker](clara-parker.md) rules the sketches worthless as evidence but useful for finding the suspect; Lucy says of the rooftop video that you can't surveil a frog. That night she watches the Red Shocks' rooftop rally with Sam, checking for a mass-casualty radio pattern and leaving before anyone official recognizes them.
 
 ## Trivia
 

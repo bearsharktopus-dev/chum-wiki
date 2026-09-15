@@ -20,7 +20,7 @@
 | **Occupation** | Kingdom enforcer, intimidator, and leg breaker |
 | **Status** | Active |
 | **First Appearance** | Chapter 25 |
-| **Last Appearance** | Ongoing |
+| **Last Appearance** | Chapter 292 (referenced) |
 
 ## Background
 
@@ -118,6 +118,11 @@ He actively dislikes the nickname "Mr. T-Rex," considering it childish, and pref
 
     POV interlude at a Kingdom planning meeting at Bella Notte restaurant in Staten Island. Mr. Antithesis presents the Daedalus prison break operation contracted by Red Calf's Porcelain - $2 million per surviving operator, scheduled for September 10th. Blake is designated "contingency response" (drop a T-rex on it). He questions the timing, noting the Harrisburg-to-Daedalus distance makes the supposed distraction implausible. Xenograft identifies a missing corridor in the blueprints; Antithesis reveals Porcelain is "not concerned about collateral escapes." Blake and Mrs. Quiet privately agree the operation "smells wrong." Includes a flashback to his Rex Rampage underground fighting days and Sledgehammer's recruitment referral.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (Interlude CM.2)
+
+    In Claymore's interlude, the Boston Red Shocks raid a Kingdom warehouse in Grays Ferry holding glowing powder. Introducing himself as "Mr. T," he tells [the Colonel](faith-chun.md) he watched her rooftop speech twice, then transforms into a forty-foot Tyrannosaurus rex with fuzzy down; Claymore recognizes him as Rex Rampage, the Dino-Man of Trenton. He takes the gate, and his tail throws the Colonel into a dumpster. Fighting beside him is a woman with knives whose touch stops Red Scare's breathing and heartbeat (unnamed in the text). After Claymore puts her sabre through his jaw skin, he de-transforms with his hands up and warns the Red Shocks that they could have had "a whole thing in this city," but now they're "on a list" and should come see somebody hat in hand. The Red Shocks' public statement afterward names Rex Rampage as "a full-time enforcer for the Kingdom of Keys" whose transformation was witnessed by hundreds, publicly tying him to the Kingdom (Chapter 292).
 
 ## Trivia
 

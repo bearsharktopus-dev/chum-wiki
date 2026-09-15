@@ -20,7 +20,7 @@
 | **Occupation** | Kingdom enforcer, interrogator |
 | **Status** | Active |
 | **First Appearance** | Chapter 12 |
-| **Last Appearance** | Ongoing |
+| **Last Appearance** | Interlude LTN.3 |
 
 ## Background
 
@@ -161,6 +161,12 @@ He carries a snub-nosed handgun described as "almost toyetic" in its rounded app
     Forces Sam off at City Hall station, but Patriot appears on the platform and recognizes Darnell by surname ("Hayes") from the Zoo raid. Patriot presents a triangle of options (strategic goals, tactical goals, or freedom) and Darnell chooses freedom, departing. Sam stays calm throughout, tracking his vitals with blood sense, and pickpockets his screwdriver. Patriot's "peak human condition" power proves immune to nullification.
 
     In Interlude MR.10 (Maya's POV), it is revealed that Darnell and Maya have a daughter - Roxanne Elisabeth Hayes, age 6 - living with Darnell's relatives in the Bronx. Maya describes him as a "charming brother from the Bronx" with whom she had a relationship approximately seven years prior. Darnell's cousin Iris runs a library. Maya uses Roxy's existence as leverage when manipulating Turbo Jett, claiming the Kingdom holds Roxy hostage - though Maya's internal narration acknowledges her version is "everything accurate, nothing honest."
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    After the Stinger attacks Dead Drop and Rush Order in an alley (DC.4), Dead Drop reads three or four stacked power signatures inside the creature, including "Polygraph's butt-buddy" - Mr. Nothing - the Auditors' first hard link between the creature and the Kingdom. In Interlude LTN.3, Mrs. Zygote reveals her two prepared cell lines are Mr. Nothing and Deathgirl; Darnell provided the samples "three years ago, in a different room, for a different reason." He is present for the Project Bullfrog presentation. On the leadership call about [Dufay](dufay.md), his only words are that it is in his city, so "it stays managed. I don't want it near Kensington. We have people there." Sam later concludes (her inference, unconfirmed by any Kingdom character) that Vysera is grown from Mr. Nothing's cells.
 
 ## Trivia
 

@@ -179,6 +179,11 @@ Despite her conditioning, Daisy has shown genuine vulnerability and capacity for
 
     Sam, privately, reframes Daisy internally from "my nemesis" to "a kid who got dealt the worst possible hand and played it the worst possible way and I happened to be the person standing in front of her when it all fell apart." The Zhens' pursuit of Gilly initiated the larger Daedalus class-action case now underway on behalf of Pumice, Chrysalis, and other minors detained without trial.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Referenced
+
+    Does not appear. In Interlude LTN.3, Mrs. Zygote ([Effie Dunham](effie-dunham.md)) tells the Kingdom leadership that her two prepared cell lines are Mr. Nothing and Deathgirl; together with beefrog tissue they are used in Project Bullfrog to build [Dufay](dufay.md), a power-copying organism.
 
 ## Trivia
 

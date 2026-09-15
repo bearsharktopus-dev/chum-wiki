@@ -59,6 +59,10 @@ Active programs by late Book 16:
 - **Career services and vocational training**
 - **EMT coordination:** Integrated with Sam's emergency medical work
 
+??? warning "Book 19: Front Towards Enemy"
+
+    The third floor - the old Music Hall's upper level, now called "the dormitory" by Mrs. Patterson - holds twelve semi-private cot roomlets, with the window left unlocked since Book 18. The center began reentry intake for parolees from Curran-Fromhold, including Angela Perez (Chrysalis) and Joseph Jones (Pumice) on ankle monitors (Ch. 282); during the Stinger crisis, the reentry group was warned that registered addresses kept them inside the danger corridor. [Faith Chun](../characters/faith-chun.md), as Faith Song, visited the front desk to recruit mutual-aid help (Ch. 287). After the Frankford Creek operation both teams debriefed on the third floor overnight, watched Moonshot's footage there, and used the computer room to identify Mrs. Zygote (Ch. 290). Amelia fitted Sam's new Megalodon suit on the third floor (Ch. 292).
+
 ## Notable Residents / Personnel
 
 | Name | Role |

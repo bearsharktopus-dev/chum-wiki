@@ -14,7 +14,7 @@
 | **Timeline** | Early June - late August 2026 (Sunday June 14 stated in Ch. 265; the attack is July 18) |
 | **POV** | Samantha "Sam" Small throughout, except JR.1 (Jason Reynolds / Rampart) and KB.1 ([Kill Buddha](../../characters/kill-buddha.md)) |
 | **Preceded By** | Book 17: Rules of Engagement |
-| **Followed By** | TBD |
+| **Followed By** | [Book 19: Front Towards Enemy](book-19-front-towards-enemy.md) |
 | **Entries** | 16 chapters + 2 interludes |
 | **Note** | First book to open from a non-Sam POV (Rampart, JR.1). Lina Robinson and Douglas Furr's underground fight club debut; Sam fights it as "Superbeast" / "Alice Weiss." Aaron McKinley returns as Mr. Prometheus and dies. Sam takes permanent scarring. |
 

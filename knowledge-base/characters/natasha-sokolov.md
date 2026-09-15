@@ -118,6 +118,11 @@ Natasha is adventurous, resourceful, and outgoing, approaching problems with a p
 
     During the blizzard crisis (Ch. 229), Sundial reports Compass and Bubble are handling residential check-ins while the Titans are overwhelmed with emergency response across Northeast Philadelphia.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (creek operation)
+
+    Compass takes part in the first joint Auditors-Titans operation in Ch. 289, posted on the north periphery of the creek recon with Amelia. After Mr. Polygraph's command power freezes the forward team (LC.1), she sets the rule that nobody goes within earshot of him without real earplugs, to be supplied at studio grade by her sound-engineer boyfriend (Ch. 290), prompting a Tasha/Natasha name bit. When the teams return to the creek in daylight, Compass and Derek sweep the site first while everyone else wears earplugs or muffs. Multiplex later tells Sam "The muffs were smart" (Ch. 291).
 
 ## Trivia
 

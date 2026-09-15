@@ -99,6 +99,12 @@ Snake Oil can forcibly extract superpowers from metahumans. He places his hands 
 | Philly Phreaks | Affiliated; Chimera transitioned from the Phreaks to Rogue Wave. |
 | NSRA | Hostile; federal agency investigating Jump and Fly distribution. |
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Still at war, now blind.** Rush Order and Dead Drop run Jump routes through Fishtown while the war with the Kingdom "eats everything else"; for about three months the group has targeted only people on the Kingdom's payroll (Interlude DC.4). Grabbing Kingdom-paid material manipulator Marcus DeLeon at a Fishtown construction site, they were ambushed by the Stinger ([Dufay](../characters/dufay.md)), which stung **Dead Drop** and switched off her power-detection radar; her read was that the creature carried "three or four powers at once," including Mr. Nothing's. Bloodhound (Sam Small) treated both on the street. Rush Order revealed that Elias Franklin now goes by **"Jabberwocky."**
+
+    Afterward Rogue Wave canvassed the underground fight club for information - Jackpot (Tomás Reynoso) with Birthday Suit (Mai-Anh Vo) as bodyguard - which Sam read as proof they did not know what had hit Dead Drop (Ch. 284). Dead Drop recovered. Sam's father describes the group as "Ana-caps. Very straightforwardly evil" (Ch. 291).
+
 ## Trivia
 
 - Monkey Business respects Sam Small for consistently sticking to her principles, even in direct opposition to Rogue Wave.

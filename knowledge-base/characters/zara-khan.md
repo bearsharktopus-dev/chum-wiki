@@ -110,6 +110,14 @@ She has a taste for macabre art and horror movies, a small rebellion against her
     Practices with small stained-glass panes from a glassblowing class at Drexel, apparently arranged via her dad (Ch. 255). Takes up juggling, without powers, "for no particular reason" and texts Sam about it (Ch. 250). Raised by parents who remain the most engaged family of the four mentees; her mother attends parent sessions and her father picks her up from mentorship personally.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    At mentorship, Zara presses Sam on the Stinger ("is that from victimology or from observed behavior?") and concludes within seconds that it either senses power expression or something unknown. She presents a PowerPoint on silicate lattice control with a skull title slide. Her range is increasing as her control improves (Ch. 282, 287).
+
+    On the evening of the congressional hearing, Zara - who never calls - phones Sam: her father went to City Hall with people from his Drexel department and has not called back, and her mother read the drug section of Abigail's article aloud that morning before going to work. She asks Sam to keep an eye on him, and Sam heads to City Hall (Ch. 292).
+
 ## Trivia
 
 - Her father's vehicle changes across chapters - a "sensible Volvo" in Chapter 213, a "dark blue Volvo" in Chapter 215, but a Prius by Chapter 231.

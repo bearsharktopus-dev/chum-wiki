@@ -20,7 +20,7 @@
 | **Occupation** | Kingdom of Keys leader; licensed attorney (Columbia Law, criminal law specialty); public-facing role as a financial investor associated with Tremont & Fairfax law firm; philanthropist through Alcott & Associates |
 | **Status** | Active |
 | **First Appearance** | Interlude MR.2 (voice only); Chapter 173 (in person) |
-| **Last Appearance** | Ongoing |
+| **Last Appearance** | Interlude LTN.3 |
 
 ## Background
 
@@ -129,6 +129,12 @@ Beneath the control, he is capable of rare but intense emotional reactions - aft
     In the second sequence, Trent visits the Jefferson Hospital ward with Ophelia Grady, meeting Marcus Whitmore - reduced to undifferentiated tissue by bad Jump, partially reconstructed through two years of metahuman healing. Whitmore asks about "the people behind the people behind the people." Trent internally acknowledges the chain of causation leads back to his own decisions through Maya and Deathgirl. He rejects the degrees-of-separation defense: responsibility does not evaporate because it passes through intermediaries. The ward's funding brought in metahuman healers, experimental enzyme treatments, and research infrastructure advancing power-induced transformation medicine.
 
     In the third sequence, Trent visits Aaron McKinley at Curran-Fromhold prison under attorney-client privilege. McKinley's right arm is fully braced from injuries inflicted by Sam Small. Fairfax offers Kingdom membership, a Fly dose synergistic with pyrogenetic powers, a six-month jailbreak timeline, a mission to kill Sam, a fiefdom in Camden, and millions of dollars. Names him "Mr. Prometheus" - emphasizing the need for a distinguished name that could not be confused with "McKinley" over a wire. The case was transferred from Tremont & Fairfax's inferior criminal law division to Alcott & Associates. Internally references Porcelain: "I can learn, too, Mr. Espinosa. My wheels versus your own."
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting (Interlude LTN.3)
+
+    Present as Mr. Antithesis, taking pen notes on a legal pad, at the Manhattan presentation where Mrs. Zygote ([Effie Dunham](effie-dunham.md)) and Mrs. Xenograft pitch Project Bullfrog. Effie's "boring version" of the project - generic Jump grown from cell lines in chest freezers in three cities - is aimed at his money, and her first transgenic idea is glowing moon jellies for his lobby. On the later leadership call about [Dufay](dufay.md) loose in Philadelphia, he asks whether it has commercial value; when Xenograft says "Absolutely," he decides without a vote: "We'll let it run."
 
 ## Trivia
 

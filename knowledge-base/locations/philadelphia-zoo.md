@@ -24,5 +24,9 @@ The Philadelphia Zoo became a key location in the Kingdom of Keys' operations wh
 - **Arc 8 - Operation Ivory:** On a snowy December day, the Kingdom launches its attack. Mr. T-Rex transforms into dinosaur form and destroys the rhino enclosure, creating mass chaos and taking hostages. The Delaware Valley Defenders deploy - Captain Plasma strikes Mr. T-Rex at supersonic speed, with Fury Forge and Crossroads also engaging. Sam realizes the dinosaur rampage is a distraction: the real heist targets specific wild-caught poison dart frogs in the Reptile House, whose toxins are needed for drug synthesis. Sam confronts Mr. Nothing, Mrs. Heartbeat, and Mudslide in the Reptile House. Mr. Nothing neutralizes her powers through touch, but Maggie arrives wearing Sam's stolen bulletproof vest and saves her. In the ensuing fight, Maggie is shot multiple times (the vest saves her life), and Bulwark suffers a broken arm. Mr. Nothing and Mudslide are captured, but Mrs. Heartbeat escapes with some of the frogs and Mr. T-Rex flees with followers (Chapters 133-135).
 - **Arc 9:** A 1960s flashback shows young Victor Blanc connecting with the silverback gorilla at the zoo (Interlude VB.1).
 
+??? warning "Book 19: Front Towards Enemy"
+
+    - **Book 19:** Multiplex confirms that Mrs. Heartbeat "walked out with the rest [of the frogs] in a cooler" during Operation Ivory (Ch. 283). Interlude LTN.3 shows what the frogs became: Mrs. Xenograft's "beefrogs," the base stock for Hypeman, Vysera, and Project Bullfrog's artificial organism [Dufay](../characters/dufay.md). Xenograft's newest cohort was grown from clone eggs as insurance against needing "a second Philadelphia Zoo."
+
 !!! note "Stub"
     This article is a stub and may need expansion.

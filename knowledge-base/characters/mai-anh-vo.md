@@ -115,6 +115,11 @@ Beneath that surface, she harbors a genuine appreciation for violence only loose
 
     Argus Corps hits Rogue Wave distribution points as part of their enforcement activities; Birthday Suit is not featured directly.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor (Ch. 284)
+
+    Birthday Suit, in flannel, accompanies Jackpot to the underground fight club as "Rogue Wave's human shield," watching the stairs, side door, and seams of the room. Sam recognizes her from the marina. On the way out, Birthday Suit gives Sam, and only Sam, a one-second inventory look.
 
 ## Trivia
 

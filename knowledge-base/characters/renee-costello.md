@@ -122,6 +122,13 @@ She presents a gothic aesthetic and "surly" demeanor. In the field, she is ruthl
 
     Encountered by Sam in civilian clothes in the energy-drink aisle at the CVS on Cottman alongside Jackpot (Tomás Reynoso), both apparently off-duty and shopping (Ch. 260). Dead Drop recognizes Sam immediately; Sam recognizes Dead Drop from the 2 AM Sunoco station encounter in Arc 12 where Dead Drop had suspended her upside-down in ferrokinetic chains. Neither can credibly act in a CVS under security camera with Rachel Small at the pharmacy counter. Three-second mutual stare; Dead Drop says something quiet to Jackpot, and they walk out at normal pace without incident.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (DC.4)
+
+    In Interlude DC.4, narrated by Rush Order, Dead Drop ("Deedee," "Ren") finishes a Jump route in Fishtown with Dean - eleven envelopes to ten dealers - while the Kingdom war "eats everything else." She notes that for three months Rogue Wave has only grabbed people on the Kingdom's payroll, and suspects Dean or Monkey Business of going soft. During the grab of Kingdom-paid laborer Marcus DeLeon at a construction site, her power-detection radar picks up something that makes her lock up: "What the fuck is that?" The creature later known as [Dufay](dufay.md) stings her; her chains go dead, and she takes gunshot wounds in the firefight.
+
+    Two blocks away, Sam - in civilian clothes and an EMT-style windbreaker - treats her with antihistamine, an auto-injector, and wound packing. Renee reports that her radar is gone. Her read of the creature: it smelled like "that fucking prick from the Kingdom... Polygraph's butt-buddy" - Mr. Nothing - "and three or four other people... three or four powers at once. All in one spot." Sam warns that the anticoagulant combined with Fly-degraded clotting means she will keep bleeding without a clotting agent. By Ch. 284, Jackpot's mood suggests she has recovered.
 
 ## Trivia
 

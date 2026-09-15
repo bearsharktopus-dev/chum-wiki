@@ -100,6 +100,12 @@ Key operations:
 | Schuylkill Sirens | Cooperative; Sundial introduced Sam to Manta Rei during Operation Ivory buildup. |
 | Rogue Wave | Enemy; investigating and disrupting drug distribution networks. |
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Joint operation with the Auditors.** Sundial (Lucy King) took a 24-hour psychometric read at a frost event in Ms. Delaney's yard on East Juniata, producing a sketch of the Stinger ([Dufay](../characters/dufay.md)) and the judgment "He's not a monster... He's an animal" (Ch. 289). She then commanded a joint recon at Frankford Creek - Compass on the north periphery, Moonshot and Blink on rescue, Bubble across the water with Flashpoint, Sandman on comms. When Mr. Preclude's voice commands froze the forward team, Moonshot carried Sam out and hauled Derek and Sundial clear of Mrs. Zygote's corrosive constructs, then tracked Dufay to a warehouse roof off Aramingo overnight and filmed it (Interlude LC.1, Ch. 290).
+
+    Sandman worked out that the commands require the listener to hear them in the same air; Compass set the team rule of studio-grade earplugs. Sundial's read of the creek the next morning recorded the handlers' conversation (including "It's a bag, Z"), and her sketches went into the file handed to the DVD (Ch. 291).
+
 ## Trivia
 
 - When visiting the Music Hall for joint planning, the Titans were visibly impressed. Sundial remarked, "Not bad, Bloodhound. You've got style."

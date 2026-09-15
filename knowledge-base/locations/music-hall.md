@@ -27,5 +27,9 @@ The Tacony Music Hall was a four-story brick building in Tacony, northeast Phila
 - **Book 13:** The Small family evacuates their spike-seeded home and takes refuge at the Music Hall during the Shrike crisis (Arc 13).
 - **Book 14:** On Halloween night, Councilman Davis proposes converting the Music Hall into a community center. The Kingdom enforcer Garbage Day later attacks the building, destroying equipment and tearing through walls, leaving it unusable (Arc 14). The renovation into the [Tacony Community Center](tacony-community-center.md) proceeds through Books 14-15.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    - **Book 19:** The building's third floor - the old Music Hall's upper level - is the community center's cots "dormitory," where the Auditors and Tacony Titans debriefed after the Frankford Creek operation (Ch. 290). See [Tacony Community Center](tacony-community-center.md).
+
 !!! note "Stub"
     This article is a stub and may need expansion.

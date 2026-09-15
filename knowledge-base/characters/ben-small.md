@@ -188,6 +188,16 @@ Beneath the measured exterior, Ben struggles with fear he rarely articulates. He
     Across the brisket-dinner negotiation with Rampart for Sam's DVD contract role (Ch. 261), Ben pitches the academic-calendar-accommodation clause ("She has finals in two weeks. She has a prom to attend") and ticks off Liberty Belle's "integrated survivability onion" - "don't be seen, don't be acquired, don't be hit, don't be penetrated" - conspicuously omitting the fifth layer. Offers to buy Sam a corsage for prom; she informs him that corsages are not current practice; he commits to one anyway.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Ben goes still when the news marks one year since the Boston Commons explosion and arranges Rosh Hashanah with his sister Becca (Ch. 284). At tashlich in Ventnor he stands with Rachel at the waterline (Ch. 286).
+
+    At Shabbat dinner after the Boston Red Shocks' rooftop rally, he describes them as "lefty villains" who "sounded like the kids I used to hang around with at college" until Rachel shuts it down, and calls Rogue Wave "Ana-caps" and "very straightforwardly evil" (Ch. 291).
+
+    On hearing day, Pop-Pop calls the house once, says one sentence to Ben, and hangs up (Ch. 292).
+
 ## Trivia
 
 - Gun sales in Philadelphia spiked 300% following the "Gun Dad" incident. Rogue Wave strategists noted the "spectacle flywheel" effect: gun sales up, Jump sales up, disorder up.

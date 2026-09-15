@@ -107,6 +107,14 @@ Notable arc-level operations include the NSRA/Chernobyl investigation (Arc 4), J
 | Pattinson's Pals (under Bulldozer) | Cautious cooperation; Sam has shared intelligence about Richardson's Kingdom connections |
 | Mentorship Program | Hosted at the Auditors' base; Sam and Maggie serve as peer mentors |
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **The Stinger investigation.** Senior year opens with a string of neck stings that leave a slow-clotting puncture and a nodule. Sam works the case through rules instead of alone: a "both ways" information treaty with Derek Taylor (Bloodhound II), Tasha's drone and corkboard mapping of a river-ward corridor, and Amelia's standing rule that Sam must text the chat *while* anything is happening (Ch. 283). The team links the tongue-stinger creature to the 2024 zoo frog theft, the Kingdom, and Mr. Nothing's signature; Sam deduces the Stinger copies powers rather than removing them (Ch. 285). Evidence goes to the DVD through Clara Parker instead of the tip line.
+
+    **Joint operation with the Tacony Titans.** After a Sundial psychometric read at a frost event, the two teams ran a recon at Frankford Creek under Sundial's command (Ch. 289). They found a Kingdom retrieval crew at work, recorded the name [Dufay](../characters/dufay.md), and were caught in Mr. Preclude's voice commands until Lily's slingshot and Moonshot's rescue broke the scene open. Dufay stung **Lily** and copied her push; Derek was shot (his vest held). Research afterward identified the small woman on scene as the "Z" seat - **Mrs. Zygote, Dr. Euphemia Dunham** (Ch. 290). The file went to the DVD (Ch. 291), and Compass's earplug rule became standard.
+
+    **Equipment.** Amelia finished a full-coverage Megalodon suit; Maggie debuted a four-rotor belt rig salvaged from the old Mayfly drones (Ch. 292). The team watched the Boston Red Shocks out Rex Rampage publicly - something the Auditors had avoided for two years. Part 1 ends with Sam and Maggie heading to watch a City Hall gathering.
+
 ## Trivia
 
 - The team name was coined by Jordan, reflecting the investigative focus and mission to hold powerful institutions accountable.

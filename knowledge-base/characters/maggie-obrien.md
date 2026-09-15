@@ -164,6 +164,26 @@ Maggie has also shown a capacity for lethal intensity under extreme stress - the
     At the May 19 Auditors meeting in Bridesburg (Ch. 261), she delivers an extended South Philly field report - a measured, transitioned-into-Flashpoint-giving-a-field-report register that Sam internally notes as significant. Enumerates the solo operators and small organizations active in South Philly: Switchboard (telekinetic repair shop on Passyunk), "The Block" (three Activated teens handling Rogue Wave dealers on their own block), Barricade (force-field bouncer), "If You Meet Buddha On The Road, Kill Him" / "[Kill Buddha](kill-buddha.md)" (new four-armed vigilante with a baseball bat sniffing around metahuman underground fight clubs via Kay Smith's intel), Schulykill Sirens, Penn Street Pups (Razor's), Franklin Coalition (science-demonstration adjacent). Also reports two recent federal-agent harassment incidents (slashed tires, note-on-car). Receives a better-coverage vest upgrade from Amelia's redesign round and continues laying low rather than deploying to the Red Calf operation directly. Sends a prom-week voice memo that is just "study, idiot" and a hang-up.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Major
+
+    The arc's clearest date anchor comes from Maggie (Sunday, June 14). Sam visits the O'Brien house in South Philly, where Maggie's mother Eileen is pregnant at 43 with a baby brother, and Maggie, a lifelong only child about to be a senior, has been moping at home for a week. Maggie gives Sam a tour of the South Philly cape ecosystem, including the TK fence Switchboard, and the two reconnect with Kate over cheesesteaks (Ch. 265).
+
+    Maggie goes with Sam and Kate to the underground fight club under a fake ID as "Bella" (Ch. 266-267). She reads Kill Buddha's ASL trash talk because she has deaf cousins, and she is uneasy that Kill Buddha is observing rather than participating. When the emcee invites Sam to help set up, Maggie tells her plainly that she is being recruited (Ch. 268). At the Auditors meeting she handles South Philly intel (Ch. 269).
+
+    When a masked Songbird walks into the Tacony Community Center filming and calls Sam an antisemitic slur, shark teeth erupt from Sam's fists; Maggie holds her arm above the teeth, talks her down, and walks her out back (Ch. 270). She misses later fight nights to help at home as her mother's pregnancy gets harder (Ch. 273). When Kill Buddha approaches Sam at the club, Maggie warns that it was a scan, not a compliment (Ch. 274).
+
+    After Mr. Prometheus sets South Street on fire, Maggie heads there immediately with Kate. They pull people out of a blocked restaurant, and Maggie comes away with a burn on her arm and some cuts (Ch. 277). Afterward she does intake at a shelter for people displaced from South Street, and through August she co-leads the therapy group with Sam (Ch. 279).
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Maggie co-runs the mentorship group and works the Stinger case with the Auditors. When Derek describes the stinger folded back on a long tongue, she makes the connection to the December 2024 Philadelphia Zoo Reptile House theft, where she took three broken ribs and a punctured lung. Multiplex confirms that Mrs. Heartbeat walked out with the frogs, and asks Sam to tell O'Brien "the ribs were worth something after all." Maggie is also the one who notices that Dufay isn't stealing powers but "pirating them. everybody gets their stuff back and he keeps the copy."
+
+    At the Frankford Creek recon she is posted with Bubble on the Bridesburg side of the water. During the fight with Mrs. Zygote's constructs she throws a rock across the creek with a repulsive push and caves one in. She goes still when the overheard audio mentions "X." Afterward Maggie debuts a new mobility rig: four rotors on a belt, salvaged from the Mayfly drones, plus wingsuit-style fabric under the arms. Her frictionless fields make the fans' thrust efficient, and the design draws on open-source models posted by other frictionless and float-powered people. She says she came down the Tacony-Palmyra with a tailwind and passed a truck. After the Red Shocks out Rex Rampage, she points out that the Auditors "were never trying to out them." When Sam heads to City Hall, Maggie is already outside, coming along.
+
 ## Trivia
 
 - Her codename Flashpoint was already in use when Sam first encountered her, suggesting Maggie chose it independently before being mentored.

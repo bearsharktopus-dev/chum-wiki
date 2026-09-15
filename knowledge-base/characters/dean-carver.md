@@ -20,7 +20,7 @@
 | **Occupation** | Distribution Specialist (Rogue Wave); formerly delivery driver and cable installer |
 | **Status** | Active |
 | **First Appearance** | Chapter 158 (Rogue Wave broadcast); Chapter 182 (in person) |
-| **Last Appearance** | Interlude DC.3 (Intermission 15.5: This Side Up); mentioned in Chapter 236 |
+| **Last Appearance** | Interlude DC.4 |
 
 ## Background
 
@@ -122,6 +122,13 @@ His relationship with Sam Small is perhaps the most revealing aspect of his char
 
     Narrated an interlude set during a winter storm in which he and Dead Drop tracked Maya Richardson to a rooftop in Northeast Philadelphia using his person-location ability. The pair observed that the blizzard was concentrated unnaturally over Northeast Philly and deduced someone was generating it. After locating Maya on a six-story industrial building's roof conducting weather manipulation, they attempted to capture her. Dead Drop's chains snagged Maya's ankle and wrist, and Dean grabbed her coat, but Maya broke free using a taser, pepper spray, and physical resistance. In the enclosed stairwell, Maya sealed the fire door and demonstrated devastating barokinetic power - creating crushing pressure gradients, stopping Dead Drop's gyroscopically stabilized chain-link projectiles mid-flight, and slamming Dean against a concrete wall with directed air pressure. Dean's passive aerokinesis partially protected him from the worst of the crushing force but could not fully counteract it. Dead Drop broke the pressure seal by tearing the fire door off its hinges with brute ferrokinesis, and Maya escaped by dropping down the stairwell center using controlled pressure descent. Dean sustained a sprained or fractured left ankle, cracked ribs, and a nosebleed from the pressure exposure. The pair retreated to the Camden safehouse, where Dean delivered a factual debrief to Monkey Business. Sullivan concluded that Maya Richardson was no longer a viable target for direct action and should be "routed around, not pursued." Dean confirmed the intelligence value of the encounter: Maya's true power was pressure manipulation rather than weather control, indoor spaces were kill zones, projectile weapons were neutralized within her effective range, and she carried conventional self-defense tools (taser and mace) as backup. Dead Drop noted Maya could use pressure for three-dimensional mobility via controlled falls.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** POV (Interlude DC.4)
+
+    Rush Order narrates Interlude DC.4, set the Saturday before Ch. 283. He and Dead Drop run Jump pills to ten dealers in Fishtown; Rogue Wave's war with the Kingdom "eats everything else," and Monkey Business is "monomaniac" about it. When Renee suspects someone is going soft for only grabbing Kingdom-paid targets, Dean says "This one's all him." Their target is Marcus DeLeon, a Kingdom-paid laborer with a material-manipulation power at a money-laundering construction site guarded by armed workers.
+
+    The grab takes eleven seconds, but a firefight follows. Dean disarms the gunmen, taking seven minor grazes, and turns to find Renee down with the creature later known as [Dufay](dufay.md) over her. Two revolver shots into the sky drive it off. Two blocks away Sam, out of costume, treats both of them - saline and gauze for Dean - and leaves Rogue Wave owing her.
 
 ## Trivia
 

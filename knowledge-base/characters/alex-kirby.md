@@ -126,6 +126,14 @@ Alex is an interesting counterpoint to Sam's increasing cynicism. Where Sam thin
     Alex pushes back on the state-police presence at Tacony Charter after being carded repeatedly by an out-of-state officer, and Sam explicitly warns him: "Tired and stupid are different things, and right now the city is full of people who are looking for a reason. I don't want you to give them one." Parents still send taxis rather than coming to collect him from mentorship sessions.
 
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    At mentorship Alex asks whether the city is getting worse - there are marshals at his charter school, and Jasmine's uncle had to move (Ch. 282). When Sam tells the kids about the Stinger, he says, "It's hunting kids like us. And everyone's plan is hide" (Ch. 287).
+
+    He joins Sam at a South Street mutual-aid supply run in new work gloves, hauling for three hours; after an old woman tells him about her grandson burned in July, he asks, "This counts, right?" and Sam tells him it does. They get cheesesteaks and agree to "same time next Thursday" (Ch. 287).
+
 ## Trivia
 
 - His "Hellhound" alias was created by physically warping and melting Sam's old Bloodhound mask. His explanation: "so it was mine." He announced it during the warehouse raid: "Hellhound says hi."

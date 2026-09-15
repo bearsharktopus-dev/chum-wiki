@@ -222,6 +222,16 @@ She holds a strong moral code against lethal force, with PERKS assessments consi
 
     During Mr. Prometheus's attack on the July 18 fundraiser, Lily runs through a thin section of the burning east exit to reach her moped, then flags down a fire engine and "juices" it with her speed power, getting the trucks to the scene at roughly double speed and likely saving lives. The cost is second-degree burns across her arms and shoulders plus sulfur-dioxide smoke inhalation; she is hospitalized at Jefferson, conscious and (characteristically) asking for pizza. She later discharges against medical advice to rejoin the South Street fire response.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Major (POV, Interlude LC.1)
+
+    Lily is mostly recovered from her Arc 18 injuries, with shiny burn scars striped from wrist to elbow that match Sam's. She works the Stinger case with the Auditors, adding an angry bee to Tasha's corkboard. On a team call she learns that Sam fights at underground fight clubs ("That's good! I think."). Derek's first lead points to Almond Street, her own street, though the site turns out to be about two miles away by the creek.
+
+    Interlude LC.1 is told from her point of view during the Frankford Creek recon. Lily is on rescue duty with Moonshot, armed with a slingshot and a bag of steel and glass marbles. When Mr. Polygraph freezes Sam, Derek, and Sundial, Lily uses her push to double her jumps up to the rooftops. She fires glass marbles as warnings and hits Polygraph high in the chest with a steel one. His command doesn't take on her because she covers her ears. She fights off Mrs. Zygote's five faceless pink constructs, which walk at the nearest person with open arms, and suffers alkaline burns on her wrist and ankle. Then [Dufay](dufay.md) drops in front of her. Lily tells him she doesn't want to fight and holds her shot. He stings her palm and flees at her own doubled speed, having copied her push. Sam tells her she can't use it "because you're hurt."
+
+    Lily refuses a hospital and has Dr. Demonic treat her. Her power returns after about three hours, and the nodule in her palm stays inert. Demonic offers to waive his fee if he can keep the lump, and she refuses. Moonshot's footage shows Dufay overshooting with Lily's speed and then learning to control it. Lily asks who gave Polygraph his new power. After Davis's testimony and Sam's conclusion about Vysera, she writes that there is part of a person in her hand, and Demonic offered her money for it.
+
 ## Trivia
 
 - Her PERKS classification was originally H3/G2 (Hopper/Gigant) before being reclassified to A4 (Adjust) in 2023.

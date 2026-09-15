@@ -188,6 +188,22 @@ Beneath her composed exterior, she privately struggles with self-harm, concealed
     At Sam's 17th birthday gives her a small gift wrapped in newspaper ("waste of money, the paper just gets thrown away"). Declines Rampart's offer to be part of the Red Calf operation directly ("What, not me, the random civilian friend?") and covers the computing, drones, signals, and "most of the things that actually work." Takes a hardshell field kit upgrade from Amelia's survivorship-bias redesign round.
 
 
+??? warning "Book 18: Fire at Will"
+
+    **Role:** Supporting
+
+    Runs the Auditors meeting from the whiteboard (Ch. 269). She reports that the Songbirds are getting organized, with a mailing list, coordinated flyer drops, and language shifting toward "protect your neighborhood from powered threats." When Derek describes Kill Buddha's citywide questioning, Tasha identifies it as a social graph of Philadelphia's powered ecosystem, and she calls Sam's blood-sense read on Kill Buddha "almost four-dimensional."
+
+    Monitors the Songbirds' forum and livestream during their protest at the community center (Ch. 270). After Mr. Prometheus's attack, she texts Sam that the Songbirds are spinning it online, and when South Street catches fire she heads to the center to get eyes up (Ch. 277).
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Supporting
+
+    Tasha keeps drones on the attack corridor ("If it's a pattern, patterns repeat") and maps the victims into a hunting corridor up the river wards. Her drone spots the creature near the Fishtown trestle and follows it until losing it at Castor. Hearing Derek's description of the stinger, she says, "You're describing a frog tongue." Her corkboard of the Stinger timeline grows to two boards with red yarn, with entries like "3/3 METHOD CHANGE" and "STEALING POWERS." On the Almond Street lead, she points out that Juniata is Tacony Titans turf.
+
+    At the Frankford Creek recon Tasha runs comms from the van with Sandman. When Mr. Polygraph's commands come over the mics, she works out that they travel by ear ("Plug them, sing"). She identifies the pale dust at Dufay's rooftop den as bee pollen from a garden center and suggests the name "Mrs. Zygote" for the woman the crew calls "Z." She calls Dufay's nodules "inventory." Her 14-page timeline goes into the file handed to the DVD, and her new SIGHTINGS channel tracks Dufay across the river into New Jersey, including his crossing under the Ben Franklin Bridge during the Red Shocks' rally. She took apart four Mayfly drones for Maggie's rotor rig.
+
 ## Trivia
 
 - Sam explained the Lighthouse codename: "You guide us, keep us from crashing on the rocks."

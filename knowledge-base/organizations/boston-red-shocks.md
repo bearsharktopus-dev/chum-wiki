@@ -12,7 +12,7 @@
 | **Founded** | Unknown (active by January 2026) |
 | **Disbanded** | Active |
 | **Headquarters** | Basement of a used bookstore in Allston, Boston, MA; secondary training facility in a condemned factory in Everett, MA |
-| **Leader(s)** | The Colonel |
+| **Leader(s)** | [The Colonel (Faith Chun)](../characters/faith-chun.md) |
 | **Parent Organization** | N/A (loosely affiliated with a broader Northeast mutual aid network) |
 | **Jurisdiction** | Boston, Massachusetts and surrounding areas |
 | **First Appearance** | CM.1 |
@@ -51,7 +51,7 @@ The group uses a white cargo van disguised as a carpet cleaning service and comm
 
 | Name | Codename | Role | Status |
 |------|----------|------|--------|
-| Unknown | The Colonel | Leader, Commander | Active |
+| Faith Chun (alias Faith Song) | The Colonel | Leader, Commander | Active |
 | Clay | Claymore | Breacher | Active |
 | Unknown | Ghostwriter | Document Specialist | Active |
 | Unknown | Red Scare | Overwatch, Lookout | Active |
@@ -75,7 +75,7 @@ Botanical manipulation - can accelerate plant growth in real time and cultivate 
 
 ### The Colonel - Power Details
 
-Specific power unknown. Carries a Walther PPK with hazard-yellow spraypaint as a backup for when her power is insufficient, confirming she possesses a combat-capable ability.
+Power not described before Book 19 (see the Book 19 block below). Carries a Walther PPK with hazard-yellow spraypaint as a backup for when her power is insufficient, confirming she possesses a combat-capable ability.
 
 ## Operations
 
@@ -106,6 +106,16 @@ During daylight hours, members contribute to a broader Northeast mutual aid netw
 | Alcott Properties | Target; the Red Shocks raided Alcott's offices to obtain documents proving collusion with city officials in forced evictions |
 | Other powered leftist cells (unnamed) | Aware of but distinct from; the Red Shocks distinguished themselves from violent accelerationist and adventurist cells rumored to operate in other cities |
 | Bookstore owner (Allston) | Sympathizer; provided basement space in exchange for inventory help and plausible deniability |
+
+??? warning "Book 19: Front Towards Enemy"
+
+    **Philadelphia campaign.** The Red Shocks moved operations to Philadelphia, working from a borrowed basement apartment off Passyunk. The Colonel, as Faith Song, began running a Boston mutual-aid crew's supply distribution on South Street (Ch. 287).
+
+    **Rooftop rally.** [The Colonel](../characters/faith-chun.md), in costume and with a megaphone, staged a no-injury fireworks "bombing" of a Center City club roof deck and delivered a manifesto ("WATCH US WORK. GIVE US TARGETS. OR GET OUT OF THE WAY"), announcing a tip line that Jordan Westwood later confirmed was real (Ch. 291).
+
+    **Grays Ferry raid.** Acting on a tip, the cell raided a Kingdom warehouse holding glowing powder, Mrs. Zygote's amphorae, and a "BULLFROG - SUMMARY - NTK" binder (Interlude CM.2). Mr. Tyrannosaur and a knife-wielding woman engaged them. The Colonel's power is shown: she draws from her satchel a weapon proportionate to the threat (a pistol, flares, and finally a .50 BMG anti-materiel rifle). Claymore now detonates saliva and her own feet for propulsion, and lost her sabre at the scene. Mr. Tyrannosaur de-transformed and warned they were now "on a list." Injuries: Red Scare (heart and breathing disrupted by touch), the Colonel (likely ribs/leg), Claymore (feet regrowing). The cell found a BugTag tracker on its van and needed a new safehouse.
+
+    **Public statement.** The group's statement described the warehouse and the powder and named **Rex Rampage** as a full-time Kingdom enforcer (Ch. 292). By the Colonel's decision it did not name Bullfrog. The Colonel is described in CM.2 as a Korean woman, 4'10".
 
 ## Trivia
 

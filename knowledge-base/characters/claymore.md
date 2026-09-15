@@ -20,7 +20,7 @@
 | **Occupation** | Breaching specialist (Red Shocks); journalist |
 | **Status** | Active |
 | **First Appearance** | CM.1 (Intermission 15.5: This Side Up) |
-| **Last Appearance** | CM.1 |
+| **Last Appearance** | CM.2 |
 
 ## Background
 
@@ -64,7 +64,7 @@ Claymore is analytical, self-aware, and haunted by her activation event. She use
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| The Colonel | Leader / Mentor | Recruited Claymore from the abandoned shipping facility. Communicates in economical silences and sparse acknowledgments; Claymore learned more from his silences than from hours of Ghostwriter's monologues. |
+| [The Colonel](faith-chun.md) (Faith Chun) | Leader / Mentor | Recruited Claymore from the abandoned shipping facility. Communicates in economical silences and sparse acknowledgments; Claymore learned more from her silences than from hours of Ghostwriter's monologues. |
 | Ghostwriter | Teammate | Wears archival gloves, uses books as part of his power set, and can absorb information from documents by eating them. Provided intellectual context and emotional check-ins for Claymore. Estimated her explosive density and encouraged her to experiment with hair as a detonation medium. |
 | Red Scare | Teammate | Lean, wiry build with a liquid movement quality. Teaches self-defense at a community center in Jamaica Plain. Coached Claymore on psychological adjustment to constant threat awareness, assuring her the mental calculations would get "quieter." |
 | Lavender Girl | Teammate | Plant-growth abilities; serves as technical support and emotional warmth. Grows vegetables for mutual aid networks and made protein bars for Claymore's caloric needs. Reminded Claymore that using her power was "spending, not sacrificing." |
@@ -77,6 +77,15 @@ Claymore is analytical, self-aware, and haunted by her activation event. She use
 
     Narrated a first-person account of her recruitment by the Boston Red Shocks, her training to control her explosive body part detonation abilities, and her first operational mission - a break-in at Alcott Properties in the Seaport district to copy documents proving developer collusion with city officials in expediting evictions in East Boston. The interlude also depicted her activation event at the Boston Commons (September 9, 2025) in flashback, where she involuntarily injured approximately one hundred fellow protesters.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** POV (Interlude CM.2)
+
+    Claymore narrates Interlude CM.2, set around September 26, 2026, as the Boston Red Shocks campaign in Philadelphia. Acting on a tip-line call about a warehouse where a man bought hoagies with glowing hands, [the Colonel](faith-chun.md) builds a raid plan in nine minutes: Lavender Girl on the camera and alarm, Claymore on the door, Red Scare on anything with hands, Ghostwriter to the back office for documents, and the Colonel walking in the front in dress uniform. Claymore's control has grown - she cracks a padlock by spitting on it and flicking a pebble, and she fights with a fencing sabre with the button ground off.
+
+    The Kingdom's enforcer reveals himself as [Rex Rampage](blake-matthews.md), transforming into a 40-foot Tyrannosaurus rex. Thrown amphorae grow into fleshy turrets that fire human molars; Claymore's fingernail volley topples several. Her lunge puts the sabre through the forearm of a knife-wielding woman choking Red Scare, freeing him. She then blows off both of her own feet to rocket herself and Red Scare toward a high window, jamming the sabre into the dinosaur's under-jaw on the way. The Colonel, thrown into a dumpster by the tail, draws a .50 BMG anti-materiel rifle from her satchel and the team escapes; afterward she finds and destroys a tracker on their van.
+
+    Claymore ends the night in a wheelchair while her feet regrow ("Feet take hours"). Her sword is lost in Grays Ferry, carrying the knife woman's and Rex Rampage's blood. The Colonel decides the team will write up the glowing powder, the Kingdom, and Rampage for the press without naming Project Bullfrog.
 
 ## Trivia
 

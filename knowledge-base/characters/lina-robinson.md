@@ -71,6 +71,14 @@ Her defining principle as Sam's coach is a refusal to moralize. She has no inter
 
     After Sam is caught on the news punching a Songbird at the community center, Lina recognizes her and critiques only the mechanics (good rotation, wrong feet), drawing a hard line between the why (Sam's) and the how (hers). She advances Sam to live sparring with Luis Rivera, tells her she needs to lose more because losing is more instructive than winning, and frames the central test of a talented fighter: discipline or burnout, no middle. Throughout, she reads Sam's undisclosed injuries with uncanny accuracy and presses her to "be informative" rather than stoic. She does not learn of Sam's parallel underground fighting.
 
+??? warning "Book 19: Front Towards Enemy"
+
+    **Role:** Minor
+
+    With senior year underway, Sam's sessions at Lina's gym drop to once a week, on Wednesdays (Ch. 282).
+
+    Lina texts Sam that two of her guys know someone the Stinger attacked: "Groups, lights, don't be a hero about it. You have my number." Sam promises to come back when college applications are done and tells her to warn Luis she is coming for him; Lina relays that he says "bring it" (Ch. 289).
+
 ## Trivia
 
 - She headlined at least one professional card in Atlantic City about twelve years before Book 18; a poster of that fight hangs in her gym.
