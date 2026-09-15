@@ -14,41 +14,41 @@ Master index for the Chum wiki knowledge base. Characters are organized by prima
 | [amelia-li.md](characters/amelia-li.md) | Amelia Li (Gossamer) | Member |
 | [lily-chen.md](characters/lily-chen.md) | Lily Chen (Blink) | Member |
 | [maggie-obrien.md](characters/maggie-obrien.md) | Magdalene "Maggie" O'Brien (Flashpoint) | Member |
-| [derek-taylor.md](characters/derek-taylor.md) | Derek Taylor (Rampage) | Member (loosely affiliated) |
-| [tasha-reynolds.md](characters/tasha-reynolds.md) | Tasha Reynolds (Wasp) | Member |
+| [derek-taylor.md](characters/derek-taylor.md) | Derek Taylor (Bloodhound II) | Member (loosely affiliated) |
+| [tasha-reynolds.md](characters/tasha-reynolds.md) | Tasha Reynolds (Lighthouse) | Member |
 | [connor-spinelli.md](characters/connor-spinelli.md) | Connor Spinelli (Spindle) | Support |
 | [kate-smith.md](characters/kate-smith.md) | Kate Smith (Soot) | Independent (formerly affiliated) |
 
 ### Delaware Valley Defenders (DVD)
 | File | Character | Role |
 |------|-----------|------|
-| [jeffery-brown.md](characters/jeffery-brown.md) | Jeffery Brown (Liberty Belle) | Founder (deceased) |
+| [jeffery-brown.md](characters/jeffery-brown.md) | Jeffery Brown (Professor Franklin) | Founder (deceased) |
 | [bianca-agnelli.md](characters/bianca-agnelli.md) | Bianca Agnelli (Fury Forge) | Gadgeteer / Tech Specialist |
-| [diane-williams.md](characters/diane-williams.md) | Diane Williams (Crossroads) | Member |
+| [diane-williams.md](characters/diane-williams.md) | Diane Williams (Liberty Belle) | Member |
 | [elijah-brooks.md](characters/elijah-brooks.md) | Elijah Brooks (Multiplex) | Member |
 | [jamal-davis.md](characters/jamal-davis.md) | Councilman Jamal Davis | Civilian Liaison |
 | [jason-reynolds.md](characters/jason-reynolds.md) | Jason Reynolds (Rampart) | Member |
 | [kwame-adjei.md](characters/kwame-adjei.md) | Kwame Adjei (Bulwark) | Member |
-| [maxwell-martinez.md](characters/maxwell-martinez.md) | Maxwell Martinez (Sketch) | Member |
+| [maxwell-martinez.md](characters/maxwell-martinez.md) | Maxwell Martinez (Crossroads) | Member |
 | [rodney-greene.md](characters/rodney-greene.md) | Rodney Greene (Captain Plasma) | Member |
 
 ### Kingdom of Keys
 | File | Character | Role |
 |------|-----------|------|
-| [trent-fairfax.md](characters/trent-fairfax.md) | Trent Fairfax (Mr. Nothing) | Leader |
+| [trent-fairfax.md](characters/trent-fairfax.md) | Trent Fairfax (Mr. Antithesis) | Leader |
 | [maya-richardson.md](characters/maya-richardson.md) | Maya Richardson (Mrs. Zenith) | Acting Boss, Philadelphia Branch |
-| [blake-matthews.md](characters/blake-matthews.md) | Blake Alexander Matthews (Mr. Mudslide) | Philadelphia Branch |
-| [darnell-hayes.md](characters/darnell-hayes.md) | Darnell Hayes (Mr. Antithesis) | Philadelphia Branch |
-| [evan-williams.md](characters/evan-williams.md) | Evan Thomas Williams (Mr. Retribution) | Philadelphia Branch |
-| [lena-trinh-norwood.md](characters/lena-trinh-norwood.md) | Lena Trinh-Norwood, PhD (Mrs. Quiet) | Philadelphia Branch |
-| [lucas-donovan.md](characters/lucas-donovan.md) | Lucas Donovan (Mr. Sandman) | Philadelphia Branch |
-| [maria-valdez.md](characters/maria-valdez.md) | Maria Valdez (Mrs. Coyote) | Philadelphia Branch |
+| [blake-matthews.md](characters/blake-matthews.md) | Blake Alexander Matthews (Mr. Tyrannosaur) | Philadelphia Branch |
+| [darnell-hayes.md](characters/darnell-hayes.md) | Darnell Hayes (Mr. Nothing) | Philadelphia Branch |
+| [evan-williams.md](characters/evan-williams.md) | Evan Thomas Williams (Mr. Mudslide) | Philadelphia Branch |
+| [lena-trinh-norwood.md](characters/lena-trinh-norwood.md) | Lena Trinh-Norwood, PhD (Mrs. Xenograft) | Philadelphia Branch |
+| [lucas-donovan.md](characters/lucas-donovan.md) | Lucas Donovan (Mr. Preclude) | Philadelphia Branch |
+| [maria-valdez.md](characters/maria-valdez.md) | Maria Valdez (Mrs. Heartbeat) | Philadelphia Branch |
 
 ### Rogue Wave
 | File | Character | Role |
 |------|-----------|------|
-| [lawrence-sullivan.md](characters/lawrence-sullivan.md) | Lawrence Sullivan (Shrike) | Leader |
-| [dean-carver.md](characters/dean-carver.md) | Dean Carver (Deathgirl) | Member |
+| [lawrence-sullivan.md](characters/lawrence-sullivan.md) | Lawrence Sullivan (Monkey Business) | Leader |
+| [dean-carver.md](characters/dean-carver.md) | Dean Carver (Rush Order) | Member |
 | [felix-ortega.md](characters/felix-ortega.md) | Dr. Felix Ortega | Scientific Consultant |
 | [elias-franklin.md](characters/elias-franklin.md) | Elias Franklin | Scientific Consultant |
 | [mai-anh-vo.md](characters/mai-anh-vo.md) | Mai-Anh "Annie" Vo | Member |
@@ -59,17 +59,17 @@ Master index for the Chum wiki knowledge base. Characters are organized by prima
 | File | Character | Role |
 |------|-----------|------|
 | [lucy-king.md](characters/lucy-king.md) | Lucy King (Sundial) | Leader |
-| [joshua-clark.md](characters/joshua-clark.md) | Joshua Clark (Moonshot) | Second-in-Command |
-| [min-ji-kim.md](characters/min-ji-kim.md) | Min-ji Kim (Compass) | Member |
-| [natasha-sokolov.md](characters/natasha-sokolov.md) | Natasha Sokolov (Sandstorm) | Member |
-| [rosa-acosta.md](characters/rosa-acosta.md) | Rosa Acosta (Hypeman) | Member |
+| [joshua-clark.md](characters/joshua-clark.md) | Joshua Clark (Sandman) | Second-in-Command |
+| [min-ji-kim.md](characters/min-ji-kim.md) | Min-ji Kim (Moonshot) | Member |
+| [natasha-sokolov.md](characters/natasha-sokolov.md) | Natasha Sokolov (Compass) | Member |
+| [rosa-acosta.md](characters/rosa-acosta.md) | Rosa Acosta (Bubble) | Member |
 
 ### Argus Corps
 | File | Character | Role |
 |------|-----------|------|
 | [richard-johnson.md](characters/richard-johnson.md) | Richard Johnson (Patriot) | Leader |
-| [andrew-mitchell.md](characters/andrew-mitchell.md) | Andrew Mitchell (Parabellum) | Member |
-| [jasmine-perez.md](characters/jasmine-perez.md) | Jasmine Perez (Songbird) | Member |
+| [andrew-mitchell.md](characters/andrew-mitchell.md) | Andrew Mitchell (Captain Devil) | Member |
+| [jasmine-perez.md](characters/jasmine-perez.md) | Jasmine Perez (Turbo Jett) | Member |
 | [joshua-pleasants.md](characters/joshua-pleasants.md) | Joshua Pleasants | Covert Mole |
 
 ### Pattinson's Pals
@@ -95,8 +95,8 @@ Master index for the Chum wiki knowledge base. Characters are organized by prima
 ### Philly Phreaks
 | File | Character | Role |
 |------|-----------|------|
-| [angela-perez.md](characters/angela-perez.md) | Angela Perez (Sparkplug) | Member |
-| [joseph-jones.md](characters/joseph-jones.md) | Joseph Jones (Puppeteer) | Member |
+| [angela-perez.md](characters/angela-perez.md) | Angela Perez (Chrysalis) | Member |
+| [joseph-jones.md](characters/joseph-jones.md) | Joseph Jones (Pumice) | Member |
 
 ### Small / de Leon Family (Civilian)
 | File | Character | Role |
@@ -117,7 +117,7 @@ Master index for the Chum wiki knowledge base. Characters are organized by prima
 | [felix-fleischer.md](characters/felix-fleischer.md) | Felix Fleischer | Independent |
 | [gerald-caldwell.md](characters/gerald-caldwell.md) | Gerald "Jerry" Caldwell | Defense Attorney |
 | [illya-fedorov.md](characters/illya-fedorov.md) | Illya Fedorov (Chernobyl) | Independent |
-| [jamila-fayad.md](characters/jamila-fayad.md) | Jamila Fayad (Flyby) | Chicago Powered Youth Initiative |
+| [jamila-fayad.md](characters/jamila-fayad.md) | Jamila Fayad (Gale / Zephyr) | Chicago Powered Youth Initiative |
 | [mike-giannopoulos.md](characters/mike-giannopoulos.md) | Mike Giannopoulos | Tacony Charter Student |
 
 ---
